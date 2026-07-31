@@ -4,7 +4,7 @@
       "command": "wikidown-mcp",
       "args": [],
       "env": {
-        "WIKIDOWN_ROOT": "C:/source/dnd-lost-ship/docs"
+        "WIKIDOWN_ROOT": "docs"
       }
     }
   }
