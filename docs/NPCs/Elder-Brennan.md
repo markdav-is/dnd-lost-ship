@@ -2,6 +2,8 @@
 
 The Frostwatch elder — sixty years in these mountains, and the voice of the people who live where councils decide. At the council table he sits with folded hands, "the expression of a man who has already accepted a terrible outcome and is simply waiting to learn which one."
 
+![Elder Brennan](/.attachments/council_brennan.jpg)
+
 ## Positions at the council
 
 - **Against containment:** *"There are still people in those mountains. Hunters. Hermits. Travelers who don't know. You would seal them in."*

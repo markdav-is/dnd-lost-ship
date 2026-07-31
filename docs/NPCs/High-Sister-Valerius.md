@@ -2,6 +2,8 @@
 
 Commander of the Spásistren occupation of Frostwatch. Silver-white hair, deeply lined face, extraordinary patient eyes utterly without warmth. The first crack in the Spásistren's armor.
 
+![High Sister Valerius](/.attachments/council_valerius.jpg)
+
 ## The Severing
 
 At the Council of Frostwatch, Valerius dismissed the guards ("We are alone"), pressed a practiced sequence behind her left ear, and **turned her implant dark** — an act of profound heresy. Her reasons: Jak sees the infection as a political problem; she believes it is something older than politics, and the party deserved to speak without being heard. She was also testing them — watching how they behave when they believe they are unobserved. She has not told Jak, and reported the council's outcome in terms that protect the party's agency.

@@ -2,6 +2,8 @@
 
 Leader of the Frostwatch expedition — weathered, calm, the man who has seen too many winters. The party's steadiest ally in the north, and Jak's quiet eyes inside it. *"We're not at war with each other. We're here to survive."*
 
+![McReady](/.attachments/council_mcready.jpg)
+
 ## At Frostwatch Horror
 
 Defused the Korrin/Copper standoff, welcomed the party warmly ("Jak says you're the best at what you do"), and led the departure for the site at first light. **Alert PCs may have noticed him at night, speaking into a glass tube to a listening bat** — reporting the party's arrival to a distant Jak.
