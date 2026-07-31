@@ -4,13 +4,15 @@ The equatorial desert continent — orange-sanded, sun-blasted, and the remnant 
 
 ## What it is now
 
-- A vast desert crossed by nomadic survivor tribes — the **[Sandwalkers](/World/Factions/The-Sandwalkers)** — who preserve oral histories back to the Green Age and read the ruins like scripture.
+- **The central continent** and the world's crossroads: Andy frames it as industry, commerce, and trade — the place ships stop to resupply, reload, and offload between the other landmasses. Population clusters **Australia-style around the coasts**; the interior is deep desert.
+- Home of the **fire city**, Aerun's expression of the world's elemental city-tradition ([The Elemental Cities](/World/The-Elemental-Cities)).
+- A vast desert interior crossed by nomadic survivor tribes — the **[Sandwalkers](/World/Factions/The-Sandwalkers)** — who preserve oral histories back to the Green Age and read the ruins like scripture.
 - **City-states** on its habitable margins, ruled by noble and merchant houses: the political stage for the [noble alliance](/Campaign/Plot-Threads/The-Noble-Alliance) forming against Jak's network monopoly.
-- Ruins everywhere beneath the sand. The oldest are **not human-built** — and some are structurally similar to the crashed ship (if using the "Fallen Star" theory).
+- Ruins everywhere beneath the sand. The oldest are **not human-built**.
 
 ## What it was
 
-See [The Green Age](/Campaign/Plot-Threads/The-Green-Age): rivers, forests, cities — killed within the reach of oral memory by ***vel-keth***, "the hunger that eats the world." The Sandwalkers' ancestors survived by moving rather than fighting what they could not stop.
+See [The Green Age](/Campaign/Plot-Threads/The-Green-Age): rivers, forests, cities — ended in the **Red Dragon's apocalypse** and remembered by the Sandwalkers as the coming of ***vel-keth***, "the hunger that eats the world." Their ancestors survived by moving rather than fighting what they could not stop. Somewhere in the deep desert, Sandwalker tradition holds, Aerun's **[Titan](/World/The-Titans)** still slumbers.
 
 ## Why it matters now
 
@@ -18,6 +20,7 @@ Three months ago Aerun's primal spirits began going **silent** — the Defiling 
 
 ## Using Aerun at the table
 
+- The party has been here before: the previous campaign touched Aerun by flight and teleporter (never by sea). The [teleport network](/World/The-Elemental-Cities) still nominally reaches it.
 - Source inspiration: the Dark Sun 4e books and Modiphius Dune 2d20 line in `/assets` — see [Sourcebooks & Inspiration](/Reference/Sourcebooks-and-Inspiration).
-- A future arc across the sea (Sandwalker guides, sorcerer-king ruins, the sleeping Titan, Landsraad politics in the city-states) is fully seeded and waiting.
+- A future arc (Sandwalker guides, the fire city's trade politics, the sleeping Titan, Landsraad maneuvering in the city-states) is fully seeded and waiting.
 - Tone: **ecological grief** — not hopeless, not optimistic; realistic, which is more unsettling than either.

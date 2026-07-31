@@ -15,6 +15,7 @@ What every file in `/assets` is, grouped by type. (Published PDFs are covered in
 | `Return_to_Frostwatch_Final.md` ⭐ current / `Return_to_Frostwatch.docx` older | Descent + council module | [Return to Frostwatch](/Adventures/Return-to-Frostwatch) |
 | `george_decay_npc.docx` (+ pdf) | Full George Decay NPC kit w/ d20 dialogue table | [George Decay](/NPCs/George-Decay) |
 | `desert_continent_expansion.md` | Kaelen, Aerun lore, noble alliance design doc | [Kaelen](/NPCs/Kaelen-al-Hajra), [Green Age](/Campaign/Plot-Threads/The-Green-Age) |
+| `Vermoon World-Building Session_...transcript.txt` (+ `_summary.txt`) | **Andy interview**: dragon lore, Titans, elemental cities, Aura, previous-campaign canon | [The Dragons](/World/The-Dragons), [The Titans](/World/The-Titans), [Elemental Cities](/World/The-Elemental-Cities), [Timeline](/World/Timeline) |
 | `S3_Level1_Complete_5e_Conversion.docx` | Level 1 stat blocks, triggers, read-alouds | [Level 1](/The-Lost-Ship/Level-1-Crew-Quarters) |
 | `S3_Level1_DM_Helper.docx` | Level 1 room key, loot tables, card reference | [Level 1](/The-Lost-Ship/Level-1-Crew-Quarters) |
 | `S3_Level3_Complete_5e_Conversion.docx` | Walkway level conversion | [Level 3](/The-Lost-Ship/Level-3-Upper-Walkway) |
@@ -36,8 +37,15 @@ What every file in `/assets` is, grouped by type. (Published PDFs are covered in
 | `crossing.png` | The Frostwind Crossing |
 | `frost-hold.png` | Frostwatch Hold |
 | `council_reference.jpg` | The Council of Frostwatch |
+| `council_valerius/mcready/copper/brennan/kaelen.jpg` | Council NPC portraits |
 | `level4_reactor_core_v6.png` | Reactor core |
 | `level4_cargo_bay_interior_v3.png` (+ `cargo_exit_v3/v3b`) | Cargo bay & doors |
 | `level4_ejection_scene_final.png` (+ `final2`) | The purge ejection |
 
 An empty file named `The Lost Ship` also sits in `/assets` (zero bytes — safe to delete).
+
+## Wishlist (from the interview)
+
+- High-res world map (Andy has one; the wiki's `vermoon.jpg` is low quality).
+- Andy's **Trello board** of previous-campaign notes — city names, connections, the earth city.
+- Sahali's session notes (confirm Airlantis details and dragon pairings).

@@ -279,8 +279,6 @@ McReady is waiting in the corridor outside the Great Hall when the party arrives
 >
 > *Copper sits across from her, his hands wrapped around a cup of something hot. He does not look at the High Sister. He looks at the table.*
 >
-> *The Frostwatch Elder — old Brennan, who has lived in these mountains for sixty years — sits with his hands folded, his expression that of a man who has already accepted a terrible outcome and is simply waiting to learn which one.*
->
 > *And then there is the stranger. Kaelen al-Hajra sits in the chair furthest from the fire, her bone-handled knife placed handle-forward on the table before her. She is watching the doors. She does not look at you when you enter. She already knows you are there.*
 >
 > *McReady takes the chair nearest the door — the one with the clearest view of everyone at the table. He does not sit so much as settle, the way a man does when he has been in enough rooms like this to know exactly what they cost.*
@@ -289,7 +287,7 @@ McReady is waiting in the corridor outside the Great Hall when the party arrives
 >
 > *Valerius says nothing. She waits.*
 >
-> *McReady speaks first. "High Sister. Elder Brennan." He nods to each in turn. "These are the people who went into the ship. They came back." He lets that sit for a moment. "Copper you know. The woman at the far end is Kaelen al-Hajra. She came from Aerun. She has something to say that you need to hear." He looks at Valerius. "I'll vouch for all of them."*
+> *McReady speaks first. "High Sister." He nods to Valerius. "These are the people who went into the ship. They came back." He lets that sit for a moment. "Copper you know. The woman at the far end is Kaelen al-Hajra. She came from Aerun. She has something to say that you need to hear." He looks at Valerius. "I'll vouch for all of them."*
 >
 > *Something passes between McReady and Valerius that is not quite agreement and not quite challenge. Then she looks at the party.*
 >
@@ -335,19 +333,21 @@ She does not know if the infection is intelligent. She suspects it might be some
 
 **Path One: Containment**
 
+![High Sister Valerius addresses the council](assets/council_valerius.jpg)
+
 > *"We seal the mountain passes. The alchemical charges in the wagons are sufficient to trigger controlled avalanches at seven key points. We establish a permanent quarantine perimeter. We post Spásistren at every viable approach. Nothing leaves. Nothing enters."*
 
 Valerius's assessment: "This buys time. It does not solve the problem. The infection will continue to spread within the sealed zone, and eventually it will find a way through. But it gives us time to prepare."
 
 Copper's response: "Time for what? Time for it to figure out how to ride the wind? Time for it to infect the groundwater? Containment is a delay, not a solution."
 
-Elder Brennan's response: "There are still people in those mountains. Hunters. Hermits. Travelers who don't know. You would seal them in."
-
 Kaelen's response: She says nothing at first. Then, quietly: *"Containment was the first thing my people's ancestors tried. They called it something different. The result was the same. The silence spread anyway. It does not respect borders you draw on a map."*
 
-McReady's response: He says nothing during the debate. He is watching faces.
+McReady's response: He sets down his cup. *"There are still people in those mountains. Hunters. Hermits. Travelers who don't know the passes are closing."* He looks at Valerius. *"You'd be sealing them in with it."*
 
 **Path Two: The Purge**
+
+![McReady speaks to the council](assets/council_mcready.jpg)
 
 > *"We have the means to call a strike from the orbital platforms. A localized incendiary deployment sufficient to sterilize the valley. Everything burns. The ship, the infection, the biomass — all of it."*
 
@@ -355,13 +355,13 @@ Valerius's assessment: "This is the most certain solution. It is also irreversib
 
 Copper's response: He says nothing for a long moment. Then: "Do it."
 
-Elder Brennan's response: He stands up. "You would burn the mountains. You would burn our home. You would burn everything our people have built for three hundred years."
+Kaelen's response: *"If the fire is hot enough and the timing is right, it works."* She pauses. *"We did not have orbital platforms. We did not have the option. If you have it, do not dismiss it because it is ugly. Ugly solutions are still solutions."* She looks at McReady. *"I am sorry about your mountains. But Aerun had mountains too."*
 
-Kaelen's response: *"If the fire is hot enough and the timing is right, it works."* She pauses. *"We did not have orbital platforms. We did not have the option. If you have it, do not dismiss it because it is ugly. Ugly solutions are still solutions."* She looks at Brennan. *"I am sorry about your mountains. But Aerun had mountains too."*
-
-McReady's response: *"Jak would want the ship intact if possible. That's not an order. It's context."* He says it without inflection, as if reading from a list of facts.
+McReady's response: He is quiet for a long moment. When he speaks, his voice is flat. *"You would burn the mountains. Everything our people built up here — three hundred years of it."* He looks at Valerius. *"Jak would want the ship intact if possible. That's not an order. It's context. But I want it on record that I said what burning this place means."*
 
 **Path Three: The Cure**
+
+![Kaelen al-Hajra addresses the council](assets/council_kaelen.jpg)
 
 > *"You return to the ship. You go deeper than you have gone. The ship's medical and research levels — wherever they are — may contain the means to synthesize a cure, or to trigger a system-wide decontamination. You find it. You use it."*
 
@@ -369,15 +369,17 @@ Valerius's assessment: "This is the most dangerous option. It gives the infectio
 
 Copper's response: "You're asking them to go back into the void. You're asking them to trust that there's a cure in there. There might not be. There might be nothing in there but more things that want to eat them."
 
-Elder Brennan's response: "If there is a cure, we have to try. We have to."
+McReady's response (interjecting): *"If there is a cure in there, we have to try for it."* He says it simply, without drama. *"We have to."*
 
 Kaelen's response: She looks at the party for a long moment before she speaks. *"This is the path Aerun never had. We did not know what was inside the ruins until it was too late to go in and come back out."* A pause. *"You have already been inside. You already came back. That is not nothing. That is the only advantage Aerun never had."*
 
-McReady's response: He looks at the party directly for the first time since the council began. *"I wouldn't ask you to go back in. But I'm not going to tell you not to, either."* A pause. *"You know what's in there better than anyone in this room. Including me."*
+McReady's response: He looks at the party directly. *"I wouldn't ask you to go back in. But I'm not going to tell you not to, either."* A pause. *"You know what's in there better than anyone in this room. Including me."*
+
+![Copper the Surgeon makes his case](assets/council_copper.jpg)
 
 ### The Debate
 
-The council erupts. Copper and Brennan argue. Valerius watches. She does not intervene until the argument has run its course. Then she looks at the party.
+The council erupts. Copper and McReady argue. Valerius watches. She does not intervene until the argument has run its course. Then she looks at the party.
 
 **Read-Aloud: The Question**
 

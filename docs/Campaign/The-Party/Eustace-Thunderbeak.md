@@ -1,6 +1,6 @@
 # Eustace (Eu) Thunderbeak
 
-Aarakocra Bard 9 (Pirate). Player: Taco_Mix. Sheet: `assets/Taco_Mix_114102493.pdf`.
+Aarakocra Bard 9 (Pirate). Player: Taco_Mix (Ben). Sheet: `assets/Taco_Mix_114102493.pdf`.
 
 ## Stats
 
@@ -16,7 +16,12 @@ Aarakocra Bard 9 (Pirate). Player: Taco_Mix. Sheet: `assets/Taco_Mix_114102493.p
 - **Bardic Inspiration** (d8, 2/short rest) and **Cutting Words** (reaction: subtract an inspiration die from an enemy roll).
 - Attacks: Shortsword +1 (+8, vex), Daggers of Returning (+8/+7), Dagger of Warning, Staff of Thunder and Lightning, heavy crossbow.
 
+## Airlantis
+
+At the end of the previous campaign Eustace landed **[Airlantis](/World/The-Elemental-Cities)** — the flying city the party controls — **at his homeland, to a hero's welcome**. It rests there still, fueled and flyable thanks to [Rico's](/NPCs/Rico) synthesis process. Eustace is, in effect, the keeper of the party's greatest strategic asset.
+
 ## DM hooks
 
 - Native flight changed several set-piece fights (Sky Hunters, froghemoth) — the source modules assume aerial party members and punish landing.
 - Pirate background ties to Grønnfjord's harbor world: Captain Olaf, the southern sea routes, and any future voyage to Aerun.
+- If the campaign ever needs Airlantis over the Barrier Peaks, the request goes through Eustace — and his people live next to the runway.

@@ -4,6 +4,8 @@ Journey-and-council module: the hoversled descent through dying mountains, the o
 
 ## Act I — The Hoversled Descent (~4 hours in-world)
 
+![Departure from the ship](/.attachments/enc_departure.jpg)
+
 Run 2–3 encounters from the d6 table, building to the set piece. The mountains are *wrong*: fungal veins on the ridgelines, bioluminescent snow, animals that watch instead of fleeing.
 
 | d6 | Encounter | Core mechanic |
@@ -15,15 +17,30 @@ Run 2–3 encounters from the d6 table, building to the set piece. The mountains
 | 5 | **Sky Hunters** (set piece) | See below |
 | 6 | **The Frozen Pilgrims** | Merged corpse shambling mound (cold-resistant); journal: *"The smell is sweet. We thought it was flowers. We were wrong."* |
 
+### Encounter art
+
+![The Spore-Choked Ravine](/.attachments/enc_spore_ravine.jpg)
+![The Watching Herd](/.attachments/enc_watching_herd.jpg)
+![Alien Echoes — the cloaker](/.attachments/enc_cloaker.jpg)
+![The Fungal Avalanche](/.attachments/enc_avalanche.jpg)
+![The Frozen Pilgrims](/.attachments/enc_frozen_pilgrims.jpg)
+
 **Set piece — Sky Hunters:** exposed half-mile ridge; 3 **fungal perytons** (CR 2, dive +2d8, spore release when pierced) + 2 **spore-touched snowy owlbears** on flanking outcrops punishing anyone who lands. Hoversled control checks on initiative 20 when damaged; crit-fail throws a passenger. Designed for a flying party — keep it three-dimensional.
+
+![The Sky Hunters](/.attachments/enc_sky_hunters.jpg)
 
 **No-encounter hours:** use the 6-entry "Signs of Spreading Infection" atmosphere table (tracking pine branches, sweet orange streams, a fungal-antlered goat, a hatched-open condor, absolute silence, a thrice-repeated roar).
 
 ## Act II — Arrival at Frostwatch
 
+![First sight of the occupied hold](/.attachments/enc_frostwatch_arrival.jpg)
+
 The hold repaired but re-flagged with the Administrator's seal; ~30 [Spásistren](/World/Factions/The-Spasistren) (20 initiates / 8 Sisters / 1 High Sister) cataloguing, interviewing, unpacking **alchemical incendiaries and containment gear** — and explaining nothing: *"Those matters will be addressed at the council tomorrow."*
 
 - **Copper's warning** (granary scene): the [invisible infection](/Campaign/Plot-Threads/The-Invisible-Infection) theory, delivered once, quietly, terrifyingly.
+
+  ![Copper's warning](/.attachments/enc_copper_warning.jpg)
+
 - **Korrin in the stables:** axe in hand between his dogs and the initiates; "cleansing materials"; *"They're here to manage us."*
 
 ## Act III — The Council of Frostwatch

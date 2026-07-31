@@ -28,6 +28,14 @@ Dossiers for every named character. Statuses reflect the current campaign state.
 | [Tomas Vel-Maret](/NPCs/Tomas-Vel-Maret) | Noble alliance agent; holds the sealed orders |
 | [Nova](/NPCs/Nova) | Ship scientist in stasis; shut down Aphelion |
 
+## From the previous campaign
+
+| NPC | Role |
+| :--- | :--- |
+| [Rico](/NPCs/Rico) | Engineer (Dry Tide, the Airlantis fuel); whereabouts unknown |
+| The [Blue Dragon](/World/The-Dragons) | Tarn's aloof dragon; left for the stars from the space station |
+| The dragons (Red, Black, Silver/White) | Dormant since the prophecy's fulfillment — see [The Dragons](/World/The-Dragons) |
+
 ## Grønnfjord townsfolk
 
 Bjorn Ironhand (weaponsmith), Sigrid the Sharp (general goods), Erik the Elder (provisioner), Astrid (barmaid), Captain Olaf Stormsson (sailor) — details on the [Grønnfjord](/Locations/Gronnfjord) page. The dogsled children **Sigrid & Toren** appear in [Think of the Children](/Adventures/Think-of-the-Children).
