@@ -20,6 +20,8 @@ The mountains are wrong. The party will notice this immediately. The treeline be
 
 ### Read-Aloud: Departure from the Ship
 
+![Departure from the Ship](assets/enc_departure.jpg)
+
 > *The hoversled clears the final ramp and banks into the open mountain air. For a moment, the cold is a relief — clean and sharp after the recycled, fungal-tainted atmosphere of the ship. Then you see the treeline.*
 >
 > *The forest below the crash site has changed. Dark veins of something organic thread through the snow between the pines, pulsing faintly in the grey morning light. A herd of elk stands motionless in a clearing a quarter-mile below, every head turned upward, watching you. None of them move. None of them flee. Their eyes catch the light wrong.*
@@ -47,6 +49,8 @@ Roll 1d6 at the end of each hour of travel. On a 1–4, an encounter occurs. On 
 
 ### Encounter 1 — The Spore-Choked Ravine
 
+![The Spore-Choked Ravine](assets/enc_spore_ravine.jpg)
+
 The hoversled must navigate a narrow mountain pass that has been completely choked with a thick, orange-yellow spore cloud. The cloud is dense enough to obscure vision beyond 10 feet and has settled into the ravine like fog.
 
 **Hazard:** Any creature that breathes the air in the ravine must succeed on a **DC 15 Constitution saving throw** or become **poisoned** for 1 hour. While poisoned in this way, the creature experiences vivid hallucinations — they see the walls of the ship around them, hear the clicking of intellect devourers, and perceive their companions' faces as distorted, alien masks. A creature that fails the save by 5 or more is also **frightened** of a random party member for the duration.
@@ -60,6 +64,8 @@ The hoversled must navigate a narrow mountain pass that has been completely chok
 ---
 
 ### Encounter 2 — The Watching Herd
+
+![The Watching Herd](assets/enc_watching_herd.jpg)
 
 A herd of twelve mountain deer stands in a clearing directly in the hoversled's path. They do not move. They do not flinch at the sound of the sled. Every head is turned toward the party, and every pair of eyes is filmed with white.
 
@@ -75,6 +81,8 @@ A herd of twelve mountain deer stands in a clearing directly in the hoversled's 
 
 ### Encounter 3 — Alien Echoes
 
+![Alien Echoes — the Cloaker](assets/enc_cloaker.jpg)
+
 A creature from the ship has escaped. It has been living in the mountain wilderness for days, adapting to the cold, and it is hungry.
 
 **The Creature:** Use a **Cloaker** (MM p. 41), but describe it as partially coated in frost and fungal growth. Its moaning carries a strange harmonic that sounds almost mechanical. It has been hunting in the ravines below the ship's crash site, and it has grown bold.
@@ -87,6 +95,8 @@ A creature from the ship has escaped. It has been living in the mountain wildern
 
 ### Encounter 4 — The Fungal Avalanche
 
+![The Fungal Avalanche](assets/enc_avalanche.jpg)
+
 A deep, rhythmic thudding shakes the mountainside. Snow begins to slide from the peaks above. A massive, infected Remorhaz is moving beneath the ice shelf, drawn by the vibration of the hoversled's engines.
 
 **Hazard:** The party has 3 rounds before the avalanche overtakes the sled. Each round, the pilot must succeed on a **DC 15 Dexterity check** to keep the sled ahead of the falling snow. On a failure, the sled is partially engulfed; all passengers must make a **DC 14 Strength saving throw** or be restrained by the snow (escape DC 14 Strength check as an action).
@@ -98,6 +108,8 @@ A deep, rhythmic thudding shakes the mountainside. Snow begins to slide from the
 ---
 
 ### Encounter 5 — The Frozen Pilgrims
+
+![The Frozen Pilgrims](assets/enc_frozen_pilgrims.jpg)
 
 The party passes the remains of a traveling group — merchants or refugees, by the look of the scattered supplies. The bodies are frozen solid, partially buried in snow. They have been dead for several days.
 
@@ -115,6 +127,8 @@ The frozen bodies have been colonized by the fungal infection, which has merged 
 ---
 
 ### Set-Piece Encounter — The Sky Hunters
+
+![The Sky Hunters](assets/enc_sky_hunters.jpg)
 
 This encounter occurs as the party reaches the final, most exposed section of the descent — a long, windswept ridge with a sheer drop on one side and a cliff face on the other. The hoversled is at its most vulnerable here, and the sky is open.
 
@@ -190,6 +204,8 @@ When no encounter occurs, the DM should describe one of the following to maintai
 
 ### Read-Aloud: First Sight of the Hold
 
+![Arrival at Frostwatch Hold](assets/enc_frostwatch_arrival.jpg)
+
 > *Frostwatch Hold rises from the mountain shelf like a clenched fist. The damage from the previous siege has been repaired — new timber on the gatehouse, fresh mortar on the outer wall, the scorched sections of the great hall rebuilt in pale stone that hasn't yet weathered to match the old. Someone has been busy.*
 >
 > *But the banners are wrong. The old Frostwatch pennants — the grey wolf on white — have been replaced by the seal of the Administrator: an anchor and compass rose intertwined with the mystical symbols of the Temple of Nord. And at every post, at every gate, at every corner of the battlements, stand women in simple, flowing robes with weapons that are anything but simple. Their eyes are calm. Their posture is perfect. Behind each left ear, a faint blue light pulses steadily.*
@@ -224,6 +240,8 @@ There are twenty initiates serving as guards and laborers, eight Sisters acting 
 Copper finds the party within an hour of their arrival. He looks like a man who has not slept in three days, which is accurate.
 
 **Read-Aloud: Copper's Warning**
+
+![Copper's Warning](assets/enc_copper_warning.jpg)
 
 > *He pulls you into the shadow of the granary, away from the nearest guard post. His eyes are red-rimmed and darting.*
 >
