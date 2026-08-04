@@ -2,7 +2,7 @@
 
 *Return to Frostwatch, descent encounter 6 — horror / combat.*
 
-![The Frozen Pilgrims](../.attachments/enc_frozen_pilgrims.jpg)
+![The Frozen Pilgrims](../../.attachments/enc_frozen_pilgrims.jpg)
 
 The party passes the remains of a traveling group — merchants or refugees, by the scattered supplies. The bodies are frozen solid, partially buried, dead for days.
 
@@ -14,7 +14,7 @@ The fungal infection has colonized the frozen bodies and **merged them into a si
 
 - **Cold Resistance** (replaces fire vulnerability).
 - **Frozen Form:** half speed; immune to the prone condition.
-- **Spore Infestation (Recharge 6):** 30-ft radius necrotic spores — **DC 16 CON** or 4d8 necrotic and **infected** ([infection rules](/Game-Mechanics/Russet-Mold-and-Infection)).
+- **Spore Infestation (Recharge 6):** 30-ft radius necrotic spores — **DC 16 CON** or 4d8 necrotic and **infected** ([infection rules](../../Game-Mechanics/Russet-Mold-and-Infection.md)).
 
 ## Running it
 
@@ -24,4 +24,4 @@ Deeply unsettling rather than mechanically complex — describe **individual fac
 
 ---
 
-*Deeper knowledge:* [Russet Mold & Infection](/Game-Mechanics/Russet-Mold-and-Infection) · [Bestiary — Fungal Threats](/Bestiary/Fungal-Threats) · module: [Return to Frostwatch](/Adventures/Return-to-Frostwatch)
+*Deeper knowledge:* [Russet Mold & Infection](../../Game-Mechanics/Russet-Mold-and-Infection.md) · [Bestiary — Fungal Threats](../../Bestiary/Fungal-Threats.md) · module: [Return to Frostwatch](../Return-to-Frostwatch.md)

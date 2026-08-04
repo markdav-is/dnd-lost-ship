@@ -18,8 +18,8 @@ Day-2 set piece at the Foggy Fjord camp: the children's warning, the spore serva
 
 - If the party dismissed the children's warning, the assault catches them amid scattered supplies — punish the skepticism with positioning, not damage.
 - The village fate (mill survivors?) is an open hook the campaign has not yet cashed in.
-- Treasure: as [Foggy Fjord](/Adventures/Foggy-Fjord) (the two documents share the loot list); the axe beaks matter for onward travel.
+- Treasure: as [Foggy Fjord](Foggy-Fjord.md) (the two documents share the loot list); the axe beaks matter for onward travel.
 
 ## Creatures
 
-Spore Servant · Thorny Hunter ×3 · Mycelial Frost Giant Skeleton — stat summaries in [Bestiary — Fungal Threats](/Bestiary/Fungal-Threats), full blocks in the source docx.
+Spore Servant · Thorny Hunter ×3 · Mycelial Frost Giant Skeleton — stat summaries in [Bestiary — Fungal Threats](../Bestiary/Fungal-Threats.md), full blocks in the source docx.

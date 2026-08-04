@@ -1,6 +1,6 @@
 # Russet Mold & Infection
 
-The campaign's signature hazard. Golden-brown/rust-red mold broadcast from the [Lighthouse](/The-Lost-Ship/The-Lighthouse); infected creatures transform into vegepygmies after death. Two rule sets are in play — patch contact (dungeon hazard) and systemic infection (campaign clock).
+The campaign's signature hazard. Golden-brown/rust-red mold broadcast from the [Lighthouse](../The-Lost-Ship/The-Lighthouse.md); infected creatures transform into vegepygmies after death. Two rule sets are in play — patch contact (dungeon hazard) and systemic infection (campaign clock).
 
 ## Mold patches (contact hazard)
 
@@ -30,8 +30,8 @@ The campaign's signature hazard. Golden-brown/rust-red mold broadcast from the [
 
 - **Fear checks:** WIS DC 15 when witnessing mutation or a fungal horror; frightened 1 minute on failure.
 - **Secret objectives:** infected PCs receive hidden goals (e.g., "protect the fungus") — hand these out privately.
-- **Symptom table:** Copper's d6 diagnostic list is on [his page](/NPCs/Copper-the-Surgeon).
+- **Symptom table:** Copper's d6 diagnostic list is on [his page](../NPCs/Copper-the-Surgeon.md).
 
 ## The bigger picture
 
-The mold **networks**: spore-linked creatures share senses; herds act as scouts; and the behavioral changes begin *before* any visible growth — the mechanical seed of [The Invisible Infection](/Campaign/Plot-Threads/The-Invisible-Infection). Destroying the Lighthouse ends the *broadcast*; what it does to the already-infected is the DM's call and the heart of the [dilemma](/Campaign/Plot-Threads/The-Lighthouse-Dilemma).
+The mold **networks**: spore-linked creatures share senses; herds act as scouts; and the behavioral changes begin *before* any visible growth — the mechanical seed of [The Invisible Infection](../Campaign/Plot-Threads/The-Invisible-Infection.md). Destroying the Lighthouse ends the *broadcast*; what it does to the already-infected is the DM's call and the heart of the [dilemma](../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).

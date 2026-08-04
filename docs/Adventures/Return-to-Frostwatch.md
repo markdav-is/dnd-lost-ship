@@ -2,7 +2,7 @@
 
 Journey-and-council module: the hoversled descent through dying mountains, the occupied hold, and the Council of Frostwatch. Tone: cosmic horror, political tension, impossible choices — *"The party has seen the void. Now the void is following them home."*
 
-Source: `assets/Return_to_Frostwatch_v3.md` ⭐ (supersedes the older Final.md/docx). **The play-ready text lives in the [Encounters](/Encounters) section** — flip there at the table; this page is the module map.
+Source: `assets/Return_to_Frostwatch_v3.md` ⭐ (supersedes the older Final.md/docx). **Each encounter is a subpage of this module** — flip to it at the table; this page is the module map.
 
 ## Act I — The Hoversled Descent (~4 hours in-world)
 
@@ -12,12 +12,12 @@ The sled covers in ~4 hours what a mounted party needs two days for. The mountai
 
 | d6 | Encounter (play-ready page) | Type |
 | :-: | :--- | :--- |
-| 1 | [The Spore-Choked Ravine](/Encounters/The-Spore-Choked-Ravine) | Atmospheric hazard |
-| 2 | [The Watching Herd](/Encounters/The-Watching-Herd) | Dread / possible combat |
-| 3 | [Alien Echoes](/Encounters/Alien-Echoes) | Ambush combat |
-| 4 | [The Fungal Avalanche](/Encounters/The-Fungal-Avalanche) | Chase hazard |
-| 5 | [The Sky Hunters](/Encounters/The-Sky-Hunters) | Set-piece aerial combat |
-| 6 | [The Frozen Pilgrims](/Encounters/The-Frozen-Pilgrims) | Horror / combat |
+| 1 | [The Spore-Choked Ravine](Return-to-Frostwatch/The-Spore-Choked-Ravine.md) | Atmospheric hazard |
+| 2 | [The Watching Herd](Return-to-Frostwatch/The-Watching-Herd.md) | Dread / possible combat |
+| 3 | [Alien Echoes](Return-to-Frostwatch/Alien-Echoes.md) | Ambush combat |
+| 4 | [The Fungal Avalanche](Return-to-Frostwatch/The-Fungal-Avalanche.md) | Chase hazard |
+| 5 | [The Sky Hunters](Return-to-Frostwatch/The-Sky-Hunters.md) | Set-piece aerial combat |
+| 6 | [The Frozen Pilgrims](Return-to-Frostwatch/The-Frozen-Pilgrims.md) | Horror / combat |
 
 ### Read-aloud: departure from the ship
 
@@ -42,11 +42,11 @@ The sled covers in ~4 hours what a mounted party needs two days for. The mountai
 
 ## Act II — Arrival at Frostwatch
 
-Play-ready page: **[Arrival at Frostwatch](/Encounters/Arrival-at-Frostwatch)** — first sight of the occupied hold, the Spásistren presence, Copper's warning, Korrin in the stables.
+Play-ready page: **[Arrival at Frostwatch](Return-to-Frostwatch/Arrival-at-Frostwatch.md)** — first sight of the occupied hold, the Spásistren presence, Copper's warning, Korrin in the stables.
 
 ## Act III — The Council of Frostwatch
 
-Play-ready page: **[The Council of Frostwatch](/Encounters/The-Council-of-Frostwatch)** — the full scene in play order: McReady in the corridor, the report, the Severing, "We call it Rajaat," the Three Paths with every scripted response, the question, and Valerius's final word. DM background and motivations sit at the bottom of that page; the decision-space reference is [The Lighthouse Dilemma](/Campaign/Plot-Threads/The-Lighthouse-Dilemma).
+Play-ready page: **[The Council of Frostwatch](Return-to-Frostwatch/The-Council-of-Frostwatch.md)** — the full scene in play order: McReady in the corridor, the report, the Severing, "We call it Rajaat," the Three Paths with every scripted response, the question, and Valerius's final word. DM background and motivations sit at the bottom of that page; the decision-space reference is [The Lighthouse Dilemma](../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).
 
 ## Appendix — Stat Blocks
 
@@ -75,4 +75,4 @@ Play-ready page: **[The Council of Frostwatch](/Encounters/The-Council-of-Frostw
 
 ### Infection sidebar
 
-Exposure (spores breathed or wounds from infected creatures): **DC 16 CON** or infected. Stages: **Latent** (1d4 h — unusually calm) → **Symptomatic** (+24 h — mild hallucinations, poor sleep, compulsion to protect infected creatures) → **Active** (+72 h — visible growth, disadvantage on CHA checks, acts in the infection's interest) → **Full Corruption** (+1 week — death; rises as spore servant or vegepygmy). *Lesser restoration* halts; *greater restoration* reverses one stage; full cure requires the ship's medical labs. Full rules: [Russet Mold & Infection](/Game-Mechanics/Russet-Mold-and-Infection).
+Exposure (spores breathed or wounds from infected creatures): **DC 16 CON** or infected. Stages: **Latent** (1d4 h — unusually calm) → **Symptomatic** (+24 h — mild hallucinations, poor sleep, compulsion to protect infected creatures) → **Active** (+72 h — visible growth, disadvantage on CHA checks, acts in the infection's interest) → **Full Corruption** (+1 week — death; rises as spore servant or vegepygmy). *Lesser restoration* halts; *greater restoration* reverses one stage; full cure requires the ship's medical labs. Full rules: [Russet Mold & Infection](../Game-Mechanics/Russet-Mold-and-Infection.md).

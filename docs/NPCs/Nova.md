@@ -1,6 +1,6 @@
 # Nova
 
-The last survivor of the ship's original crew — a scientist in cryogenic stasis on the [Lower Deck](/The-Lost-Ship/The-Lower-Deck) (stasis chamber, green access). Shaved head, green jumpsuit, lawful good (noble statistics). **Status: depends on whether the party opened her pod.**
+The last survivor of the ship's original crew — a scientist in cryogenic stasis on the [Lower Deck](../The-Lost-Ship/The-Lower-Deck.md) (stasis chamber, green access). Shaved head, green jumpsuit, lawful good (noble statistics). **Status: depends on whether the party opened her pod.**
 
 ![Nova in her stasis pod](../.attachments/nova_in_pod_v3.png)
 
@@ -10,9 +10,9 @@ The lone crew member who **shut down Aphelion** — the ship's murderous compute
 
 ## What she offers
 
-- **The true history** of the ship, hazily: the dying homeworld, the ark mission, the computer going haywire, the robot mutiny, the mold outbreak, the final hunt ([The Ship's Purpose](/Campaign/Plot-Threads/The-Ships-Purpose)).
+- **The true history** of the ship, hazily: the dying homeworld, the ark mission, the computer going haywire, the robot mutiny, the mold outbreak, the final hunt ([The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md)).
 - **Technology instruction:** she instinctively recalls how to use the ship's devices and can teach the party any equipment they've recovered.
-- A base presence: she insists on staying aboard to assess damage and salvage the servers — a third scientist for the ship's growing research colony (with [Erleena](/NPCs/Erleena-Riser) and George).
+- A base presence: she insists on staying aboard to assess damage and salvage the servers — a third scientist for the ship's growing research colony (with [Erleena](Erleena-Riser.md) and George).
 
 ## DM notes
 

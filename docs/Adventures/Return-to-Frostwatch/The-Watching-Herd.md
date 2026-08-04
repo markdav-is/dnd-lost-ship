@@ -2,7 +2,7 @@
 
 *Return to Frostwatch, descent encounter 2 — dread / possible combat.*
 
-![The Watching Herd](../.attachments/enc_watching_herd.jpg)
+![The Watching Herd](../../.attachments/enc_watching_herd.jpg)
 
 Twelve mountain deer stand in a clearing directly in the hoversled's path. They do not move. They do not flinch at the sound of the sled. Every head is turned toward the party, and every pair of eyes is filmed with white.
 
@@ -25,4 +25,4 @@ If George Decay is present: *"Distributed intelligence. The mold doesn't just in
 
 ---
 
-*Deeper knowledge:* [The Invisible Infection](/Campaign/Plot-Threads/The-Invisible-Infection) · [George Decay](/NPCs/George-Decay) · module: [Return to Frostwatch](/Adventures/Return-to-Frostwatch)
+*Deeper knowledge:* [The Invisible Infection](../../Campaign/Plot-Threads/The-Invisible-Infection.md) · [George Decay](../../NPCs/George-Decay.md) · module: [Return to Frostwatch](../Return-to-Frostwatch.md)

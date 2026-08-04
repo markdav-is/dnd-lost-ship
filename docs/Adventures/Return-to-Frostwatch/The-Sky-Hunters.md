@@ -2,7 +2,7 @@
 
 *Return to Frostwatch, set-piece encounter — aerial combat on the exposed ridge.*
 
-![The Sky Hunters](../.attachments/enc_sky_hunters.jpg)
+![The Sky Hunters](../../.attachments/enc_sky_hunters.jpg)
 
 ## Read-aloud
 
@@ -17,7 +17,7 @@
 ## Forces & terrain
 
 - **3× Fungal Peryton** — CR 2: AC 13, HP 33, fly 60 ft. **Dive Attack** (+2d8 on a 30-ft dive gore), **Flyby**, **Spore Release** (when it takes piercing/slashing damage: 10-ft cloud, DC 13 CON or poisoned 1 min). Gore +5 (1d8+3); Talons +5 (2d4+3).
-- **2× Spore-Touched Snowy Owlbear** on flanking rocky outcrops, punishing anyone who lands or is knocked down ([stats](/Bestiary/Fungal-Threats)).
+- **2× Spore-Touched Snowy Owlbear** on flanking rocky outcrops, punishing anyone who lands or is knocked down ([stats](../../Bestiary/Fungal-Threats.md)).
 - **Ridge:** 60 ft wide, 500 ft long; hoversled center. Eastern drop 200 ft; western cliff sheer and unclimbable.
 
 ## Hoversled damage
@@ -30,4 +30,4 @@ The party can fly — the perytons will try to **separate flyers from the sled**
 
 ---
 
-*Deeper knowledge:* [Bestiary — Fungal Threats](/Bestiary/Fungal-Threats) · module: [Return to Frostwatch](/Adventures/Return-to-Frostwatch)
+*Deeper knowledge:* [Bestiary — Fungal Threats](../../Bestiary/Fungal-Threats.md) · module: [Return to Frostwatch](../Return-to-Frostwatch.md)

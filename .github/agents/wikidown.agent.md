@@ -59,7 +59,7 @@ wikidown search --query <text>
 - **Order** — each folder's `.order` file controls navigation order. Page
   writes update it automatically; rewrite explicitly with
   `wikidown_wiki_reorder`.
-- **Internal links** — use the title path: `[Format](/Getting-Started/Format)`.
+- **Internal links** — relative paths with `.md` extension (GitHub-renderable): `[Format](../Getting-Started/Format.md)`; images `![map](../.attachments/map.png)`. Never absolute title paths in page bodies.
 - **Page structure** — start with `# Title` then a one-sentence summary.
 
 ## Workflow

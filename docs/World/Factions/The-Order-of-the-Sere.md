@@ -10,7 +10,7 @@ Beyond Aerun, defiling is anathema everywhere: the peoples of Vermoon remember w
 
 ## The history
 
-During the end of the Green Age, when [Rajaat's](/Campaign/Plot-Threads/The-First-Source) spores spread across Aerun, **defiler magic was the weapon that stopped them**. It worked. The price was the Deep Desert. Defiling was shunned from Vermoon afterward — but not extinguished: the Order of the Sere **keeps the knowledge alive as a failsafe**, against the day it is needed again. (The sorcerer-kings' continued defiling on Aerun is the tradition's ugly, unlicensed survival; the Order is its *sworn* one.)
+During the end of the Green Age, when [Rajaat's](../../Campaign/Plot-Threads/The-First-Source.md) spores spread across Aerun, **defiler magic was the weapon that stopped them**. It worked. The price was the Deep Desert. Defiling was shunned from Vermoon afterward — but not extinguished: the Order of the Sere **keeps the knowledge alive as a failsafe**, against the day it is needed again. (The sorcerer-kings' continued defiling on Aerun is the tradition's ugly, unlicensed survival; the Order is its *sworn* one.)
 
 ## How it works against the mold
 
@@ -26,12 +26,12 @@ For the Barrier Peaks this is a real, horrifying option — a magical scorched-e
 
 - **Where is the Order?** Aerun's coastal ring, hidden in the Scarlands, or somewhere off every map — undefined. So are its numbers, leadership, and rites.
 - **Relationship to the sorcerer-kings:** rivals? apostates? the kings prove the knowledge never needed an order to survive — so what does the Order believe its oath *is*?
-- **Who knows it exists?** Kaelen does — it is part of the history she carries. Whether Jak, Valerius, or the houses know is a choice with big consequences: whoever reaches the Sere first gains the most terrible lever in the [Lighthouse Dilemma](/Campaign/Plot-Threads/The-Lighthouse-Dilemma).
+- **Who knows it exists?** Kaelen does — it is part of the history she carries. Whether Jak, Valerius, or the houses know is a choice with big consequences: whoever reaches the Sere first gains the most terrible lever in the [Lighthouse Dilemma](../../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).
 - **What do they want?** Failsafe-keepers wait for a purpose. After a thousand years, do they *want* to be needed?
-- **The preserver counterweight:** the **Veiled Alliance** exists ([Aerun](/World/Aerun)) — natural opponents of ever invoking the Sere, and natural allies for any party seeking a gentler answer.
+- **The preserver counterweight:** the **Veiled Alliance** exists ([Aerun](../Aerun.md)) — natural opponents of ever invoking the Sere, and natural allies for any party seeking a gentler answer.
 
 ## Using them at the table
 
 - They arrive as an *option*, not an army: a delegation, an envoy, or a name Kaelen finally surrenders when the containment debate stalls.
-- Their existence reframes the council's paths — see [The Lighthouse Dilemma](/Campaign/Plot-Threads/The-Lighthouse-Dilemma).
+- Their existence reframes the council's paths — see [The Lighthouse Dilemma](../../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).
 - Tone: not villains — undertakers. People who inherited a duty everyone else chose to forget, and who speak of killing a landscape with the calm of professionals. When they walk, the ground behind them is the argument.

@@ -4,10 +4,10 @@ The running state of the Lost Ship campaign: where the party is, what has happen
 
 ## Pages
 
-- [Current Status](/Campaign/Current-Status) — the "you are here" snapshot for session prep.
-- [Adventure Log](/Campaign/Adventure-Log) — everything that has happened, chapter by chapter.
-- [Plot Threads](/Campaign/Plot-Threads) — active mysteries and the levers behind them.
-- [The Party](/Campaign/The-Party) — the five player characters.
+- [Current Status](Campaign/Current-Status.md) — the "you are here" snapshot for session prep.
+- [Adventure Log](Campaign/Adventure-Log.md) — everything that has happened, chapter by chapter.
+- [Plot Threads](Campaign/Plot-Threads.md) — active mysteries and the levers behind them.
+- [The Party](Campaign/The-Party.md) — the five player characters.
 
 ## The campaign in one paragraph
 

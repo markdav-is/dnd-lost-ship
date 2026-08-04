@@ -18,7 +18,7 @@ Full stat blocks: `assets/S3_Level1_Complete_5e_Conversion.docx`, `assets/S3_Lev
 | Construct | CR | Notes |
 | :--- | :-: | :--- |
 | **Worker Robot** | 1 | Non-hostile unless attacked; prefers grappling; summons police if interfered with. Large cargo models grapple at STR 24 |
-| **Wheely sleds / hoversleds / maintenance drones** | — | Vehicles and harmless drones; see [Alien Technology](/Game-Mechanics/Alien-Technology) |
+| **Wheely sleds / hoversleds / maintenance drones** | — | Vehicles and harmless drones; see [Alien Technology](../Game-Mechanics/Alien-Technology.md) |
 
 ## Androids (HP ~49, AC 17 unless noted)
 

@@ -10,7 +10,7 @@ The ship's rudder is shattered; repairs take days. Camp on the shore beneath cli
 
 ## Day 2
 
-The crew boss reports luck: the old **horseshoe quarry** nearby yielded iron scraps and tools, speeding hull repairs — then the dogsled arrives, and the module hands off to [Think of the Children](/Adventures/Think-of-the-Children).
+The crew boss reports luck: the old **horseshoe quarry** nearby yielded iron scraps and tools, speeding hull repairs — then the dogsled arrives, and the module hands off to [Think of the Children](Think-of-the-Children.md).
 
 ## Encounters & creatures (stat blocks in source)
 

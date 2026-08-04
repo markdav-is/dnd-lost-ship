@@ -9,7 +9,7 @@ Jak's elite all-female guard: warrior monks bound to the Administrator through A
 - An all-female force that views Jak not just as a ruler but as **the central node of a new reality**. They do not fight for pay; they fight because they believe.
 - Recruited (in part) through temple ceremonies; initiates return "different." Families both revere and fear the calling.
 - They carry simple quarterstaffs and need nothing else — witnesses describe one dropping three brawling sailors by touching pressure points.
-- They move with eerie, synchronized grace, guided by the constant data stream of the [Aura network](/World/The-Aura-Network). They do not show fear, anger, or frustration — the terrifying calm of zealots who know their god is watching through the blue light behind their ears.
+- They move with eerie, synchronized grace, guided by the constant data stream of the [Aura network](../The-Aura-Network.md). They do not show fear, anger, or frustration — the terrifying calm of zealots who know their god is watching through the blue light behind their ears.
 
 ## Hierarchy
 
@@ -17,7 +17,7 @@ Jak's elite all-female guard: warrior monks bound to the Administrator through A
 | :--- | :--- | :--- |
 | Initiates | Guards, labor | The bulk of any deployment |
 | Sisters | Tactical command | Eight led the Frostwatch occupation |
-| High Sisters | Strategic command, independent judgment | See [High Sister Valerius](/NPCs/High-Sister-Valerius) — the capacity for independent judgment is deliberately embedded at this rank, and severing the connection is its ultimate (heretical) expression |
+| High Sisters | Strategic command, independent judgment | See [High Sister Valerius](../../NPCs/High-Sister-Valerius.md) — the capacity for independent judgment is deliberately embedded at this rank, and severing the connection is its ultimate (heretical) expression |
 
 ## Stat block (typical patrol pair — 8th-level monk chassis)
 

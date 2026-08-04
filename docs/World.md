@@ -6,14 +6,14 @@
 
 ## Pages
 
-- [The Scarlands](/World/The-Scarlands) — the cold southern landmass: Grønnfjord, Frostwatch, the Barrier Peaks.
-- [Aerun](/World/Aerun) — the central desert continent; the world's warning.
-- [The Dragons](/World/The-Dragons) — the sleeping guardians of the Red Dragon prophecy.
-- [The Titans](/World/The-Titans) — the elemental colossi: gods, engines, or captors.
-- [The Elemental Cities](/World/The-Elemental-Cities) — Airlantis, Ocean, and the teleport network.
-- [The Aura Network](/World/The-Aura-Network) — Jak's world-spanning implant network.
-- [Factions](/World/Factions) — the Spásistren, the merchant houses, the Sandwalkers, the Order of the Sere.
-- [Timeline](/World/Timeline) — history from the Green Age to the current day.
+- [The Scarlands](World/The-Scarlands.md) — the cold southern landmass: Grønnfjord, Frostwatch, the Barrier Peaks.
+- [Aerun](World/Aerun.md) — the central desert continent; the world's warning.
+- [The Dragons](World/The-Dragons.md) — the sleeping guardians of the Red Dragon prophecy.
+- [The Titans](World/The-Titans.md) — the elemental colossi: gods, engines, or captors.
+- [The Elemental Cities](World/The-Elemental-Cities.md) — Airlantis, Ocean, and the teleport network.
+- [The Aura Network](World/The-Aura-Network.md) — Jak's world-spanning implant network.
+- [Factions](World/Factions.md) — the Spásistren, the merchant houses, the Sandwalkers, the Order of the Sere.
+- [Timeline](World/Timeline.md) — history from the Green Age to the current day.
 
 ## The shape of the world
 

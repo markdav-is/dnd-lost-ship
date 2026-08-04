@@ -18,7 +18,7 @@ Aarakocra Bard 9 (Pirate). Player: Taco_Mix (Ben). Sheet: `assets/Taco_Mix_11410
 
 ## Airlantis
 
-At the end of the previous campaign Eustace landed **[Airlantis](/World/The-Elemental-Cities)** — the flying city the party controls — **at his homeland, to a hero's welcome**. It rests there still, fueled and flyable thanks to [Rico's](/NPCs/Rico) synthesis process. Eustace is, in effect, the keeper of the party's greatest strategic asset.
+At the end of the previous campaign Eustace landed **[Airlantis](../../World/The-Elemental-Cities.md)** — the flying city the party controls — **at his homeland, to a hero's welcome**. It rests there still, fueled and flyable thanks to [Rico's](../../NPCs/Rico.md) synthesis process. Eustace is, in effect, the keeper of the party's greatest strategic asset.
 
 ## DM hooks
 

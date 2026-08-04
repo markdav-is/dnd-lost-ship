@@ -30,7 +30,7 @@ Abandoned living spaces of metal and plastic; overturned furniture, bones, decad
 - **Police HQ:** cells with force fields; gas masks, sleep grenades, needlers; chief's office monitoring console (56 camera positions); malfunctioning powered armor.
 - **Small arms locker (gray card):** needlers, paralysis pistols, laser pistols/rifles, blaster rifle, 60 grenades, powered armor, 20 power discs.
 - **Computer Central:** every console press rolls a d12 malfunction — up to FULL ALERT (doors lock, sleep gas, robot convergence; only a gray card cancels). Also feeds the Lab B mold culture.
-- **Lab B:** room *full* of russet mold — opening the door is an avalanche ([mold rules](/Game-Mechanics/Russet-Mold-and-Infection)).
+- **Lab B:** room *full* of russet mold — opening the door is an avalanche ([mold rules](../Game-Mechanics/Russet-Mold-and-Infection.md)).
 - **Library:** microfilm viewers can show ship schematics for Levels I, III, V (6 questions per level; 1-in-6 breaks per use); gray card hidden under a sealed cabinet.
 - **Stores:** rations, medical ampules, 14 healing-spray canisters (1-in-6 work), worker robot remote control.
 

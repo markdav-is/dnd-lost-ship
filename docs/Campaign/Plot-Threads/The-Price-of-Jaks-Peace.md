@@ -11,12 +11,12 @@ Grønnfjord prospers — no raids, fair taxes, safe streets. But the older resid
 
 ## What is actually true
 
-- The [Aura network](/World/The-Aura-Network) is a **surveillance apparatus**: every implant feeds data back to Jak. He can see trade, troops, and private conversations — anywhere within range of a connected node.
+- The [Aura network](../../World/The-Aura-Network.md) is a **surveillance apparatus**: every implant feeds data back to Jak. He can see trade, troops, and private conversations — anywhere within range of a connected node.
 - Jak is **not a villain**. He was a simple monk; he genuinely believes he is the right steward, and he is terrified of the void he cannot see. His flaw is the classic one: believing that because he can see everything, he should.
-- The temple ceremonies are the recruitment/initiation funnel for Aura implantation. What the "blessing" does to unimplanted children is a deliberate open question — connect it to [The Invisible Infection](/Campaign/Plot-Threads/The-Invisible-Infection) if you want the two threads to merge.
+- The temple ceremonies are the recruitment/initiation funnel for Aura implantation. What the "blessing" does to unimplanted children is a deliberate open question — connect it to [The Invisible Infection](The-Invisible-Infection.md) if you want the two threads to merge.
 
 ## Escalation levers
 
-- Jak asks the party pointed questions about who they've been talking to (he can see almost everything — including, eventually, gaps shaped like [Kaelen](/NPCs/Kaelen-al-Hajra)).
+- Jak asks the party pointed questions about who they've been talking to (he can see almost everything — including, eventually, gaps shaped like [Kaelen](../../NPCs/Kaelen-al-Hajra.md)).
 - A PC's admirer or contact joins the Spásistren and comes back *serene*.
-- The [merchant alliance](/Campaign/Plot-Threads/The-Merchant-Alliance) offers the party proof of what the ceremonies do.
+- The [merchant alliance](The-Merchant-Alliance.md) offers the party proof of what the ceremonies do.

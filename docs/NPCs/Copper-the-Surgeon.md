@@ -14,7 +14,7 @@ Perpetually on edge; trusts no one, including himself. Anger as a shield. Obsess
 
 After the party's return, Copper delivered his warning in the granary's shadow: some locals are *different* — not physically infected, but making decisions they wouldn't have made, **protecting the infection without knowing it**. His fear: the infection can ride a *signal*, and the Spásistren's network may already be carrying it. *"I'm probably wrong. I'm usually wrong about the worst things. But I'm right about the worst things often enough that you should listen."*
 
-**Copper is not wrong** — or at least, the campaign must never prove he is. See [The Invisible Infection](/Campaign/Plot-Threads/The-Invisible-Infection).
+**Copper is not wrong** — or at least, the campaign must never prove he is. See [The Invisible Infection](../Campaign/Plot-Threads/The-Invisible-Infection.md).
 
 ## At the council
 

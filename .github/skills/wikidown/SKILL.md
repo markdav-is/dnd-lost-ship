@@ -20,7 +20,11 @@ with the server name — e.g. `wikidown_wiki_write` in VS Code / GitHub Copilot.
   in a `Parent/` folder beside `Parent.md`.
 - **Order** — each folder's `.order` file controls navigation order. Page
   writes update it automatically; rewrite explicitly with `wiki_reorder`.
-- **Internal links** — use the title path: `[Format](/Getting-Started/Format)`.
+- **Internal links** — relative paths **with `.md` extension** so GitHub renders
+  them: `[Format](../Getting-Started/Format.md)` (prefix `../` per the linking
+  page's folder depth). Images likewise: `![map](../.attachments/map.png)`.
+  Do NOT use absolute title paths (`/Getting-Started/Format`) in page bodies —
+  GitHub resolves those against the repo root and they 404.
 - **Page structure** — start with `# Title`, then a one-sentence summary,
   then content under H2/H3 headings.
 
@@ -72,6 +76,6 @@ wikidown search --query <text>
 
 - Don't write `/docs/*.md` with file-edit tools — bypasses `.order`
   bookkeeping and breaks navigation.
-- Don't link to GitHub blob URLs from inside the wiki — use `/Title/Path`.
+- Don't link to GitHub blob URLs from inside the wiki — use relative `.md` links.
 - Don't rename without checking inbound references first.
 - Don't write one-off chat notes into the wiki.

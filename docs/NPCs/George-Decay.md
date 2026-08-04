@@ -6,7 +6,7 @@ Full NPC document with d20 conversation table: `assets/george_decay_npc.docx`.
 
 ## Situation
 
-Entered the ship a month before the party with [Erleena Riser](/NPCs/Erleena-Riser); both were exposed. George chose **chemistry** — an experimental drug cocktail synthesized from the ship's pharmacopeia that slows the infection and keeps his mind razor-sharp while golden-brown fungal growths eat him alive (≈30% of his body). Erleena chose **physics** — the containment suit. His anti-fungal stimulant expires fast and supplies run low; [Kaelen's](/NPCs/Kaelen-al-Hajra) Sandwalker remedy can slow the progression and his pain. He knows he is dying; he refuses to be boring about it.
+Entered the ship a month before the party with [Erleena Riser](Erleena-Riser.md); both were exposed. George chose **chemistry** — an experimental drug cocktail synthesized from the ship's pharmacopeia that slows the infection and keeps his mind razor-sharp while golden-brown fungal growths eat him alive (≈30% of his body). Erleena chose **physics** — the containment suit. His anti-fungal stimulant expires fast and supplies run low; [Kaelen's](Kaelen-al-Hajra.md) Sandwalker remedy can slow the progression and his pain. He knows he is dying; he refuses to be boring about it.
 
 ## Voice (George Takei-inspired)
 

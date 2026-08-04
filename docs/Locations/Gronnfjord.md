@@ -6,13 +6,13 @@ The bustling Nordic port city that became, almost overnight, the seat of world g
 
 ## The mood
 
-Prosperity over tension. Merchants smile, but conversations die when strangers approach; eyes dart to the temple. Whispered phrases: *"Jak's Peace," "the Spásistren," "since the temple awakened."* The harbor teems with vessels bearing marks of hasty preparation; some carry materials south to [Nordkrist's Hold](/Campaign/Plot-Threads/Nordkrists-Hold) and none return with answers.
+Prosperity over tension. Merchants smile, but conversations die when strangers approach; eyes dart to the temple. Whispered phrases: *"Jak's Peace," "the Spásistren," "since the temple awakened."* The harbor teems with vessels bearing marks of hasty preparation; some carry materials south to [Nordkrist's Hold](../Campaign/Plot-Threads/Nordkrists-Hold.md) and none return with answers.
 
 ## The Temple of Nord
 
-Ancient grey-stone brutalist edifice, long dormant among the merchant warehouses, now the seat of Jak's authority — both government and spiritual movement. Machinery hums at night. Ceremonies confer "Jak's blessing"; some children come back *different* ([plot thread](/Campaign/Plot-Threads/The-Price-of-Jaks-Peace)).
+Ancient grey-stone brutalist edifice, long dormant among the merchant warehouses, now the seat of Jak's authority — both government and spiritual movement. Machinery hums at night. Ceremonies confer "Jak's blessing"; some children come back *different* ([plot thread](../Campaign/Plot-Threads/The-Price-of-Jaks-Peace.md)).
 
-**The throne room:** a vast sound-swallowing chamber of scarred stone; floating orbs of pale light that drift to guide the worthy; a twenty-foot throne cut from a single block of black stone, its reliefs painful to look at. Here Jak revealed the void ([Chapter 1 module](/Adventures/Chapter-1-The-Summons)).
+**The throne room:** a vast sound-swallowing chamber of scarred stone; floating orbs of pale light that drift to guide the worthy; a twenty-foot throne cut from a single block of black stone, its reliefs painful to look at. Here Jak revealed the void ([Chapter 1 module](../Adventures/Chapter-1-The-Summons.md)).
 
 ## Shops & services (harbor district)
 
@@ -24,7 +24,7 @@ Ancient grey-stone brutalist edifice, long dormant among the merchant warehouses
 | The Salty Serpent Inn | Astrid the barmaid (24) | Shared room 2 sp, private 5 sp, meals 3 cp — **the rumor hub** |
 | Sea passage | Captain Olaf Stormsson (53) | Fjord transport 50–100 gp; **refuses** to sail within 20 miles of the Barrier Peaks coast |
 
-Full shopkeeper dialogue, rumor tables (d6 overheard conversations + shepherd/father variants), and the Spásistren street encounter are in the module: [Chapter 2 — Grønnfjord Shops](/Adventures/Chapter-2-Gronnfjord-Shops).
+Full shopkeeper dialogue, rumor tables (d6 overheard conversations + shepherd/father variants), and the Spásistren street encounter are in the module: [Chapter 2 — Grønnfjord Shops](../Adventures/Chapter-2-Gronnfjord-Shops.md).
 
 ## What a party learns here
 

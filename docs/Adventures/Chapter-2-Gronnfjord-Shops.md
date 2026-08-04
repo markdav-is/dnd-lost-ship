@@ -1,6 +1,6 @@
 # Chapter 2 — Grønnfjord Shops
 
-Town chapter: outfitting, rumor-gathering, and the first Spásistren encounter. Source: `assets/Chapter 2 - Greefjord Shops.docx`. Location detail: [Grønnfjord](/Locations/Gronnfjord).
+Town chapter: outfitting, rumor-gathering, and the first Spásistren encounter. Source: `assets/Chapter 2 - Greefjord Shops.docx`. Location detail: [Grønnfjord](../Locations/Gronnfjord.md).
 
 ## Shops
 
@@ -16,7 +16,7 @@ The information hub. Astrid the barmaid (friendly, careful), Captain Olaf Storms
 
 ## Encounter: the Spásistren patrol
 
-Two Sisters, synchronized, quarterstaffs, blue rings behind the left ear. Polite and immovable: *"State your business and intentions. All who seek honest trade and peaceful passage are welcome under Jak's protection."* Stats and abilities: [The Spásistren](/World/Factions/The-Spasistren). They never start the fight — but Stunning Strike DC 14 ends one fast.
+Two Sisters, synchronized, quarterstaffs, blue rings behind the left ear. Polite and immovable: *"State your business and intentions. All who seek honest trade and peaceful passage are welcome under Jak's protection."* Stats and abilities: [The Spásistren](../World/Factions/The-Spasistren.md). They never start the fight — but Stunning Strike DC 14 ends one fast.
 
 ## Information checklist (what the party should leave knowing)
 
@@ -24,4 +24,4 @@ About Jak (two-year unification, temple rule, unclear cost) · about the Spásis
 
 ## Exits
 
-Sea (Captain Olaf, 50–100 gp, not past the 20-mile line) · coastal road south · or temple infiltration (very dangerous; unwritten — improvise from the [Temple of Nord](/Locations/Gronnfjord) description).
+Sea (Captain Olaf, 50–100 gp, not past the 20-mile line) · coastal road south · or temple infiltration (very dangerous; unwritten — improvise from the [Temple of Nord](../Locations/Gronnfjord.md) description).

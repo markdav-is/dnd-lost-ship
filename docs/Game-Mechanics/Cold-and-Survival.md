@@ -19,8 +19,8 @@ At designated points (hours in a blizzard, each camp made): **DC 13 Constitution
 
 ## Sled logistics
 
-The dogs are life support: no team, no crossing ([Korrin's](/NPCs/Korrin) whole worldview). Sleds carry the gear that keeps everyone alive; abandoning a sled is abandoning margin. Axe beaks (recovered at [Think of the Children](/Adventures/Think-of-the-Children)) are a viable cold-weather mount alternative.
+The dogs are life support: no team, no crossing ([Korrin's](../NPCs/Korrin.md) whole worldview). Sleds carry the gear that keeps everyone alive; abandoning a sled is abandoning margin. Axe beaks (recovered at [Think of the Children](../Adventures/Think-of-the-Children.md)) are a viable cold-weather mount alternative.
 
 ## Atmosphere dial
 
-Describe creeping numbness and urgency; the cold is a lethal, ever-present antagonist — and now it's the *safe* part of the mountains. Pair with the "Signs of Spreading Infection" table in [Return to Frostwatch](/Adventures/Return-to-Frostwatch) once the party is below the crash site.
+Describe creeping numbness and urgency; the cold is a lethal, ever-present antagonist — and now it's the *safe* part of the mountains. Pair with the "Signs of Spreading Infection" table in [Return to Frostwatch](../Adventures/Return-to-Frostwatch.md) once the party is below the crash site.

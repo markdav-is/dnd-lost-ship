@@ -19,5 +19,5 @@ Human Sorcerer 9 (Faction Agent). Player: natnerd15 (**Andy**). Sheet: `assets/a
 ## DM hooks
 
 - **Took heavy psychic damage and was briefly dominated** in the mind flayer theater fight — psychic scars available for callbacks.
-- Faction Agent background: the natural hook for [Tomas Vel-Maret and the merchant alliance](/Campaign/Plot-Threads/The-Merchant-Alliance) to make contact through.
-- Player Andy is the world's creator-DM and keeper of Aerun deep lore — the remaining **[ANDY LORE]** insertion points in [The Green Age](/Campaign/Plot-Threads/The-Green-Age) are his to define, in or out of character.
+- Faction Agent background: the natural hook for [Tomas Vel-Maret and the merchant alliance](../Plot-Threads/The-Merchant-Alliance.md) to make contact through.
+- Player Andy is the world's creator-DM and keeper of Aerun deep lore — the remaining **[ANDY LORE]** insertion points in [The Green Age](../Plot-Threads/The-Green-Age.md) are his to define, in or out of character.

@@ -8,7 +8,7 @@ Sources: `assets/Aerun_TheDesertContinent.md`, `assets/Return_to_Frostwatch_v3.m
 
 1. **Rajaat was discovered on Aerun during the Green Age** — an ancient, catastrophic origin point of a fungal/spore infection identical to the ship's russet mold. It spread the way the Scarlands outbreak is spreading now: *slowly, then all at once.* The animals changed. The trees changed. The people changed.
 2. **Containment was tried first — and failed.** Walls, burned borders, posted guards. The walls held **eleven years**; then the bloom came from *beneath* them. The spores had been in the groundwater the whole time.
-3. **Then they made a desert. On purpose.** *"They killed the land to save the world."* **Defiler magic** destroyed the spores directly (they are plant life) and every green thing with them — no water, no organic matter, no host for the bloom. The infected creatures survived the casting and starved. Defiling was shunned from Vermoon afterward; the [Order of the Sere](/World/Factions/The-Order-of-the-Sere) keeps it as a failsafe. *(Kaelen tells the desert-was-made story in open council; the defiler method and the Order she reveals only if pressed or in private.)*
+3. **Then they made a desert. On purpose.** *"They killed the land to save the world."* **Defiler magic** destroyed the spores directly (they are plant life) and every green thing with them — no water, no organic matter, no host for the bloom. The infected creatures survived the casting and starved. Defiling was shunned from Vermoon afterward; the [Order of the Sere](../../World/Factions/The-Order-of-the-Sere.md) keeps it as a failsafe. *(Kaelen tells the desert-was-made story in open council; the defiler method and the Order she reveals only if pressed or in private.)*
 4. **The quarantine has held for a thousand years.** It is the only containment ever found that works.
 5. **Rajaat was never destroyed.** It remains beneath the Deep Desert — and the deep mechanism of its ongoing management is a secret Kaelen guards.
 
@@ -29,7 +29,7 @@ The byproduct of worms digesting dead spores is the **Spice**:
 
 | Facet | Detail |
 | :--- | :--- |
-| Economy | The most valuable resource on Vermoon; exported globally by the coastal [merchant houses](/World/Factions/The-Merchant-Houses) — the wealth behind their alliance |
+| Economy | The most valuable resource on Vermoon; exported globally by the coastal [merchant houses](../../World/Factions/The-Merchant-Houses.md) — the wealth behind their alliance |
 | Effect | Enables and amplifies **psionic abilities** (the "Will and the Way") — and extends life. Jak's empire *depends* on it. Ambient exposure gives nearly everyone on Aerun a minor wild talent |
 | The mark | Heavy sustained use stains sclera and iris a deep, uniform **blue** |
 | The lie | The world believes Spice is a natural mineral or botanical resource. That it is processed fungal apocalypse filtered through giant worms is the tribes' deepest secret |
@@ -40,7 +40,7 @@ The ship is a **second Rajaat** — sitting in a valley full of trees, animals, 
 
 ## The new stake — the cure frees Aerun too
 
-The v3 council canon raises the ceiling: a true cure from the ship's medical levels **might work on Rajaat itself**. Not a seal, not a fire — an *end*, for both sources. For the Sandwalkers it would mean release from a thousand-year wardenship: *"We did not choose that. A cure would give us a choice for the first time."* This makes the [cure path](/Campaign/Plot-Threads/The-Lighthouse-Dilemma) a world-stakes proposition — and gives Kaelen a personal reason to see the party succeed.
+The v3 council canon raises the ceiling: a true cure from the ship's medical levels **might work on Rajaat itself**. Not a seal, not a fire — an *end*, for both sources. For the Sandwalkers it would mean release from a thousand-year wardenship: *"We did not choose that. A cure would give us a choice for the first time."* This makes the [cure path](The-Lighthouse-Dilemma.md) a world-stakes proposition — and gives Kaelen a personal reason to see the party succeed.
 
 ## DM levers
 

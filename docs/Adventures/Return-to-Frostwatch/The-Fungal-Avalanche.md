@@ -2,7 +2,7 @@
 
 *Return to Frostwatch, descent encounter 4 — chase hazard.*
 
-![The Fungal Avalanche](../.attachments/enc_avalanche.jpg)
+![The Fungal Avalanche](../../.attachments/enc_avalanche.jpg)
 
 A deep, rhythmic thudding shakes the mountainside. Snow begins to slide from the peaks above. A massive, infected **Remorhaz** is moving beneath the ice shelf, drawn by the vibration of the hoversled's engines.
 
@@ -18,4 +18,4 @@ The Remorhaz is not the point — the avalanche and the *visual* are: a huge inf
 
 ---
 
-*Deeper knowledge:* [Bestiary — Fungal Threats](/Bestiary/Fungal-Threats) · module: [Return to Frostwatch](/Adventures/Return-to-Frostwatch)
+*Deeper knowledge:* [Bestiary — Fungal Threats](../../Bestiary/Fungal-Threats.md) · module: [Return to Frostwatch](../Return-to-Frostwatch.md)

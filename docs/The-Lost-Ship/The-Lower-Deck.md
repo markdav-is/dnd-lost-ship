@@ -15,7 +15,7 @@ Octagonal chamber beneath the garden lake: transparent ceiling panels with the d
 - **S62 Disposal corridor:** George — "If we can initiate a manual purge cycle, we can ride the garbage chute to freedom!" Also: the **ship commander's bones** — laser pistol (10 shots) and a **platinum key card**.
 - **S63 Decon corridors:** three **wheely sleds** (speed 30/60/90; DC 13/16 to corner; crash 1d6 per 10 ft). Two are piled with mold-infested debris (DC 13 CON to clear). Driving triggers encounter rolls.
 - **S64 Robot control center:** override puzzle (3 × DC 14 INT) unlocks the cargo path; green key card + diagnostic datapad (500 gp).
-- **S64b Stasis chamber (green):** twenty pods, mostly skeletons — and one survivor: **[Nova](/NPCs/Nova)**, the scientist who shut down Aphelion (DC 12 INT to release).
+- **S64b Stasis chamber (green):** twenty pods, mostly skeletons — and one survivor: **[Nova](../NPCs/Nova.md)**, the scientist who shut down Aphelion (DC 12 INT to release).
 - **S65/S66 Cargo holds:** compressed mold cubes; slithering tracker ambush; dead technician with a *ring of protection*.
 
 ## Random encounters (1-in-6 / 10 min or loud noise, d8)
@@ -34,4 +34,4 @@ Vast chamber, orange spore fog (DC 13 CON/turn or poisoned 1 hour), a 40 × 60-f
 
 ![The ejection](../.attachments/level4_ejection_scene_final.png)
 
-The party landed in deep snow amid alien garbage as the doors ground shut behind them — battered, alive, and outside. Continue to [Return to Frostwatch](/Adventures/Return-to-Frostwatch).
+The party landed in deep snow amid alien garbage as the doors ground shut behind them — battered, alive, and outside. Continue to [Return to Frostwatch](../Adventures/Return-to-Frostwatch.md).

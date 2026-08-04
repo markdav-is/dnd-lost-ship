@@ -86,7 +86,7 @@ Say in your own words: the infection spreads faster than public reports — **th
 
 ## 7. Path One — Containment: Seal the Ship
 
-![High Sister Valerius addresses the council](../.attachments/council_valerius.jpg)
+![High Sister Valerius addresses the council](../../.attachments/council_valerius.jpg)
 
 > *"We seal the mountain passes. The alchemical charges in the wagons are sufficient to trigger controlled avalanches at seven key points. We establish a permanent quarantine perimeter. We post Spásistren at every viable approach. Nothing leaves. Nothing enters. And we send a team back into the ship — not to fight, but to seal it. Close the hull breaches. Lock the internal bulkheads. Contain the source inside the vessel itself. The ship has been sealed before. It can be sealed again."*
 
@@ -100,7 +100,7 @@ Say in your own words: the infection spreads faster than public reports — **th
 
 ## 8. Path Two — The Purge
 
-![McReady speaks to the council](../.attachments/council_mcready.jpg)
+![McReady speaks to the council](../../.attachments/council_mcready.jpg)
 
 > *"We have the means to call a strike from the orbital platforms. A localized incendiary deployment sufficient to sterilize the valley. Everything burns. The ship, the infection, the biomass — all of it. We end it today."*
 
@@ -114,7 +114,7 @@ Say in your own words: the infection spreads faster than public reports — **th
 
 ## 9. Path Three — The Cure
 
-![Kaelen al-Hajra addresses the council](../.attachments/council_kaelen.jpg)
+![Kaelen al-Hajra addresses the council](../../.attachments/council_kaelen.jpg)
 
 > *"You return to the ship. You go deeper than you have gone. The ship's medical and research levels — wherever they are — may contain the means to synthesize a cure, or to trigger a system-wide decontamination. You find it. You use it here. And if the cure works here, it may work on Rajaat itself — the First Source in Aerun. Not just a delay. Not just a quarantine. An end."*
 
@@ -128,7 +128,7 @@ Say in your own words: the infection spreads faster than public reports — **th
 
 ## 10. The debate & the question
 
-![Copper the Surgeon makes his case](../.attachments/council_copper.jpg)
+![Copper the Surgeon makes his case](../../.attachments/council_copper.jpg)
 
 The council erupts. Copper and McReady argue. Valerius watches, and does not intervene until the argument runs its course.
 
@@ -154,10 +154,10 @@ The council erupts. Copper and McReady argue. Valerius watches, and does not int
 
 ## Deeper knowledge (DM background — not for reading aloud)
 
-- **Triage, not a vote.** The paths are not mutually exclusive: seal now → pursue the cure; attempt the cure → fall back to the purge. The council asks for a *direction*. Whatever the party chooses, Valerius accepts it, reconnects, and reports to Jak in terms that protect the party's agency — never mentioning the severing. Full decision reference: [The Lighthouse Dilemma](/Campaign/Plot-Threads/The-Lighthouse-Dilemma).
-- **[Valerius](/NPCs/High-Sister-Valerius):** the severing is heresy, conviction, and a *test* — she watches how the party behaves unobserved. She does not know (or does she?) how neatly "seal the ship" matches Jak's sealed orders.
-- **[McReady](/NPCs/McReady):** party's sponsor, the mountain folk's advocate, and Jak's quiet reporter — the only one advocating nothing. Both his signals are true; neither is the whole truth. Confronted about the dis-trans bat: *"Jak needed to know you arrived safely. That's all it was."*
-- **[Kaelen](/NPCs/Kaelen-al-Hajra):** her rings of disclosure — the Rajaat story (told here) · the defiler method and the [Order of the Sere](/World/Factions/The-Order-of-the-Sere) (only if pressed/private) · the worms (half-named in her purge response) · the Spice (**never**). Pressed past her limit: *"It is managed."* See [The First Source](/Campaign/Plot-Threads/The-First-Source).
-- **[Copper](/NPCs/Copper-the-Surgeon):** his invisible-infection theory is the campaign's cosmic-horror thread — [leave it unresolved](/Campaign/Plot-Threads/The-Invisible-Infection).
-- **The unspoken paths:** Jak's sealed orders ([Tomas Vel-Maret](/NPCs/Tomas-Vel-Maret)) and the biological-containment long shot only Kaelen could propose — both in [The Lighthouse Dilemma](/Campaign/Plot-Threads/The-Lighthouse-Dilemma) DM secrets.
-- **Stat blocks** (Valerius CR 7, Fungal Peryton, Spore-Touched Griffon): [module appendix](/Adventures/Return-to-Frostwatch).
+- **Triage, not a vote.** The paths are not mutually exclusive: seal now → pursue the cure; attempt the cure → fall back to the purge. The council asks for a *direction*. Whatever the party chooses, Valerius accepts it, reconnects, and reports to Jak in terms that protect the party's agency — never mentioning the severing. Full decision reference: [The Lighthouse Dilemma](../../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).
+- **[Valerius](../../NPCs/High-Sister-Valerius.md):** the severing is heresy, conviction, and a *test* — she watches how the party behaves unobserved. She does not know (or does she?) how neatly "seal the ship" matches Jak's sealed orders.
+- **[McReady](../../NPCs/McReady.md):** party's sponsor, the mountain folk's advocate, and Jak's quiet reporter — the only one advocating nothing. Both his signals are true; neither is the whole truth. Confronted about the dis-trans bat: *"Jak needed to know you arrived safely. That's all it was."*
+- **[Kaelen](../../NPCs/Kaelen-al-Hajra.md):** her rings of disclosure — the Rajaat story (told here) · the defiler method and the [Order of the Sere](../../World/Factions/The-Order-of-the-Sere.md) (only if pressed/private) · the worms (half-named in her purge response) · the Spice (**never**). Pressed past her limit: *"It is managed."* See [The First Source](../../Campaign/Plot-Threads/The-First-Source.md).
+- **[Copper](../../NPCs/Copper-the-Surgeon.md):** his invisible-infection theory is the campaign's cosmic-horror thread — [leave it unresolved](../../Campaign/Plot-Threads/The-Invisible-Infection.md).
+- **The unspoken paths:** Jak's sealed orders ([Tomas Vel-Maret](../../NPCs/Tomas-Vel-Maret.md)) and the biological-containment long shot only Kaelen could propose — both in [The Lighthouse Dilemma](../../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md) DM secrets.
+- **Stat blocks** (Valerius CR 7, Fungal Peryton, Spore-Touched Griffon): [module appendix](../Return-to-Frostwatch.md).

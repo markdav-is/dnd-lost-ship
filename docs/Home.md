@@ -6,25 +6,24 @@ DM reference wiki for **The Lost Ship**, a D&D 5e campaign built on *S3: Expedit
 
 ## Sections
 
-- **[Campaign](/Campaign)** — current status, adventure log, plot threads, and the player characters.
-- **[World](/World)** — Vermoon, its continents, the Aura network, and the factions moving against each other.
-- **[Locations](/Locations)** — Grønnfjord, Frostwatch Hold, the Barrier Peaks, and Nordkrist's Hold.
-- **[The Lost Ship](/The-Lost-Ship)** — deck-by-deck DM reference for the crashed vessel, including the Lighthouse.
-- **[NPCs](/NPCs)** — dossiers for every named character, ally and enemy.
-- **[Bestiary](/Bestiary)** — creatures encountered and waiting, with stat summaries.
-- **[Game Mechanics](/Game-Mechanics)** — russet mold infection rules, key cards, and alien technology.
-- **[Adventures](/Adventures)** — the scenario modules: overviews, structure, and appendices.
-- **[Encounters](/Encounters)** — ⚡ **at-the-table pages**: read-alouds, mechanics, and art per encounter, built for flipping to mid-session.
-- **[Reference](/Reference)** — source material, published-book inspiration, and the asset index.
+- **[Campaign](Campaign.md)** — current status, adventure log, plot threads, and the player characters.
+- **[World](World.md)** — Vermoon, its continents, the Aura network, and the factions moving against each other.
+- **[Locations](Locations.md)** — Grønnfjord, Frostwatch Hold, the Barrier Peaks, and Nordkrist's Hold.
+- **[The Lost Ship](The-Lost-Ship.md)** — deck-by-deck DM reference for the crashed vessel, including the Lighthouse.
+- **[NPCs](NPCs.md)** — dossiers for every named character, ally and enemy.
+- **[Bestiary](Bestiary.md)** — creatures encountered and waiting, with stat summaries.
+- **[Game Mechanics](Game-Mechanics.md)** — russet mold infection rules, key cards, and alien technology.
+- **[Adventures](Adventures.md)** — the scenario modules. Each module contains its ⚡ **encounter subpages**: at-the-table pages with read-alouds, mechanics, and art, built for flipping to mid-session.
+- **[Reference](Reference.md)** — source material, published-book inspiration, and the asset index.
 
 ## Quick answers
 
 | Question | Page |
 | :--- | :--- |
-| Where is the party right now? | [Current Status](/Campaign/Current-Status) |
-| I need tonight's encounter, fast | [Encounters](/Encounters) |
-| What happens if someone breathes spores? | [Russet Mold & Infection](/Game-Mechanics/Russet-Mold-and-Infection) |
-| Which key card opens what? | [Key Card System](/Game-Mechanics/Key-Card-System) |
-| What's the big decision looming? | [The Lighthouse Dilemma](/Campaign/Plot-Threads/The-Lighthouse-Dilemma) |
-| What is Rajaat? | [The First Source](/Campaign/Plot-Threads/The-First-Source) |
-| Who is the woman from the desert? | [Kaelen al-Hajra](/NPCs/Kaelen-al-Hajra) |
+| Where is the party right now? | [Current Status](Campaign/Current-Status.md) |
+| I need tonight's encounter, fast | [Return to Frostwatch](Adventures/Return-to-Frostwatch.md) → its encounter subpages |
+| What happens if someone breathes spores? | [Russet Mold & Infection](Game-Mechanics/Russet-Mold-and-Infection.md) |
+| Which key card opens what? | [Key Card System](Game-Mechanics/Key-Card-System.md) |
+| What's the big decision looming? | [The Lighthouse Dilemma](Campaign/Plot-Threads/The-Lighthouse-Dilemma.md) |
+| What is Rajaat? | [The First Source](Campaign/Plot-Threads/The-First-Source.md) |
+| Who is the woman from the desert? | [Kaelen al-Hajra](NPCs/Kaelen-al-Hajra.md) |

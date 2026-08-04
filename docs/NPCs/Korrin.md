@@ -9,12 +9,12 @@ Practical, stoic, slow to trust outsiders. His gruffness hides deep responsibili
 ## History with the party
 
 - Guided them across the Crossing to Frostwatch through the blizzard.
-- Clashed with [Copper](/NPCs/Copper-the-Surgeon) over killing possibly-infected dogs.
+- Clashed with [Copper](Copper-the-Surgeon.md) over killing possibly-infected dogs.
 - The siege forced the party to kill his infected sled dogs — one of the hardest moments of the campaign. That wound is still open.
 
 ## Now (under the occupation)
 
-Found in the stables, hand on his axe, between his remaining dogs and the Spásistren initiates examining them "with clinical detachment." He has overheard fragments: a council; wagons of "cleansing materials." He is convinced the Sisters are assessing who is expendable. He is **not at the council table** — [McReady](/NPCs/McReady) speaks for the locals there — which suits Korrin fine; he trusts tables even less than he trusts Sisters.
+Found in the stables, hand on his axe, between his remaining dogs and the Spásistren initiates examining them "with clinical detachment." He has overheard fragments: a council; wagons of "cleansing materials." He is convinced the Sisters are assessing who is expendable. He is **not at the council table** — [McReady](McReady.md) speaks for the locals there — which suits Korrin fine; he trusts tables even less than he trusts Sisters.
 
 **Signature quote (current):** *"They're not here to help us. They're here to manage us. There's a difference."*
 

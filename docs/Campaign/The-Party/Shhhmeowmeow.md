@@ -20,7 +20,7 @@ Tabaxi Ranger 9 (Outlander). Player: Shhhmeowmeow. Sheet: `assets/Shhhmeowmeow_1
 
 ## The dragon bond
 
-As Shenandoah, Shhhmeowmeow hails from the **northern continent** — the land of the tower journey where the party found the **[Black Dragon](/World/The-Dragons)**, their paired dragon of the Red Dragon prophecy. The Black Dragon now sleeps with the rest; whether the old bond can rouse it if the infection becomes a world-threat is one of the campaign's held cards.
+As Shenandoah, Shhhmeowmeow hails from the **northern continent** — the land of the tower journey where the party found the **[Black Dragon](../../World/The-Dragons.md)**, their paired dragon of the Red Dragon prophecy. The Black Dragon now sleeps with the rest; whether the old bond can rouse it if the infection becomes a world-threat is one of the campaign's held cards.
 
 ## DM hooks
 

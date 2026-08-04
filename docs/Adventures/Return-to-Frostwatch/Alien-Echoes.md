@@ -2,7 +2,7 @@
 
 *Return to Frostwatch, descent encounter 3 — ambush combat.*
 
-![Alien Echoes — the cloaker](../.attachments/enc_cloaker.jpg)
+![Alien Echoes — the cloaker](../../.attachments/enc_cloaker.jpg)
 
 A creature from the ship has escaped. It has been living in the mountain wilderness for days, adapting to the cold, and it is hungry.
 
@@ -20,4 +20,4 @@ The horrors of the ship are no longer contained; the cloaker is a harbinger. Aft
 
 ---
 
-*Deeper knowledge:* [Bestiary — Ship Creatures](/Bestiary/Ship-Creatures) · [The Barrier Peaks](/Locations/The-Barrier-Peaks) · module: [Return to Frostwatch](/Adventures/Return-to-Frostwatch)
+*Deeper knowledge:* [Bestiary — Ship Creatures](../../Bestiary/Ship-Creatures.md) · [The Barrier Peaks](../../Locations/The-Barrier-Peaks.md) · module: [Return to Frostwatch](../Return-to-Frostwatch.md)

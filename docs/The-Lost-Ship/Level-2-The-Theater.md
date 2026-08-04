@@ -4,7 +4,7 @@ The ship's entertainment deck, claimed by mind flayers. **Status: explored — t
 
 ## What happened
 
-Two **mind flayers** and four **intellect devourers** had taken the theater and were using the ship's technology to study the conquest of other worlds. In the fight, [Musty-Jo](/Campaign/The-Party/Musty-Jo-Mustang) was grappled, stunned, and dominated multiple times; [Beyond-Ce](/Campaign/The-Party/Beyond-Ce) took heavy psychic damage and was briefly turned against the party before breaking free. The last mind flayer dropped on stage.
+Two **mind flayers** and four **intellect devourers** had taken the theater and were using the ship's technology to study the conquest of other worlds. In the fight, [Musty-Jo](../Campaign/The-Party/Musty-Jo-Mustang.md) was grappled, stunned, and dominated multiple times; [Beyond-Ce](../Campaign/The-Party/Beyond-Ce.md) took heavy psychic damage and was briefly turned against the party before breaking free. The last mind flayer dropped on stage.
 
 ## Loot recovered
 

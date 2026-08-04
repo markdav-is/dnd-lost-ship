@@ -1,6 +1,6 @@
 # The Lighthouse Dilemma
 
-The central question of the campaign: the [Lighthouse](/The-Lost-Ship/The-Lighthouse) is the source of the russet mold outbreak — and possibly the key to reversing it. Since [Kaelen named Rajaat](/Campaign/Plot-Threads/The-First-Source), the council understands this is not a regional decision. It is **planetary triage**.
+The central question of the campaign: the [Lighthouse](../../The-Lost-Ship/The-Lighthouse.md) is the source of the russet mold outbreak — and possibly the key to reversing it. Since [Kaelen named Rajaat](The-First-Source.md), the council understands this is not a regional decision. It is **planetary triage**.
 
 ## The three paths (as presented at the Council of Frostwatch, v3)
 
@@ -14,7 +14,7 @@ The central question of the campaign: the [Lighthouse](/The-Lost-Ship/The-Lighth
 
 ## The fourth path — the Defilers (revealed under pressure)
 
-The [Order of the Sere](/World/Factions/The-Order-of-the-Sere) preserves the magic that made Aerun's quarantine: **the spores are plant life — defiling kills them directly**, along with every growing thing in the region. The only method in history that has actually worked.
+The [Order of the Sere](../../World/Factions/The-Order-of-the-Sere.md) preserves the magic that made Aerun's quarantine: **the spores are plant life — defiling kills them directly**, along with every growing thing in the region. The only method in history that has actually worked.
 
 - **The price:** the Scarlands become a second Deep Desert, dead by *unmaking*; the infected creatures survive the casting and then **starve** in the ash.
 - **The precedent:** Aerun. Kaelen is the receipt — but she does not volunteer this in open council; the method and the Order surface only if pressed or in private.
@@ -22,16 +22,16 @@ The [Order of the Sere](/World/Factions/The-Order-of-the-Sere) preserves the mag
 
 ## Who wants what
 
-- **[Jak](/NPCs/Jak-Bjornsson):** stop the threat — the cure can wait, the world cannot. (McReady's "context": Jak would want the ship intact if possible.)
-- **The scientists ([Erleena](/NPCs/Erleena-Riser), [George](/NPCs/George-Decay)):** preserve and study; destroying the Lighthouse destroys the cure knowledge forever.
+- **[Jak](../../NPCs/Jak-Bjornsson.md):** stop the threat — the cure can wait, the world cannot. (McReady's "context": Jak would want the ship intact if possible.)
+- **The scientists ([Erleena](../../NPCs/Erleena-Riser.md), [George](../../NPCs/George-Decay.md)):** preserve and study; destroying the Lighthouse destroys the cure knowledge forever.
 - **Copper:** purge, now, before the talking wins.
-- **[McReady](/NPCs/McReady), for the mountain folk:** says out loud what each option costs the people in the peaks; will personally carry the sealing charges if it buys cure time. Carries the locals' case and Jak's interest in the same breath — that's the point of him.
-- **[Kaelen](/NPCs/Kaelen-al-Hajra):** will not vote. If asked: *the cure — "it fixes what is in your mountains. It fixes what is in mine. My people have been the wardens of Rajaat for a thousand years. We did not choose that. A cure would give us a choice for the first time."*
+- **[McReady](../../NPCs/McReady.md), for the mountain folk:** says out loud what each option costs the people in the peaks; will personally carry the sealing charges if it buys cure time. Carries the locals' case and Jak's interest in the same breath — that's the point of him.
+- **[Kaelen](../../NPCs/Kaelen-al-Hajra.md):** will not vote. If asked: *the cure — "it fixes what is in your mountains. It fixes what is in mine. My people have been the wardens of Rajaat for a thousand years. We did not choose that. A cure would give us a choice for the first time."*
 
 ## DM secrets
 
-- **The path nobody presented:** per [Tomas Vel-Maret's](/NPCs/Tomas-Vel-Maret) copy of the sealed orders, the Spásistren's standing instruction is to **seal the ship once the party's mission ends**, giving Jak exclusive access to extracted data — note how neatly Path One aligns with orders Valerius never mentioned. Her council was not entirely honest.
-- **Why ordinary containment cannot work here:** Aerun's Source is held by an ecology the Scarlands lacks — defiler-barren ground that forces spores to mass, and **great worms** that consume the blooms ([The First Source](/Campaign/Plot-Threads/The-First-Source)). Kaelen half-named the worms at council; the full mechanism and the Spice stay guarded.
+- **The path nobody presented:** per [Tomas Vel-Maret's](../../NPCs/Tomas-Vel-Maret.md) copy of the sealed orders, the Spásistren's standing instruction is to **seal the ship once the party's mission ends**, giving Jak exclusive access to extracted data — note how neatly Path One aligns with orders Valerius never mentioned. Her council was not entirely honest.
+- **Why ordinary containment cannot work here:** Aerun's Source is held by an ecology the Scarlands lacks — defiler-barren ground that forces spores to mass, and **great worms** that consume the blooms ([The First Source](The-First-Source.md)). Kaelen half-named the worms at council; the full mechanism and the Spice stay guarded.
 - **A hidden further option:** the worm lifecycle is proof the infection can be contained *biologically*. Engineering a Scarlands equivalent is a cure-adjacent long shot nobody can propose, because only Kaelen knows the precedent exists.
 - Every hour the Lighthouse operates, the region's infection clock advances — but the Lighthouse is also the mold's *organizing node*: destroying it without a cure in hand may leave thousands of infected to transform with no path back.
 - Erleena's lab beneath the Lighthouse means any purge, demolition, sealing, or defiling has a named, sympathetic NPC standing in the blast radius.

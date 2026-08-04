@@ -1,6 +1,6 @@
 # Fungal Threats
 
-The russet mold's servants, symbionts, and victims. Common threads: cold/poison resistance, poison-condition immunity, spore bursts, and fire as the reliable answer. Infection rules: [Russet Mold & Infection](/Game-Mechanics/Russet-Mold-and-Infection).
+The russet mold's servants, symbionts, and victims. Common threads: cold/poison resistance, poison-condition immunity, spore bursts, and fire as the reliable answer. Infection rules: [Russet Mold & Infection](../Game-Mechanics/Russet-Mold-and-Infection.md).
 
 Full stat blocks: `assets/Frostwatch_Horror.docx`, `assets/Think of the Children.docx`, `assets/Return_to_Frostwatch_Final.md`, `assets/S3_Level1_Complete_5e_Conversion.docx`.
 
@@ -28,7 +28,7 @@ Full stat blocks: `assets/Frostwatch_Horror.docx`, `assets/Think of the Children
 
 ## Hazard: russet mold patches
 
-Golden-brown patches with a **3-foot kill radius** — save or become a mold culture (death in 2–5 turns; vegepygmy rises in 21–24 hours); survivors take 5d4. Killed by alkaline solutions, defoliant, fire. Lab B on Level 1 is an avalanche of it. See [rules page](/Game-Mechanics/Russet-Mold-and-Infection).
+Golden-brown patches with a **3-foot kill radius** — save or become a mold culture (death in 2–5 turns; vegepygmy rises in 21–24 hours); survivors take 5d4. Killed by alkaline solutions, defoliant, fire. Lab B on Level 1 is an avalanche of it. See [rules page](../Game-Mechanics/Russet-Mold-and-Infection.md).
 
 ## DM patterns
 

@@ -15,7 +15,7 @@ At the Council of Frostwatch, Valerius dismissed the guards ("We are alone"), pr
 - The infection spreads faster than public reports: three foothill villages quarantined, two silent, scouts unreturned.
 - Network **anomalies** in affected regions — something attempting to communicate through the infrastructure.
 - Her fear: the infection may be *purposeful without being intelligent* — "the way a river is purposeful without being aware."
-- Her closing warning about [the invisible infection](/Campaign/Plot-Threads/The-Invisible-Infection): three trusted sources arrived at the theory independently.
+- Her closing warning about [the invisible infection](../Campaign/Plot-Threads/The-Invisible-Infection.md): three trusted sources arrived at the theory independently.
 
 ## Stats (CR 7)
 
@@ -28,8 +28,8 @@ At the Council of Frostwatch, Valerius dismissed the guards ("We are alone"), pr
 
 ## Playing her
 
-Not cruel — unsentimental. She has made decisions that cost lives and lost no sleep, because she believes her judgment is sound. She respects the party for doing what she could not: entering the void and coming back. She will never say so; she shows it by listening. She has marked [Kaelen's](/NPCs/Kaelen-al-Hajra) network invisibility as an asset: *"I may need that. Before this is over."*
+Not cruel — unsentimental. She has made decisions that cost lives and lost no sleep, because she believes her judgment is sound. She respects the party for doing what she could not: entering the void and coming back. She will never say so; she shows it by listening. She has marked [Kaelen's](Kaelen-al-Hajra.md) network invisibility as an asset: *"I may need that. Before this is over."*
 
 ## DM lever
 
-She does not know about the **sealed orders** contradiction ([Tomas Vel-Maret](/NPCs/Tomas-Vel-Maret)) — or she does, and the three-path council was her way of getting ahead of them. Decide which; both are consistent with her.
+She does not know about the **sealed orders** contradiction ([Tomas Vel-Maret](Tomas-Vel-Maret.md)) — or she does, and the three-path council was her way of getting ahead of them. Decide which; both are consistent with her.

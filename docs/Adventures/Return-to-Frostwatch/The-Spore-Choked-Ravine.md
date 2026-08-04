@@ -2,7 +2,7 @@
 
 *Return to Frostwatch, descent encounter 1 — atmospheric hazard.*
 
-![The Spore-Choked Ravine](../.attachments/enc_spore_ravine.jpg)
+![The Spore-Choked Ravine](../../.attachments/enc_spore_ravine.jpg)
 
 A narrow mountain pass completely choked with thick, orange-yellow spore cloud — vision obscured beyond 10 feet, settled into the ravine like fog.
 
@@ -18,4 +18,4 @@ Primarily atmospheric. Lean into the hallucinations — let players describe wha
 
 ---
 
-*Deeper knowledge:* [Russet Mold & Infection](/Game-Mechanics/Russet-Mold-and-Infection) · [The Barrier Peaks](/Locations/The-Barrier-Peaks) · module: [Return to Frostwatch](/Adventures/Return-to-Frostwatch)
+*Deeper knowledge:* [Russet Mold & Infection](../../Game-Mechanics/Russet-Mold-and-Infection.md) · [The Barrier Peaks](../../Locations/The-Barrier-Peaks.md) · module: [Return to Frostwatch](../Return-to-Frostwatch.md)

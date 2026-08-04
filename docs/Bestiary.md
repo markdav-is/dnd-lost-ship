@@ -4,9 +4,9 @@ Creatures of the campaign, grouped by origin. Entries give the DM-essential summ
 
 ## Groups
 
-- [Fungal Threats](/Bestiary/Fungal-Threats) — the russet mold's servants and victims, from vegepygmies to the Mycelial Frost Giant Skeleton.
-- [Ship Constructs](/Bestiary/Ship-Constructs) — robots and androids, functional and otherwise.
-- [Ship Creatures](/Bestiary/Ship-Creatures) — the menagerie: alien flora and fauna, stowaways, and predators.
+- [Fungal Threats](Bestiary/Fungal-Threats.md) — the russet mold's servants and victims, from vegepygmies to the Mycelial Frost Giant Skeleton.
+- [Ship Constructs](Bestiary/Ship-Constructs.md) — robots and androids, functional and otherwise.
+- [Ship Creatures](Bestiary/Ship-Creatures.md) — the menagerie: alien flora and fauna, stowaways, and predators.
 
 ## Threat-at-a-glance
 

@@ -15,7 +15,7 @@ The ark's menagerie and its stowaways — alien fauna, killer flora, and the abe
 
 ## Killer flora (garden & walkway)
 
-See [The Garden Level](/The-Lost-Ship/The-Garden-Level) for the full flora table: purple blossom (DC 13 instant death), tri-flower frond (sleep → enzyme → drain), snapper-saw, boring grass, globe palms, strangle vines (light-seeking; lightning accelerates), vampire thorn vines (25% max HP per hit; lightning heals), the friendly telepathic **Horrid Plant**, and the **wolf-in-sheep's-clothing** (AC 15/17/13 by part, HP 85 — the rabbitoid lure on the stump).
+See [The Garden Level](../The-Lost-Ship/The-Garden-Level.md) for the full flora table: purple blossom (DC 13 instant death), tri-flower frond (sleep → enzyme → drain), snapper-saw, boring grass, globe palms, strangle vines (light-seeking; lightning accelerates), vampire thorn vines (25% max HP per hit; lightning heals), the friendly telepathic **Horrid Plant**, and the **wolf-in-sheep's-clothing** (AC 15/17/13 by part, HP 85 — the rabbitoid lure on the stump).
 
 ## Lesser fauna & hazards
 

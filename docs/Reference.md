@@ -2,8 +2,8 @@
 
 Source materials, published inspiration, and the asset index.
 
-- [Sourcebooks & Inspiration](/Reference/Sourcebooks-and-Inspiration) — the published works behind the campaign and how each maps in.
-- [Asset Index](/Reference/Asset-Index) — what every file in `/assets` is.
+- [Sourcebooks & Inspiration](Reference/Sourcebooks-and-Inspiration.md) — the published works behind the campaign and how each maps in.
+- [Asset Index](Reference/Asset-Index.md) — what every file in `/assets` is.
 
 ## External
 

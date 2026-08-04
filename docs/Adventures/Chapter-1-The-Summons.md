@@ -26,5 +26,5 @@ Determine what causes the monsters to emerge, who or what is responsible, how to
 
 ## DM notes
 
-- Jak should read as *frightened* under the authority — the fear is real and the friendship is real; the sealed orders ([Jak's page](/NPCs/Jak-Bjornsson)) are also real. All three at once.
+- Jak should read as *frightened* under the authority — the fear is real and the friendship is real; the sealed orders ([Jak's page](../NPCs/Jak-Bjornsson.md)) are also real. All three at once.
 - Seed Grønnfjord's divided mood on the walk in; Chapter 2 pays it off.

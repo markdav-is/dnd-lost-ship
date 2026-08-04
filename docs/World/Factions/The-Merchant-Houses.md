@@ -8,7 +8,7 @@ Canonical source: `assets/Aerun_TheMerchantHouses.md`.
 
 | | Jak | The Houses |
 | :--- | :--- | :--- |
-| **Controls** | The [Aura network](/World/The-Aura-Network): teleportation and instant global communication | The **Spice** and the **Ring Road** bulk commerce |
+| **Controls** | The [Aura network](../The-Aura-Network.md): teleportation and instant global communication | The **Spice** and the **Ring Road** bulk commerce |
 | **Blind spot** | Bulk goods can't teleport; the network fails beyond the Rim Wall | No counter to the Spásistren; no presence inside the void |
 | **Dependency** | The empire **needs Spice** — psionics and long life | They need the network's speed they cannot match |
 
@@ -31,8 +31,8 @@ They tolerate his temples; he tolerates their tariffs. Both sides know who reall
 ## Playing the houses
 
 - **United outward, knives inward.** One voice against Jak; endless espionage, price wars, and shadow conflicts among themselves. Any party dealing with one house inherits its feuds.
-- **[Tomas Vel-Maret](/NPCs/Tomas-Vel-Maret)** is their northern agent — which house holds his contract is a delicious open choice (Tsalaxa's spy-craft? Wavir's principled anti-monopolism? Vordon's ambition?).
-- **What they don't know:** the Spice's true nature ([The First Source](/Campaign/Plot-Threads/The-First-Source)) — the deep desert tribes hold unplayed leverage over the entire alliance.
+- **[Tomas Vel-Maret](../../NPCs/Tomas-Vel-Maret.md)** is their northern agent — which house holds his contract is a delicious open choice (Tsalaxa's spy-craft? Wavir's principled anti-monopolism? Vordon's ambition?).
+- **What they don't know:** the Spice's true nature ([The First Source](../../Campaign/Plot-Threads/The-First-Source.md)) — the deep desert tribes hold unplayed leverage over the entire alliance.
 - **Honest villainy:** "distributed technology" means distributed among the houses. The Landsraad did not oppose the Emperor because they loved freedom.
 
-See the plot thread: [The Merchant Alliance](/Campaign/Plot-Threads/The-Merchant-Alliance).
+See the plot thread: [The Merchant Alliance](../../Campaign/Plot-Threads/The-Merchant-Alliance.md).

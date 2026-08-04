@@ -1,6 +1,6 @@
 # Kaelen al-Hajra
 
-Dune Strider of the [Sandwalkers](/World/Factions/The-Sandwalkers) — deep desert nomad and primal shaman of [Aerun](/World/Aerun), warden-born of Rajaat, sent north to find the source of the Defiling Silence. She has walked across the proof of what happens when a world chooses wrong. *"The desert does not lie. It shows you exactly what the world becomes when power is taken without giving anything back."*
+Dune Strider of the [Sandwalkers](../World/Factions/The-Sandwalkers.md) — deep desert nomad and primal shaman of [Aerun](../World/Aerun.md), warden-born of Rajaat, sent north to find the source of the Defiling Silence. She has walked across the proof of what happens when a world chooses wrong. *"The desert does not lie. It shows you exactly what the world becomes when power is taken without giving anything back."*
 
 ![Kaelen al-Hajra](../.attachments/council_kaelen.jpg)
 
@@ -17,8 +17,8 @@ At the council she placed one hand flat on the table and gave the room the true 
 **Her rings of disclosure (DM-critical):**
 
 1. **Public (told at council):** the Rajaat story; the desert-as-quarantine; even a half-naming of the worms — *"contained only by sand and worms and the prayers of people the coastal cities have never met."*
-2. **Under pressure / in private:** *how* the desert was made — **defiler magic** — and that the [Order of the Sere](/World/Factions/The-Order-of-the-Sere) keeps the failsafe. She states it as fact, not advocacy.
-3. **Never:** the full containment ecology and **the Spice's true nature** ([The First Source](/Campaign/Plot-Threads/The-First-Source)). Pressed past her limit, the desert's flat finality: *"It is managed."*
+2. **Under pressure / in private:** *how* the desert was made — **defiler magic** — and that the [Order of the Sere](../World/Factions/The-Order-of-the-Sere.md) keeps the failsafe. She states it as fact, not advocacy.
+3. **Never:** the full containment ecology and **the Spice's true nature** ([The First Source](../Campaign/Plot-Threads/The-First-Source.md)). Pressed past her limit, the desert's flat finality: *"It is managed."*
 
 ## Personality
 
@@ -39,7 +39,7 @@ Economical with words, generous with action. States her position once, then does
 
 ## Roleplay functions
 
-- **Ecological memory:** introduces the [Green Age](/Campaign/Plot-Threads/The-Green-Age) through observation, never exposition — she answers history, doesn't volunteer it.
+- **Ecological memory:** introduces the [Green Age](../Campaign/Plot-Threads/The-Green-Age.md) through observation, never exposition — she answers history, doesn't volunteer it.
 - **Warden of Rajaat:** the cure path is now *personal* — success frees her people from a thousand-year duty they never chose. She wants the party to succeed more than she will ever say.
 - **Keeper of ringed secrets:** what she tells, what she yields under pressure, and what she never says — the gaps are where her best scenes live.
 - **Gateway to the Sere:** she knows the defilers endure. Whether she surrenders that name — and to whom — is a campaign hinge.

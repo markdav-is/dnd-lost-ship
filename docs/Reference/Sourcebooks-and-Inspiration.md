@@ -12,14 +12,15 @@ The published works in `/assets`, what each contributes, and how it maps into Ve
 
 | Book | File | Notes |
 | :--- | :--- | :--- |
-| **Dark Sun 5e Campaign Guide v1.9** (fan conversion) | `DarkSun_5e_Campaign_Guide_v1.9.pdf` | ⭐ The table-ready rules chassis for Aerun: defiler/preserver casting, psionics, races (muls, thri-kreen, half-giants), survival rules. *Image-based PDF — not text-searchable* |
+| **Dark Sun Player's Guide — AthasCon 5E V2.1** | `Dark Sun Players Guide - Athascon V2.1.pdf` | ⭐ **The player-facing option set**: Athasian races, Psion class, elemental clerics, Arcane Defilement, wild talents, Athasian equipment & spells. Text-searchable; extraction: `DarkSun_Players_Guide_Athascon_V2.1.md`. Rules summary: [Dark Sun 5e Rules](../Game-Mechanics/Dark-Sun-5e-Rules.md) |
+| **Dark Sun 5e Campaign Guide v1.9** (fan conversion) | `DarkSun_5e_Campaign_Guide_v1.9.pdf` | ⭐ The DM-side rules chassis for Aerun: defiler/preserver casting, psionics, survival rules. *Image-based PDF — not text-searchable* |
 | **Terrors of the Desert v1.0** (fan 5e monster manual) | `DarkSun_5e_Terrors_of_the_Desert_v1.0.pdf` | ⭐ Ready 5e stat blocks for the Tablelands and Deep Desert bestiary. *Image-based PDF — not text-searchable* |
 | Dark Sun Campaign Setting (4e) | `DD4_DarksunCampaign.pdf` (+ map: `DD4_Darksun_map.pdf`) | Lore backbone; the map is the visual reference for the Tablelands |
 | Dark Sun Creature Catalog (4e) | `Dark_Sun_Creature_Catalog_(4e).pdf` | Creature lore to pair with the 5e Terrors blocks |
 | Fury of the Wastewalker (chs. 1–3 + maps) | `DD4_FuryofWastewalker_*.pdf` | Convertible Aerun adventures |
 | Marauders of the Dune Sea | `DD4_MauraudersDuneSea.pdf` | Convertible Aerun adventure |
 
-**Mapping:** the Green Age and its death → [The Green Age](/Campaign/Plot-Threads/The-Green-Age); defiling → the [Order of the Sere](/World/Factions/The-Order-of-the-Sere) and the containment of the [First Source](/Campaign/Plot-Threads/The-First-Source); the canonical city-states and **[merchant houses](/World/Factions/The-Merchant-Houses)** (Tyr/Vordon, Urik/Stel, Raam/M'ke, Draj/Tsalaxa, Balic/Wavir, Gulg/Inika, Nibenay/Shom) → adopted wholesale on [Aerun](/World/Aerun); sorcerer-kings → alive and enthroned (Urik, Gulg, Nibenay) or freshly fallen; psionics ("the Will and the Way") → what the Spice enables.
+**Mapping:** the Green Age and its death → [The Green Age](../Campaign/Plot-Threads/The-Green-Age.md); defiling → the [Order of the Sere](../World/Factions/The-Order-of-the-Sere.md) and the containment of the [First Source](../Campaign/Plot-Threads/The-First-Source.md); the canonical city-states and **[merchant houses](../World/Factions/The-Merchant-Houses.md)** (Tyr/Vordon, Urik/Stel, Raam/M'ke, Draj/Tsalaxa, Balic/Wavir, Gulg/Inika, Nibenay/Shom) → adopted wholesale on [Aerun](../World/Aerun.md); sorcerer-kings → alive and enthroned (Urik, Gulg, Nibenay) or freshly fallen; psionics ("the Will and the Way") → what the Spice enables, mechanized as the Players Guide's **wild talents**.
 
 ## Dune 2d20 (Modiphius) — the political layer
 
@@ -30,7 +31,7 @@ The published works in `/assets`, what each contributes, and how it maps into Ve
 | Houses of the Landsraad | `Dune__Houses_Of_The_Landsraad_*.pdf` |
 | Masters of Dune | `masters_of_dune_digital_edition_pf_*.pdf` |
 
-**Mapping:** the Landsraad → the [merchant alliance](/Campaign/Plot-Threads/The-Merchant-Alliance) of the seven city-states; the spice melange → **the Spice** and its worm ecology; Fremen → the [Sandwalkers](/World/Factions/The-Sandwalkers); Fish Speakers / Sardaukar → the [Spásistren](/World/Factions/The-Spasistren); the Emperor's information monopoly → the [Aura network](/World/The-Aura-Network); Chakobsa flavor → Sandwalker naming (al-Hajra, "of the stone/journey"). *Houses of the Landsraad* remains the toolkit for house intrigue mechanics; the houses themselves now use Dark Sun's canon rosters.
+**Mapping:** the Landsraad → the [merchant alliance](../Campaign/Plot-Threads/The-Merchant-Alliance.md) of the seven city-states; the spice melange → **the Spice** and its worm ecology; Fremen → the [Sandwalkers](../World/Factions/The-Sandwalkers.md); Fish Speakers / Sardaukar → the [Spásistren](../World/Factions/The-Spasistren.md); the Emperor's information monopoly → the [Aura network](../World/The-Aura-Network.md); Chakobsa flavor → Sandwalker naming (al-Hajra, "of the stone/journey"). *Houses of the Landsraad* remains the toolkit for house intrigue mechanics; the houses themselves now use Dark Sun's canon rosters.
 
 ## The synthesis document
 

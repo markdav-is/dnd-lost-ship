@@ -18,7 +18,7 @@ A gauntlet blending horror, tension, and dark comedy. The deck is built around *
 | **Strangle vines** | Creep toward the brightest light (a *continual flame* is a homing beacon). Constrict + 10%/round strangulation; cut sections regrow next round; **lightning doubles their speed** |
 | **Vampire thorn vines** | 7-ft tendrils drain **25% max HP per hit**; death in 4 rounds unless the tendril is severed; **lightning heals them** |
 | **Dining servo robot** | Malfunctioning hospitality: seats "diners," force-feeds poisoned mold food (DC 13 CON → madness → death). STR 20 grapple. Pursues but never leaves the level. Punishes short rests in the lounge |
-| **Webbirds, green slime, police/worker robots** | See [Level 1](/The-Lost-Ship/Level-1-Crew-Quarters) |
+| **Webbirds, green slime, police/worker robots** | See [Level 1](Level-1-Crew-Quarters.md) |
 
 ## Treasure
 

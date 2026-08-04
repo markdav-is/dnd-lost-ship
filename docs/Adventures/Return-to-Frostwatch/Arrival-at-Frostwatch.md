@@ -4,7 +4,7 @@
 
 ## Read-aloud: first sight of the hold
 
-![First sight of the occupied hold](../.attachments/enc_frostwatch_arrival.jpg)
+![First sight of the occupied hold](../../.attachments/enc_frostwatch_arrival.jpg)
 
 > *Frostwatch Hold rises from the mountain shelf like a clenched fist. The damage from the previous siege has been repaired — new timber on the gatehouse, fresh mortar on the outer wall, the scorched sections of the great hall rebuilt in pale stone that hasn't yet weathered to match the old. Someone has been busy.*
 >
@@ -20,7 +20,7 @@
 
 ## Scene: Copper's warning
 
-![Copper's warning](../.attachments/enc_copper_warning.jpg)
+![Copper's warning](../../.attachments/enc_copper_warning.jpg)
 
 Copper finds the party within the hour — a man who has not slept in three days.
 
@@ -42,8 +42,8 @@ Korrin stands between his dogs and two initiates examining them with clinical de
 - He has overheard: a "council" is coming; the wagons hold **"cleansing materials."**
 - *"They're not here to help us. They're here to manage us. There's a difference."*
 
-The party gets comfortable quarters for the night. In the morning: the summons to the Great Hall at the second bell → [The Council of Frostwatch](/Encounters/The-Council-of-Frostwatch).
+The party gets comfortable quarters for the night. In the morning: the summons to the Great Hall at the second bell → [The Council of Frostwatch](The-Council-of-Frostwatch.md).
 
 ---
 
-*Deeper knowledge:* [Frostwatch Hold](/Locations/Frostwatch-Hold) · [The Spásistren](/World/Factions/The-Spasistren) · [Copper](/NPCs/Copper-the-Surgeon) · [Korrin](/NPCs/Korrin) · [The Invisible Infection](/Campaign/Plot-Threads/The-Invisible-Infection) · module: [Return to Frostwatch](/Adventures/Return-to-Frostwatch)
+*Deeper knowledge:* [Frostwatch Hold](../../Locations/Frostwatch-Hold.md) · [The Spásistren](../../World/Factions/The-Spasistren.md) · [Copper](../../NPCs/Copper-the-Surgeon.md) · [Korrin](../../NPCs/Korrin.md) · [The Invisible Infection](../../Campaign/Plot-Threads/The-Invisible-Infection.md) · module: [Return to Frostwatch](../Return-to-Frostwatch.md)

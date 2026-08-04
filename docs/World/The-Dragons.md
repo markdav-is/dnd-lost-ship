@@ -6,16 +6,16 @@ Source: Andy's world-building interview, `assets/Vermoon World-Building Session_
 
 ## The Prophecy of the Red Dragon
 
-The dragons activated in response to a world-threatening danger. The Prophecy of the Red Dragon brought the heroes together; each was paired with a dragon, the party gathered the **dragon orbs** ("dragon balls"), and the arc resolved aboard the orbital space station with the fall of the [First Administrator](/World/Timeline). The prophecy is now **fulfilled** — and with no world-scale threat, the dragons have gone dormant.
+The dragons activated in response to a world-threatening danger. The Prophecy of the Red Dragon brought the heroes together; each was paired with a dragon, the party gathered the **dragon orbs** ("dragon balls"), and the arc resolved aboard the orbital space station with the fall of the [First Administrator](Timeline.md). The prophecy is now **fulfilled** — and with no world-scale threat, the dragons have gone dormant.
 
 ## The four dragons
 
 | Dragon | Partner | Status & notes |
 | :--- | :--- | :--- |
-| **Red** | — (the prophecy itself) | Author of the ancient **apocalypse that buried the world's technology** ([Timeline](/World/Timeline)); the dragons were meant to protect the [Titans](/World/The-Titans) |
-| **Blue** | Tarn *(previous-campaign hero)* | The aloof one; pulled strings in the background (first met at Dry Tide, working with [Rico](/NPCs/Rico) on the car) before revealing himself. Came to believe the dragons — and perhaps everyone — are *kept* on Vermoon: "I don't think I'm supposed to be here." **Remained on the space station, intending to leave the planet and explore. Current disposition unknown.** |
-| **Black** | Shenandoah — **[Shhhmeowmeow](/Campaign/The-Party/Shhhmeowmeow)** | Found on the northern continent after the journey to the tower; that region is Shhhmeowmeow's homeland |
-| **Silver (or White)** | *(pairing not yet confirmed)* | Makes its home at **[Airlantis](/World/The-Elemental-Cities)** |
+| **Red** | — (the prophecy itself) | Author of the ancient **apocalypse that buried the world's technology** ([Timeline](Timeline.md)); the dragons were meant to protect the [Titans](The-Titans.md) |
+| **Blue** | Tarn *(previous-campaign hero)* | The aloof one; pulled strings in the background (first met at Dry Tide, working with [Rico](../NPCs/Rico.md) on the car) before revealing himself. Came to believe the dragons — and perhaps everyone — are *kept* on Vermoon: "I don't think I'm supposed to be here." **Remained on the space station, intending to leave the planet and explore. Current disposition unknown.** |
+| **Black** | Shenandoah — **[Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md)** | Found on the northern continent after the journey to the tower; that region is Shhhmeowmeow's homeland |
+| **Silver (or White)** | *(pairing not yet confirmed)* | Makes its home at **[Airlantis](The-Elemental-Cities.md)** |
 
 The pairings mix past and present: some belong to the current party, some to previous-campaign heroes (like Tarn) who are no longer in play. Blanks are deliberately left to confirm at the table.
 
@@ -25,7 +25,7 @@ The pairings mix past and present: some belong to the current party, some to pre
 
 - They can be sought out **one by one**, and each decides whether the cause merits waking.
 - If the infection escalates to a genuinely world-scale threat (a second Aerun), draconic intervention becomes plausible — a powerful escalation lever for the endgame.
-- The **Blue Dragon** is the wildcard: off-world or orbiting, disposition unknown, and ideologically invested in the Titans-as-captors question ([The Titans](/World/The-Titans)).
+- The **Blue Dragon** is the wildcard: off-world or orbiting, disposition unknown, and ideologically invested in the Titans-as-captors question ([The Titans](The-Titans.md)).
 
 ## Open questions
 

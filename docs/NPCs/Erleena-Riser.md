@@ -6,7 +6,7 @@ Scientist, veteran of the party's previous world-saving adventure, and the stron
 
 ## History
 
-Accompanied [George Decay](/NPCs/George-Decay) into the ship on Jak's orders. When both were exposed to spores, she chose **physics**: the containment suit from her last mission with the party. She went hunting for an exit route, got separated for days, and was found by the party in the Lighthouse — kneeling over the floor hatch, suit battered but sealed, still trying to turn the fouled wheel. *"Well. I'll be damned. You're a long way from home."*
+Accompanied [George Decay](George-Decay.md) into the ship on Jak's orders. When both were exposed to spores, she chose **physics**: the containment suit from her last mission with the party. She went hunting for an exit route, got separated for days, and was found by the party in the Lighthouse — kneeling over the floor hatch, suit battered but sealed, still trying to turn the fouled wheel. *"Well. I'll be damned. You're a long way from home."*
 
 ## Voice
 
@@ -18,9 +18,9 @@ The marine observatory's seals are intact and fifty feet of lake water is a natu
 
 ## In the current dilemma
 
-She is the anchor of **Path Three** ([The Lighthouse Dilemma](/Campaign/Plot-Threads/The-Lighthouse-Dilemma)) and the named, sympathetic NPC standing inside any blast radius the other paths would create. Two more scientists now work aboard with her.
+She is the anchor of **Path Three** ([The Lighthouse Dilemma](../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md)) and the named, sympathetic NPC standing inside any blast radius the other paths would create. Two more scientists now work aboard with her.
 
 ## Open concerns
 
-- The **cycling door** below her observatory — something overrides the lock, opens it, closes it. She asked the party to make it stay shut. It is Aphelion stirring ([The Ship's Purpose](/Campaign/Plot-Threads/The-Ships-Purpose)).
+- The **cycling door** below her observatory — something overrides the lock, opens it, closes it. She asked the party to make it stay shut. It is Aphelion stirring ([The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md)).
 - Her suit *can* fail. George's warning stands: "Ensure she doesn't make the same mistake I did."

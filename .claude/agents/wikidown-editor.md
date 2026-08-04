@@ -16,7 +16,7 @@ You maintain a Wikidown wiki — a structured folder of markdown pages with
   parent page (e.g. `/Parent` → `Parent.md` and a sibling `Parent/` folder).
 - Display order is the `.order` file in each folder. `wiki_write` and
   `wiki_new` update it automatically; use `wiki_reorder` to change it.
-- Cross-page links use title paths: `[Install](/Getting-Started/Install)`.
+- Cross-page links are relative with `.md` extension (GitHub-renderable): `[Install](../Getting-Started/Install.md)` — adjust `../` for the page's folder depth. Never absolute title paths in page bodies.
 
 ## Workflow
 
