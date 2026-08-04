@@ -1,68 +1,129 @@
 # Asset Index
 
-What every file in `/assets` is, grouped by type. (Published PDFs are covered in [Sourcebooks & Inspiration](Sourcebooks-and-Inspiration.md).)
+Every file in [`/assets`](../../assets), linked and grouped by type. (Published PDFs get fuller treatment in [Sourcebooks & Inspiration](Sourcebooks-and-Inspiration.md).)
 
 ## Homebrew scenario documents
 
 | File | Content | Wiki page |
 | :--- | :--- | :--- |
-| `campaign-start.docx` (+ `campaign-start2.docx`, identical) | Chapter 1 intro & player checklist | [Chapter 1](../Adventures/Chapter-1-The-Summons.md) |
-| `Jaks thromeroom.docx` / `The Throne Room.docx` | Throne room scene (two drafts) | [Chapter 1](../Adventures/Chapter-1-The-Summons.md) |
-| `Chapter 2 - Greefjord Shops.docx` | Grønnfjord town chapter | [Chapter 2](../Adventures/Chapter-2-Gronnfjord-Shops.md) |
-| `foggy fjord.docx` | Shipwreck camp encounter | [Foggy Fjord](../Adventures/Foggy-Fjord.md) |
-| `Think of the Children.docx` | Day-2 set piece | [Think of the Children](../Adventures/Think-of-the-Children.md) |
-| `Frostwatch_Horror.docx` | 3-act survival-horror module | [Frostwatch Horror](../Adventures/Frostwatch-Horror.md) |
-| `Return_to_Frostwatch_v3.md` ⭐ current | Descent + council module, v3: the **Rajaat** naming scene, Seal-the-Ship path, triage framing, McReady in the Brennan role | [Return to Frostwatch](../Adventures/Return-to-Frostwatch.md) |
-| `Return_to_Frostwatch_Final.md` / `Return_to_Frostwatch.docx` (older) | Earlier revisions (contain the dropped "Elder Brennan") | — |
-| `george_decay_npc.docx` (+ pdf) | Full George Decay NPC kit w/ d20 dialogue table | [George Decay](../NPCs/George-Decay.md) |
-| `desert_continent_expansion.md` | Kaelen, Aerun lore, merchant-alliance design doc | [Kaelen](../NPCs/Kaelen-al-Hajra.md), [Green Age](../Campaign/Plot-Threads/The-Green-Age.md) |
-| `Aerun_TheDesertContinent.md` ⭐ | **Canonical Aerun guide**: rings, canonical city-states, Tablelands, magic, society, First Source ecology | [Aerun](../World/Aerun.md), [The First Source](../Campaign/Plot-Threads/The-First-Source.md) |
-| `Aerun_TheMerchantHouses.md` ⭐ | **The seven merchant houses** — Wavir, Tsalaxa, Inika, Shom, M'ke, Vordon, Stel | [The Merchant Houses](../World/Factions/The-Merchant-Houses.md) |
-| `Aerun_Worldbuilding.md` (older) | Earlier Aerun draft — superseded on city names (used Dune's Zensunni names); still canonical for the political-monopoly framing | [Aerun](../World/Aerun.md) |
-| `Dune_DarkSun_Connections.md` | "The Sands of Two Worlds" — thematic analysis of the two source settings | [Sourcebooks & Inspiration](Sourcebooks-and-Inspiration.md) |
-| `Vermoon World-Building Session_...transcript.txt` (+ `_summary.txt`) | **Andy interview**: dragon lore, Titans, elemental cities, Aura, previous-campaign canon | [The Dragons](../World/The-Dragons.md), [The Titans](../World/The-Titans.md), [Elemental Cities](../World/The-Elemental-Cities.md), [Timeline](../World/Timeline.md) |
-| `S3_Level1_Complete_5e_Conversion.docx` | Level 1 stat blocks, triggers, read-alouds | [Level 1](../The-Lost-Ship/Level-1-Crew-Quarters.md) |
-| `S3_Level1_DM_Helper.docx` | Level 1 room key, loot tables, card reference | [Level 1](../The-Lost-Ship/Level-1-Crew-Quarters.md) |
-| `S3_Level3_Complete_5e_Conversion.docx` | Walkway level conversion | [Level 3](../The-Lost-Ship/Level-3-Upper-Walkway.md) |
-| `S3_Level4_Complete_5e_Conversion.docx` | Garden level creature conversions | [Garden Level](../The-Lost-Ship/The-Garden-Level.md) |
-| `Level_3_Garden_DM_Reference.docx` (+ `Level_IV_Garden_DM_Reference.docx`, identical) | Garden scene-by-scene read-alouds, Erleena reunion | [Garden Level](../The-Lost-Ship/The-Garden-Level.md), [Lighthouse](../The-Lost-Ship/The-Lighthouse.md) |
-| `Level 3 with George.docx` | George's garden briefing + crew room S50 | [Garden Level](../The-Lost-Ship/The-Garden-Level.md) |
-| `Final-Level4_Complete_DM_Reference2.docx` ⭐ current / `Final-Level4_Complete_DM_Reference.docx` older | Reactor core & cargo exit (adds Nova, commander's bones, item rules) | [Lower Deck](../The-Lost-Ship/The-Lower-Deck.md) |
-| `visuals.docx`, `S3-Images.docx` (corrupt zip) | Image collections for table display | — |
+| [campaign-start.docx](../../assets/campaign-start.docx) (+ [campaign-start2.docx](../../assets/campaign-start2.docx) identical, [pdf](../../assets/campaign-start.pdf)) | Chapter 1 intro & player checklist | [Chapter 1](../Adventures/Chapter-1-The-Summons.md) |
+| [Jaks thromeroom.docx](../../assets/Jaks%20thromeroom.docx) / [The Throne Room.docx](../../assets/The%20Throne%20Room.docx) | Throne room scene (two drafts) | [Chapter 1](../Adventures/Chapter-1-The-Summons.md) |
+| [Chapter 2 - Greefjord Shops.docx](../../assets/Chapter%202%20-%20Greefjord%20Shops.docx) | Grønnfjord town chapter | [Chapter 2](../Adventures/Chapter-2-Gronnfjord-Shops.md) |
+| [foggy fjord.docx](../../assets/foggy%20fjord.docx) | Shipwreck camp encounter | [Foggy Fjord](../Adventures/Foggy-Fjord.md) |
+| [Think of the Children.docx](../../assets/Think%20of%20the%20Children.docx) | Day-2 set piece | [Think of the Children](../Adventures/Think-of-the-Children.md) |
+| [Frostwatch_Horror.docx](../../assets/Frostwatch_Horror.docx) | 3-act survival-horror module | [Frostwatch Horror](../Adventures/Frostwatch-Horror.md) |
+| [Return_to_Frostwatch_v3.md](../../assets/Return_to_Frostwatch_v3.md) ⭐ current | Descent + council module v3: the **Rajaat** naming scene, Seal-the-Ship path, triage framing, McReady in the Brennan role | [Return to Frostwatch](../Adventures/Return-to-Frostwatch.md) |
+| [Return_to_Frostwatch_Final.md](../../assets/Return_to_Frostwatch_Final.md) / [Return_to_Frostwatch.docx](../../assets/Return_to_Frostwatch.docx) (older) | Earlier revisions (contain the dropped "Elder Brennan") | — |
+| [george_decay_npc.docx](../../assets/george_decay_npc.docx) (+ [pdf](../../assets/george_decay_npc.pdf)) | Full George Decay NPC kit w/ d20 dialogue table | [George Decay](../NPCs/George-Decay.md) |
+| [desert_continent_expansion.md](../../assets/desert_continent_expansion.md) | Kaelen, Aerun lore, merchant-alliance design doc | [Kaelen](../NPCs/Kaelen-al-Hajra.md), [Green Age](../Campaign/Plot-Threads/The-Green-Age.md) |
+| [Aerun_TheDesertContinent.md](../../assets/Aerun_TheDesertContinent.md) ⭐ | **Canonical Aerun guide**: rings, city-states, Tablelands, magic, society, First Source ecology | [Aerun](../World/Aerun.md), [The First Source](../Campaign/Plot-Threads/The-First-Source.md) |
+| [Aerun_TheMerchantHouses.md](../../assets/Aerun_TheMerchantHouses.md) ⭐ | **The seven merchant houses** — Wavir, Tsalaxa, Inika, Shom, M'ke, Vordon, Stel | [The Merchant Houses](../World/Factions/The-Merchant-Houses.md) |
+| [Aerun_Worldbuilding.md](../../assets/Aerun_Worldbuilding.md) (older) | Earlier Aerun draft — superseded on city names; still canonical for the political-monopoly framing | [Aerun](../World/Aerun.md) |
+| [Dune_DarkSun_Connections.md](../../assets/Dune_DarkSun_Connections.md) | "The Sands of Two Worlds" — thematic analysis of the two source settings | [Sourcebooks](Sourcebooks-and-Inspiration.md) |
+| [Vermoon interview transcript](../../assets/Vermoon%20World-Building%20Session_%20Dragon%20Lore%2C%20Continent%20Design%2C%20and%20Titan%20Technology%20Discussion_transcript.txt) (+ [summary](../../assets/Vermoon%20World-Building%20Session_%20Dragon%20Lore%2C%20Continent%20Design%2C%20and%20Titan%20Technology%20Discussion_summary.txt)) | **Andy interview**: dragon lore, Titans, elemental cities, Aura, previous-campaign canon | [The Dragons](../World/The-Dragons.md), [The Titans](../World/The-Titans.md), [Elemental Cities](../World/The-Elemental-Cities.md), [Timeline](../World/Timeline.md) |
+| [S3_Level1_Complete_5e_Conversion.docx](../../assets/S3_Level1_Complete_5e_Conversion.docx) | Level 1 stat blocks, triggers, read-alouds | [Level 1](../The-Lost-Ship/Level-1-Crew-Quarters.md) |
+| [S3_Level1_DM_Helper.docx](../../assets/S3_Level1_DM_Helper.docx) | Level 1 room key, loot tables, card reference | [Level 1](../The-Lost-Ship/Level-1-Crew-Quarters.md) |
+| [S3_Level3_Complete_5e_Conversion.docx](../../assets/S3_Level3_Complete_5e_Conversion.docx) | Walkway level conversion | [Level 3](../The-Lost-Ship/Level-3-Upper-Walkway.md) |
+| [S3_Level4_Complete_5e_Conversion.docx](../../assets/S3_Level4_Complete_5e_Conversion.docx) | Garden level creature conversions | [Garden Level](../The-Lost-Ship/The-Garden-Level.md) |
+| [Level_3_Garden_DM_Reference.docx](../../assets/Level_3_Garden_DM_Reference.docx) (+ [Level_IV copy](../../assets/Level_IV_Garden_DM_Reference.docx), identical) | Garden scene read-alouds, Erleena reunion | [Garden Level](../The-Lost-Ship/The-Garden-Level.md), [Lighthouse](../The-Lost-Ship/The-Lighthouse.md) |
+| [Level 3 with George.docx](../../assets/Level%203%20with%20George.docx) | George's garden briefing + crew room S50 | [Garden Level](../The-Lost-Ship/The-Garden-Level.md) |
+| [Final-Level4_Complete_DM_Reference2.docx](../../assets/Final-Level4_Complete_DM_Reference2.docx) ⭐ current (+ [older](../../assets/Final-Level4_Complete_DM_Reference.docx)) | Reactor core & cargo exit (adds Nova, commander's bones, item rules) | [Lower Deck](../The-Lost-Ship/The-Lower-Deck.md) |
+| [visuals.docx](../../assets/visuals.docx), [S3-Images.docx](../../assets/S3-Images.docx) (corrupt zip) | Image collections for table display | — |
 
-| `DarkSun_Players_Guide_Athascon_V2.1.md` | Text extraction of the Players Guide PDF (searchable) | [Dark Sun 5e Rules](../Game-Mechanics/Dark-Sun-5e-Rules.md) |
+## Rules references
 
-**Note on the Dark Sun 5e PDFs** (`DarkSun_5e_Campaign_Guide_v1.9.pdf`, `DarkSun_5e_Terrors_of_the_Desert_v1.0.pdf`): image-based scans with no text layer — not convertible to markdown without OCR. Indexed as rules references in [Sourcebooks & Inspiration](Sourcebooks-and-Inspiration.md).
+| File | Content | Wiki page |
+| :--- | :--- | :--- |
+| [Dark Sun Players Guide - Athascon V2.1.pdf](../../assets/Dark%20Sun%20Players%20Guide%20-%20Athascon%20V2.1.pdf) ⭐ (+ [text extraction](../../assets/DarkSun_Players_Guide_Athascon_V2.1.md)) | Player-facing 5e option set: races, Psion, Arcane Defilement, wild talents, spells | [Dark Sun 5e Rules](../Game-Mechanics/Dark-Sun-5e-Rules.md) |
+| [DarkSun_5e_Campaign_Guide_v1.9.pdf](../../assets/DarkSun_5e_Campaign_Guide_v1.9.pdf) ⭐ | DM-side rules chassis *(image-based — no text layer)* | [Sourcebooks](Sourcebooks-and-Inspiration.md) |
+| [DarkSun_5e_Terrors_of_the_Desert_v1.0.pdf](../../assets/DarkSun_5e_Terrors_of_the_Desert_v1.0.pdf) ⭐ | 5e monster manual for the desert *(image-based — no text layer)* | [Sourcebooks](Sourcebooks-and-Inspiration.md) |
+
+## Published sourcebooks
+
+| File | Book |
+| :--- | :--- |
+| [tsr09033 - S3 - Expedition to the Barrier Peaks (1).pdf](../../assets/tsr09033%20-%20S3%20-%20Expedition%20to%20the%20Barrier%20Peaks%20%281%29.pdf) | **S3: Expedition to the Barrier Peaks** (AD&D) — the foundation |
+| [DD4_DarksunCampaign.pdf](../../assets/DD4_DarksunCampaign.pdf) (+ [map](../../assets/DD4_Darksun_map.pdf)) | Dark Sun Campaign Setting (4e) |
+| [Dark_Sun_Creature_Catalog_(4e).pdf](../../assets/Dark_Sun_Creature_Catalog_%284e%29.pdf) | Dark Sun Creature Catalog (4e) |
+| [Fury of the Wastewalker Ch1](../../assets/DD4_FuryofWastewalker_Chap1.pdf) · [Ch2](../../assets/DD4_FuryofWastewalker_Chap2.pdf) · [Ch3](../../assets/DD4_FuryofWastewalker_Chap3.pdf) · maps [2A](../../assets/DD4_FuryofWastewalker_Map2A.pdf) [2B](../../assets/DD4_FuryofWastewalker_Map2B.pdf) [2C](../../assets/DD4_FuryofWastewalker_Map2C.pdf) | Fury of the Wastewalker (4e adventure) |
+| [DD4_MauraudersDuneSea.pdf](../../assets/DD4_MauraudersDuneSea.pdf) | Marauders of the Dune Sea (4e adventure) |
+| [Sand and Dust](../../assets/DUNE_Sand_and_Dust_DIGITAL_004w.pdf) (+ [printer-friendly](../../assets/DUNE_Sand_and_Dust_DIGITAL_P_P_004w.pdf)) | Dune 2d20: Sand and Dust |
+| [Power and Pawns](../../assets/DUNE_Power_And_Pawns_Emperors_Court_Sourcebook_Printer_Friendly_v010LW.pdf) | Dune 2d20: The Emperor's Court |
+| [Houses of the Landsraad](../../assets/Dune__Houses_Of_The_Landsraad_Digital_Standard.pdf) (+ [printer-friendly](../../assets/Dune__Houses_Of_The_Landsraad_Digital_Printer_Friendly.pdf)) | Dune 2d20: Houses of the Landsraad |
+| [masters_of_dune_digital_edition_pf_18-04-23.pdf](../../assets/masters_of_dune_digital_edition_pf_18-04-23.pdf) | Dune 2d20: Masters of Dune |
 
 ## Character sheets (D&D Beyond exports)
 
-`Shhhmeowmeow_109963368.pdf` · `Taco_Mix_114102493.pdf` (Eustace) · `Theonezerg_110631730.pdf` (Gobbledegook) · `yourthighness69_111941481 (1).pdf` (Musty-Jo) · `andy-beyond-Ce.pdf` (Beyond-Ce) — see [The Party](../Campaign/The-Party.md).
+| File | Character |
+| :--- | :--- |
+| [Shhhmeowmeow_109963368.pdf](../../assets/Shhhmeowmeow_109963368.pdf) | [Shhhmeowmeow / Shenandoah](../Campaign/The-Party/Shhhmeowmeow.md) — Tabaxi Ranger 9 |
+| [Taco_Mix_114102493.pdf](../../assets/Taco_Mix_114102493.pdf) | [Eustace Thunderbeak](../Campaign/The-Party/Eustace-Thunderbeak.md) — Aarakocra Bard 9 |
+| [Theonezerg_110631730.pdf](../../assets/Theonezerg_110631730.pdf) | [Gobbledegook](../Campaign/The-Party/Gobbledegook.md) — Goblin Cleric 8 |
+| [yourthighness69_111941481 (1).pdf](../../assets/yourthighness69_111941481%20%281%29.pdf) | [Musty-Jo Mustang](../Campaign/The-Party/Musty-Jo-Mustang.md) — Centaur Fighter 5 / Paladin 3 |
+| [andy-beyond-Ce.pdf](../../assets/andy-beyond-Ce.pdf) | [Beyond-Ce](../Campaign/The-Party/Beyond-Ce.md) — Human Sorcerer 9 |
 
-## Images
+## Maps & world art
 
 | File | Subject | Embedded at |
 | :--- | :--- | :--- |
-| `aerun_map_v3.png` ⭐ | **The Aerun continent map** — seven cities, Ring Road, Rim Wall, Deep Desert, Sea of Silt, Badlands, Rim Wall West ★ | [Aerun](../World/Aerun.md) |
-| `vermoon.jpg` | The world (low-res; high-res wanted) | [World](../World.md) |
-| `1000023250.jpg` / `1000023251.jpg` | Mark's notebook pages: Aerun city ring & Deep Desert lifecycle | [Aerun](../World/Aerun.md) (as `aerun_notebook_*.jpg`) |
-| `crossing.png` / `sled-in-snow.png` | The Frostwind Crossing / sled teams | [Frostwatch Hold](../Locations/Frostwatch-Hold.md) |
-| `frostwatch.png` / `frostwartch-night.png` / `frost-hold.png` | Frostwatch Hold day / night siege / earlier keep art | [Frostwatch Hold](../Locations/Frostwatch-Hold.md) |
-| `council_reference.jpg`, `council_reference2.jpg`, `council_cast_reference.jpg` | Council scene references | [Frostwatch Hold](../Locations/Frostwatch-Hold.md) (first) |
-| `council_valerius/mcready/copper/kaelen.jpg` | Council NPC portraits — now also used as per-path art in [Return to Frostwatch](../Adventures/Return-to-Frostwatch.md) (`council_brennan.jpg` unused — character dropped) | NPC pages + council module |
-| `mcready_portrait.webp` | McReady portrait (note: `mcready_portrait.png` is **0 bytes** — safe to delete) | [McReady](../NPCs/McReady.md) |
-| `copper_portrait.png` (+ `_website` variants) | Copper portrait | [Copper](../NPCs/Copper-the-Surgeon.md) |
-| `hoversled_reference.jpg` | The party's hoversled | [Return to Frostwatch](../Adventures/Return-to-Frostwatch.md) |
-| `nova_in_pod_v3.png` | Nova in her stasis pod | [Nova](../NPCs/Nova.md) |
-| `fw-hold_ref.png`, `fw-arrival_ref.png` | Frostwatch reference art | — (reference only) |
-| `enc_*.jpg` (9 files) | Return-to-Frostwatch encounter art | [Return to Frostwatch](../Adventures/Return-to-Frostwatch.md) |
-| `level4_*.png` (6 files) | Lower deck scenes | [Lower Deck](../The-Lost-Ship/The-Lower-Deck.md) |
+| [aerun_map_v3.png](../../assets/aerun_map_v3.png) ⭐ | **The Aerun continent map** | [Aerun](../World/Aerun.md) |
+| [vermoon.jpg](../../assets/vermoon.jpg) | The world (low-res; high-res wanted) | [World](../World.md) |
+| [1000023250.jpg](../../assets/1000023250.jpg) / [1000023251.jpg](../../assets/1000023251.jpg) | Mark's notebook: Aerun city ring & Deep Desert lifecycle | [Aerun](../World/Aerun.md) |
 
-An empty file named `The Lost Ship` also sits in `/assets` (zero bytes — safe to delete).
+## Frostwatch & journey art
+
+| File | Subject | Embedded at |
+| :--- | :--- | :--- |
+| [frostwatch.png](../../assets/frostwatch.png) / [frostwartch-night.png](../../assets/frostwartch-night.png) / [frost-hold.png](../../assets/frost-hold.png) | The hold: day / night siege / earlier keep art | [Frostwatch Hold](../Locations/Frostwatch-Hold.md) |
+| [crossing.png](../../assets/crossing.png) / [sled-in-snow.png](../../assets/sled-in-snow.png) | The Frostwind Crossing / sled teams | [Frostwatch Hold](../Locations/Frostwatch-Hold.md) |
+| [hoversled_reference.jpg](../../assets/hoversled_reference.jpg) | The party's hoversled | [Return to Frostwatch](../Adventures/Return-to-Frostwatch.md) |
+| [fw-hold_ref.png](../../assets/fw-hold_ref.png) / [fw-arrival_ref.png](../../assets/fw-arrival_ref.png) | Reference art | — |
+
+## Encounter art (Return to Frostwatch)
+
+| File | Encounter |
+| :--- | :--- |
+| [enc_departure.jpg](../../assets/enc_departure.jpg) | [Departure read-aloud](../Adventures/Return-to-Frostwatch.md) |
+| [enc_spore_ravine.jpg](../../assets/enc_spore_ravine.jpg) | [The Spore-Choked Ravine](../Adventures/Return-to-Frostwatch/The-Spore-Choked-Ravine.md) |
+| [enc_watching_herd.jpg](../../assets/enc_watching_herd.jpg) | [The Watching Herd](../Adventures/Return-to-Frostwatch/The-Watching-Herd.md) |
+| [enc_cloaker.jpg](../../assets/enc_cloaker.jpg) | [Alien Echoes](../Adventures/Return-to-Frostwatch/Alien-Echoes.md) |
+| [enc_avalanche.jpg](../../assets/enc_avalanche.jpg) | [The Fungal Avalanche](../Adventures/Return-to-Frostwatch/The-Fungal-Avalanche.md) |
+| [enc_sky_hunters.jpg](../../assets/enc_sky_hunters.jpg) | [The Sky Hunters](../Adventures/Return-to-Frostwatch/The-Sky-Hunters.md) |
+| [enc_frozen_pilgrims.jpg](../../assets/enc_frozen_pilgrims.jpg) | [The Frozen Pilgrims](../Adventures/Return-to-Frostwatch/The-Frozen-Pilgrims.md) |
+| [enc_frostwatch_arrival.jpg](../../assets/enc_frostwatch_arrival.jpg) | [Arrival at Frostwatch](../Adventures/Return-to-Frostwatch/Arrival-at-Frostwatch.md) |
+| [enc_copper_warning.jpg](../../assets/enc_copper_warning.jpg) | [Arrival — Copper's warning](../Adventures/Return-to-Frostwatch/Arrival-at-Frostwatch.md) |
+
+## Portraits & council art
+
+| File | Subject | Embedded at |
+| :--- | :--- | :--- |
+| [council_valerius.jpg](../../assets/council_valerius.jpg) | Valerius | [NPC page](../NPCs/High-Sister-Valerius.md) + [council](../Adventures/Return-to-Frostwatch/The-Council-of-Frostwatch.md) |
+| [council_mcready.jpg](../../assets/council_mcready.jpg) | McReady | [council](../Adventures/Return-to-Frostwatch/The-Council-of-Frostwatch.md) |
+| [council_kaelen.jpg](../../assets/council_kaelen.jpg) | Kaelen | [NPC page](../NPCs/Kaelen-al-Hajra.md) + [council](../Adventures/Return-to-Frostwatch/The-Council-of-Frostwatch.md) |
+| [council_copper.jpg](../../assets/council_copper.jpg) | Copper | [NPC page](../NPCs/Copper-the-Surgeon.md) + [council](../Adventures/Return-to-Frostwatch/The-Council-of-Frostwatch.md) |
+| [council_brennan.jpg](../../assets/council_brennan.jpg) | *(unused — character dropped)* | — |
+| [council_reference.jpg](../../assets/council_reference.jpg) / [council_reference2.jpg](../../assets/council_reference2.jpg) / [council_cast_reference.jpg](../../assets/council_cast_reference.jpg) | Council scene references | [Frostwatch Hold](../Locations/Frostwatch-Hold.md) |
+| [mcready_portrait.webp](../../assets/mcready_portrait.webp) | McReady portrait | [McReady](../NPCs/McReady.md) |
+| [copper_portrait.png](../../assets/copper_portrait.png) (+ [website png](../../assets/copper_portrait_website.png) / [webp](../../assets/copper_portrait_website.webp)) | Copper portrait | [Copper](../NPCs/Copper-the-Surgeon.md) |
+| [nova_in_pod_v3.png](../../assets/nova_in_pod_v3.png) | Nova in her stasis pod | [Nova](../NPCs/Nova.md) |
+
+## Ship art (lower deck)
+
+| File | Subject |
+| :--- | :--- |
+| [level4_reactor_core_v6.png](../../assets/level4_reactor_core_v6.png) | Reactor core — embedded at [Lower Deck](../The-Lost-Ship/The-Lower-Deck.md) |
+| [level4_cargo_bay_interior_v3.png](../../assets/level4_cargo_bay_interior_v3.png) | Cargo bay — embedded at [Lower Deck](../The-Lost-Ship/The-Lower-Deck.md) |
+| [level4_cargo_exit_v3.png](../../assets/level4_cargo_exit_v3.png) / [v3b](../../assets/level4_cargo_exit_v3b.png) | Cargo doors |
+| [level4_ejection_scene_final.png](../../assets/level4_ejection_scene_final.png) / [final2](../../assets/level4_ejection_scene_final2.png) | The purge ejection — embedded at [Lower Deck](../The-Lost-Ship/The-Lower-Deck.md) |
+
+## Cleanup candidates (zero-byte files)
+
+[`The Lost Ship`](../../assets/The%20Lost%20Ship) · [`mcready_portrait.png`](../../assets/mcready_portrait.png) · [`copper_portrait2.png`](../../assets/copper_portrait2.png) — all 0 bytes, safe to delete.
 
 ## Wishlist
 
-- High-res **world** map (Andy has one; `vermoon.jpg` is low quality — Aerun now has its own map ✓).
-- **House banner art** — the Merchant Houses doc references banner images on expiring CDN links; save stable copies into `/assets` to embed on [The Merchant Houses](../World/Factions/The-Merchant-Houses.md).
+- High-res **world** map (Andy has one; `vermoon.jpg` is low quality — Aerun has its own map ✓).
+- **House banner art** — the Merchant Houses doc references banners on expiring CDN links; save stable copies to embed on [The Merchant Houses](../World/Factions/The-Merchant-Houses.md).
 - Andy's **Trello board** of previous-campaign notes — city names, connections, the earth city.
 - Sahali's session notes (confirm Airlantis details and dragon pairings).
 - Which of the seven city-states is the elemental **fire city** ([ANDY LORE]).
