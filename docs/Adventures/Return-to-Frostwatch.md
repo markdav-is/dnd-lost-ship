@@ -2,100 +2,77 @@
 
 Journey-and-council module: the hoversled descent through dying mountains, the occupied hold, and the Council of Frostwatch. Tone: cosmic horror, political tension, impossible choices — *"The party has seen the void. Now the void is following them home."*
 
-**Source: `assets/Return_to_Frostwatch_v3.md`** ⭐ (current — adds the *Rajaat* naming scene, the Seal-the-Ship containment path, and the triage framing; supersedes `Return_to_Frostwatch_Final.md` and the docx).
+Source: `assets/Return_to_Frostwatch_v3.md` ⭐ (supersedes the older Final.md/docx). **The play-ready text lives in the [Encounters](/Encounters) section** — flip there at the table; this page is the module map.
 
 ## Act I — The Hoversled Descent (~4 hours in-world)
 
+The sled covers in ~4 hours what a mounted party needs two days for. The mountains are *wrong*: fungal veins on the ridgelines, bioluminescent snow, animals that watch instead of fleeing. Run 2–3 encounters, building to the set piece.
+
+**Roll 1d6 per hour — 1–4: that encounter · 5–6: no encounter, read a Sign of Spreading Infection (below).**
+
+| d6 | Encounter (play-ready page) | Type |
+| :-: | :--- | :--- |
+| 1 | [The Spore-Choked Ravine](/Encounters/The-Spore-Choked-Ravine) | Atmospheric hazard |
+| 2 | [The Watching Herd](/Encounters/The-Watching-Herd) | Dread / possible combat |
+| 3 | [Alien Echoes](/Encounters/Alien-Echoes) | Ambush combat |
+| 4 | [The Fungal Avalanche](/Encounters/The-Fungal-Avalanche) | Chase hazard |
+| 5 | [The Sky Hunters](/Encounters/The-Sky-Hunters) | Set-piece aerial combat |
+| 6 | [The Frozen Pilgrims](/Encounters/The-Frozen-Pilgrims) | Horror / combat |
+
+### Read-aloud: departure from the ship
+
 ![Departure from the ship](../.attachments/enc_departure.jpg)
 
-Run 2–3 encounters from the d6 table, building to the set piece. The mountains are *wrong*: fungal veins on the ridgelines, bioluminescent snow, animals that watch instead of fleeing.
+> *The hoversled clears the final ramp and banks into the open mountain air. For a moment, the cold is a relief — clean and sharp after the recycled, fungal-tainted atmosphere of the ship. Then you see the treeline.*
+>
+> *The forest below the crash site has changed. Dark veins of something organic thread through the snow between the pines, pulsing faintly in the grey morning light. A herd of elk stands motionless in a clearing a quarter-mile below, every head turned upward, watching you. None of them move. None of them flee. Their eyes catch the light wrong.*
+>
+> *The hoversled hums beneath you. The ship shrinks behind you. The mountains stretch ahead.*
+>
+> *Something is very wrong with the world you left.*
 
-![The hoversled](../.attachments/hoversled_reference.jpg)
+### Signs of Spreading Infection (no-encounter hours, pick one)
 
-| d6 | Encounter | Core mechanic |
-| :-: | :--- | :--- |
-| 1 | **Spore-Choked Ravine** | DC 15 CON or poisoned 1 h with ship-flashback hallucinations; DC 14 DEX piloting; flyable |
-| 2 | **The Watching Herd** | 12 infected deer, shared initiative, spore bursts; DC 16 Insight — they're *scouts*. George: "The mold doesn't just infect — it networks." |
-| 3 | **Alien Echoes** | Escaped frost-coated cloaker ambush from above; its mold has *adapted to cold* |
-| 4 | **The Fungal Avalanche** | Infected remorhaz beneath the ice triggers avalanche; 3 rounds of DC 15 DEX piloting |
-| 5 | **Sky Hunters** (set piece) | See below |
-| 6 | **The Frozen Pilgrims** | Merged corpse shambling mound (cold-resistant); journal: *"The smell is sweet. We thought it was flowers. We were wrong."* |
-
-### Encounter art
-
-![The Spore-Choked Ravine](../.attachments/enc_spore_ravine.jpg)
-![The Watching Herd](../.attachments/enc_watching_herd.jpg)
-![Alien Echoes — the cloaker](../.attachments/enc_cloaker.jpg)
-![The Fungal Avalanche](../.attachments/enc_avalanche.jpg)
-![The Frozen Pilgrims](../.attachments/enc_frozen_pilgrims.jpg)
-
-**Set piece — Sky Hunters:** exposed half-mile ridge; 3 **fungal perytons** (CR 2, dive +2d8, spore release when pierced) + 2 **spore-touched snowy owlbears** on flanking outcrops punishing anyone who lands. Hoversled control checks on initiative 20 when damaged; crit-fail throws a passenger. Designed for a flying party — keep it three-dimensional.
-
-![The Sky Hunters](../.attachments/enc_sky_hunters.jpg)
-
-**No-encounter hours:** use the 6-entry "Signs of Spreading Infection" atmosphere table (tracking pine branches, sweet orange streams, a fungal-antlered goat, a hatched-open condor, absolute silence, a thrice-repeated roar).
+1. A pine colonized by fungus, bark split, pale finger-like fruiting bodies reaching out. Still alive. Its branches move slowly, *tracking the sled*.
+2. A frozen stream running orange-brown with fungal runoff; the ice smells faintly sweet.
+3. A mountain goat on a ledge, watching — its horns replaced by branching antler-like fungal growths. It does not move.
+4. A dead eagle or condor, split open *from the inside*. Something has already hatched.
+5. A stretch of forest in absolute silence. No birds. No rustle. Deeply wrong.
+6. A distant roar from high above — too large for a bear, too rhythmic for an avalanche. Three times. Then it stops.
 
 ## Act II — Arrival at Frostwatch
 
-![First sight of the occupied hold](../.attachments/enc_frostwatch_arrival.jpg)
-
-The hold repaired but re-flagged with the Administrator's seal; ~30 [Spásistren](/World/Factions/The-Spasistren) (20 initiates / 8 Sisters / 1 High Sister) cataloguing, interviewing, unpacking **alchemical incendiaries and containment gear** — and explaining nothing: *"Those matters will be addressed at the council tomorrow."*
-
-- **Copper's warning** (granary scene): the [invisible infection](/Campaign/Plot-Threads/The-Invisible-Infection) theory, delivered once, quietly, terrifyingly.
-
-  ![Copper's warning](../.attachments/enc_copper_warning.jpg)
-
-- **Korrin in the stables:** axe in hand between his dogs and the initiates; "cleansing materials"; *"They're here to manage us."*
+Play-ready page: **[Arrival at Frostwatch](/Encounters/Arrival-at-Frostwatch)** — first sight of the occupied hold, the Spásistren presence, Copper's warning, Korrin in the stables.
 
 ## Act III — The Council of Frostwatch
 
-**Seating:** [Valerius](/NPCs/High-Sister-Valerius) (implant pulsing), [Copper](/NPCs/Copper-the-Surgeon), the stranger [Kaelen al-Hajra](/NPCs/Kaelen-al-Hajra) (knife placed handle-forward, watching the doors), and [McReady](/NPCs/McReady) in the chair nearest the door.
+Play-ready page: **[The Council of Frostwatch](/Encounters/The-Council-of-Frostwatch)** — the full scene in play order: McReady in the corridor, the report, the Severing, "We call it Rajaat," the Three Paths with every scripted response, the question, and Valerius's final word. DM background and motivations sit at the bottom of that page; the decision-space reference is [The Lighthouse Dilemma](/Campaign/Plot-Threads/The-Lighthouse-Dilemma).
 
-**McReady in the corridor:** rested, clean, the calmest person in the building. *"Let me do the talking for the first minute."* And at the door: *"The High Sister is Jak's voice in this room. But she's also the smartest person in it. **Don't confuse those two things.**"* Inside, he opens: "These are the people who went into the ship. They came back… **I'll vouch for all of them.**"
+## Appendix — Stat Blocks
 
-### Sequence
+### Fungal Peryton — *Medium monstrosity, CE, CR 2*
 
-1. **The report:** the party recounts the ship. Valerius asks exactly three questions: is the infection centrally directed or autonomous; any cure or kill-switch; is the ship re-enterable.
-2. **The Severing:** guards dismissed, the implant pressed dark — *"Jak cannot hear us now."* Heresy, trust, and a test at once.
-3. **Revelation:** three villages quarantined, two silent; network anomalies; her fear — *purposeful without being intelligent, the way a river is purposeful*.
-4. **Kaelen names it** — the module's new centerpiece scene.
-5. **The Three Paths** (below).
-6. **The question:** *"You have been there. What is your counsel?"*
-7. **Codas:** the invisible-infection warning ("Sleep well."); McReady's dis-trans bat confrontation if the party pushes.
+**AC** 13 · **HP** 33 (6d8+6) · **Speed** 20 ft, fly 60 ft · STR 16, DEX 12, CON 13, INT 3, WIS 12, CHA 10 · Perception +3 · resist cold, poison; immune poisoned · darkvision 60 ft
 
-### The naming scene — "We call it Rajaat."
+- **Dive Attack:** 30-ft dive + gore hit → +9 (2d8) piercing. **Flyby.** **Spore Release:** when it takes piercing/slashing damage — 10-ft cloud, DC 13 CON or poisoned 1 min.
+- **Gore** +5 (1d8+3) · **Talons** +5 (2d4+3).
 
-Kaelen places one hand flat on the table and gives the council the true scale (full read-aloud in source):
+### Spore-Touched Griffon — *Large monstrosity, CR 3*
 
-- In the deep desert is a place her people call the **First Source** — *"The place where it began. The place where it has always been."*
-- Aerun had forests, rivers, cities — the infection came first, spreading "slowly, then all at once" — and the people who understood **made a desert. On purpose.** *"They killed the land to save the world."* No water, no organic matter, no host for the bloom. The desert is a **quarantine** — the only containment ever found that works — and **it has held for a thousand years**.
-- Her ancestors tried walls first. The walls held **eleven years**; then the bloom came from *beneath* — the spores had been in the groundwater all along.
-- *"What you have in your mountains is a **second Rajaat**… sitting in a valley full of trees, animals, rivers, and people. Your desert does not exist yet. And creating one large enough would take generations and kill everything between here and the sea."*
+**AC** 12 · **HP** 59 (7d10+21) · **Speed** 30 ft, fly 80 ft · STR 18, DEX 15, CON 16, INT 2, WIS 13, CHA 8 · Perception +5 · resist cold, poison; immune poisoned
 
-**DM note (source):** after this, the Three Paths are no longer a political debate — they are **planetary triage**. *(Table canon layering: how the desert was made — defiler magic — and the [Order of the Sere](/World/Factions/The-Order-of-the-Sere) that keeps it are details Kaelen does **not** volunteer in open council; they surface if pressed or in private, per the [First Source](/Campaign/Plot-Threads/The-First-Source) two-tier secrecy. The worms she now half-names — "contained only by sand and worms and the prayers of people the coastal cities have never met" — but never the Spice.)*
+- **Keen Sight.** **Spore Aura:** start of turn within 5 ft — DC 13 CON or poisoned until start of its next turn.
+- **Multiattack:** beak +6 (2d4+4) and claws +6 (2d6+4, grapple DC 14 on Medium or smaller).
 
-### The Three Paths (with scripted responses per voice in the source)
+### High Sister Valerius — *Medium humanoid, LN, CR 7*
 
-![Valerius addresses the council](../.attachments/council_valerius.jpg)
+**AC** 16 (breastplate) · **HP** 91 (14d8+28) · STR 14, DEX 16, CON 14, INT 18, WIS 20, CHA 16 · saves INT +7, WIS +8, CHA +6 · Insight +11, Perception +8, Persuasion +6, History +7 · passive Perception 18
 
-**Path One — Containment: Seal the Ship.** Avalanche-charges close seven passes *and a team re-enters the ship to seal it* — hull breaches closed, bulkheads locked, the source contained in its own alien alloy. Buys weeks-to-months. Copper: a door can rot — what happens when the seal fails and no one's left who knows the way in? Kaelen: her ancestors' walls held eleven years. McReady: *"You'd be sealing them in with it. I want that said out loud… That said — if sealing the ship gives us time to find a cure, **I'll carry the charges in myself.**"*
+- **Aura Network (Connected):** can't be surprised; advantage on Perception; telepathy with Spásistren within 1 mile.
+- **Aura Network (Severed):** loses the above; advantage vs. mind-affecting effects; unscryable 1 hour.
+- **Tactical Genius:** bonus action — ally within 30 ft gains advantage on next attack or save.
+- **Multiattack:** shortsword ×2, +6 (1d6+3). **Command** (recharge 5–6): up to 3 creatures within 30 ft, DC 16 WIS or Disengage-and-retreat.
 
-**Path Two — The Purge.** Orbital incendiary strike; everything burns today. Valerius adds the new caveat: destroying the second source **does not address the original**. Copper: "Do it. Do it now, before we talk ourselves out of it." Kaelen: ugly solutions are still solutions — *"but understand what you are choosing… You are not curing anything. You are only removing the second outbreak."* McReady puts on record what burning three hundred years of mountain homes means — and: *"even if we burn this valley clean, the problem isn't over. It's just quieter."*
+### Infection sidebar
 
-**Path Three — The Cure.** Go deeper; find the medical/research levels; synthesize a cure or system-wide decontamination — **and if it works here, it may work on Rajaat itself.** Not a delay. An end. Kaelen: *"This is the path Aerun never had… My people have been the wardens of Rajaat for generations. A cure would free them too."* McReady: *"This isn't just about the Scarlands anymore. This is about the whole world."*
-
-![McReady speaks](../.attachments/council_mcready.jpg)
-![Kaelen addresses the council](../.attachments/council_kaelen.jpg)
-![Copper makes his case](../.attachments/council_copper.jpg)
-
-### DM note — triage, not a vote
-
-The paths are **not mutually exclusive**: seal now to buy time, then pursue the cure; attempt the cure with the purge as fallback. **The council is not asking for a final answer — it is asking for a direction.** Whatever the party chooses, Valerius accepts it as the council's recommendation, reconnects, and reports to Jak in terms that protect the party's agency — never mentioning the severing.
-
-**Kaelen's vote (if asked):** *"The cure. Because it is the only path that ends it rather than delays it or destroys everything around it. And because a cure does not just fix what is in your mountains. It fixes what is in mine. My people have been the wardens of Rajaat for a thousand years. We did not choose that. A cure would give us a choice for the first time."*
-
-**McReady's role:** the only person at the table who knows the party, speaks for the mountain folk, and reports to Jak — and the only one advocating nothing. Both his signals are true. Neither is the whole truth. Full decision reference: [The Lighthouse Dilemma](/Campaign/Plot-Threads/The-Lighthouse-Dilemma).
-
-## Appendix
-
-New stat blocks in source: Fungal Peryton, Spore-Touched Griffon, High Sister Valerius (CR 7). Infection sidebar: [Russet Mold & Infection](/Game-Mechanics/Russet-Mold-and-Infection).
+Exposure (spores breathed or wounds from infected creatures): **DC 16 CON** or infected. Stages: **Latent** (1d4 h — unusually calm) → **Symptomatic** (+24 h — mild hallucinations, poor sleep, compulsion to protect infected creatures) → **Active** (+72 h — visible growth, disadvantage on CHA checks, acts in the infection's interest) → **Full Corruption** (+1 week — death; rises as spore servant or vegepygmy). *Lesser restoration* halts; *greater restoration* reverses one stage; full cure requires the ship's medical labs. Full rules: [Russet Mold & Infection](/Game-Mechanics/Russet-Mold-and-Infection).
