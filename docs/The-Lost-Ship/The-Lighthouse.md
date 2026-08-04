@@ -2,7 +2,7 @@
 
 The source. A white tower at the center of the garden island, consumed by russet mold mycelium, broadcasting spores through the ship and out into the Barrier Peaks. The campaign's central dilemma stands here.
 
-> *The original white concrete is barely visible beneath a skin of interlocked mushroom caps and ropy cords of pale mycelium that pulse with a slow, bioluminescent rhythm… High above, a blinding halo of churning golden-white spores swirls in slow, deliberate orbit around the lantern room.*
+> *The original white concrete is barely visible beneath a skin of interlocked mushroom caps and ropy cords of pale mycelium, infiltrating every seam and crack of the structure with a faint, steady bioluminescent glow… High above, a blinding halo of churning golden-white spores swirls in slow, deliberate orbit around the lantern room.*
 
 ## Features
 

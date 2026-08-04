@@ -25,7 +25,7 @@ The sled covers in ~4 hours what a mounted party needs two days for. The mountai
 
 > *The hoversled clears the final ramp and banks into the open mountain air. For a moment, the cold is a relief — clean and sharp after the recycled, fungal-tainted atmosphere of the ship. Then you see the treeline.*
 >
-> *The forest below the crash site has changed. Dark veins of something organic thread through the snow between the pines, pulsing faintly in the grey morning light. A herd of elk stands motionless in a clearing a quarter-mile below, every head turned upward, watching you. None of them move. None of them flee. Their eyes catch the light wrong.*
+> *The forest below the crash site has changed. Dark veins of something organic thread through the snow between the pines — fine mycelial filaments laced through the frozen ground, infiltrating root and soil alike. A herd of elk stands motionless in a clearing a quarter-mile below, every head turned upward, watching you. None of them move. None of them flee. Their eyes catch the light wrong.*
 >
 > *The hoversled hums beneath you. The ship shrinks behind you. The mountains stretch ahead.*
 >
