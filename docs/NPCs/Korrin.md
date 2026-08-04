@@ -14,12 +14,12 @@ Practical, stoic, slow to trust outsiders. His gruffness hides deep responsibili
 
 ## Now (under the occupation)
 
-Found in the stables, hand on his axe, between his remaining dogs and the Spásistren initiates examining them "with clinical detachment." He has overheard fragments: a council; wagons of "cleansing materials." He is convinced the Sisters are assessing who is expendable.
+Found in the stables, hand on his axe, between his remaining dogs and the Spásistren initiates examining them "with clinical detachment." He has overheard fragments: a council; wagons of "cleansing materials." He is convinced the Sisters are assessing who is expendable. He is **not at the council table** — [McReady](/NPCs/McReady) speaks for the locals there — which suits Korrin fine; he trusts tables even less than he trusts Sisters.
 
 **Signature quote (current):** *"They're not here to help us. They're here to manage us. There's a difference."*
 
 ## DM levers
 
-- If Path One or Two is chosen, Korrin becomes the human face of what gets sealed in or burned.
+- If containment, the purge, or the defiling is chosen, Korrin becomes the human face of what gets sealed in, burned, or starved.
 - His overheard fragments make him a natural drip-feed for Spásistren logistics intel.
 - Threatening his dogs is the fastest way to turn him — in either direction.

@@ -16,16 +16,15 @@ Dossiers for every named character. Statuses reflect the current campaign state.
 
 | NPC | Role |
 | :--- | :--- |
-| [McReady](/NPCs/McReady) | Expedition leader — "We're not at war with each other. We're here to survive." |
+| [McReady](/NPCs/McReady) | Expedition leader; the locals' voice at the council — and Jak's quiet eyes |
 | [Korrin](/NPCs/Korrin) | Sledmaster — "Kill the dogs and we die out here." |
 | [Copper the Surgeon](/NPCs/Copper-the-Surgeon) | Expedition medic — ⚠ unstable, possibly right |
-| [Elder Brennan](/NPCs/Elder-Brennan) | Frostwatch elder, voice of the mountain folk |
 
 ## Political & secret
 
 | NPC | Role |
 | :--- | :--- |
-| [Tomas Vel-Maret](/NPCs/Tomas-Vel-Maret) | Noble alliance agent; holds the sealed orders |
+| [Tomas Vel-Maret](/NPCs/Tomas-Vel-Maret) | Merchant alliance agent; holds the sealed orders |
 | [Nova](/NPCs/Nova) | Ship scientist in stasis; shut down Aphelion |
 
 ## From the previous campaign
@@ -39,3 +38,5 @@ Dossiers for every named character. Statuses reflect the current campaign state.
 ## Grønnfjord townsfolk
 
 Bjorn Ironhand (weaponsmith), Sigrid the Sharp (general goods), Erik the Elder (provisioner), Astrid (barmaid), Captain Olaf Stormsson (sailor) — details on the [Grønnfjord](/Locations/Gronnfjord) page. The dogsled children **Sigrid & Toren** appear in [Think of the Children](/Adventures/Think-of-the-Children).
+
+*(Note: the source docs' "Elder Brennan" was dropped as a character — McReady absorbs his council role as the voice of the Frostwatch locals.)*

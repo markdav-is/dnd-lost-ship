@@ -2,7 +2,7 @@
 
 Commander of the Spásistren occupation of Frostwatch. Silver-white hair, deeply lined face, extraordinary patient eyes utterly without warmth. The first crack in the Spásistren's armor.
 
-![High Sister Valerius](/.attachments/council_valerius.jpg)
+![High Sister Valerius](../.attachments/council_valerius.jpg)
 
 ## The Severing
 

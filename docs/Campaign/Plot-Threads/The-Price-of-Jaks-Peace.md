@@ -19,4 +19,4 @@ Grønnfjord prospers — no raids, fair taxes, safe streets. But the older resid
 
 - Jak asks the party pointed questions about who they've been talking to (he can see almost everything — including, eventually, gaps shaped like [Kaelen](/NPCs/Kaelen-al-Hajra)).
 - A PC's admirer or contact joins the Spásistren and comes back *serene*.
-- The [noble alliance](/Campaign/Plot-Threads/The-Noble-Alliance) offers the party proof of what the ceremonies do.
+- The [merchant alliance](/Campaign/Plot-Threads/The-Merchant-Alliance) offers the party proof of what the ceremonies do.

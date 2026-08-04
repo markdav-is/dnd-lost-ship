@@ -2,6 +2,8 @@
 
 The last survivor of the ship's original crew — a scientist in cryogenic stasis on the [Lower Deck](/The-Lost-Ship/The-Lower-Deck) (stasis chamber, green access). Shaved head, green jumpsuit, lawful good (noble statistics). **Status: depends on whether the party opened her pod.**
 
+![Nova in her stasis pod](../.attachments/nova_in_pod_v3.png)
+
 ## Who she is
 
 The lone crew member who **shut down Aphelion** — the ship's murderous computer — before stumbling into a stasis tank as the vessel fell. She has been under far longer than is recommended: her memory is foggy. She remembers the shutdown and the ship losing control; she remembers little of the advanced society she came from. If the party recounts what they've found, she is dismayed to learn the fate of crew, scientists, and passengers.

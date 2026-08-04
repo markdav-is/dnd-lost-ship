@@ -4,7 +4,7 @@ The ship's lowest explored deck — industrial server core, reactor chamber, and
 
 Source: `assets/Final-Level4_Complete_DM_Reference2.docx` (called "Level 4" there).
 
-![Reactor core](/.attachments/level4_reactor_core_v6.png)
+![Reactor core](../.attachments/level4_reactor_core_v6.png)
 
 ## S61 — The Central Reactor Core
 
@@ -24,7 +24,7 @@ Worker robots in cleanup mode · police robots demanding cards · slithering tra
 
 ## The Final Encounter — the Cargo Disposal Purge
 
-![Cargo bay](/.attachments/level4_cargo_bay_interior_v3.png)
+![Cargo bay](../.attachments/level4_cargo_bay_interior_v3.png)
 
 Vast chamber, orange spore fog (DC 13 CON/turn or poisoned 1 hour), a 40 × 60-ft sealed cargo door buried in a mold-infested debris mound, and a control booth with a skeleton clutching a **red key card**.
 
@@ -32,6 +32,6 @@ Vast chamber, orange spore fog (DC 13 CON/turn or poisoned 1 hour), a 40 × 60-f
 2. **The bots wake:** four **bipedal security bots** step from wall panels — directive: all biological material goes out with the trash. They grapple and *throw* PCs onto the debris pile.
 3. **The venting (round 5):** the doors part; explosive decompression. DC 16 STR — fail: blown completely out of the ship (4d6); success: handhold, 2d6, and pushed out anyway next round unless magically secured.
 
-![The ejection](/.attachments/level4_ejection_scene_final.png)
+![The ejection](../.attachments/level4_ejection_scene_final.png)
 
 The party landed in deep snow amid alien garbage as the doors ground shut behind them — battered, alive, and outside. Continue to [Return to Frostwatch](/Adventures/Return-to-Frostwatch).

@@ -18,12 +18,14 @@ Once the party restored power in the previous campaign, Aura's reach grew — in
 - Telepathic communication among connected Spásistren (1-mile tactical range; global through relays).
 - **Dis-trans bats** — messenger creatures that carry embedded voice messages and reconnaissance, appearing from nowhere on silent wings.
 - Surveillance of anything within range of a connected node — trade, troops, private conversation.
-- The **[teleport network](/World/The-Elemental-Cities)** rides the same restored grid.
+- The **[teleport network](/World/The-Elemental-Cities)** rides the same restored grid — people and messages, **not bulk cargo** (hence Aerun's Ring Road and the shipping economy).
 
 ## Limits (DM-critical)
 
 - **The void.** The ship's hyper-dimensional properties render it completely invisible: no scrying, no network perception, no teleport/ethereal/astral inside. This is why Jak needed the party.
-- **Blind spots.** Unimplanted people carrying no technology are ghosts — this is Kaelen's strategic value, and where the [noble alliance](/Campaign/Plot-Threads/The-Noble-Alliance) meets.
+- **The Rim Wall.** Beyond Aerun's Rim Wall the network **fails completely** — the entire Deep Desert is off the grid. Jak is blind to a third of the central continent and does not know what that blindness hides ([The First Source](/Campaign/Plot-Threads/The-First-Source)).
+- **Bulk transport.** Teleporters cannot move bulk goods — the merchant houses' Ring Road and shipping monopoly lives in this gap.
+- **Blind spots.** Unimplanted people carrying no technology are ghosts — this is Kaelen's strategic value, and where the [merchant alliance](/Campaign/Plot-Threads/The-Merchant-Alliance) meets.
 - **Permissions.** Aura's obedience cuts both ways: the party once held high access (they restored her), and Jak now outranks everyone. Whether legacy permissions from the previous campaign still work is a delicious open question.
 - **Severing.** A high-ranking sister can disconnect her implant with a practiced pressure-point sequence (see [Valerius](/NPCs/High-Sister-Valerius)). Severed: no network benefits, but advantage on saves vs. mind-affecting effects and immune to magical scrying for 1 hour. Doctrinally, severing is heresy.
 - **Anomalies.** The network has begun registering unexplained signals in infected regions — see [The Invisible Infection](/Campaign/Plot-Threads/The-Invisible-Infection).

@@ -8,16 +8,18 @@ The published works in `/assets`, what each contributes, and how it maps into Ve
 | :--- | :--- | :--- |
 | **S3: Expedition to the Barrier Peaks** (AD&D, Gary Gygax) | `tsr09033 - S3 - Expedition to the Barrier Peaks (1).pdf` | The ship itself — maps, rooms, creatures, technology. The homebrew 5e conversions in `/assets` cover Levels I, III, IV and the reactor/cargo deck; the remaining levels are unconverted material for future expeditions |
 
-## Dark Sun (4e) — the Aerun ecological layer
+## Dark Sun — the Aerun layer
 
-| Book | File |
-| :--- | :--- |
-| Dark Sun Campaign Setting | `DD4_DarksunCampaign.pdf` (+ map: `DD4_Darksun_map.pdf`) |
-| Dark Sun Creature Catalog | `Dark_Sun_Creature_Catalog_(4e).pdf` |
-| Fury of the Wastewalker (chapters 1–3 + maps) | `DD4_FuryofWastewalker_*.pdf` |
-| Marauders of the Dune Sea | `DD4_MauraudersDuneSea.pdf` |
+| Book | File | Notes |
+| :--- | :--- | :--- |
+| **Dark Sun 5e Campaign Guide v1.9** (fan conversion) | `DarkSun_5e_Campaign_Guide_v1.9.pdf` | ⭐ The table-ready rules chassis for Aerun: defiler/preserver casting, psionics, races (muls, thri-kreen, half-giants), survival rules. *Image-based PDF — not text-searchable* |
+| **Terrors of the Desert v1.0** (fan 5e monster manual) | `DarkSun_5e_Terrors_of_the_Desert_v1.0.pdf` | ⭐ Ready 5e stat blocks for the Tablelands and Deep Desert bestiary. *Image-based PDF — not text-searchable* |
+| Dark Sun Campaign Setting (4e) | `DD4_DarksunCampaign.pdf` (+ map: `DD4_Darksun_map.pdf`) | Lore backbone; the map is the visual reference for the Tablelands |
+| Dark Sun Creature Catalog (4e) | `Dark_Sun_Creature_Catalog_(4e).pdf` | Creature lore to pair with the 5e Terrors blocks |
+| Fury of the Wastewalker (chs. 1–3 + maps) | `DD4_FuryofWastewalker_*.pdf` | Convertible Aerun adventures |
+| Marauders of the Dune Sea | `DD4_MauraudersDuneSea.pdf` | Convertible Aerun adventure |
 
-**Mapping:** the Green Age and its death → [The Green Age](/Campaign/Plot-Threads/The-Green-Age); defiling magic → *vel-keth* and the ship's energy drain; sorcerer-kings → the Bargain theory and Jak's dark mirror; the Wastewalker adventures and Creature Catalog → ready-made encounters for an Aerun arc.
+**Mapping:** the Green Age and its death → [The Green Age](/Campaign/Plot-Threads/The-Green-Age); defiling → the [Defiler College](/World/Factions/The-Defiler-College) and the containment of the [First Source](/Campaign/Plot-Threads/The-First-Source); the canonical city-states and **[merchant houses](/World/Factions/The-Merchant-Houses)** (Tyr/Vordon, Urik/Stel, Raam/M'ke, Draj/Tsalaxa, Balic/Wavir, Gulg/Inika, Nibenay/Shom) → adopted wholesale on [Aerun](/World/Aerun); sorcerer-kings → alive and enthroned (Urik, Gulg, Nibenay) or freshly fallen; psionics ("the Will and the Way") → what the Spice enables.
 
 ## Dune 2d20 (Modiphius) — the political layer
 
@@ -28,7 +30,11 @@ The published works in `/assets`, what each contributes, and how it maps into Ve
 | Houses of the Landsraad | `Dune__Houses_Of_The_Landsraad_*.pdf` |
 | Masters of Dune | `masters_of_dune_digital_edition_pf_*.pdf` |
 
-**Mapping:** the Landsraad → the [noble alliance](/Campaign/Plot-Threads/The-Noble-Alliance); Fish Speakers / Sardaukar → the [Spásistren](/World/Factions/The-Spasistren); the Emperor's information monopoly → the [Aura network](/World/The-Aura-Network); Chakobsa flavor → Sandwalker naming (al-Hajra, "of the stone/journey"). *Houses of the Landsraad* is the toolkit for statting the alliance houses when they come on stage.
+**Mapping:** the Landsraad → the [merchant alliance](/Campaign/Plot-Threads/The-Merchant-Alliance) of the seven city-states; the spice melange → **the Spice** and its worm ecology; Fremen → the [Sandwalkers](/World/Factions/The-Sandwalkers); Fish Speakers / Sardaukar → the [Spásistren](/World/Factions/The-Spasistren); the Emperor's information monopoly → the [Aura network](/World/The-Aura-Network); Chakobsa flavor → Sandwalker naming (al-Hajra, "of the stone/journey"). *Houses of the Landsraad* remains the toolkit for house intrigue mechanics; the houses themselves now use Dark Sun's canon rosters.
+
+## The synthesis document
+
+`assets/Dune_DarkSun_Connections.md` — "The Sands of Two Worlds" — the campaign's own analysis of how the two settings rhyme: desert as crucible, lost Green Ages, monopoly power structures (Emperor ↔ sorcerer-kings), psionics over technology, and matched archetypes (Fremen ↔ Dune Striders, Sardaukar ↔ Templars, Bene Gesserit ↔ Veiled Alliance, Shai-Hulud ↔ the Dragon of Tyr). Its faction-equivalence table is a ready reference when improvising Aerun NPCs: pick the Dune role, skin it with the Dark Sun texture.
 
 ## Tone recipe (from the design notes)
 
