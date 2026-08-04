@@ -72,7 +72,7 @@ Kaelen places one hand flat on the table and gives the council the true scale (f
 - Her ancestors tried walls first. The walls held **eleven years**; then the bloom came from *beneath* — the spores had been in the groundwater all along.
 - *"What you have in your mountains is a **second Rajaat**… sitting in a valley full of trees, animals, rivers, and people. Your desert does not exist yet. And creating one large enough would take generations and kill everything between here and the sea."*
 
-**DM note (source):** after this, the Three Paths are no longer a political debate — they are **planetary triage**. *(Table canon layering: how the desert was made — defiler magic — and the [College](/World/Factions/The-Defiler-College) that keeps it are details Kaelen does **not** volunteer in open council; they surface if pressed or in private, per the [First Source](/Campaign/Plot-Threads/The-First-Source) two-tier secrecy. The worms she now half-names — "contained only by sand and worms and the prayers of people the coastal cities have never met" — but never the Spice.)*
+**DM note (source):** after this, the Three Paths are no longer a political debate — they are **planetary triage**. *(Table canon layering: how the desert was made — defiler magic — and the [Order of the Sere](/World/Factions/The-Order-of-the-Sere) that keeps it are details Kaelen does **not** volunteer in open council; they surface if pressed or in private, per the [First Source](/Campaign/Plot-Threads/The-First-Source) two-tier secrecy. The worms she now half-names — "contained only by sand and worms and the prayers of people the coastal cities have never met" — but never the Spice.)*
 
 ### The Three Paths (with scripted responses per voice in the source)
 

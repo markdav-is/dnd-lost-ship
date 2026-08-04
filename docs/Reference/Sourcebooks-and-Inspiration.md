@@ -19,7 +19,7 @@ The published works in `/assets`, what each contributes, and how it maps into Ve
 | Fury of the Wastewalker (chs. 1–3 + maps) | `DD4_FuryofWastewalker_*.pdf` | Convertible Aerun adventures |
 | Marauders of the Dune Sea | `DD4_MauraudersDuneSea.pdf` | Convertible Aerun adventure |
 
-**Mapping:** the Green Age and its death → [The Green Age](/Campaign/Plot-Threads/The-Green-Age); defiling → the [Defiler College](/World/Factions/The-Defiler-College) and the containment of the [First Source](/Campaign/Plot-Threads/The-First-Source); the canonical city-states and **[merchant houses](/World/Factions/The-Merchant-Houses)** (Tyr/Vordon, Urik/Stel, Raam/M'ke, Draj/Tsalaxa, Balic/Wavir, Gulg/Inika, Nibenay/Shom) → adopted wholesale on [Aerun](/World/Aerun); sorcerer-kings → alive and enthroned (Urik, Gulg, Nibenay) or freshly fallen; psionics ("the Will and the Way") → what the Spice enables.
+**Mapping:** the Green Age and its death → [The Green Age](/Campaign/Plot-Threads/The-Green-Age); defiling → the [Order of the Sere](/World/Factions/The-Order-of-the-Sere) and the containment of the [First Source](/Campaign/Plot-Threads/The-First-Source); the canonical city-states and **[merchant houses](/World/Factions/The-Merchant-Houses)** (Tyr/Vordon, Urik/Stel, Raam/M'ke, Draj/Tsalaxa, Balic/Wavir, Gulg/Inika, Nibenay/Shom) → adopted wholesale on [Aerun](/World/Aerun); sorcerer-kings → alive and enthroned (Urik, Gulg, Nibenay) or freshly fallen; psionics ("the Will and the Way") → what the Spice enables.
 
 ## Dune 2d20 (Modiphius) — the political layer
 

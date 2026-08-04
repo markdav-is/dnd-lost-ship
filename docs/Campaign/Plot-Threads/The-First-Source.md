@@ -8,7 +8,7 @@ Sources: `assets/Aerun_TheDesertContinent.md`, `assets/Return_to_Frostwatch_v3.m
 
 1. **Rajaat was discovered on Aerun during the Green Age** — an ancient, catastrophic origin point of a fungal/spore infection identical to the ship's russet mold. It spread the way the Scarlands outbreak is spreading now: *slowly, then all at once.* The animals changed. The trees changed. The people changed.
 2. **Containment was tried first — and failed.** Walls, burned borders, posted guards. The walls held **eleven years**; then the bloom came from *beneath* them. The spores had been in the groundwater the whole time.
-3. **Then they made a desert. On purpose.** *"They killed the land to save the world."* **Defiler magic** destroyed the spores directly (they are plant life) and every green thing with them — no water, no organic matter, no host for the bloom. The infected creatures survived the casting and starved. Defiling was shunned from Vermoon afterward; the [Defiler College](/World/Factions/The-Defiler-College) keeps it as a failsafe. *(Kaelen tells the desert-was-made story in open council; the defiler method and the College she reveals only if pressed or in private.)*
+3. **Then they made a desert. On purpose.** *"They killed the land to save the world."* **Defiler magic** destroyed the spores directly (they are plant life) and every green thing with them — no water, no organic matter, no host for the bloom. The infected creatures survived the casting and starved. Defiling was shunned from Vermoon afterward; the [Order of the Sere](/World/Factions/The-Order-of-the-Sere) keeps it as a failsafe. *(Kaelen tells the desert-was-made story in open council; the defiler method and the Order she reveals only if pressed or in private.)*
 4. **The quarantine has held for a thousand years.** It is the only containment ever found that works.
 5. **Rajaat was never destroyed.** It remains beneath the Deep Desert — and the deep mechanism of its ongoing management is a secret Kaelen guards.
 
@@ -44,7 +44,7 @@ The v3 council canon raises the ceiling: a true cure from the ship's medical lev
 
 ## DM levers
 
-- **The defiler option:** the College can kill the spores directly at the cost of all Scarlands plant life — with the starving-fauna aftermath. The proven, unbearable fourth path.
-- **Kaelen's layered secrecy, revised:** the Rajaat story is public; the defiler method and College surface under pressure; the worm ecology is half-named; **the Spice is never spoken**. Four rings of disclosure, each with a price.
+- **The defiler option:** the Order of the Sere can kill the spores directly at the cost of all Scarlands plant life — with the starving-fauna aftermath. The proven, unbearable fourth path.
+- **Kaelen's layered secrecy, revised:** the Rajaat story is public; the defiler method and the Order surface under pressure; the worm ecology is half-named; **the Spice is never spoken**. Four rings of disclosure, each with a price.
 - **The Spice dependency:** if Jak learns what the Spice really is, the political map redraws overnight.
 - **Rajaat itself:** never destroyed — only contained. Is it a *third* crashed ark? The Titan's wound? Whatever the answer, the precedent stands: sources are not destroyed. They are *managed*. The cure path is the first challenge to that rule in a thousand years.

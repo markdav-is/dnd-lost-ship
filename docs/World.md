@@ -12,7 +12,7 @@
 - [The Titans](/World/The-Titans) — the elemental colossi: gods, engines, or captors.
 - [The Elemental Cities](/World/The-Elemental-Cities) — Airlantis, Ocean, and the teleport network.
 - [The Aura Network](/World/The-Aura-Network) — Jak's world-spanning implant network.
-- [Factions](/World/Factions) — the Spásistren, the merchant houses, the Sandwalkers, the Defiler College.
+- [Factions](/World/Factions) — the Spásistren, the merchant houses, the Sandwalkers, the Order of the Sere.
 - [Timeline](/World/Timeline) — history from the Green Age to the current day.
 
 ## The shape of the world

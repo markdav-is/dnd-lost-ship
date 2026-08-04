@@ -38,7 +38,7 @@ The center is the **Deep Desert**: capricious violent sandstorms, absolute water
 
 ## Magic: preservers and defilers
 
-Arcane magic on Aerun draws on the life force of the land. **Preservers** take only what the flora can recover from, and organize in secret cells — the **Veiled Alliance** — working quietly toward restoring Aerun's green. **Defilers** rip life out wholesale, turning soil to sterile ash; the **sorcerer-kings are defilers of the highest order**, and their centuries of defiling helped scour the Tablelands. Arcane magic is feared and often illegal in the city-states — punishable by death or enslavement. See [The Defiler College](/World/Factions/The-Defiler-College) for how this connects to the Green Age containment and the Scarlands crisis.
+Arcane magic on Aerun draws on the life force of the land. **Preservers** take only what the flora can recover from, and organize in secret cells — the **Veiled Alliance** — working quietly toward restoring Aerun's green. **Defilers** rip life out wholesale, turning soil to sterile ash; the **sorcerer-kings are defilers of the highest order**, and their centuries of defiling helped scour the Tablelands. Arcane magic is feared and often illegal in the city-states — punishable by death or enslavement. See [The Order of the Sere](/World/Factions/The-Order-of-the-Sere) for how this connects to the Green Age containment and the Scarlands crisis.
 
 ## Society
 

@@ -17,7 +17,7 @@ At the council she placed one hand flat on the table and gave the room the true 
 **Her rings of disclosure (DM-critical):**
 
 1. **Public (told at council):** the Rajaat story; the desert-as-quarantine; even a half-naming of the worms — *"contained only by sand and worms and the prayers of people the coastal cities have never met."*
-2. **Under pressure / in private:** *how* the desert was made — **defiler magic** — and that a [College](/World/Factions/The-Defiler-College) keeps the failsafe. She states it as fact, not advocacy.
+2. **Under pressure / in private:** *how* the desert was made — **defiler magic** — and that the [Order of the Sere](/World/Factions/The-Order-of-the-Sere) keeps the failsafe. She states it as fact, not advocacy.
 3. **Never:** the full containment ecology and **the Spice's true nature** ([The First Source](/Campaign/Plot-Threads/The-First-Source)). Pressed past her limit, the desert's flat finality: *"It is managed."*
 
 ## Personality
@@ -42,7 +42,7 @@ Economical with words, generous with action. States her position once, then does
 - **Ecological memory:** introduces the [Green Age](/Campaign/Plot-Threads/The-Green-Age) through observation, never exposition — she answers history, doesn't volunteer it.
 - **Warden of Rajaat:** the cure path is now *personal* — success frees her people from a thousand-year duty they never chose. She wants the party to succeed more than she will ever say.
 - **Keeper of ringed secrets:** what she tells, what she yields under pressure, and what she never says — the gaps are where her best scenes live.
-- **Gateway to the College:** she knows the defilers endure. Whether she surrenders that name — and to whom — is a campaign hinge.
+- **Gateway to the Sere:** she knows the defilers endure. Whether she surrenders that name — and to whom — is a campaign hinge.
 - **Network blind spot:** the party's untrackable channel; the merchant houses covet her, and she would refuse every side.
 - **The Rite of Remembrance:** her ritual vision of the Green Age is the DM's revelation-delivery tool.
 - **With George:** quiet mutual respect — the primal mind and the scientific mind approaching the same crisis from opposite directions. She offers him a Sandwalker stabilizer remedy — not a cure; time and clarity.

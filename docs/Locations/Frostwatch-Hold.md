@@ -31,8 +31,9 @@ Repaired with new timber and pale stone — and transformed:
 
 ## The Council of Frostwatch
 
-Held the morning after the party's return: Valerius severed her implant ("We are alone"), revealed the true spread of the infection, and the paths were laid out — including [Kaelen's](/NPCs/Kaelen-al-Hajra) testimony of Aerun and the defilers. Full scene-by-scene text: [Return to Frostwatch](/Adventures/Return-to-Frostwatch); decision reference: [The Lighthouse Dilemma](/Campaign/Plot-Threads/The-Lighthouse-Dilemma).
+Held the morning after the party's return: Valerius severed her implant ("We are alone"), revealed the true spread of the infection, [Kaelen](/NPCs/Kaelen-al-Hajra) **named Rajaat**, and the paths were laid out as planetary triage. Full scene-by-scene text: [Return to Frostwatch](/Adventures/Return-to-Frostwatch); decision reference: [The Lighthouse Dilemma](/Campaign/Plot-Threads/The-Lighthouse-Dilemma).
 
-![The Council](../.attachments/council_reference.jpg)
+![The Council](../.attachments/council_reference2.jpg)
+![The council cast](../.attachments/council_cast_reference.jpg)
 
-*(Earlier keep art kept for reference: `.attachments/frost-hold.png`.)*
+*(Earlier art kept for reference: `.attachments/frost-hold.png`, `.attachments/council_reference.jpg`.)*

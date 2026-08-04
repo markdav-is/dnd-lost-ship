@@ -15,7 +15,7 @@ The deep desert tribes of [Aerun](/World/Aerun) — the people who watched the w
 
 The Sandwalkers guard **[Rajaat — the First Source](/Campaign/Plot-Threads/The-First-Source)**: the buried origin of the spore infection, contained for a thousand years by the quarantine-desert their ancestors made and the worm ecology that closes the loop. *"Contained only by sand and worms and the prayers of people the coastal cities have never met."* They did not choose the duty; they inherited it. A true cure — the kind the ship might yield — would give them a choice for the first time. This is Kaelen's quiet, personal stake in the party's success.
 
-**Their secrets, in rings:** the Rajaat story (now told at the Council of Frostwatch) · the defiler method and the [College](/World/Factions/The-Defiler-College) (yielded under pressure) · the full worm ecology and **the Spice's true nature** (never — the world's economy runs on not knowing).
+**Their secrets, in rings:** the Rajaat story (now told at the Council of Frostwatch) · the defiler method and the [Order of the Sere](/World/Factions/The-Order-of-the-Sere) (yielded under pressure) · the full worm ecology and **the Spice's true nature** (never — the world's economy runs on not knowing).
 
 ## Vocabulary the DM can use
 
