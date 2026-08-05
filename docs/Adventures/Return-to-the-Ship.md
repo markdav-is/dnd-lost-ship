@@ -2,7 +2,7 @@
 
 # Return to the Ship (planning)
 
-**The next module — confirmed by play (2026-08-04): the council chose the Cure, and the party departs by air.** As-played springboard: [Erleena is unreachable](../NPCs/Erleena-Riser.md) (comms dead — Aphelion's first move?); **[Robin](../NPCs/Robin.md)** joins as expedition healer; the party holds **one antitoxin dose**; Sere containment cover hangs on [Harah's broken bridge with the defilers](../NPCs/Harah-Tabr.md); and the party is withholding the network-corruption theory from anyone with a glowing ear.
+**The next module — confirmed by play (2026-08-04): the council chose the Cure, and the party departs by air.** As-played springboard: [Erleena is unreachable](../NPCs/Erleena-Riser.md) (comms dead — Aphelion's first move?); **[Robin](../Campaign/The-Party/Robin-Wood.md)** joins as expedition healer; the party holds **one antitoxin dose**; Sere containment cover hangs on [Harah's broken bridge with the defilers](../NPCs/Harah-Tabr.md); and the party is withholding the network-corruption theory from anyone with a glowing ear.
 
 **Original design brief:** The party re-enters the ship (the Cure path); the infection is spreading with visible single-mindedness; Aphelion is awake. **Design goals: action-heavy sessions, and a hopepunk/solarpunk resolution where everything — the cure, George, Aphelion, Aerun, the friendship with Jak — works out.**
 
@@ -22,6 +22,26 @@ The ship's AI — shut down centuries ago by [Nova](../NPCs/Nova.md) — has bee
 ## The published spine, inverted (QftIS Ch. 7)
 
 Published Aphelion: *"initially friendly but ultimately evil"* — first contact early on Level 1 (its robot rescues the party from the cloaker, escorts them to computer room S30), quest-giver level by level, secretly fixated on **eliminating Nova**, blocked by the giant amphibian. **Your inversion:** the party met a silent ship — and the **froghemoth still lives**, ruling the lake around the Lighthouse island. *Aphelion's path to Nova is still blocked* — the AI needs the one thing it cannot manufacture: hunters. The [cycling door](../The-Lost-Ship/The-Lighthouse.md) is it testing the route as far as the amphibian allows. **Expect Alphie's politest, most reasonable-sounding request to be the froghemoth hunt** — framed as protecting the scientists, clearing the lake for research, anything but the truth.
+
+## The network and the brain (Alphie ↔ the animals outside)
+
+Not coincidence, not mere evolution: **the coordination outside is Aphelion thinking with the mold's body.** The spore-link always existed — shared senses, hive awareness — but it was local and reflexive: nerves without a brain. The merger gave the network **central processing**. Timeline proof: the scout-like behavior (the watching herd) appeared on the descent — *after* the lab power-up and George's queries. The herd was Aphelion's first exercise of its new body. It was watching them leave.
+
+**The bandwidth gradient (core design tool):** mycelium signals chemically — slow. Coordination degrades with distance from the ship:
+
+| Zone | Behavior |
+| :--- | :--- |
+| The frontier band (outer spread) | Beyond Alphie's control — wild, starving, uncoordinated infected. **Honest danger** |
+| The approach | Increasingly deliberate: watchers, formations, restraint |
+| The valley | Chess. Enemies that behave like they've read the party's sheets — or that pointedly *don't attack at all* |
+
+(This also explains [Valerius's Aura anomalies](../Campaign/Plot-Threads/The-Invisible-Infection.md): a mind discovering its body is slow, probing the world's *other* network for bandwidth. Copper's nightmare, in progress.)
+
+## The flight back (dangerous — with a shape that tells the story)
+
+1. **The frontier band:** the real fights — feral infected fliers, spore-thermals that foul the air, mountain weather. Reuse the Sky Hunters template at altitude; add a murmuration-wall or a thermal of spores that forces a descent through hostile ground.
+2. **The approach:** the attacks *stop*. Circling perytons bank away; a corridor of calm opens like an escort. Aphelion wants its froghemoth-hunters to arrive intact — the party is **protected by the thing they came to fight**.
+3. **The tell:** danger inversely proportional to proximity is backwards from every dungeon ever. The player who says *"why did it get easier?"* has found the first clue that the wilderness has management.
 
 ## Villain logic: why Alphie doesn't just attack
 

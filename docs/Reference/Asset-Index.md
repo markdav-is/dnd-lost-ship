@@ -57,15 +57,18 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 | [Houses of the Landsraad](../../assets/Dune__Houses_Of_The_Landsraad_Digital_Standard.pdf) (+ [printer-friendly](../../assets/Dune__Houses_Of_The_Landsraad_Digital_Printer_Friendly.pdf)) | Dune 2d20: Houses of the Landsraad |
 | [masters_of_dune_digital_edition_pf_18-04-23.pdf](../../assets/masters_of_dune_digital_edition_pf_18-04-23.pdf) | Dune 2d20: Masters of Dune |
 
-## Character sheets (D&D Beyond exports)
+## Character sheets (D&D Beyond exports — refreshed 2026-08-05, all level 11)
 
 | File | Character |
 | :--- | :--- |
-| [Shhhmeowmeow_109963368.pdf](../../assets/Shhhmeowmeow_109963368.pdf) | [Shhhmeowmeow / Shenandoah](../Campaign/The-Party/Shhhmeowmeow.md) — Tabaxi Ranger 9 |
-| [Taco_Mix_114102493.pdf](../../assets/Taco_Mix_114102493.pdf) | [Eustace Thunderbeak](../Campaign/The-Party/Eustace-Thunderbeak.md) — Aarakocra Bard 9 |
-| [Theonezerg_110631730.pdf](../../assets/Theonezerg_110631730.pdf) | [Gobbledegook](../Campaign/The-Party/Gobbledegook.md) — Goblin Cleric 8 |
-| [yourthighness69_111941481 (1).pdf](../../assets/yourthighness69_111941481%20%281%29.pdf) | [Musty-Jo Mustang](../Campaign/The-Party/Musty-Jo-Mustang.md) — Centaur Fighter 5 / Paladin 3 |
-| [andy-beyond-Ce.pdf](../../assets/andy-beyond-Ce.pdf) | [Beyond-Ce](../Campaign/The-Party/Beyond-Ce.md) — Human Sorcerer 9 |
+| [Shhhmeowmeow.pdf](../../assets/Shhhmeowmeow.pdf) | [Shhhmeowmeow / Shenandoah](../Campaign/The-Party/Shhhmeowmeow.md) — Tabaxi Ranger 11 |
+| [Eustace (Eu) Thunderbeak.pdf](../../assets/Eustace%20%28Eu%29%20Thunderbeak.pdf) | [Eustace Thunderbeak](../Campaign/The-Party/Eustace-Thunderbeak.md) — Aarakocra Bard 11 |
+| [Gobbledegook.pdf](../../assets/Gobbledegook.pdf) | [Gobbledegook](../Campaign/The-Party/Gobbledegook.md) — Goblin Cleric 10 |
+| [Musty-Jo Mustang.pdf](../../assets/Musty-Jo%20Mustang.pdf) | [Musty-Jo Mustang](../Campaign/The-Party/Musty-Jo-Mustang.md) — Centaur Fighter 6 / Paladin 5 |
+| [Beyond-Ce.pdf](../../assets/Beyond-Ce.pdf) | [Beyond-Ce](../Campaign/The-Party/Beyond-Ce.md) — Human Sorcerer 11 |
+| [Robin Wood.pdf](../../assets/Robin%20Wood.pdf) | [Robin Wood](../Campaign/The-Party/Robin-Wood.md) — Variant Human Cleric 8 / Rogue 3 (new player) |
+
+*(The prior per-username exports — `Shhhmeowmeow_109963368.pdf`, `Taco_Mix_114102493.pdf`, `Theonezerg_110631730.pdf`, `yourthighness69_111941481 (1).pdf`, `andy-beyond-Ce.pdf` — were replaced by this set.)*
 
 ## Maps & world art
 
