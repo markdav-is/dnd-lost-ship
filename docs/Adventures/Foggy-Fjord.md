@@ -2,6 +2,8 @@
 
 # Foggy Fjord
 
+![The wreck camp on the foggy shore](../.attachments/foggy_fjord_wreck_map.png)
+
 Survival interlude: shipwrecked repair camp on a cold fjord, two days of mounting dread. Source: `assets/foggy fjord.docx`.
 
 ## Setup
@@ -17,8 +19,10 @@ The crew boss reports luck: the old **horseshoe quarry** nearby yielded iron scr
 ## Encounters & creatures (stat blocks in source)
 
 - **Thorny Hunters ×3** (CR 5 plants): thorn lashes, spore bursts, fungal camouflage, **Spore Link** shared senses.
-- **Spore-Touched Snowy Owlbear** (CR 5): hallucinogenic spore cone with a d6 hallucination table (roars from everywhere, tilting ground, allies' faces twisting into beasts…); explodes in spores on death.
+- **Spore-Touched Snowy Owlbear** (CR 5): hallucinogenic spore cone with a d6 hallucination table (roars from everywhere, tilting ground, allies' faces twisting into beasts…); explodes in spores on death. Art: [Fungal Threats](../Bestiary/Fungal-Threats.md).
 
 ## Treasure
 
 Remnants of a lost climbing party: 1d4 potions of greater healing (buried satchel) · frost-covered chest (300 gp, 2×100 gp gems, **Wand of the Warmage**) · fungal-covered corpse (+1 shield, scroll of protection from energy) · glowing red mushrooms (DC 15 Nature → Potion of Resistance [cold] ingredients) · **6 axe beaks** tethered and friendly, plus a hay wagon.
+
+![One of the quarry axe beaks, saddled for the road](../.attachments/axebeak_mount.png)

@@ -2,6 +2,8 @@
 
 # Ship Constructs
 
+![The ship's medical android](../.attachments/medical_android.png)
+
 The ship's robots and androids — some functional, some malfunctioning, none aware the voyage ended centuries ago. Common traits: poison/psychic immunity, darkvision, ship-language, **lightning vulnerability** (1% per point of lightning damage to shut down permanently; androids also short out in water).
 
 Full stat blocks: `assets/S3_Level1_Complete_5e_Conversion.docx`, `assets/S3_Level1_DM_Helper.docx`, `assets/Final-Level4_Complete_DM_Reference2.docx`.
@@ -14,6 +16,8 @@ Full stat blocks: `assets/S3_Level1_Complete_5e_Conversion.docx`, `assets/S3_Lev
 | **Police Robot** (patrol variant) | 4-ish | AC 16, HP 75 | Slam ×2, stunner cone (DC 14 CON, stunned 1 min). Demands cards; imprisons rather than kills |
 | **Bipedal Security Bot** | 4 | AC 16, HP 68 | Grapple-and-**throw** (Dispose: hurl 15 ft onto the trash); enforce bio-hazard disposal |
 | **Combat Robot** (encountered emerging from the peaks) | 7 | — | Laser rifle 2d8 radiant @120 ft; slam; resist nonmagical weapons |
+
+![Police robot — the original S3 art](../.attachments/s3_robot_lineart.png)
 
 ## Labor
 

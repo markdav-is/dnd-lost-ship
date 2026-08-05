@@ -2,6 +2,8 @@
 
 # Chapter 1 — The Summons
 
+![The dis-trans bat delivers the summons](../.attachments/summons_bat.png)
+
 Campaign opener: the reunion, the transformed city, and Jak's revelation of the void. Sources: `assets/campaign-start.docx`, `assets/Jaks thromeroom.docx`, `assets/The Throne Room.docx`.
 
 ## Structure
@@ -13,7 +15,7 @@ Campaign opener: the reunion, the transformed city, and Jak's revelation of the 
 
 ## The throne room scene
 
-Vast sound-swallowing chamber; floating light orbs that guide the worthy; the 20-ft black stone throne with reliefs that hurt to look at; Jak smaller than his seat, knuckles white, implant pulsing erratically; his trembling dis-trans bat — his best reconnaissance unit — clinging to the throne.
+Vast sound-swallowing chamber; floating light orbs that guide the worthy; the 20-ft black stone throne with reliefs that hurt to look at; Jak smaller than his seat, knuckles white, implant pulsing erratically; his trembling dis-trans bat — his best reconnaissance unit — clinging to the throne. (Jak's portrait on the throne: [his page](../NPCs/Jak-Bjornsson.md).)
 
 **Jak's revelation, beat by beat:**
 

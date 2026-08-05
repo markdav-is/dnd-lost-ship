@@ -2,6 +2,8 @@
 
 # Think of the Children!
 
+![Sigrid and Toren arrive by dogsled](../.attachments/sigrid_toren_dogs.png)
+
 Day-2 set piece at the Foggy Fjord camp: the children's warning, the spore servant horde, and the ice-ball arrival of the Mycelial Frost Giant Skeleton. Source: `assets/Think of the Children.docx`.
 
 ## The children
@@ -16,12 +18,14 @@ Day-2 set piece at the Foggy Fjord camp: the children's warning, the spore serva
 2. **The ice ball**: a monstrous spiked sphere pushed downslope by thorny hunters, shattering to reveal the **Mycelial Frost Giant Skeleton** (CR 9; AC 15, HP 168; greatclub 3d8+6; rock 4d10+6; 30-ft Spore Infestation DC 16 CON, 6d8 necrotic + infection → spore servant on 3 failed post-rest saves; Cosmic Echoes fear hum).
 3. **The choice:** stand against overwhelming odds, or abandon the half-packed camp and flee to open water in a barely-seaworthy ship.
 
+![The giant shatters free of the ice ball, thorny hunters at its feet](../.attachments/frost_giant_ice_ball.png)
+
 ## Stakes & aftermath
 
 - If the party dismissed the children's warning, the assault catches them amid scattered supplies — punish the skepticism with positioning, not damage.
-- The village fate (mill survivors?) is an open hook the campaign has not yet cashed in.
+- The village fate (mill survivors?) is an open hook the campaign has not yet cashed in — and the [Counteragent village campaign](../Game-Mechanics/The-Counteragent.md) names Sigrid & Toren's village as its emotional summit: the kids get their parents back.
 - Treasure: as [Foggy Fjord](Foggy-Fjord.md) (the two documents share the loot list); the axe beaks matter for onward travel.
 
 ## Creatures
 
-Spore Servant · Thorny Hunter ×3 · Mycelial Frost Giant Skeleton — stat summaries in [Bestiary — Fungal Threats](../Bestiary/Fungal-Threats.md), full blocks in the source docx.
+Spore Servant · Thorny Hunter ×3 · Mycelial Frost Giant Skeleton — stat summaries and art in [Bestiary — Fungal Threats](../Bestiary/Fungal-Threats.md), full blocks in the source docx.

@@ -2,6 +2,8 @@
 
 # Ship Creatures
 
+![The froghemoth at the bridge](../.attachments/froghemoth_bridge.png)
+
 The ark's menagerie and its stowaways — alien fauna, killer flora, and the aberrations that moved in. Sources: `assets/S3_Level1_Complete_5e_Conversion.docx`, `assets/S3_Level3_Complete_5e_Conversion.docx`, `assets/S3_Level4_Complete_5e_Conversion.docx`.
 
 ## Apex threats
@@ -14,6 +16,13 @@ The ark's menagerie and its stowaways — alien fauna, killer flora, and the abe
 | **Umber Hulk** (slain) | 5 | MM stats | Guarded the garden drop tube; source of the party's blaster rifle and anti-grav belt |
 | **Squealer** | 6 | AC 14, HP 110 | Mimics animal distress calls (DC 13 Insight); drop-attacks from trees; lair holds the orange card |
 | **Lurker Above / Cloaker** | 8 | AC 14, HP 78 | Ceiling ambush (surprise 4-in-6), smother, fear moan; **one escaped into the mountains** and is adapting to cold |
+
+## The menagerie in stasis
+
+The lower deck's containment holds specimens the ark carried alive — including things with teeth. Whether Aphelion opens the tanks is a question worth keeping loaded.
+
+![A specimen in its containment tank](../.attachments/dino_containment.png)
+![When the tank opens](../.attachments/dino_fight.png)
 
 ## Killer flora (garden & walkway)
 

@@ -2,11 +2,15 @@
 
 # The Lighthouse
 
+![The Lighthouse, consumed by mycelium](../.attachments/lighthouse_tower.jpg)
+
 The source. A white tower at the center of the garden island, consumed by russet mold mycelium, broadcasting spores through the ship and out into the Barrier Peaks. The campaign's central dilemma stands here.
 
 > *The original white concrete is barely visible beneath a skin of interlocked mushroom caps and ropy cords of pale mycelium, infiltrating every seam and crack of the structure with a faint, steady bioluminescent glow… High above, a blinding halo of churning golden-white spores swirls in slow, deliberate orbit around the lantern room.*
 
 ## Features
+
+![The beam sweeps the garden dark](../.attachments/lighthouse_jungle.jpg)
 
 - **The beam:** sweeps the dark water; the spore halo is *attracted to whatever the beam illuminates*. George: "Do not let the beam touch you." Flying characters get pulled down.
 - **The breach:** a ragged hole halfway up, spilling enormous mycelium cords — the root structure of something massive and buried.

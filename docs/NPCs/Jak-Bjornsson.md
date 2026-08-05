@@ -2,6 +2,8 @@
 
 # Jak Bjornsson
 
+![Jak on the black stone throne](../.attachments/jak_throne.png)
+
 The Administrator. Once a simple monk and wanderer from Grønnfjord — the party's steadfast companion — now the open, charismatic ruler of the entire world through the Aura network. *"You are still my friends, despite all this."*
 
 ## History

@@ -2,6 +2,8 @@
 
 # Grønnfjord
 
+![Sunset over the Grønnfjord harbor, the Temple of Nord above](../.attachments/gronnfjord_harbor.jpeg)
+
 The bustling Nordic port city that became, almost overnight, the seat of world government. Spelled *Greenfjord* in some documents; the city is the same.
 
 > *The town spreads before you like an amphitheater carved into the fjord's steep walls, wooden buildings climbing the rocky slopes in terraced layers. At the town's crown sits the Temple of Nord — ancient grey stone, humming with activity.*
@@ -25,6 +27,8 @@ Ancient grey-stone brutalist edifice, long dormant among the merchant warehouses
 | The Harbor Provisioner | Erik the Elder (62, speaks his mind) | Cold-weather clothing and survival gear |
 | The Salty Serpent Inn | Astrid the barmaid (24) | Shared room 2 sp, private 5 sp, meals 3 cp — **the rumor hub** |
 | Sea passage | Captain Olaf Stormsson (53) | Fjord transport 50–100 gp; **refuses** to sail within 20 miles of the Barrier Peaks coast |
+
+![Inside the Salty Serpent](../.attachments/salty_serpent_inn.png)
 
 Full shopkeeper dialogue, rumor tables (d6 overheard conversations + shepherd/father variants), and the Spásistren street encounter are in the module: [Chapter 2 — Grønnfjord Shops](../Adventures/Chapter-2-Gronnfjord-Shops.md).
 

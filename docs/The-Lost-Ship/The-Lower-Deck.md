@@ -20,6 +20,8 @@ Octagonal chamber beneath the garden lake: transparent ceiling panels with the d
 - **S64b Stasis chamber (green):** twenty pods, mostly skeletons — and one survivor: **[Nova](../NPCs/Nova.md)**, the scientist who shut down Aphelion (DC 12 INT to release).
 - **S65/S66 Cargo holds:** compressed mold cubes; slithering tracker ambush; dead technician with a *ring of protection*.
 
+![The stasis pods — nineteen skeletons and one survivor](../.attachments/stasis_pods.png)
+
 ## Random encounters (1-in-6 / 10 min or loud noise, d8)
 
 Worker robots in cleanup mode · police robots demanding cards · slithering tracker · exploding **gasbats** · radiation-mutated vegepygmies (+1d4 lightning) · automated defoliant sprayer (3d6 acid cone) · malfunctioning drone (noise beacon) · detritus drop from a ceiling chute.

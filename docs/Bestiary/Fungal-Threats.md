@@ -2,6 +2,8 @@
 
 # Fungal Threats
 
+![Infected dire wolf](../.attachments/fungal_wolf.png)
+
 The russet mold's servants, symbionts, and victims. Common threads: cold/poison resistance, poison-condition immunity, spore bursts, and fire as the reliable answer. Infection rules: [Russet Mold & Infection](../Game-Mechanics/Russet-Mold-and-Infection.md).
 
 Full stat blocks: `assets/Frostwatch_Horror.docx`, `assets/Think of the Children.docx`, `assets/Return_to_Frostwatch_Final.md`, `assets/S3_Level1_Complete_5e_Conversion.docx`.
@@ -13,6 +15,9 @@ Full stat blocks: `assets/Frostwatch_Horror.docx`, `assets/Think of the Children
 | **Vegepygmy** | ¼ | AC 13, HP 9 | Former humans/animals, fully transformed; regeneration 3 (stopped by fire/cold/necrotic); plant camouflage (50% invisible against ship walls); tribes scale 1–6 HD with leaders wielding hoarded ship weapons. *Each one was someone.* |
 | **Thorny** ("dog") | 1 | AC 14, HP 30 | Vegepygmy hunting-beast; bite grapples, thorns deal 2d6/turn to the grappled; takes only 1 HP from piercing |
 | **Spore Servant** | ½ | AC 8, HP 22 | Mold-puppeted dead; continuous 5-ft spore shed (DC 12 CON, 1d6 poison); the "pale elves" of the village raid |
+
+![Spore servant — mushroom caps breaking through the skin](../.attachments/spore_servant.png)
+![Mold-riddled skeleton, axe still in hand](../.attachments/mold_skeleton.png)
 
 ## Wilderness horrors
 
@@ -27,6 +32,13 @@ Full stat blocks: `assets/Frostwatch_Horror.docx`, `assets/Think of the Children
 | **Spore-Touched Griffon** | 3 | AC 12, HP 59 | 5-ft poison spore aura; grapple claws |
 | **Infected Deer (herd)** | — | Elk + mods | Shared initiative (**Hive Awareness**); spore burst when damaged; behave as *scouts* |
 | **The Frozen Pilgrims** | 5-ish | Shambling mound + mods | Merged frozen corpses; cold-resistant, prone-immune, half speed; 30-ft spore infestation; individual faces visible in the mass |
+
+![The fungal horror](../.attachments/fungal_horror.png)
+![The Mycelial Frost Giant Skeleton](../.attachments/mycelial_frost_giant.jpeg)
+![The giant emerges from its ice ball, thorny hunters at its feet](../.attachments/frost_giant_ice_ball.png)
+![Spore-touched snowy owlbear](../.attachments/owlbear_white.jpeg)
+![The owlbear attacks](../.attachments/owlbear_attack.png)
+![Infected hounds in the ruins](../.attachments/infected_hounds.png)
 
 ## Hazard: russet mold patches
 

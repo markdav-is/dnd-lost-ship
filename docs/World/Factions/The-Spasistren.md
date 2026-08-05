@@ -2,6 +2,8 @@
 
 # The Spásistren
 
+![Sisters of the Spásistren on patrol](../../.attachments/spasistren_sisters.jpeg)
+
 Jak's elite all-female guard: warrior monks bound to the Administrator through Aura implants, modeled on absolute, almost religious devotion. The Fish Speakers — and the Sardaukar — of Vermoon.
 
 *"Citizens, maintain the peace. Jak protects. Jak provides."*

@@ -2,6 +2,8 @@
 
 # George Decay
 
+![George Decay — laser scalpel in one hand, cure research in the other](../.attachments/george_decay.png)
+
 Infected scientist, party companion, and the emotional anchor of the campaign. Sent by Jak to find the source of the russet mold; found it the hard way. *"Oh my… you've arrived. How fortuitous. And dramatic."*
 
 Full NPC document with d20 conversation table: `assets/george_decay_npc.docx`.

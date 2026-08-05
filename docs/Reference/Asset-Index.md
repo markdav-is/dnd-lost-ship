@@ -47,7 +47,7 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 | File | Book |
 | :--- | :--- |
 | [tsr09033 - S3 - Expedition to the Barrier Peaks (1).pdf](../../assets/tsr09033%20-%20S3%20-%20Expedition%20to%20the%20Barrier%20Peaks%20%281%29.pdf) | **S3: Expedition to the Barrier Peaks** (AD&D) — the foundation |
-| [quests-from-the-infinite-staircase.pdf](../../assets/quests-from-the-infinite-staircase.pdf) | **Quests from the Infinite Staircase** (5e, 2024) — Ch. 7 is the official Barrier Peaks remaster with the Aphelion arc |
+| [quests-from-the-infinite-staircase.pdf](../../assets/quests-from-the-infinite-staircase.pdf) | **Quests from the Infinite Staircase** (5e, 2024) — Ch. 7 is the official Barrier Peaks remaster with the Aphelion arc; Appendix A is the technology reference ([Alien Technology](../Game-Mechanics/Alien-Technology.md)) |
 | [DD4_DarksunCampaign.pdf](../../assets/DD4_DarksunCampaign.pdf) (+ [map](../../assets/DD4_Darksun_map.pdf)) | Dark Sun Campaign Setting (4e) |
 | [Dark_Sun_Creature_Catalog_(4e).pdf](../../assets/Dark_Sun_Creature_Catalog_%284e%29.pdf) | Dark Sun Creature Catalog (4e) |
 | [Fury of the Wastewalker Ch1](../../assets/DD4_FuryofWastewalker_Chap1.pdf) · [Ch2](../../assets/DD4_FuryofWastewalker_Chap2.pdf) · [Ch3](../../assets/DD4_FuryofWastewalker_Chap3.pdf) · maps [2A](../../assets/DD4_FuryofWastewalker_Map2A.pdf) [2B](../../assets/DD4_FuryofWastewalker_Map2B.pdf) [2C](../../assets/DD4_FuryofWastewalker_Map2C.pdf) | Fury of the Wastewalker (4e adventure) |
@@ -74,8 +74,9 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 
 | File | Subject | Embedded at |
 | :--- | :--- | :--- |
+| [aerun_map.png](../../assets/aerun_map.png) ⭐ current | **The revised Aerun campaign map** — Dark Sun seven + legacy towns (Blackguard, Osgaker, Hollowstorm, Amber Valley, Eldorado), Rim Wall, Ring Road, Sea of Silt, Badlands, Deep Desert | [Aerun](../World/Aerun.md) |
+| [aerun_map_v3.png](../../assets/aerun_map_v3.png) (earlier draft) | Prior Aerun continent map | — |
 | [vermoon-map.png](../../assets/vermoon-map.png) ⭐ | **The hi-res world map** — Taldea, Caria (Oceana, Titans Rest), Aerun, Malandara (Airlantis, The Holy Citadel), the Scarlands | [World](../World.md) |
-| [aerun_map_v3.png](../../assets/aerun_map_v3.png) ⭐ | **The Aerun continent map** | [Aerun](../World/Aerun.md) |
 | [vermoon.jpg](../../assets/vermoon.jpg) | The world (low-res; high-res wanted) | [World](../World.md) |
 | [1000023250.jpg](../../assets/1000023250.jpg) / [1000023251.jpg](../../assets/1000023251.jpg) | Mark's notebook: Aerun city ring & Deep Desert lifecycle | [Aerun](../World/Aerun.md) |
 
@@ -131,7 +132,8 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 
 ## Wishlist
 
-- ~~High-res world map~~ ✓ received (`vermoon-map.png`) — note its legacy Aerun city names need reconciling with the Dark Sun seven ([Aerun](../World/Aerun.md)).
+- ~~High-res world map~~ ✓ received (`vermoon-map.png`).
+- ~~Aerun legacy city-name reconciliation~~ ✓ **settled by the revised map** (`aerun_map.png`): the Dark Sun seven are the city-states; Blackguard, Osgaker, Hollowstorm, Amber Valley, and Eldorado are lesser towns.
 - **House banner art** — the Merchant Houses doc references banners on expiring CDN links; save stable copies to embed on [The Merchant Houses](../World/Factions/The-Merchant-Houses.md).
 - Andy's **Trello board** of previous-campaign notes — city names, connections, the earth city.
 - Sahali's session notes (confirm Airlantis details and dragon pairings).

@@ -4,19 +4,19 @@
 
 The central equatorial continent of Vermoon — a world of concentric rings where civilization clings to the coast, a wall marks the edge of the known, and the deep desert keeps the world's most dangerous secret. Vermoon's Dark Sun / Dune analogue.
 
-![Aerun](../.attachments/aerun_map_v3.png)
+![Aerun](../.attachments/aerun_map.png)
 
-*"Beyond the Rim Wall, the world ends."* — coastal proverb. (Map: `assets/aerun_map_v3.png`.)
+*"Beyond the Rim Wall, the world ends."* — coastal proverb. (Map: `assets/aerun_map.png` — the revised campaign map; the earlier draft is `aerun_map_v3.png`.)
 
-Canonical sources: `assets/Aerun_TheDesertContinent.md` (current) and `assets/Aerun_TheMerchantHouses.md`, superseding the city names in the older `Aerun_Worldbuilding.md`. *(Note: Andy's original world map (`vermoon-map.png`) shows different Aerun names — Elderado, Hollowstorm, Duskacre, Blackguard, Amber Valley. Treat the Dark Sun seven as campaign-current; reconcile the legacy names with Andy — they may survive as regions, ruins, or older names for the same places.)*
+Canonical sources: the revised map above, `assets/Aerun_TheDesertContinent.md`, and `assets/Aerun_TheMerchantHouses.md`. **The city-name reconciliation is settled by the revised map:** the Dark Sun seven are the great coastal city-states, and the legacy names from Andy's world map survive as smaller settlements — **Blackguard** (north coast, between Draj and Raam), **Osgaker** and **Hollowstorm** (west coast, between Tyr and Urik), **Amber Valley** (south coast, between Balic and Gulg), and **Eldorado** (inland, on the northwestern rim behind Tyr — the town at the edge of the wall).
 
 ## The concentric rings
 
 ### 1. The Coastal Ring — the seven city-states
 
-The habitable coastal strip: seven great city-states controlling Vermoon's global commerce — the shipping hubs between the northern continents (**Taldea** and **Malandara**), the Scarlands, and the other landmasses — linked by the **Ring Road**, the continent-circling highway that carries the bulk goods teleporters cannot. Jak keeps small temples in each city; true power lies with [the merchant houses](Factions/The-Merchant-Houses.md).
+The habitable coastal strip: seven great city-states controlling Vermoon's global commerce — the shipping hubs between the northern continents (**Taldea** and **Malandara**), the Scarlands, and the other landmasses — linked by the **Ring Road**, the continent-circling highway that carries the bulk goods teleporters cannot (labeled on the revised map along the southern coast). Jak keeps small temples in each city; true power lies with [the merchant houses](Factions/The-Merchant-Houses.md).
 
-Going clockwise from the north (per the map): **Draj** → **Raam** → **Nibenay** → **Gulg** → **Balic** → **Urik** → **Tyr**.
+Going clockwise from the north (per the revised map): **Draj** → **Blackguard** → **Raam** → **Nibenay** → **Gulg** → **Amber Valley** → **Balic** → **Urik** → **Hollowstorm** → **Osgaker** → **Tyr**.
 
 | City-State | Ruling House | Character |
 | :--- | :--- | :--- |
@@ -24,19 +24,21 @@ Going clockwise from the north (per the map): **Draj** → **Raam** → **Nibena
 | **Draj** (north) | Tsalaxa | Theocratic warrior culture; god-king figurehead; hemp and grain |
 | **Gulg** (southeast) | Inika | Forest city; sorcerer-queen styled a goddess; druidic templars |
 | **Nibenay** (east) | Shom | The Shadow King rules in mystery; half-giant legions; rare wood |
-| **Raam** (northeast; the sprawl) | M'ke | Teetering on civil war after its sorcerer-queen's death |
+| **Raam** (northeast; the sprawl) | M'ke | Teetering on civil war after its sorcerer-queen's death; gateway to the Sea of Silt |
 | **Tyr** (northwest) | Vordon | The Free City; first to abolish slavery; council-governed; iron mines |
 | **Urik** (southwest; the fortress-ring) | Stel | Militarized warrior-state; sorcerer-king still in power; sealed borders |
 
+**The lesser towns** (no house seats — client settlements, each a story hook): **Blackguard** (grim north-coast waypoint), **Osgaker** and **Hollowstorm** (west-coast fishing and salvage towns in the seven's shadow), **Amber Valley** (south-coast caravanserai on the Ring Road), **Eldorado** (the rim town — last provision stop before the interior, all rumors and gold-fever; the classic jumping-off point for a Deep Desert expedition).
+
 ### 2. The Rim Wall
 
-A massive geological barrier — sheer cliffs walling the interior along the north and west — the final boundary of civilization. **Beyond the Rim Wall the Aura network fails completely**: Jak is blind to the entire interior. Coastal citizens consider everything beyond it uninhabitable wasteland. The map marks **Rim Wall West** (★) — the pass region from Mark's notebook sketches, the traditional crossing point into the interior.
+A massive geological barrier — labeled **The Rim Wall** on the revised map, walling the interior plateau on the south and west — the final boundary of civilization. **Beyond the Rim Wall the Aura network fails completely**: Jak is blind to the entire interior. Coastal citizens consider everything beyond it uninhabitable wasteland. **Eldorado** sits at the wall's northwestern edge — the traditional crossing point into the interior.
 
 ### 3. The Tablelands and the Deep Desert
 
-Between the wall and the true desert lie the transitional badlands (per the map: **Stony Barrens** in the west behind Tyr and Urik, the **Badlands** massif in the east behind Nibenay and Gulg, and the **Sea of Silt** below Raam — powder-fine dust that flows like water, navigable only by psionic silt skimmers, with horrors beneath the surface). Scrub plains and sandy wastes fill the margins.
+Between the wall and the true desert lie the transitional lands (per the revised map): the **Badlands** massif in the east behind Nibenay and Gulg — rust-red broken country — and the **Sea of Silt** in the northeast below Raam, a sunken basin of powder-fine dust that flows like water, navigable only by psionic silt skimmers, with horrors beneath the surface.
 
-The center is the **Deep Desert**: capricious violent sandstorms, absolute water scarcity, entirely off the grid — home of the [Sandwalkers](Factions/The-Sandwalkers.md).
+The center is the **Deep Desert**: a vast raised plateau ringed by cliffs, capricious violent sandstorms, absolute water scarcity, entirely off the grid — home of the [Sandwalkers](Factions/The-Sandwalkers.md).
 
 ## Magic: preservers and defilers
 

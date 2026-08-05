@@ -2,6 +2,8 @@
 
 # The Garden Level
 
+![The garden under its dome](../.attachments/garden_dome.jpg)
+
 The ship's biosphere — a botanical garden gone wild for centuries. ~80 feet tall, ~500 feet across, tiered like a hillside with streams, a swamp, a central lake, and an island where the [Lighthouse](The-Lighthouse.md) stands. Alien flora and fauna from a dozen worlds. **Status: explored.**
 
 Sources: `assets/Level_3_Garden_DM_Reference.docx` (scene read-alouds), `assets/S3_Level4_Complete_5e_Conversion.docx` (full stat blocks), `assets/Level 3 with George.docx` (George's briefing).
@@ -21,6 +23,8 @@ Sources: `assets/Level_3_Garden_DM_Reference.docx` (scene read-alouds), `assets/
 
 ## The killer flora
 
+![The bunny clearing — the wolf-in-sheep's-clothing on its stump](../.attachments/garden_stump.png)
+
 - **Purple blossom** — poison drip beneath the flowers; DC 13 CON or **die instantly**.
 - **Tri-flower frond** — orange blooms sleep you, yellow showers dissolving enzyme, red drinks what's left.
 - **Boring grass** — corkscrew blades drill through boots; 4d6/turn + paralysis.
@@ -29,6 +33,8 @@ Sources: `assets/Level_3_Garden_DM_Reference.docx` (scene read-alouds), `assets/
 - **Strangle / vampire thorn vines** — as [Level 3](Level-3-Upper-Walkway.md).
 - **The Horrid Plant** — ugly, twitching, and *friendly*: telepathically warns clear-thinking visitors about the dangerous flora. Do not attack it (it has a 30-damage lightning bolt, 4 uses). The party heeded its warnings.
 - **Wolf-in-sheep's-clothing** — the "cute rabbitoid on a stump" in the bunny clearing; root tentacles drag prey to the maw. The light spore fog around it is a *lure*.
+
+![The rabbit warren tower on the approach](../.attachments/rabbit_tower.jpg)
 
 ## The fauna
 

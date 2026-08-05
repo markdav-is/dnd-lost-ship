@@ -6,7 +6,11 @@ Survival-horror module for five 10th-level characters: isolation, paranoia, and 
 
 ## Act I — The Frostwind Crossing
 
+![The longship at the lonely dock](../.attachments/frostwind_dock.png)
+
 Longship to a lonely dock; a fur-wrapped figure ([Korrin](../NPCs/Korrin.md)) waves them ashore; Grønnfjord-issue cold gear proves inadequate. Dogsled convoy through the blizzard — skill challenges and frostbite saves per [Cold & Survival](../Game-Mechanics/Cold-and-Survival.md). Hazards: whiteouts, hidden crevasses, sled-dog panic.
+
+![The sled journey across the glacier](../.attachments/sled_journey.png)
 
 ## Act II — Night at Frostwatch Hold
 
@@ -16,9 +20,15 @@ Run the **paranoia engine**: d6 symptom table (orange-flecked coughs, discolorat
 
 ## Act III — Siege of the Shapeshifter
 
-Muffled kennel yelps → human screams → the far wall **explodes**. Two **Fungal Horrors** (CR 10: AC 16, HP 180, infectious bite DC 16 CON, 15-ft spore burst, absorbed-voice mimicry, legendary spore puff) and four **infected wolves** (CR 5, pack tactics, death-burst spores). Fungal growth spreads as they fight — terrain turns slick and hostile.
+![The siege inside Frostwatch Hold](../.attachments/mold_zombies.png)
+
+Muffled kennel yelps → human screams → the far wall **explodes**. Two **Fungal Horrors** (CR 10: AC 16, HP 180, infectious bite DC 16 CON, 15-ft spore burst, absorbed-voice mimicry, legendary spore puff) and four **infected wolves** (CR 5, pack tactics, death-burst spores). Fungal growth spreads as they fight — terrain turns slick and hostile. Art for both: [Fungal Threats](../Bestiary/Fungal-Threats.md).
 
 **Victory conditions:** survive until dawn, or destroy the horrors while preserving the sled teams. (In play: the party survived; the sled dogs did not — see [Korrin](../NPCs/Korrin.md).)
+
+**Battle map** (the hold's interior, from the module):
+
+![Frostwatch Hold battle map](../.attachments/frostwatch_battlemap.png)
 
 ## Mechanics kit (module cheat sheet)
 
