@@ -1,0 +1,136 @@
+D&D Campaign Session: Frost Watch Military Takeover and Spore Network Crisis After Ship Mission
+===============================================================================================
+
+Overview
+--------
+The party returned from investigating a fungal infection source within a derelict ship, encountering widespread spore contamination in wildlife and terrain. They arrived at Frost Watch to find it under military control by a new administration, replacing previous symbols with those of the Temple of Nord.
+Beyonce (Sorcerer), Eustace (Human), Meow Meow (Cat), Musty Joe Mustang (Aarakocra), Robin (Healer/Cleric)
+not specified
+D&D Campaign Session
+not specified
+
+Executive Summary
+-----------------
+The party completed their mission to investigate a fungal outbreak source within a ship, returning to Frost Watch to find military forces under a new administration. They learned from Doctor Copper that the infection may spread through a network signal rather than physical spores, with locals acting suspiciously. They plan to report findings to High Sister Valerius and travel to Green Fjord to locate Jack, while withholding sensitive information to avoid alerting potential infiltrators.
+
+Key Themes and Topics
+---------------------
+
+The party observed infected wildlife (deer, goats) and mycelial growth across the landscape. Doctor Copper revealed that the infection might not require physical spores but could be propagating via a network signal, with individuals acting differently without visible symptoms.
+- Wildlife exhibits unnatural behavior and fungal growth (e.g., antlered mountain goats, motionless elk with white eyes).
+  - Copper suspects the infection uses the "aura network" to control minds without physical signs.
+  - Military guards at Frost Watch have blue lights in their ears, possibly part of the network.
+The ship's infection source was contained but not eliminated; spores continue to spread. Previous attempts to find the source failed, with no returnees.
+
+Frost Watch has been rebuilt with new timber and mortar, but its banners now display the administrator's seal and Temple of Nord symbols. Guards in flowing robes with blue ear lights patrol the area.
+- Original Frost Watch symbols (gray wolf on white) replaced by administrator's seal.
+  - Guards are calm but unnervingly synchronized; they seem connected via the blue lights.
+  - Doctor Copper questions whether the military presence is trustworthy.
+The military arrived after the party left, helping rebuild but with unknown motives. Copper has observed villagers acting strangely despite no visible infection.
+
+Important Details and Insights
+------------------------------
+
+The infection may not require physical spores but could be transmitted through the aura network, allowing control without visible symptoms. This explains why some locals act oddly without physical signs. Copper's concern is that the network itself is compromised.
+This insight shifts the threat from physical spores to a systemic vulnerability in the world's communication network, making containment more complex.
+
+The party has only one dose of antitoxin left, which is fast-acting but not long-lasting. This scarcity forces them to prioritize who receives it and how to handle future infections.
+
+The guards' synchronized behavior and blue ear lights suggest possible network control. The party is cautious about trusting them, especially after Copper's warnings.
+
+Decisions and Commitments
+-------------------------
+
+Report findings to High Sister Valerius but withhold details about network corruption to avoid alerting infiltrators.
+  - The party fears the council may include corrupted individuals; revealing too much could compromise their mission.
+  - Party collectively
+  - Morning council meeting
+  - None
+
+Travel to Green Fjord to locate Jack, taking Robin with them.
+  - Jack is the only trusted contact for the mission; Robin's medical skills are valuable.
+  - Party collectively
+  - Immediately after council meeting
+  - Obtain travel permits or resources from the council.
+
+Action Items and Next Steps
+---------------------------
+
+[ ] Prepare report for council meeting focusing on ship mission results and spore source containment.
+  - Musty Joe Mustang (as note-taker)
+  - Morning council meeting
+  - Concise report that omits sensitive network details.
+
+[ ] Contact Jack via talker to inform him of current situation and request guidance.
+  - Beyonce
+  - Before departure
+  - Jack acknowledges the message and provides instructions.
+
+[ ] Gather additional medical supplies from Robin before departure.
+  - Robin
+  - Before leaving Frost Watch
+  - Secure any available antitoxin or healing resources.
+
+Challenges, Risks, and Concerns
+-------------------------------
+
+Widespread fungal infection in wildlife and terrain, with no known containment method.
+Military presence at Frost Watch with unknown allegiance; possible infiltration by the infection network.
+Limited antitoxin supply (only one dose remaining), risking future infections.
+
+Council members may be corrupted by the network, leading to misinformation or sabotage.
+  - Critical mission details could be leaked, endangering the party and mission.
+  - Withhold sensitive information; verify trustworthiness through subtle questioning.
+Spore network may spread via aura communication, making physical isolation ineffective.
+  - Infection could propagate rapidly through networks, requiring a systemic solution.
+  - Investigate Jack's knowledge of the network; seek alternative containment methods.
+
+How does the infection interface with the aura network, and can it be disrupted?
+Are the military guards at Frost Watch part of the network, or are they loyal to the administrator?
+What is Jack's current status, and can he be trusted?
+
+Perspectives and Opinions
+-------------------------
+
+"The spores, the mold, the creatures, that's the part we can see. But there's something else. Something that doesn't leave marks. I've been watching the locals since the first attack. Some of them are different. Not infected, not physically, but they think differently. They make decisions they wouldn't have made before. They protect the infestation without even knowing they're doing it." - Doctor Copper
+  - Copper explains the potential network-based infection spreading through the aura network.
+  - The party takes his concerns seriously, especially after observing unnatural wildlife behavior.
+
+"I don't think they'd want to hear that [about the infected deer and ravine]. And I would highly suspect that the people we're talking to will have a glowing ear." - Beyonce
+  - Discussing whether to report wildlife infection to the council.
+  - Consensus to omit details about infected wildlife to avoid alerting potential infiltrators.
+
+Key Quotes
+----------
+
+"The spores, the mold, the creatures, that's the part we can see. But there's something else. Something that doesn't leave marks. I've been watching the locals since the first attack. Some of them are different. Not infected, not physically, but they think differently. They make decisions they wouldn't have made before. They protect the infestation without even knowing they're doing it." - Doctor Copper
+
+"This is the base? Yeah, this is the base. I misinterpreted what we were. Yeah, I'm probably wrong. I'm usually wrong about these things. But I'm right about the worst things. And often enough that you should listen." - Doctor Copper
+
+Conclusions and Takeaways
+-------------------------
+
+The fungal infection has evolved beyond physical spores, potentially spreading via a network signal that alters behavior without visible symptoms.
+Trust in Frost Watch's military presence is compromised; the party must proceed cautiously when reporting findings.
+Immediate priority is reaching Jack in Green Fjord to coordinate a response, while safeguarding critical information from potential infiltrators.
+
+Follow-Up and Continuity
+------------------------
+
+Council meeting with High Sister Valerius, McCready, Copper, and others in the morning to report findings.
+Contact Jack before departure; secure travel resources from the council.
+Watch for signs of network corruption in council members and military personnel.
+
+Additional Context
+------------------
+
+George Takei and Erlena Reiser remain inside the ship to study the spore source; the party plans to return to them after resolving the immediate crisis.
+Previous missions to investigate the ship resulted in no returnees, making this party's success critical.
+The administrator's control over Frost Watch and Temple of Nord's influence may complicate mission objectives.
+
+Notes and Observations
+----------------------
+
+The party is cautious and collaborative, prioritizing secrecy over full disclosure. Some members (e.g., Beyonce) take the lead in strategic decisions.
+Tense but focused; concerns about the infection are balanced with urgency to act.
+The session effectively builds tension around the infection's nature and the party's next steps, with clear objectives for the upcoming council meeting.

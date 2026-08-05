@@ -28,7 +28,7 @@ For the Barrier Peaks this is a real, horrifying option — a magical scorched-e
 
 - **Where is the Order?** Aerun's coastal ring, hidden in the Scarlands, or somewhere off every map — undefined. So are its numbers, leadership, and rites.
 - **Relationship to the sorcerer-kings:** rivals? apostates? the kings prove the knowledge never needed an order to survive — so what does the Order believe its oath *is*?
-- **Who knows it exists?** Harah does — it is part of the history she carries. Whether Jak, Valerius, or the houses know is a choice with big consequences: whoever reaches the Sere first gains the most terrible lever in the [Lighthouse Dilemma](../../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).
+- **Who knows it exists?** The Council of Frostwatch does, now — and wants their *containment* help while the cure mission runs. But contact requires travel to them, and **the Order will not talk to Harah**: an old, unexplained rift (*"It's a long story"*). The party may have to broker a reconciliation nobody understands yet — and whoever reaches the Sere first still gains the most terrible lever in the [Lighthouse Dilemma](../../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).
 - **What do they want?** Failsafe-keepers wait for a purpose. After a thousand years, do they *want* to be needed?
 - **The preserver counterweight:** the **Veiled Alliance** exists ([Aerun](../Aerun.md)) — natural opponents of ever invoking the Sere, and natural allies for any party seeking a gentler answer.
 

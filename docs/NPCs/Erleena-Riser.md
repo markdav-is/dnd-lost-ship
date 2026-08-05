@@ -22,6 +22,10 @@ The marine observatory's seals are intact and fifty feet of lake water is a natu
 
 She is the anchor of **Path Three** ([The Lighthouse Dilemma](../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md)) and the named, sympathetic NPC standing inside any blast radius the other paths would create. Two more scientists now work aboard with her.
 
+## Status: unreachable
+
+Since the party left, **her comms have gone dead** — attempts return only *"No signal. Your number cannot be completed."* Infrastructure failure at best; [Aphelion stirring](../Adventures/Return-to-the-Ship.md) at worst. Finding her is a driving objective of the return expedition.
+
 ## Open concerns
 
 - The **cycling door** below her observatory — something overrides the lock, opens it, closes it. She asked the party to make it stay shut. It is Aphelion stirring ([The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md)).

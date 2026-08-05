@@ -10,8 +10,8 @@ The campaign's **modules**, in play order. Each module page is the overview — 
 | 4 | [Think of the Children](Adventures/Think-of-the-Children.md) | Set-piece battle | Played ✔ |
 | 5 | [Frostwatch Horror](Adventures/Frostwatch-Horror.md) | Survival-horror module | Played ✔ |
 | — | Ship survey (Levels 1–Lower) | Dungeon crawl | Played ✔ — see [The Lost Ship](The-Lost-Ship.md) |
-| 6 | [Return to Frostwatch](Adventures/Return-to-Frostwatch.md) | Journey + council | **Active** — 8 encounter subpages ⚡ |
-| 7 | [Return to the Ship](Adventures/Return-to-the-Ship.md) | Ship expedition | **In design** — the spore-woken Aphelion |
+| 6 | [Return to Frostwatch](Adventures/Return-to-Frostwatch.md) | Journey + council | Played ✔ (2 sessions) — 8 encounter subpages ⚡ |
+| 7 | [Return to the Ship](Adventures/Return-to-the-Ship.md) | Ship expedition | **Next up** — the spore-woken Aphelion; party committed to the Cure |
 
 ## Return to Frostwatch — encounters
 

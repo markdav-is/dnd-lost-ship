@@ -11,14 +11,14 @@ Source: Andy's world-building interview, `assets/Vermoon World-Building Session_
 | City | Element | Notes |
 | :--- | :--- | :--- |
 | **Airlantis** | Air | Flying city the size of a sports stadium — see below |
-| **Ocean** | Water | Underwater city; the party's visit there prompted opening the teleport network |
+| **Oceana** | Water | Underwater city off the coast of Caria (marked on the world map); the party's visit there prompted opening the teleport network |
 | **The fire city** | Fire | On [Aerun](Aerun.md) — presumably one of the seven merchant-house city-states ([ANDY LORE] to confirm which) |
 | **The earth city** | Earth | Site of the party's encounter with the Earth Titan *(name to confirm from Andy's Trello notes)* |
 
 ## Airlantis
 
 - The air city — mobile, flying, **fully under the party's control** since the previous campaign; their base of operations.
-- **Parked at Eustace's homeland** — [Eustace](../Campaign/The-Party/Eustace-Thunderbeak.md) landed it there for a hero's welcome among his people.
+- **Parked at Eustace's homeland on Malandara** (marked on the world map) — [Eustace](../Campaign/The-Party/Eustace-Thunderbeak.md) landed it there for a hero's welcome among his people.
 - Runs on fuel that [Rico](../NPCs/Rico.md) the engineer worked out how to synthesize; supply is plentiful.
 - Home of the **Silver (or White) Dragon** ([The Dragons](The-Dragons.md)).
 - **DM note:** Airlantis is the party's dormant super-asset — and, per the revised council canon, **the designated delivery platform for the Purge path**: the world's only strategic air power, the one thing that can carry enough incendiaries to sterilize the valley. The ship's no-teleport field doesn't ground *aircraft*, and the Spásistren certainly haven't forgotten Airlantis exists. This means the purge cannot happen without the party's consent — or without Jak attempting to commandeer their city. Either way, bringing it south is a campaign-scale escalation with political consequences.

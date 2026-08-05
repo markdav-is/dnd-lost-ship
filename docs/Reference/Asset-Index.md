@@ -23,6 +23,8 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 | [Aerun_Worldbuilding.md](../../assets/Aerun_Worldbuilding.md) (older) | Earlier Aerun draft — superseded on city names; still canonical for the political-monopoly framing | [Aerun](../World/Aerun.md) |
 | [Dune_DarkSun_Connections.md](../../assets/Dune_DarkSun_Connections.md) | "The Sands of Two Worlds" — thematic analysis of the two source settings | [Sourcebooks](Sourcebooks-and-Inspiration.md) |
 | [Vermoon interview transcript](../../assets/Vermoon%20World-Building%20Session_%20Dragon%20Lore%2C%20Continent%20Design%2C%20and%20Titan%20Technology%20Discussion_transcript.txt) (+ [summary](../../assets/Vermoon%20World-Building%20Session_%20Dragon%20Lore%2C%20Continent%20Design%2C%20and%20Titan%20Technology%20Discussion_summary.txt)) | **Andy interview**: dragon lore, Titans, elemental cities, Aura, previous-campaign canon | [The Dragons](../World/The-Dragons.md), [The Titans](../World/The-Titans.md), [Elemental Cities](../World/The-Elemental-Cities.md), [Timeline](../World/Timeline.md) |
+| [Session record: Frost Watch Military Takeover…](../../assets/D%26D%20Campaign%20Session_%20Frost%20Watch%20Military%20Takeover%20and%20Spore%20Network%20Crisis%20After%20Ship%20Mission_transcript.txt) (+ [summary](../../assets/D%26D%20Campaign%20Session_%20Frost%20Watch%20Military%20Takeover%20and%20Spore%20Network%20Crisis%20After%20Ship%20Mission_summary.txt)) | **Played session 2026-08-04 #1**: descent aftermath, occupied Frostwatch, Robin recruited, info-withholding pact | [Adventure Log](../Campaign/Adventure-Log.md) |
+| [Session record: Frostwatch Council…](../../assets/D%26D%20Session_%20Frostwatch%20Councils%20Containment%20and%20Cure%20Strategy%20for%20Fungal%20Infection%20Crisis_transcript.txt) (+ [summary](../../assets/D%26D%20Session_%20Frostwatch%20Councils%20Containment%20and%20Cure%20Strategy%20for%20Fungal%20Infection%20Crisis_summary.txt)) | **Played session 2026-08-04 #2**: the council, Rajaat named, **Cure path chosen**, Harah-defiler rift surfaced | [Adventure Log](../Campaign/Adventure-Log.md) |
 | [S3_Level1_Complete_5e_Conversion.docx](../../assets/S3_Level1_Complete_5e_Conversion.docx) | Level 1 stat blocks, triggers, read-alouds | [Level 1](../The-Lost-Ship/Level-1-Crew-Quarters.md) |
 | [S3_Level1_DM_Helper.docx](../../assets/S3_Level1_DM_Helper.docx) | Level 1 room key, loot tables, card reference | [Level 1](../The-Lost-Ship/Level-1-Crew-Quarters.md) |
 | [S3_Level3_Complete_5e_Conversion.docx](../../assets/S3_Level3_Complete_5e_Conversion.docx) | Walkway level conversion | [Level 3](../The-Lost-Ship/Level-3-Upper-Walkway.md) |
@@ -69,6 +71,7 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 
 | File | Subject | Embedded at |
 | :--- | :--- | :--- |
+| [vermoon-map.png](../../assets/vermoon-map.png) ⭐ | **The hi-res world map** — Taldea, Caria (Oceana, Titans Rest), Aerun, Malandara (Airlantis, The Holy Citadel), the Scarlands | [World](../World.md) |
 | [aerun_map_v3.png](../../assets/aerun_map_v3.png) ⭐ | **The Aerun continent map** | [Aerun](../World/Aerun.md) |
 | [vermoon.jpg](../../assets/vermoon.jpg) | The world (low-res; high-res wanted) | [World](../World.md) |
 | [1000023250.jpg](../../assets/1000023250.jpg) / [1000023251.jpg](../../assets/1000023251.jpg) | Mark's notebook: Aerun city ring & Deep Desert lifecycle | [Aerun](../World/Aerun.md) |
@@ -125,7 +128,7 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 
 ## Wishlist
 
-- High-res **world** map (Andy has one; `vermoon.jpg` is low quality — Aerun has its own map ✓).
+- ~~High-res world map~~ ✓ received (`vermoon-map.png`) — note its legacy Aerun city names need reconciling with the Dark Sun seven ([Aerun](../World/Aerun.md)).
 - **House banner art** — the Merchant Houses doc references banners on expiring CDN links; save stable copies to embed on [The Merchant Houses](../World/Factions/The-Merchant-Houses.md).
 - Andy's **Trello board** of previous-campaign notes — city names, connections, the earth city.
 - Sahali's session notes (confirm Airlantis details and dragon pairings).

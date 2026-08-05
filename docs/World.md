@@ -2,7 +2,7 @@
 
 **Vermoon** — the campaign world. A world of Nordic fjords and equatorial deserts, ruled (for the first time in living memory) by a single visible Administrator, and quietly threaded together by an ancient technological network most of its people mistake for divinity.
 
-![Vermoon](.attachments/vermoon.jpg)
+![Vermoon — the world map](.attachments/vermoon-map.png)
 
 ## Pages
 
@@ -19,7 +19,9 @@
 
 - **The Scarlands** (south, cold): fjord ports, mountain holds, and the Barrier Peaks range where the ship crashed. Seat of Jak's earthbound power at Grønnfjord.
 - **Aerun** (central, equatorial): the desert crossroads-continent — seven merchant-house city-states on the coastal ring, the Rim Wall, and the Deep Desert quarantine at the center.
-- **Lafdea** (north): the northern continent — dragon-tower country and Shhhmeowmeow/Shenandoah's homeland; largely undetailed.
+- **Taldea** (northwest): dragon-tower country and Shhhmeowmeow/Shenandoah's homeland — home of **Drytide**, where the party first met Rico (and, unknowingly, the Blue Dragon). *(Earlier notes rendered this "Lafdea" — the map settles it as Taldea.)*
+- **Caria** (southwest): green and temperate; the underwater city **Oceana** lies off its coast, and a site marked **Titans Rest** sits in its highlands.
+- **Malandara** (east): the largest landmass — **The Holy Citadel**, Boulderfort, Heronopia — and **Airlantis's** parking ground, making it Eustace's homeland.
 - **The orbital layer:** the space station of the previous campaign, where the First Administrator ruled and died — and where the Blue Dragon departed. Nothing up there can strike the ground; the world's only strategic air power is **Airlantis**, and the party holds it.
 
 ## Ancient technology as theology

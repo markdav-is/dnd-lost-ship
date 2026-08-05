@@ -8,13 +8,13 @@ The central equatorial continent of Vermoon — a world of concentric rings wher
 
 *"Beyond the Rim Wall, the world ends."* — coastal proverb. (Map: `assets/aerun_map_v3.png`.)
 
-Canonical sources: `assets/Aerun_TheDesertContinent.md` (current) and `assets/Aerun_TheMerchantHouses.md`, superseding the city names in the older `Aerun_Worldbuilding.md`.
+Canonical sources: `assets/Aerun_TheDesertContinent.md` (current) and `assets/Aerun_TheMerchantHouses.md`, superseding the city names in the older `Aerun_Worldbuilding.md`. *(Note: Andy's original world map (`vermoon-map.png`) shows different Aerun names — Elderado, Hollowstorm, Duskacre, Blackguard, Amber Valley. Treat the Dark Sun seven as campaign-current; reconcile the legacy names with Andy — they may survive as regions, ruins, or older names for the same places.)*
 
 ## The concentric rings
 
 ### 1. The Coastal Ring — the seven city-states
 
-The habitable coastal strip: seven great city-states controlling Vermoon's global commerce — the shipping hubs between the northern continent (**Lafdea**), the Scarlands, and the other landmasses — linked by the **Ring Road**, the continent-circling highway that carries the bulk goods teleporters cannot. Jak keeps small temples in each city; true power lies with [the merchant houses](Factions/The-Merchant-Houses.md).
+The habitable coastal strip: seven great city-states controlling Vermoon's global commerce — the shipping hubs between the northern continents (**Taldea** and **Malandara**), the Scarlands, and the other landmasses — linked by the **Ring Road**, the continent-circling highway that carries the bulk goods teleporters cannot. Jak keeps small temples in each city; true power lies with [the merchant houses](Factions/The-Merchant-Houses.md).
 
 Going clockwise from the north (per the map): **Draj** → **Raam** → **Nibenay** → **Gulg** → **Balic** → **Urik** → **Tyr**.
 

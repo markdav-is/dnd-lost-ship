@@ -11,6 +11,7 @@ Dossiers for every named character. Statuses reflect the current campaign state.
 | [Erleena Riser](NPCs/Erleena-Riser.md) | Scientist; cure lab beneath the Lighthouse | ◈ Found / active |
 | [Harah Tabr](NPCs/Harah-Tabr.md) | Sandwalker emissary from Aerun | ◈ New companion |
 | [High Sister Valerius](NPCs/High-Sister-Valerius.md) | Spásistren commander at Frostwatch | ◈ Neutral / secret ally? |
+| [Robin](NPCs/Robin.md) | Infirmary healer-cleric, newly recruited | ◈ Party companion |
 
 ## Frostwatch
 

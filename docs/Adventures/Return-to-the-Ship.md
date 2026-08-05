@@ -2,7 +2,9 @@
 
 # Return to the Ship (planning)
 
-**The next module — in design.** The party re-enters the ship (the Cure path); the infection is spreading with visible single-mindedness; Aphelion is awake. **Design goals: action-heavy sessions, and a hopepunk/solarpunk resolution where everything — the cure, George, Aphelion, Aerun, the friendship with Jak — works out.**
+**The next module — confirmed by play (2026-08-04): the council chose the Cure, and the party departs by air.** As-played springboard: [Erleena is unreachable](../NPCs/Erleena-Riser.md) (comms dead — Aphelion's first move?); **[Robin](../NPCs/Robin.md)** joins as expedition healer; the party holds **one antitoxin dose**; Sere containment cover hangs on [Harah's broken bridge with the defilers](../NPCs/Harah-Tabr.md); and the party is withholding the network-corruption theory from anyone with a glowing ear.
+
+**Original design brief:** The party re-enters the ship (the Cure path); the infection is spreading with visible single-mindedness; Aphelion is awake. **Design goals: action-heavy sessions, and a hopepunk/solarpunk resolution where everything — the cure, George, Aphelion, Aerun, the friendship with Jak — works out.**
 
 Sources: `assets/quests-from-the-infinite-staircase.pdf` (Ch. 7, the published Aphelion arc) + table canon (2026-08-05, in development).
 

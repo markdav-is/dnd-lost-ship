@@ -44,7 +44,7 @@ Economical with words, generous with action. States her position once, then does
 - **Ecological memory:** introduces the [Green Age](../Campaign/Plot-Threads/The-Green-Age.md) through observation, never exposition — she answers history, doesn't volunteer it.
 - **Warden of Rajaat:** the cure path is now *personal* — success frees her people from a thousand-year duty they never chose. She wants the party to succeed more than she will ever say.
 - **Keeper of ringed secrets:** what she tells, what she yields under pressure, and what she never says — the gaps are where her best scenes live.
-- **Gateway to the Sere:** she knows the defilers endure. Whether she surrenders that name — and to whom — is a campaign hinge.
+- **Gateway to the Sere — with a broken bridge (as played):** the council wants the defilers' containment help, and reaching them runs through Harah. But *"the defilers won't talk to me… They wouldn't necessarily trust me. It's a long story. Meet me at the bar later."* Her past rift with the Order is real, unexplained, and now load-bearing: someone has to make that meeting happen — and hear the story.
 - **Network blind spot:** the party's untrackable channel; the merchant houses covet her, and she would refuse every side.
 - **The Rite of Remembrance:** her ritual vision of the Green Age is the DM's revelation-delivery tool.
 - **With George:** quiet mutual respect — the primal mind and the scientific mind approaching the same crisis from opposite directions. She offers him a Sandwalker stabilizer remedy — not a cure; time and clarity.
