@@ -2,7 +2,7 @@
 
 # Harah Tabr
 
-Dune Strider of the [Sandwalkers](../World/Factions/The-Sandwalkers.md) — deep desert nomad and primal shaman of [Aerun](../World/Aerun.md), warden-born of Rajaat, sent north to find the source of the Defiling Silence. She has walked across the proof of what happens when a world chooses wrong. *"The desert does not lie. It shows you exactly what the world becomes when power is taken without giving anything back."*
+Dune Strider of the [Sandwalkers](../World/Factions/The-Sandwalkers.md) — deep desert nomad and primal shaman of [Aerun](../World/Aerun.md), warden-born of Rajaat, sent south across the sea to find the source of the Defiling Silence. She has walked across the proof of what happens when a world chooses wrong. *"The desert does not lie. It shows you exactly what the world becomes when power is taken without giving anything back."*
 
 ![Harah Tabr](../.attachments/council_kaelen.jpg)
 

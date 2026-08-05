@@ -11,6 +11,7 @@ The campaign's **modules**, in play order. Each module page is the overview — 
 | 5 | [Frostwatch Horror](Adventures/Frostwatch-Horror.md) | Survival-horror module | Played ✔ |
 | — | Ship survey (Levels 1–Lower) | Dungeon crawl | Played ✔ — see [The Lost Ship](The-Lost-Ship.md) |
 | 6 | [Return to Frostwatch](Adventures/Return-to-Frostwatch.md) | Journey + council | **Active** — 8 encounter subpages ⚡ |
+| 7 | [Return to the Ship](Adventures/Return-to-the-Ship.md) | Ship expedition | **In design** — the spore-woken Aphelion |
 
 ## Return to Frostwatch — encounters
 

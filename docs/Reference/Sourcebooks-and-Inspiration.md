@@ -9,6 +9,7 @@ The published works in `/assets`, what each contributes, and how it maps into Ve
 | Book | File | Role in the campaign |
 | :--- | :--- | :--- |
 | **S3: Expedition to the Barrier Peaks** (AD&D, Gary Gygax) | `tsr09033 - S3 - Expedition to the Barrier Peaks (1).pdf` | The ship itself — maps, rooms, creatures, technology. The homebrew 5e conversions in `/assets` cover Levels I, III, IV and the reactor/cargo deck; the remaining levels are unconverted material for future expeditions |
+| **Quests from the Infinite Staircase** (5e, 2024) — Ch. 7 remasters Barrier Peaks | `quests-from-the-infinite-staircase.pdf` | ⭐ The official 5e remaster: **Aphelion** (the "initially friendly but ultimately evil" quest-giver AI), Nova, updated key cards and tech items. Source of the AI arc for [Return to the Ship](../Adventures/Return-to-the-Ship.md). Rough OCR text layer — searchable |
 
 ## Dark Sun — the Aerun layer
 

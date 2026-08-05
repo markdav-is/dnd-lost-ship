@@ -12,7 +12,7 @@ Full faction detail: [The Merchant Houses](../../World/Factions/The-Merchant-Hou
 
 ## The agent: Tomas Vel-Maret
 
-A merchant factor conducting a "mining rights survey" in the Barrier Peaks — actually the houses' eyes in the north. See [his NPC page](../../NPCs/Tomas-Vel-Maret.md) for the offer he makes the party and the sealed orders he holds.
+A merchant factor conducting a "mining rights survey" in the Barrier Peaks — actually the houses' eyes in the southern Scarlands. See [his NPC page](../../NPCs/Tomas-Vel-Maret.md) for the offer he makes the party and the sealed orders he holds.
 
 ## DM guidance
 

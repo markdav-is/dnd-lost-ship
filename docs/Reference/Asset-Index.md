@@ -45,6 +45,7 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 | File | Book |
 | :--- | :--- |
 | [tsr09033 - S3 - Expedition to the Barrier Peaks (1).pdf](../../assets/tsr09033%20-%20S3%20-%20Expedition%20to%20the%20Barrier%20Peaks%20%281%29.pdf) | **S3: Expedition to the Barrier Peaks** (AD&D) — the foundation |
+| [quests-from-the-infinite-staircase.pdf](../../assets/quests-from-the-infinite-staircase.pdf) | **Quests from the Infinite Staircase** (5e, 2024) — Ch. 7 is the official Barrier Peaks remaster with the Aphelion arc |
 | [DD4_DarksunCampaign.pdf](../../assets/DD4_DarksunCampaign.pdf) (+ [map](../../assets/DD4_Darksun_map.pdf)) | Dark Sun Campaign Setting (4e) |
 | [Dark_Sun_Creature_Catalog_(4e).pdf](../../assets/Dark_Sun_Creature_Catalog_%284e%29.pdf) | Dark Sun Creature Catalog (4e) |
 | [Fury of the Wastewalker Ch1](../../assets/DD4_FuryofWastewalker_Chap1.pdf) · [Ch2](../../assets/DD4_FuryofWastewalker_Chap2.pdf) · [Ch3](../../assets/DD4_FuryofWastewalker_Chap3.pdf) · maps [2A](../../assets/DD4_FuryofWastewalker_Map2A.pdf) [2B](../../assets/DD4_FuryofWastewalker_Map2B.pdf) [2C](../../assets/DD4_FuryofWastewalker_Map2C.pdf) | Fury of the Wastewalker (4e adventure) |

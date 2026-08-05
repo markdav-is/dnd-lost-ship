@@ -2,7 +2,7 @@
 
 # Tomas Vel-Maret
 
-Merchant factor and the [merchant alliance's](../Campaign/Plot-Threads/The-Merchant-Alliance.md) agent in the north — in the Barrier Peaks for weeks under cover of a mining-rights survey. Not a villain: a pragmatist who has read how stories about information monopolies end. **Not yet introduced in play.**
+Merchant factor and the [merchant alliance's](../Campaign/Plot-Threads/The-Merchant-Alliance.md) agent in the south — in the Barrier Peaks for weeks under cover of a mining-rights survey. Not a villain: a pragmatist who has read how stories about information monopolies end. **Not yet introduced in play.**
 
 ## The offer he makes the party
 

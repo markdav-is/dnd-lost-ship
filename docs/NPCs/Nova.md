@@ -19,5 +19,5 @@ The lone crew member who **shut down Aphelion** — the ship's murderous compute
 ## DM notes
 
 - Freeing her: DC 12 Intelligence (Investigation) on the pod.
-- She does not yet know **Aphelion is waking up**. Her reaction when she learns — and what she knows about how to shut it down *again* — is a keystone for the next ship expedition.
+- She does not yet know **Aphelion is waking up** — and per the published spine adopted in [Return to the Ship](../Adventures/Return-to-the-Ship.md), the AI's fixation is **eliminating her**: she is the one person who knows the shutdown. The froghemoth that blocked its path is already dead, courtesy of the party. Her knowledge of how to shut it down *again* is the keystone of the next expedition.
 - She may recognize the mold. Whether it boarded as cargo, stowaway, or weapon is a revelation the DM controls through her recovering memory.

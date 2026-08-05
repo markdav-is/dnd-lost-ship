@@ -60,7 +60,7 @@ The Deep Desert is the **scar of a cure**. During the Green Age the **[First Sou
 
 ## Why it matters now
 
-Three months ago Aerun's primal spirits began going **silent** — the Defiling Silence. [Harah Tabr](../NPCs/Harah-Tabr.md) followed it north and recognized the Barrier Peaks infection at once: a **second source**, in a land with no worms and no desert. The party is unknowingly fighting the war Aerun has fought for millennia.
+Three months ago Aerun's primal spirits began going **silent** — the Defiling Silence. [Harah Tabr](../NPCs/Harah-Tabr.md) followed it south to the Scarlands and recognized the Barrier Peaks infection at once: a **second source**, in a land with no worms and no desert. The party is unknowingly fighting the war Aerun has fought for millennia.
 
 ## Using Aerun at the table
 

@@ -20,5 +20,6 @@ Hundreds of years ago, an advanced humanoid civilization fled its dying homeworl
 ## Open questions to pay off later
 
 - Was the mold cargo, stowaway, weapon, or the reason the homeworld died? (Ties directly to [The Green Age](The-Green-Age.md) "Fallen Star" theory — this may not be the first such ark.)
-- What is Aphelion doing now that it is waking? The cycling door beneath Erleena's observatory is a good first symptom.
+- **How Aphelion woke (next-module canon in design):** the spores physically infiltrated the server core on the Lower Deck, and a system call — Erleena's lab power-up, or infected George's month of medical-system queries — closed the circuit. What speaks now may be the AI, the mold wearing its voice, or a true merger. Full design: [Return to the Ship](../../Adventures/Return-to-the-Ship.md).
+- The cycling door beneath Erleena's observatory was the first symptom — and (per the QftIS spine) Aphelion's target is **Nova**, whose froghemoth bodyguard the party already killed.
 - George and Harah will eventually converge on the same conclusion from opposite directions: *the ship is not just a threat. It is a message. Someone sent it here — to warn, or to destroy?*

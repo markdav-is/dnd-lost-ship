@@ -31,7 +31,7 @@ From 1st level, **any wizard can choose to defile** as part of casting a wizard 
 
 **The temptation engine:** the first defilement is an addictive euphoric rush. Each time a preserver defiles, they make a **Wisdom save starting at DC 5, +5 per further use**. Fail → the **Defiler's Taint**: a permanent aura (animals within 30 ft grow uneasy; disadvantage on interactions with them), alignment shifts one step toward evil, and casting *without* defiling now requires an Intelligence save (DC 8 + 2×proficiency + spell level) made at disadvantage. Addiction, mechanized.
 
-**Campaign note:** read that terrain table against the map — on Aerun's coast a defiler scrapes 1–2 points; in the Deep Desert, *zero* (the quarantine starves defilers too). But the **Scarlands are forest terrain: 3 points per spell.** The [Order of the Sere's](../World/Factions/The-Order-of-the-Sere.md) failsafe is *more* potent in the green north than defiling has been anywhere in a thousand years — and any wizard PC who learns to defile discovers this personally.
+**Campaign note:** read that terrain table against the map — on Aerun's coast a defiler scrapes 1–2 points; in the Deep Desert, *zero* (the quarantine starves defilers too). But the **Scarlands are forest terrain: 3 points per spell.** The [Order of the Sere's](../World/Factions/The-Order-of-the-Sere.md) failsafe is *more* potent in the green Scarlands south than defiling has been anywhere in a thousand years — and any wizard PC who learns to defile discovers this personally.
 
 ## Wild Talents (the Spice made mechanical)
 
