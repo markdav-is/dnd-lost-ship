@@ -20,8 +20,8 @@
 - **The Scarlands** (south, cold): fjord ports, mountain holds, and the Barrier Peaks range where the ship crashed. Seat of Jak's earthbound power at Grønnfjord.
 - **Aerun** (central, equatorial): the desert crossroads-continent — seven merchant-house city-states on the coastal ring, the Rim Wall, and the Deep Desert quarantine at the center.
 - **Lafdea** (north): the northern continent — dragon-tower country and Shhhmeowmeow/Shenandoah's homeland; largely undetailed.
-- **The orbital layer:** the space station of the previous campaign, where the First Administrator ruled and died — and where the Blue Dragon departed; orbital platforms capable of incendiary strikes still answer to the Administrator's authority.
+- **The orbital layer:** the space station of the previous campaign, where the First Administrator ruled and died — and where the Blue Dragon departed. Nothing up there can strike the ground; the world's only strategic air power is **Airlantis**, and the party holds it.
 
 ## Ancient technology as theology
 
-Vermoon's civilization lives atop the infrastructure of "the ancients" — networks, orbital platforms, dis-trans creatures, implants — buried in the Red Dragon's apocalypse and partially revived. Most people experience this as religion (the Temple of Nord, "Jak's blessing"); a few understand it as machinery; almost no one understands it completely. The campaign's central irony: the one place the all-seeing network cannot reach is the one place the answers are.
+Vermoon's civilization lives atop the infrastructure of "the ancients" — networks, flying cities, teleporters, dis-trans creatures, implants — buried in the Red Dragon's apocalypse and partially revived. Most people experience this as religion (the Temple of Nord, "Jak's blessing"); a few understand it as machinery; almost no one understands it completely. The campaign's central irony: the one place the all-seeing network cannot reach is the one place the answers are.

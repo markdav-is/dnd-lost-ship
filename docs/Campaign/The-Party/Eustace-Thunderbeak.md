@@ -26,4 +26,4 @@ At the end of the previous campaign Eustace landed **[Airlantis](../../World/The
 
 - Native flight changed several set-piece fights (Sky Hunters, froghemoth) — the source modules assume aerial party members and punish landing.
 - Pirate background ties to Grønnfjord's harbor world: Captain Olaf, the southern sea routes, and any future voyage to Aerun.
-- If the campaign ever needs Airlantis over the Barrier Peaks, the request goes through Eustace — and his people live next to the runway.
+- **The purge path runs through Eustace.** Airlantis is the council's designated strike platform for Path Two — so the world's most terrible option requires his yes, and his people live next to the runway. No pressure.

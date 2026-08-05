@@ -18,7 +18,7 @@ This location is deliberately undefined in the source material — a blank the D
 | :--- | :--- |
 | **A containment cordon** — Jak has known about the ship far longer than he admits and has been quietly building the quarantine infrastructure Valerius's "Path One" would activate | Jak's throne-room plea was partly theater; he needed deniable agents inside the void |
 | **An excavation** — Jak is trying to reach the ship (or a second buried structure) on his own terms, mining toward it from a fortified staging base | Sets up a race; the sealed orders ([Tomas](../../NPCs/Tomas-Vel-Maret.md)) fit naturally |
-| **A weapon** — the orbital-strike ground station for Path Two, already under construction | The purge was always the plan; the council was a formality |
+| **A weapon** — the staging ground for Path Two: airfields and incendiary stockpiles built for the day Airlantis is brought south, already under construction | The purge was always the plan; the council was a formality — and Jak has been quietly preparing to *ask for the party's city* |
 | **A second void** — something else in the peaks the network cannot see | Escalates the cosmic scale; pairs with the "Fallen Star" theory in [The Green Age](The-Green-Age.md) |
 
 Whatever you choose, Nordkrist's Hold is the natural destination for the campaign's next overland arc, and its supply convoys are a ready-made encounter seed (raid one, guard one, stow away on one).

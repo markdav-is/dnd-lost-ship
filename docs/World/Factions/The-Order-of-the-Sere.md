@@ -22,7 +22,7 @@ During the end of the Green Age, when [Rajaat's](../../Campaign/Plot-Threads/The
 2. **The flora dies with them** — hosts, forests, crops; the land is left sterile ash.
 3. **The infected *creatures* may survive the casting** — the animals and transformed things the mold rides are not plants. But they wake in a dead land with nothing to eat and no mold to sustain them. **They starve.** The end of a sere-made region is not silence but a lingering horror phase: starving infected fauna wandering ash until the last of them falls.
 
-For the Barrier Peaks this is a real, horrifying option — a magical scorched-earth that out-purges even the orbital strike: certain against the mold, absolute against the land, and slow-cruel against everything caught in between.
+For the Barrier Peaks this is a real, horrifying option — a magical scorched-earth that out-purges even an Airlantis firebombing: certain against the mold, absolute against the land, and slow-cruel against everything caught in between.
 
 ## Open questions (DM to define)
 

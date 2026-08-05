@@ -15,7 +15,7 @@ The powers moving through the campaign, each with a legitimate grievance and a d
 
 | Faction | Wants | Fears | Leverage |
 | :--- | :--- | :--- | :--- |
-| Jak / the Administration | The threat stopped; the ship's tech stewarded (by him) | The void; losing the peace he built | The network, the Spásistren, orbital platforms |
+| Jak / the Administration | The threat stopped; the ship's tech stewarded (by him) | The void; losing the peace he built | The network, the Spásistren, the incendiary stockpiles — but the purge needs **Airlantis**, which the party controls |
 | The Spásistren | Jak's will made real | Doubt in Jak | Absolute discipline; incendiary wagons already in the peaks |
 | Merchant houses | The network monopoly broken; ship tech distributed (to them) | Jak seeing them coalesce | The Spice, the Ring Road, the sealed orders |
 | Sandwalkers | The world not to die twice | The Defiling Silence — and their secrets spent | Memory; the containment; invisibility to the network |
