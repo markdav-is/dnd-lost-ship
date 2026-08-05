@@ -1,3 +1,5 @@
+[Adventures](../Adventures.md) / Foggy Fjord <!-- wikidown:breadcrumb -->
+
 # Foggy Fjord
 
 Survival interlude: shipwrecked repair camp on a cold fjord, two days of mounting dread. Source: `assets/foggy fjord.docx`.

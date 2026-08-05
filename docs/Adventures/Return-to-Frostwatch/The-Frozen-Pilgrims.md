@@ -1,3 +1,5 @@
+[Adventures](../../Adventures.md) / [Return to Frostwatch](../Return-to-Frostwatch.md) / The Frozen Pilgrims <!-- wikidown:breadcrumb -->
+
 # The Frozen Pilgrims
 
 *Return to Frostwatch, descent encounter 6 — horror / combat.*

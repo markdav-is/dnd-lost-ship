@@ -1,3 +1,5 @@
+[NPCs](../NPCs.md) / Copper the Surgeon <!-- wikidown:breadcrumb -->
+
 # Copper the Surgeon
 
 Expedition medic at Frostwatch — grim, paranoid, and haunted; a battlefield surgeon whose experiences with infection have scarred mind and soul. *"The rot hides in blood. Fire cleanses. If you're hiding something, I'll find out — and I won't hesitate."*

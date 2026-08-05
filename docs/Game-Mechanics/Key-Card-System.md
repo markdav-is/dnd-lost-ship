@@ -1,3 +1,5 @@
+[Game Mechanics](../Game-Mechanics.md) / Key Card System <!-- wikidown:breadcrumb -->
+
 # Key Card System
 
 Color-coded glass cards govern every door and robot interaction aboard the ship. Higher-rank cards open lower-rank doors. **Showing the wrong card to a reader triggers an alarm and the card is confiscated.**

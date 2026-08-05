@@ -1,3 +1,5 @@
+[World](../../World.md) / [Factions](../Factions.md) / The Order of the Sere <!-- wikidown:breadcrumb -->
+
 # The Order of the Sere
 
 The keepers of the most reviled magic on Vermoon. *Sere* — the old word for withered, dried, dead-of-green. They preserve defiling as a failsafe against the day the spores return. That day has come.

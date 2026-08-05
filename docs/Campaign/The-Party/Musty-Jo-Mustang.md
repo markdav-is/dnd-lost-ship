@@ -1,3 +1,5 @@
+[Campaign](../../Campaign.md) / [The Party](../The-Party.md) / Musty Jo Mustang <!-- wikidown:breadcrumb -->
+
 # Musty-Jo Mustang
 
 Centaur Fighter 5 / Paladin 3 (Outlander). Player: yourthighness69. Sheet: `assets/yourthighness69_111941481 (1).pdf`. Appears in session notes as "Musty Joe."

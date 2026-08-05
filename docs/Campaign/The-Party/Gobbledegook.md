@@ -1,3 +1,5 @@
+[Campaign](../../Campaign.md) / [The Party](../The-Party.md) / Gobbledegook <!-- wikidown:breadcrumb -->
+
 # Gobbledegook
 
 Goblin Cleric 8 — Trickery Domain (Urchin). Player: Theonezerg. Sheet: `assets/Theonezerg_110631730.pdf`.

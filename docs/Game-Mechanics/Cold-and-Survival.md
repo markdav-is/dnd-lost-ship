@@ -1,3 +1,5 @@
+[Game Mechanics](../Game-Mechanics.md) / Cold and Survival <!-- wikidown:breadcrumb -->
+
 # Cold & Survival
 
 Rules for the Frostwind Crossing and Barrier Peaks travel, from the Frostwatch Horror module.

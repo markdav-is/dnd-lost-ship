@@ -1,3 +1,5 @@
+[Campaign](../Campaign.md) / The Party <!-- wikidown:breadcrumb -->
+
 # The Party
 
 The **Wayward Friends** — the five adventurers who restored order to the realm a year ago, and the only people Jak trusts inside the void. Character sheets live in `/assets` as D&D Beyond exports.

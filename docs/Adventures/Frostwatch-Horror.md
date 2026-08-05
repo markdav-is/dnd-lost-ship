@@ -1,3 +1,5 @@
+[Adventures](../Adventures.md) / Frostwatch Horror <!-- wikidown:breadcrumb -->
+
 # Frostwatch Horror
 
 Survival-horror module for five 10th-level characters: isolation, paranoia, and a creeping fungal terror. Source: `assets/Frostwatch_Horror.docx`. Location: [Frostwatch Hold](../Locations/Frostwatch-Hold.md).

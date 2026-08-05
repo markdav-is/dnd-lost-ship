@@ -1,3 +1,5 @@
+[NPCs](../NPCs.md) / McReady <!-- wikidown:breadcrumb -->
+
 # McReady
 
 Leader of the Frostwatch expedition — weathered, calm, the man who has seen too many winters. The party's steadiest ally in the north, the voice of the mountain folk at the council, and Jak's quiet eyes inside it all. *"We're not at war with each other. We're here to survive."*

@@ -1,3 +1,5 @@
+[NPCs](../NPCs.md) / Korrin <!-- wikidown:breadcrumb -->
+
 # Korrin
 
 Sledmaster of the Frostwatch expedition — rugged survivor of the frozen north, bound to his dogs above all. *"Kill the dogs and we die out here."*

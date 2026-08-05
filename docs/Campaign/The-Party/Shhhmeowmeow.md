@@ -1,3 +1,5 @@
+[Campaign](../../Campaign.md) / [The Party](../The-Party.md) / Shhhmeowmeow <!-- wikidown:breadcrumb -->
+
 # Shhhmeowmeow
 
 Tabaxi Ranger 9 (Outlander). Player: Shhhmeowmeow. Sheet: `assets/Shhhmeowmeow_109963368.pdf`. Also known as **Shenandoah** — the name from the previous campaign's dragon arc.

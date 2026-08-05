@@ -1,3 +1,5 @@
+[World](../World.md) / The Aura Network <!-- wikidown:breadcrumb -->
+
 # The Aura Network
 
 The world-spanning technological network through which Jak Bjornsson — the Administrator — oversees every corner of the known world. Every settlement, every trade route, every connected soul.

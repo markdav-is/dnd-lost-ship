@@ -1,3 +1,5 @@
+[Campaign](../../Campaign.md) / [Plot Threads](../Plot-Threads.md) / The Ships Purpose <!-- wikidown:breadcrumb -->
+
 # The Ship's Purpose
 
 The vessel is still running after centuries. It is not a ruin — it is a machine with a purpose that predates recorded history.

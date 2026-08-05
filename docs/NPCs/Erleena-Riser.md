@@ -1,3 +1,5 @@
+[NPCs](../NPCs.md) / Erleena Riser <!-- wikidown:breadcrumb -->
+
 # Erleena Riser
 
 Scientist, veteran of the party's previous world-saving adventure, and the strongest voice for the cure. Found alive in the Lighthouse; now building her lab in the marine observatory beneath it. *"I'm not leaving until I understand what this thing is doing to people."*

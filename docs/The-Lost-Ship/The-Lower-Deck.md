@@ -1,3 +1,5 @@
+[The Lost Ship](../The-Lost-Ship.md) / The Lower Deck <!-- wikidown:breadcrumb -->
+
 # The Lower Deck
 
 The ship's lowest explored deck — industrial server core, reactor chamber, and cargo staging. The ship's cleanup operation runs here, and the party rode it out the door. **Status: explored (exit route).**

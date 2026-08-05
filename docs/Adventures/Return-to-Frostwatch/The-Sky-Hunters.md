@@ -1,3 +1,5 @@
+[Adventures](../../Adventures.md) / [Return to Frostwatch](../Return-to-Frostwatch.md) / The Sky Hunters <!-- wikidown:breadcrumb -->
+
 # The Sky Hunters
 
 *Return to Frostwatch, set-piece encounter — aerial combat on the exposed ridge.*

@@ -1,3 +1,5 @@
+[Campaign](../../Campaign.md) / [The Party](../The-Party.md) / Beyond Ce <!-- wikidown:breadcrumb -->
+
 # Beyond-Ce
 
 Human Sorcerer 9 (Faction Agent). Player: natnerd15 (**Andy**). Sheet: `assets/andy-beyond-Ce.pdf`. Appears in session notes as "Beyonce."

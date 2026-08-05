@@ -1,3 +1,5 @@
+[Adventures](../../Adventures.md) / [Return to Frostwatch](../Return-to-Frostwatch.md) / The Spore Choked Ravine <!-- wikidown:breadcrumb -->
+
 # The Spore-Choked Ravine
 
 *Return to Frostwatch, descent encounter 1 — atmospheric hazard.*

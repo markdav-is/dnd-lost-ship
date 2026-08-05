@@ -1,3 +1,5 @@
+[The Lost Ship](../The-Lost-Ship.md) / Level 2 The Theater <!-- wikidown:breadcrumb -->
+
 # Level 2 — The Theater
 
 The ship's entertainment deck, claimed by mind flayers. **Status: explored — the party cleared it in a brutal psychic brawl.**

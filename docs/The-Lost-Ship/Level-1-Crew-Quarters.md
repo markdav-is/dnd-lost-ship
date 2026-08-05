@@ -1,3 +1,5 @@
+[The Lost Ship](../The-Lost-Ship.md) / Level 1 Crew Quarters <!-- wikidown:breadcrumb -->
+
 # Level 1 — Crew Quarters
 
 Officials, officers, and technicians' quarters: living spaces, medical complex, police HQ, computer central, and two vegepygmy tribes. **Status: explored.** The party met George Decay here.

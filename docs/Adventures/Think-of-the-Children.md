@@ -1,3 +1,5 @@
+[Adventures](../Adventures.md) / Think of the Children <!-- wikidown:breadcrumb -->
+
 # Think of the Children!
 
 Day-2 set piece at the Foggy Fjord camp: the children's warning, the spore servant horde, and the ice-ball arrival of the Mycelial Frost Giant Skeleton. Source: `assets/Think of the Children.docx`.

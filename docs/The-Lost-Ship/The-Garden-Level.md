@@ -1,3 +1,5 @@
+[The Lost Ship](../The-Lost-Ship.md) / The Garden Level <!-- wikidown:breadcrumb -->
+
 # The Garden Level
 
 The ship's biosphere — a botanical garden gone wild for centuries. ~80 feet tall, ~500 feet across, tiered like a hillside with streams, a swamp, a central lake, and an island where the [Lighthouse](The-Lighthouse.md) stands. Alien flora and fauna from a dozen worlds. **Status: explored.**

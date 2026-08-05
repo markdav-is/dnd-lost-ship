@@ -1,3 +1,5 @@
+[Game Mechanics](../Game-Mechanics.md) / Dark Sun 5e Rules <!-- wikidown:breadcrumb -->
+
 # Dark Sun 5e Rules (Players Guide)
 
 Player-facing 5e rules for the Aerun arc, from the **Dark Sun Player's Guide — AthasCon 5E Conversion V2.1** (122 pages). PDF: `assets/Dark Sun Players Guide - Athascon V2.1.pdf`; searchable text: `assets/DarkSun_Players_Guide_Athascon_V2.1.md`.

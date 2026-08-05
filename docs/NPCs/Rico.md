@@ -1,3 +1,5 @@
+[NPCs](../NPCs.md) / Rico <!-- wikidown:breadcrumb -->
+
 # Rico
 
 Engineer and recurring fixer from the previous campaign — the hands-on counterpart to all of Vermoon's inscrutable ancient machinery. **Status: off-screen; whereabouts currently unstated.**

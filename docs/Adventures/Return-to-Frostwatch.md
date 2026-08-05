@@ -1,3 +1,5 @@
+[Adventures](../Adventures.md) / Return to Frostwatch <!-- wikidown:breadcrumb -->
+
 # Return to Frostwatch
 
 Journey-and-council module: the hoversled descent through dying mountains, the occupied hold, and the Council of Frostwatch. Tone: cosmic horror, political tension, impossible choices — *"The party has seen the void. Now the void is following them home."*

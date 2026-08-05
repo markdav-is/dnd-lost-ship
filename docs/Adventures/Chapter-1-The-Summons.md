@@ -1,3 +1,5 @@
+[Adventures](../Adventures.md) / Chapter 1 The Summons <!-- wikidown:breadcrumb -->
+
 # Chapter 1 — The Summons
 
 Campaign opener: the reunion, the transformed city, and Jak's revelation of the void. Sources: `assets/campaign-start.docx`, `assets/Jaks thromeroom.docx`, `assets/The Throne Room.docx`.

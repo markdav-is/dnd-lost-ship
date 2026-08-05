@@ -1,3 +1,5 @@
+[World](../World.md) / The Scarlands <!-- wikidown:breadcrumb -->
+
 # The Scarlands
 
 The cold southern landmass of Vermoon — fjord coasts, timber holds, and the Barrier Peaks. Home of the campaign so far.

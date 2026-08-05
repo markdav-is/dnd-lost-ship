@@ -1,3 +1,5 @@
+[Bestiary](../Bestiary.md) / Fungal Threats <!-- wikidown:breadcrumb -->
+
 # Fungal Threats
 
 The russet mold's servants, symbionts, and victims. Common threads: cold/poison resistance, poison-condition immunity, spore bursts, and fire as the reliable answer. Infection rules: [Russet Mold & Infection](../Game-Mechanics/Russet-Mold-and-Infection.md).

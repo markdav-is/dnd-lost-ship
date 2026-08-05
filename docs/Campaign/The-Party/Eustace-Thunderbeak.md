@@ -1,3 +1,5 @@
+[Campaign](../../Campaign.md) / [The Party](../The-Party.md) / Eustace Thunderbeak <!-- wikidown:breadcrumb -->
+
 # Eustace (Eu) Thunderbeak
 
 Aarakocra Bard 9 (Pirate). Player: Taco_Mix (Ben). Sheet: `assets/Taco_Mix_114102493.pdf`.

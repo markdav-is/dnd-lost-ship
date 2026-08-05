@@ -1,3 +1,5 @@
+[The Lost Ship](../The-Lost-Ship.md) / The Lighthouse <!-- wikidown:breadcrumb -->
+
 # The Lighthouse
 
 The source. A white tower at the center of the garden island, consumed by russet mold mycelium, broadcasting spores through the ship and out into the Barrier Peaks. The campaign's central dilemma stands here.

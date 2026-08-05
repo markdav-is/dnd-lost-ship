@@ -1,3 +1,5 @@
+[Adventures](../Adventures.md) / Chapter 2 Gronnfjord Shops <!-- wikidown:breadcrumb -->
+
 # Chapter 2 — Grønnfjord Shops
 
 Town chapter: outfitting, rumor-gathering, and the first Spásistren encounter. Source: `assets/Chapter 2 - Greefjord Shops.docx`. Location detail: [Grønnfjord](../Locations/Gronnfjord.md).

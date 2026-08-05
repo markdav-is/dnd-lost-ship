@@ -1,3 +1,5 @@
+[Locations](../Locations.md) / Gronnfjord <!-- wikidown:breadcrumb -->
+
 # Grønnfjord
 
 The bustling Nordic port city that became, almost overnight, the seat of world government. Spelled *Greenfjord* in some documents; the city is the same.

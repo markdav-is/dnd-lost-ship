@@ -1,3 +1,5 @@
+[The Lost Ship](../The-Lost-Ship.md) / Level 3 Upper Walkway <!-- wikidown:breadcrumb -->
+
 # Level 3 — Upper Walkway
 
 A curving elevated walkway and lounge ring suspended above the garden biosphere, ~60 feet up behind a sonic screen. A gauntlet of light-hungry killer plants, ropers, and one relentlessly hospitable robot.

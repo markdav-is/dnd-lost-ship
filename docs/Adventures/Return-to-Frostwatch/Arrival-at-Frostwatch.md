@@ -1,3 +1,5 @@
+[Adventures](../../Adventures.md) / [Return to Frostwatch](../Return-to-Frostwatch.md) / Arrival at Frostwatch <!-- wikidown:breadcrumb -->
+
 # Arrival at Frostwatch
 
 *Return to Frostwatch, Act II — roleplay scenes at the occupied hold.*

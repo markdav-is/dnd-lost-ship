@@ -1,3 +1,5 @@
+[World](../../World.md) / [Factions](../Factions.md) / The Merchant Houses <!-- wikidown:breadcrumb -->
+
 # The Merchant Houses
 
 The seven great merchant houses of Aerun's coastal city-states — masters of the Ring Road and the Spice trade, quietly coalescing into a Landsraad-style alliance against the Administrator's power, and fiercely competing with each other all the while. (Dark Sun's merchant house tradition, adopted wholesale.)

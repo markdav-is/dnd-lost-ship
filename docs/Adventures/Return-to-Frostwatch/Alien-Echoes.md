@@ -1,3 +1,5 @@
+[Adventures](../../Adventures.md) / [Return to Frostwatch](../Return-to-Frostwatch.md) / Alien Echoes <!-- wikidown:breadcrumb -->
+
 # Alien Echoes
 
 *Return to Frostwatch, descent encounter 3 — ambush combat.*

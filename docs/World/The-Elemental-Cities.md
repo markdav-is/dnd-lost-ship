@@ -1,3 +1,5 @@
+[World](../World.md) / The Elemental Cities <!-- wikidown:breadcrumb -->
+
 # The Elemental Cities & the Teleport Network
 
 The great cities of Vermoon each carry an elemental theme — legacies of the age when the [Titans](The-Titans.md) powered civilization — and are linked by an ancient teleportation network the party reactivated in the previous campaign.

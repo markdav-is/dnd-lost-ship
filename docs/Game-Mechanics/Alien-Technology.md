@@ -1,3 +1,5 @@
+[Game Mechanics](../Game-Mechanics.md) / Alien Technology <!-- wikidown:breadcrumb -->
+
 # Alien Technology
 
 Ship equipment rules, consolidated from the conversion documents. Most powered items run on **energy cells / power discs**; the party carries 2 full discs.

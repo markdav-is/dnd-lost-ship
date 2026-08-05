@@ -1,3 +1,5 @@
+[World](../../World.md) / [Factions](../Factions.md) / The Spasistren <!-- wikidown:breadcrumb -->
+
 # The Spásistren
 
 Jak's elite all-female guard: warrior monks bound to the Administrator through Aura implants, modeled on absolute, almost religious devotion. The Fish Speakers — and the Sardaukar — of Vermoon.

@@ -1,3 +1,5 @@
+[Campaign](../../Campaign.md) / [Plot Threads](../Plot-Threads.md) / The Green Age <!-- wikidown:breadcrumb -->
+
 # The Green Age
 
 Aerun — the central desert continent — was not always a desert. A thousand years ago it was a living world of rivers, forests, and cities. It died fast enough to be catastrophic and slow enough to be survived. What is happening in the Barrier Peaks is how it began.

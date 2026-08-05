@@ -1,3 +1,5 @@
+[NPCs](../NPCs.md) / Jak Bjornsson <!-- wikidown:breadcrumb -->
+
 # Jak Bjornsson
 
 The Administrator. Once a simple monk and wanderer from Grønnfjord — the party's steadfast companion — now the open, charismatic ruler of the entire world through the Aura network. *"You are still my friends, despite all this."*

@@ -1,3 +1,5 @@
+[Game Mechanics](../Game-Mechanics.md) / Russet Mold and Infection <!-- wikidown:breadcrumb -->
+
 # Russet Mold & Infection
 
 The campaign's signature hazard. Golden-brown/rust-red mold broadcast from the [Lighthouse](../The-Lost-Ship/The-Lighthouse.md); infected creatures transform into vegepygmies after death. Two rule sets are in play — patch contact (dungeon hazard) and systemic infection (campaign clock).

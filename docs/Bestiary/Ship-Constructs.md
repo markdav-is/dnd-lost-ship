@@ -1,3 +1,5 @@
+[Bestiary](../Bestiary.md) / Ship Constructs <!-- wikidown:breadcrumb -->
+
 # Ship Constructs
 
 The ship's robots and androids — some functional, some malfunctioning, none aware the voyage ended centuries ago. Common traits: poison/psychic immunity, darkvision, ship-language, **lightning vulnerability** (1% per point of lightning damage to shut down permanently; androids also short out in water).

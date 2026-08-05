@@ -1,3 +1,5 @@
+[Adventures](../../Adventures.md) / [Return to Frostwatch](../Return-to-Frostwatch.md) / The Watching Herd <!-- wikidown:breadcrumb -->
+
 # The Watching Herd
 
 *Return to Frostwatch, descent encounter 2 — dread / possible combat.*

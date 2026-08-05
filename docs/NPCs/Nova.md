@@ -1,3 +1,5 @@
+[NPCs](../NPCs.md) / Nova <!-- wikidown:breadcrumb -->
+
 # Nova
 
 The last survivor of the ship's original crew — a scientist in cryogenic stasis on the [Lower Deck](../The-Lost-Ship/The-Lower-Deck.md) (stasis chamber, green access). Shaved head, green jumpsuit, lawful good (noble statistics). **Status: depends on whether the party opened her pod.**

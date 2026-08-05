@@ -1,3 +1,5 @@
+[Reference](../Reference.md) / Sourcebooks and Inspiration <!-- wikidown:breadcrumb -->
+
 # Sourcebooks & Inspiration
 
 The published works in `/assets`, what each contributes, and how it maps into Vermoon. These are copyrighted books — this wiki references them; it does not reproduce them.

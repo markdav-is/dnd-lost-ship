@@ -1,3 +1,5 @@
+[Campaign](../../Campaign.md) / [Plot Threads](../Plot-Threads.md) / The Merchant Alliance <!-- wikidown:breadcrumb -->
+
 # The Merchant Alliance
 
 The seven merchant houses of Aerun's city-states are coalescing in the Aura network's blind spots into something that is not yet — but wants to be — a Landsraad.

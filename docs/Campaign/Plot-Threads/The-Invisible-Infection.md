@@ -1,3 +1,5 @@
+[Campaign](../../Campaign.md) / [Plot Threads](../Plot-Threads.md) / The Invisible Infection <!-- wikidown:breadcrumb -->
+
 # The Invisible Infection
 
 Copper's theory: the mold's visible spores are only the part that can be seen, cut out, and burned. Something else is changing how people *think* — and it may be able to ride the Aura network itself.

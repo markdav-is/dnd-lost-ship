@@ -1,3 +1,5 @@
+[Campaign](../../Campaign.md) / [Plot Threads](../Plot-Threads.md) / Nordkrists Hold <!-- wikidown:breadcrumb -->
+
 # Nordkrist's Hold
 
 A mysterious site in the southern Barrier Peaks. Ships leave Grønnfjord loaded with materials and sail south. None return with answers.

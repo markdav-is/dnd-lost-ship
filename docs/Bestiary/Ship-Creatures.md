@@ -1,3 +1,5 @@
+[Bestiary](../Bestiary.md) / Ship Creatures <!-- wikidown:breadcrumb -->
+
 # Ship Creatures
 
 The ark's menagerie and its stowaways — alien fauna, killer flora, and the aberrations that moved in. Sources: `assets/S3_Level1_Complete_5e_Conversion.docx`, `assets/S3_Level3_Complete_5e_Conversion.docx`, `assets/S3_Level4_Complete_5e_Conversion.docx`.

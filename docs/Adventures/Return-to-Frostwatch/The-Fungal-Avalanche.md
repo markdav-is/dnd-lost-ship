@@ -1,3 +1,5 @@
+[Adventures](../../Adventures.md) / [Return to Frostwatch](../Return-to-Frostwatch.md) / The Fungal Avalanche <!-- wikidown:breadcrumb -->
+
 # The Fungal Avalanche
 
 *Return to Frostwatch, descent encounter 4 — chase hazard.*

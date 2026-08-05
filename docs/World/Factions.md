@@ -1,3 +1,5 @@
+[World](../World.md) / Factions <!-- wikidown:breadcrumb -->
+
 # Factions
 
 The powers moving through the campaign, each with a legitimate grievance and a dangerous ambition.

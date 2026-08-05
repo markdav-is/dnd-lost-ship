@@ -1,3 +1,5 @@
+[Locations](../Locations.md) / The Barrier Peaks <!-- wikidown:breadcrumb -->
+
 # The Barrier Peaks
 
 The southern mountain range — forbidden zone, crash site, and the void in the world's all-seeing eye. Increasingly dangerous for exactly as long as Jak has ruled.

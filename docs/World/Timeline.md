@@ -1,3 +1,5 @@
+[World](../World.md) / Timeline <!-- wikidown:breadcrumb -->
+
 # Timeline
 
 World history and campaign chronology, oldest first. Dates are relative to **now** (the aftermath of the Council of Frostwatch). Deep-history entries incorporate Andy's world-building interview (canon).
