@@ -33,6 +33,8 @@ Knows: the card system, the mold's lifecycle (21–24h transformation; burn or d
 
 ## Arcs available
 
+- **The surgery (Erleena's Pivot):** defile-then-restore as medicine — a willing defiler kills the spore colony inside him; Robin, Gobbledegook, and restoration magic rebuild what it consumed; Erleena directs; George narrates his own operation in dry baritone. The colony's death screams through the spore network — expect the counterattack of the campaign mid-procedure. Full design: [The Three Roads](../Adventures/The-Three-Roads.md).
+
 - **Saved:** a cure (Erleena's lab, engineering decontamination) makes him a permanent ally and ship-tech interpreter.
 - **Transformation:** the party fights what he became — a vegepygmy retaining nothing.
 - **Heroic sacrifice:** seal a contaminated section, hold a horde, trigger the decontamination system that kills him. His research must reach Jak; Erleena must be told he completed the mission.

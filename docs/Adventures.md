@@ -12,6 +12,7 @@ The campaign's **modules**, in play order. Each module page is the overview — 
 | — | Ship survey (Levels 1–Lower) | Dungeon crawl | Played ✔ — see [The Lost Ship](The-Lost-Ship.md) |
 | 6 | [Return to Frostwatch](Adventures/Return-to-Frostwatch.md) | Journey + council | Played ✔ (2 sessions) — 8 encounter subpages ⚡ |
 | 7 | [Return to the Ship](Adventures/Return-to-the-Ship.md) | Ship expedition | **Next up** — the spore-woken Aphelion; party committed to the Cure |
+| — | [The Three Roads](Adventures/The-Three-Roads.md) | Path planning | All three crisis answers designed in detail — fire, ash-and-green, cure — plus the Erleena Pivot |
 
 ## Return to Frostwatch — encounters
 

@@ -12,7 +12,7 @@ The central question of the campaign: the [Lighthouse](../../The-Lost-Ship/The-L
 | **The Purge.** **Airlantis** — the party's own flying city — is brought south, loaded with incendiaries, and bombards the valley sterile | Copper ("Do it. Do it now, before we talk ourselves out of it.") | Irreversible; ship technology lost; the valley dead a generation; must be certain nothing spread beyond the radius — and **it does not address Rajaat**. "You are not curing anything. You are only removing the second outbreak." |
 | **The Cure.** Go deeper — medical/research levels; synthesize a cure or system-wide decontamination. **If it works here, it may work on Rajaat itself** | Erleena; Harah (if pressed); McReady: "This is about the whole world" | Slowest, most dangerous; the infection spreads while they search; no guarantee a cure exists; Aphelion is waking below |
 
-**Triage, not a vote (DM note from source):** the paths are **not mutually exclusive** — seal now and then pursue the cure; attempt the cure with the purge as fallback. The council asks for a *direction*, not a final answer.
+**Triage, not a vote (DM note from source):** the paths are **not mutually exclusive** — seal now and then pursue the cure; attempt the cure with the purge as fallback. The council asks for a *direction*, not a final answer. **Each road is now fully designed as a playable branch: [The Three Roads](../../Adventures/The-Three-Roads.md)** — including the defile-*then-restore* upgrade to the Sere path and the Erleena Pivot that braids all three.
 
 ## The fourth path — the Defilers (revealed under pressure)
 

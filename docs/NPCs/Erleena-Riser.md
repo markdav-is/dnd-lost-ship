@@ -18,6 +18,13 @@ Wry, exhausted, unstoppable. Teases Jak's methods (*"Only Jak would send a rescu
 
 The marine observatory's seals are intact and fifty feet of lake water is a natural spore shield — a perfect control environment directly beneath the heaviest spore concentration. Her thesis: *the mold is aggressive, but it's biological. It follows rules.* She intends to synthesize a cure — for George, and for everything the ship has infected. A full cure for advanced infection requires materials from the ship's medical labs (undiscovered — a future expedition hook).
 
+## The Pivot (when she learns of Rajaat and the defilers)
+
+The moment the party finds her and tells her about the First Source and defiling magic, the scientist changes the experiment — two demands ([The Three Roads](../Adventures/The-Three-Roads.md)):
+
+1. **A sample of the First Source.** The original strain is the baseline; compare it to the ship's drifted strain and the mold's invariants — the true target for a universal cure — fall out. Never mind that transporting a living piece of Rajaat is the most dangerous cargo on Vermoon and a warden taboo.
+2. **Cure George now — defile, then restore.** The spores are plant life: a defiler can kill them *inside his body*, then restoration magic rebuilds what the mold consumed. Micro-defiling as surgery, run as the campaign's operating-theater set-piece.
+
 ## In the current dilemma
 
 She is the anchor of **Path Three** ([The Lighthouse Dilemma](../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md)) and the named, sympathetic NPC standing inside any blast radius the other paths would create. Two more scientists now work aboard with her.

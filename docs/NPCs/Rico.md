@@ -11,5 +11,5 @@ Engineer and recurring fixer from the previous campaign — the hands-on counter
 
 ## Using Rico now
 
-- The natural NPC to call when the party wants **Airlantis airborne again**, a teleporter coaxed back to life, or salvaged ship technology reverse-engineered — a friendlier, healthier engineering resource than the ship's dying scientists.
+- The natural NPC to call when the party wants **Airlantis airborne again**, a teleporter coaxed back to life, or salvaged ship technology reverse-engineered — a friendlier, healthier engineering resource than the ship's dying scientists. If **Road 1** (the purge) is ever walked, Rico is who fuels, arms, and captains the city south ([The Three Roads](../Adventures/The-Three-Roads.md)).
 - Where has Rico been during Jak's two-year ascendancy? An engineer who understands the ancients' infrastructure is exactly who the Administration — or the [merchant alliance](../Campaign/Plot-Threads/The-Merchant-Alliance.md) — would want on payroll. Which side got there first is an open hook.
