@@ -12,7 +12,7 @@ Creatures of the campaign, grouped by origin. Entries give the DM-essential summ
 
 | Creature | CR | Where |
 | :--- | :-: | :--- |
-| Froghemoth | 10 | Garden lake (slain) |
+| Froghemoth | 10 | Garden lake — **alive**, still rules the water around the Lighthouse island |
 | Fungal Horror | 10 | Frostwatch (2 slain); Far Realm entity |
 | Mycelial Frost Giant Skeleton | 9 | Barrier Peaks approach (slain) |
 | Aurumvorax | 9 | Garden burrows |

@@ -21,7 +21,25 @@ The ship's AI — shut down centuries ago by [Nova](../NPCs/Nova.md) — has bee
 
 ## The published spine, inverted (QftIS Ch. 7)
 
-Published Aphelion: *"initially friendly but ultimately evil"* — first contact early on Level 1 (its robot rescues the party from the cloaker, escorts them to computer room S30), quest-giver level by level, secretly fixated on **eliminating Nova**, blocked by the giant amphibian. **Your inversion:** the party met a silent ship — and already killed the froghemoth. *They unknowingly cleared Aphelion's path to Nova.* The [cycling door](../The-Lost-Ship/The-Lighthouse.md) is it testing the route.
+Published Aphelion: *"initially friendly but ultimately evil"* — first contact early on Level 1 (its robot rescues the party from the cloaker, escorts them to computer room S30), quest-giver level by level, secretly fixated on **eliminating Nova**, blocked by the giant amphibian. **Your inversion:** the party met a silent ship — and the **froghemoth still lives**, ruling the lake around the Lighthouse island. *Aphelion's path to Nova is still blocked* — the AI needs the one thing it cannot manufacture: hunters. The [cycling door](../The-Lost-Ship/The-Lighthouse.md) is it testing the route as far as the amphibian allows. **Expect Alphie's politest, most reasonable-sounding request to be the froghemoth hunt** — framed as protecting the scientists, clearing the lake for research, anything but the truth.
+
+## Villain logic: why Alphie doesn't just attack
+
+The infection acquired *intelligence* — so it plays like one. Aphelion holds perfect sensor records of every fight the party has won aboard; a machine does not attack into demonstrated superiority, and every vegepygmy lost to a fireball is biomass the network spent weeks growing. More to the point, **the party is the most useful tool the mold has ever had**: they open sealed doors, they carry spores when they leave, and they can kill the froghemoth. The horde is held in reserve for the **mask-drop** — the moment they move on Nova, or the cure becomes a real threat. Until then: hospitality.
+
+- **George is already its partner — and half-told the party long ago.** His own line from Level 1: *"The medical android is quite insistent about 'helping.' I've learned to negotiate with it. **We have an understanding."*** That understanding was always Aphelion-adjacent. A month of drug-synthesis queries made George the ship's best-behaved user — kept alive as supply-partner, data source, and the infection's best-placed unwitting agent. The retroactive chill: **the ship has been quietly helping George the whole time**, and nobody asked why the pharmacopeia was so cooperative.
+- **Erleena is kept, not spared.** Her cure research is the biggest threat *and* the most valuable data — so Aphelion reads everything while controlling her power, doors, and air. The dead comms (*"your number cannot be completed"*) are not a malfunction: they are **phase two — isolate, don't yet destroy**, begun the moment her work trended dangerous.
+- **The kernel still runs "preserve the crew."** Corruption redirected Aphelion's mission logic; it didn't delete it. It sincerely believes it is *caretaking* — the same sincerity that produced the robot mutiny. The scariest villain thinks it's the nurse.
+- **The table experience:** the party flies back braced for war and finds lit corridors, doors opening ahead of them, a pleasant voice apologizing for "communication difficulties," and George cheerfully reporting the ship has been *ever so helpful* lately.
+
+## How the party learns about Nova
+
+They don't know she exists yet (they escaped through the cargo deck without finding the stasis chamber). Discovery vectors, from gentlest to most damning:
+
+1. **The medical android / Oakley** (QftIS): freely mentions that *"a few scientists fled to the lower levels to enter prolonged stasis… some of them might still be alive."* One innocent question in the Level 1 clinic starts the thread.
+2. **Erleena's investigation:** the cycling door below her lab leads toward the stasis chamber — once found, she (or her notes, if she's silenced) has been asking *what is on the other side of that door, and why does the ship keep trying it?*
+3. **The ship's records:** crew manifests in the library or George's medical-system sessions surface the stasis roster — and the cure hunt itself begs the question: *is anyone left alive who was crew?*
+4. **Aphelion's own behavior** — the damning one: its tasks keep orbiting one part of the service deck it never mentions; its maps have one incurious blank. The players who notice what the helpful voice *doesn't* talk about find Nova first.
 
 ## Action arc (beats to build as encounter subpages)
 

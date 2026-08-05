@@ -8,7 +8,7 @@ The ark's menagerie and its stowaways — alien fauna, killer flora, and the abe
 
 | Creature | CR | Core stats | Signature |
 | :--- | :-: | :--- | :--- |
-| **Froghemoth** (slain) | 10 | AC 16/14/12 (tentacles/body/tongue), HP 184 | Four 20-ft tentacles (DC 18 grapple), 30-ft tongue drag, swallow whole (3d6 acid/turn; 20+ damage inside forces regurgitation save); immune fire & lightning; periscope eyes read as floating vegetation |
+| **Froghemoth** (alive — rules the lake) | 10 | AC 16/14/12 (tentacles/body/tongue), HP 184 | Four 20-ft tentacles (DC 18 grapple), 30-ft tongue drag, swallow whole (3d6 acid/turn; 20+ damage inside forces regurgitation save); immune fire & lightning; periscope eyes read as floating vegetation |
 | **Mind Flayers ×2** (slain) | 7 | MM stats | Were studying the ship's tech to plan planetary conquest; theater lair |
 | **Aurumvorax** | 9 | AC 20, HP 136 | Small but 500 lbs; lockjaw bite + **eight** claw rakes per turn on the grappled; immune to fire/poison/lightning/nonmagical weapons |
 | **Umber Hulk** (slain) | 5 | MM stats | Guarded the garden drop tube; source of the party's blaster rifle and anti-grav belt |

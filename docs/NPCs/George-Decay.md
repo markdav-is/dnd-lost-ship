@@ -29,7 +29,7 @@ Deep resonant baritone, refined diction, dramatic pauses, signature **"Oh my!"**
 
 ## Knowledge & limits
 
-Knows: the card system, the mold's lifecycle (21–24h transformation; burn or dissolve the dead), ship history, safe routes through Levels 1–3, the garden's flora rules, the Horrid Plant, the froghemoth's existence. Does **not** know: the wolf-in-sheep's-clothing, the squealer's lair, the froghemoth's full capabilities.
+Knows: the card system, the mold's lifecycle (21–24h transformation; burn or dissolve the dead), ship history, safe routes through Levels 1–3, the garden's flora rules, the Horrid Plant, the froghemoth's existence. Does **not** know: the wolf-in-sheep's-clothing, the squealer's lair, the froghemoth's full capabilities (it lives — still the lake's ruler).
 
 ## The oath
 

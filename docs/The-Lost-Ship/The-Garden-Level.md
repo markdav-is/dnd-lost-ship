@@ -32,7 +32,7 @@ Sources: `assets/Level_3_Garden_DM_Reference.docx` (scene read-alouds), `assets/
 
 ## The fauna
 
-Mostly harmless oddities (rabbitoids, four-winged birds, six-eyed toads — d12 wandering table, 1-in-4/10 min). The dangerous ones: **lizardoids** (pouncing ambushers, 90% undetected), **aurumvorax** (AC 20 lockjaw horror), **squealer** (mimics distress calls, drops from trees), **baboonoids** (grenade-throwing, 20% parley; become scouts if the shambling mounds die), **shambling mounds** (nest: 2 power discs + 5,200 gp ring), **umber hulk** (near the drop tube; blaster rifle + anti-grav belt), **leechoids**, poison-spined **scintillating fish** (DC 15 or die — but 55–100 gem scales each), quipper swarms, black pudding, and the **[Froghemoth](../Bestiary/Ship-Creatures.md)** in the lake — CR 10, four tentacles, lightning-immune, swallow-whole. The party killed it to reach the island.
+Mostly harmless oddities (rabbitoids, four-winged birds, six-eyed toads — d12 wandering table, 1-in-4/10 min). The dangerous ones: **lizardoids** (pouncing ambushers, 90% undetected), **aurumvorax** (AC 20 lockjaw horror), **squealer** (mimics distress calls, drops from trees), **baboonoids** (grenade-throwing, 20% parley; become scouts if the shambling mounds die), **shambling mounds** (nest: 2 power discs + 5,200 gp ring), **umber hulk** (near the drop tube; blaster rifle + anti-grav belt), **leechoids**, poison-spined **scintillating fish** (DC 15 or die — but 55–100 gem scales each), quipper swarms, black pudding, and the **[Froghemoth](../Bestiary/Ship-Creatures.md)** in the lake — CR 10, four tentacles, lightning-immune, swallow-whole. The party fought past it to reach the island — **it lives**, and still rules the water around the Lighthouse.
 
 ## Progression
 
