@@ -2,13 +2,15 @@
 
 # Erleena Riser
 
+![Erleena at the fouled hatch wheel, suit sealed](../.attachments/erleena_riser.jpg)
+
 Scientist, veteran of the party's previous world-saving adventure, and the strongest voice for the cure. Found alive in the Lighthouse; her cure lab is **directly beneath it**, below the sealed hatch. *"I'm not leaving until I understand what this thing is doing to people."*
 
 (Some documents spell her *Arlena*; Erleena is canonical.)
 
 ## History
 
-Accompanied [George Decay](George-Decay.md) into the ship on Jak's orders. When both were exposed to spores, she chose **physics**: the containment suit from her last mission with the party. She went hunting for an exit route, got separated for days, and was found by the party in the Lighthouse — kneeling over the floor hatch, suit battered but sealed, still trying to turn the fouled wheel. *"Well. I'll be damned. You're a long way from home."*
+Accompanied [George Decay](George-Decay.md) into the ship on Jak's orders. When both were exposed to spores, she chose **physics**: the containment suit from her last mission with the party. She went hunting for an exit route, got separated for days, and was found by the party in the Lighthouse — kneeling over the floor hatch, suit battered but sealed, still trying to turn the fouled wheel (the scene above). *"Well. I'll be damned. You're a long way from home."*
 
 ## Voice
 

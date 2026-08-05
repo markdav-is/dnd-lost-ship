@@ -4,19 +4,21 @@
 
 Every file in [`/assets`](../../assets), linked and grouped by type. (Published PDFs get fuller treatment in [Sourcebooks & Inspiration](Sourcebooks-and-Inspiration.md).)
 
+**Extracted art:** all 102 images embedded inside the .docx files are unpacked to [`assets/extracted/`](../../assets/extracted) for browsing, named by source document (`Frostwatch_Horror__image4.png`). The ~44 used on wiki pages live in `docs/.attachments/` with descriptive names.
+
 ## Homebrew scenario documents
 
 | File | Content | Wiki page |
 | :--- | :--- | :--- |
 | [campaign-start.docx](../../assets/campaign-start.docx) (+ [campaign-start2.docx](../../assets/campaign-start2.docx) identical, [pdf](../../assets/campaign-start.pdf)) | Chapter 1 intro & player checklist | [Chapter 1](../Adventures/Chapter-1-The-Summons.md) |
 | [Jaks thromeroom.docx](../../assets/Jaks%20thromeroom.docx) / [The Throne Room.docx](../../assets/The%20Throne%20Room.docx) | Throne room scene (two drafts) | [Chapter 1](../Adventures/Chapter-1-The-Summons.md) |
-| [Chapter 2 - Greefjord Shops.docx](../../assets/Chapter%202%20-%20Greefjord%20Shops.docx) | Grønnfjord town chapter | [Chapter 2](../Adventures/Chapter-2-Gronnfjord-Shops.md) |
+| [Chapter 2 - Greefjord Shops.docx](../../assets/Chapter%202%20-%20Greefjord%20Shops.docx) | Grønnfjord town chapter (incl. shopkeeper portraits) | [Chapter 2](../Adventures/Chapter-2-Gronnfjord-Shops.md) |
 | [foggy fjord.docx](../../assets/foggy%20fjord.docx) | Shipwreck camp encounter | [Foggy Fjord](../Adventures/Foggy-Fjord.md) |
 | [Think of the Children.docx](../../assets/Think%20of%20the%20Children.docx) | Day-2 set piece | [Think of the Children](../Adventures/Think-of-the-Children.md) |
-| [Frostwatch_Horror.docx](../../assets/Frostwatch_Horror.docx) | 3-act survival-horror module | [Frostwatch Horror](../Adventures/Frostwatch-Horror.md) |
+| [Frostwatch_Horror.docx](../../assets/Frostwatch_Horror.docx) | 3-act survival-horror module (incl. Korrin/Copper portraits, battle map) | [Frostwatch Horror](../Adventures/Frostwatch-Horror.md) |
 | [Return_to_Frostwatch_v3.md](../../assets/Return_to_Frostwatch_v3.md) ⭐ current | Descent + council module v3: the **Rajaat** naming scene, Seal-the-Ship path, triage framing, McReady in the Brennan role | [Return to Frostwatch](../Adventures/Return-to-Frostwatch.md) |
 | [Return_to_Frostwatch_Final.md](../../assets/Return_to_Frostwatch_Final.md) / [Return_to_Frostwatch.docx](../../assets/Return_to_Frostwatch.docx) (older) | Earlier revisions (contain the dropped "Elder Brennan") | — |
-| [george_decay_npc.docx](../../assets/george_decay_npc.docx) (+ [pdf](../../assets/george_decay_npc.pdf)) | Full George Decay NPC kit w/ d20 dialogue table | [George Decay](../NPCs/George-Decay.md) |
+| [george_decay_npc.docx](../../assets/george_decay_npc.docx) (+ [pdf](../../assets/george_decay_npc.pdf)) | Full George Decay NPC kit w/ d20 dialogue table + portrait | [George Decay](../NPCs/George-Decay.md) |
 | [desert_continent_expansion.md](../../assets/desert_continent_expansion.md) | Harah, Aerun lore, merchant-alliance design doc | [Harah](../NPCs/Harah-Tabr.md), [Green Age](../Campaign/Plot-Threads/The-Green-Age.md) |
 | [Aerun_TheDesertContinent.md](../../assets/Aerun_TheDesertContinent.md) ⭐ | **Canonical Aerun guide**: rings, city-states, Tablelands, magic, society, First Source ecology | [Aerun](../World/Aerun.md), [The First Source](../Campaign/Plot-Threads/The-First-Source.md) |
 | [Aerun_TheMerchantHouses.md](../../assets/Aerun_TheMerchantHouses.md) ⭐ | **The seven merchant houses** — Wavir, Tsalaxa, Inika, Shom, M'ke, Vordon, Stel | [The Merchant Houses](../World/Factions/The-Merchant-Houses.md) |
@@ -26,13 +28,13 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 | [Session record: Frost Watch Military Takeover…](../../assets/D%26D%20Campaign%20Session_%20Frost%20Watch%20Military%20Takeover%20and%20Spore%20Network%20Crisis%20After%20Ship%20Mission_transcript.txt) (+ [summary](../../assets/D%26D%20Campaign%20Session_%20Frost%20Watch%20Military%20Takeover%20and%20Spore%20Network%20Crisis%20After%20Ship%20Mission_summary.txt)) | **Played session 2026-08-04 #1**: descent aftermath, occupied Frostwatch, Robin recruited, info-withholding pact | [Adventure Log](../Campaign/Adventure-Log.md) |
 | [Session record: Frostwatch Council…](../../assets/D%26D%20Session_%20Frostwatch%20Councils%20Containment%20and%20Cure%20Strategy%20for%20Fungal%20Infection%20Crisis_transcript.txt) (+ [summary](../../assets/D%26D%20Session_%20Frostwatch%20Councils%20Containment%20and%20Cure%20Strategy%20for%20Fungal%20Infection%20Crisis_summary.txt)) | **Played session 2026-08-04 #2**: the council, Rajaat named, **Cure path chosen**, Harah-defiler rift surfaced | [Adventure Log](../Campaign/Adventure-Log.md) |
 | [S3_Level1_Complete_5e_Conversion.docx](../../assets/S3_Level1_Complete_5e_Conversion.docx) | Level 1 stat blocks, triggers, read-alouds | [Level 1](../The-Lost-Ship/Level-1-Crew-Quarters.md) |
-| [S3_Level1_DM_Helper.docx](../../assets/S3_Level1_DM_Helper.docx) | Level 1 room key, loot tables, card reference | [Level 1](../The-Lost-Ship/Level-1-Crew-Quarters.md) |
+| [S3_Level1_DM_Helper.docx](../../assets/S3_Level1_DM_Helper.docx) | Level 1 room key, loot tables, card reference + original S3 line art | [Level 1](../The-Lost-Ship/Level-1-Crew-Quarters.md) |
 | [S3_Level3_Complete_5e_Conversion.docx](../../assets/S3_Level3_Complete_5e_Conversion.docx) | Walkway level conversion | [Level 3](../The-Lost-Ship/Level-3-Upper-Walkway.md) |
 | [S3_Level4_Complete_5e_Conversion.docx](../../assets/S3_Level4_Complete_5e_Conversion.docx) | Garden level creature conversions | [Garden Level](../The-Lost-Ship/The-Garden-Level.md) |
-| [Level_3_Garden_DM_Reference.docx](../../assets/Level_3_Garden_DM_Reference.docx) (+ [Level_IV copy](../../assets/Level_IV_Garden_DM_Reference.docx), identical) | Garden scene read-alouds, Erleena reunion | [Garden Level](../The-Lost-Ship/The-Garden-Level.md), [Lighthouse](../The-Lost-Ship/The-Lighthouse.md) |
-| [Level 3 with George.docx](../../assets/Level%203%20with%20George.docx) | George's garden briefing + crew room S50 | [Garden Level](../The-Lost-Ship/The-Garden-Level.md) |
-| [Final-Level4_Complete_DM_Reference2.docx](../../assets/Final-Level4_Complete_DM_Reference2.docx) ⭐ current (+ [older](../../assets/Final-Level4_Complete_DM_Reference.docx)) | Reactor core & cargo exit (adds Nova, commander's bones, item rules) | [Lower Deck](../The-Lost-Ship/The-Lower-Deck.md) |
-| [visuals.docx](../../assets/visuals.docx), [S3-Images.docx](../../assets/S3-Images.docx) (corrupt zip) | Image collections for table display | — |
+| [Level_3_Garden_DM_Reference.docx](../../assets/Level_3_Garden_DM_Reference.docx) (+ [Level_IV copy](../../assets/Level_IV_Garden_DM_Reference.docx), identical) | Garden scene read-alouds + scene art, Erleena reunion | [Garden Level](../The-Lost-Ship/The-Garden-Level.md), [Lighthouse](../The-Lost-Ship/The-Lighthouse.md), [Erleena](../NPCs/Erleena-Riser.md) |
+| [Level 3 with George.docx](../../assets/Level%203%20with%20George.docx) | George's garden briefing + crew room S50 + froghemoth art | [Garden Level](../The-Lost-Ship/The-Garden-Level.md) |
+| [Final-Level4_Complete_DM_Reference2.docx](../../assets/Final-Level4_Complete_DM_Reference2.docx) ⭐ current (+ [older](../../assets/Final-Level4_Complete_DM_Reference.docx)) | Reactor core & cargo exit (adds Nova, commander's bones, item rules, weapons-spread art) | [Lower Deck](../The-Lost-Ship/The-Lower-Deck.md) |
+| [visuals.docx](../../assets/visuals.docx), [S3-Images.docx](../../assets/S3-Images.docx) (corrupt zip) | Image collections for table display (visuals: Jak throne, medical android, drop tubes…) | — |
 
 ## Rules references
 
@@ -105,6 +107,8 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 
 ## Portraits & council art
 
+NPC art status: **every named principal now has page art except [Rico](../NPCs/Rico.md) and [Tomas Vel-Maret](../NPCs/Tomas-Vel-Maret.md)** (see Wishlist). Erleena's is a scene image (the hatch struggle) rather than a headshot.
+
 | File | Subject | Embedded at |
 | :--- | :--- | :--- |
 | [council_valerius.jpg](../../assets/council_valerius.jpg) | Valerius | [NPC page](../NPCs/High-Sister-Valerius.md) + [council](../Adventures/Return-to-Frostwatch/The-Council-of-Frostwatch.md) |
@@ -116,6 +120,7 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 | [mcready_portrait.webp](../../assets/mcready_portrait.webp) | McReady portrait | [McReady](../NPCs/McReady.md) |
 | [copper_portrait.png](../../assets/copper_portrait.png) (+ [website png](../../assets/copper_portrait_website.png) / [webp](../../assets/copper_portrait_website.webp)) | Copper portrait | [Copper](../NPCs/Copper-the-Surgeon.md) |
 | [nova_in_pod_v3.png](../../assets/nova_in_pod_v3.png) | Nova in her stasis pod | [Nova](../NPCs/Nova.md) |
+| *(from [`assets/extracted/`](../../assets/extracted), placed in `.attachments/`)* | George Decay, Jak (throne), Korrin, Erleena (hatch scene), Bjorn, Sigrid, Erik | [George](../NPCs/George-Decay.md), [Jak](../NPCs/Jak-Bjornsson.md), [Korrin](../NPCs/Korrin.md), [Erleena](../NPCs/Erleena-Riser.md), [Chapter 2](../Adventures/Chapter-2-Gronnfjord-Shops.md) |
 
 ## Ship art (lower deck)
 
@@ -134,6 +139,7 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 
 - ~~High-res world map~~ ✓ received (`vermoon-map.png`).
 - ~~Aerun legacy city-name reconciliation~~ ✓ **settled by the revised map** (`aerun_map.png`): the Dark Sun seven are the city-states; Blackguard, Osgaker, Hollowstorm, Amber Valley, and Eldorado are lesser towns.
+- **Portraits: Rico and Tomas Vel-Maret** — no art exists for either; generate or commission headshots. A proper Erleena headshot (current page art is the hatch scene) and portraits for the six PCs would round out the set.
 - **House banner art** — the Merchant Houses doc references banners on expiring CDN links; save stable copies to embed on [The Merchant Houses](../World/Factions/The-Merchant-Houses.md).
 - Andy's **Trello board** of previous-campaign notes — city names, connections, the earth city.
 - Sahali's session notes (confirm Airlantis details and dragon pairings).
