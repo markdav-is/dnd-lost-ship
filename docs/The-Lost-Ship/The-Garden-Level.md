@@ -36,4 +36,4 @@ Mostly harmless oddities (rabbitoids, four-winged birds, six-eyed toads — d12 
 
 ## Progression
 
-Green key card (found in crew room S50 on a skeleton, with defoliant stock and a paralysis pistol) → across the bridge → bunny path → **[The Lighthouse](The-Lighthouse.md)** → hatch (DC 15 STR + green card) → marine observatory → stairs to the [Lower Deck](The-Lower-Deck.md). The drop tubes below this level are destroyed; the island is the only way down.
+Green key card (found in crew room S50 on a skeleton, with defoliant stock and a paralysis pistol) → across the bridge → bunny path → **[The Lighthouse](The-Lighthouse.md)** → hatch (DC 15 STR + green card) → **Erleena's lab beneath the Lighthouse** → the marine observatory → stairs to the [Lower Deck](The-Lower-Deck.md). The drop tubes below this level are destroyed; the island is the only way down.

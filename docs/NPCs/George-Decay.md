@@ -23,6 +23,10 @@ Deep resonant baritone, refined diction, dramatic pauses, signature **"Oh my!"**
 - **Laser scalpel** (8 charges, +5, 2d8+2 radiant); alchemical vials (acid / alkaline mold-killer / flash powder); **Command Medical Android** (DC 15 INT — "MED-2, authorization code Decay-Gamma-Seven!").
 - Gear: medical bag (2 healing sprays 2d12), notebook of ship observations, atmosphere analyzer, gray key card.
 
+## His lab
+
+**George's own lab is up on the observation deck (QftIS Level 2)** — separate from Erleena's beneath the Lighthouse. It grew out of his old base in the garden crew room: workbenches of ship instruments, his drug-synthesis rig fed by the medical systems, a month of notes on the mold. (If the mold rode a system call to wake Aphelion, this lab's network sessions are prime suspect — see [Return to the Ship](../Adventures/Return-to-the-Ship.md).)
+
 ## Knowledge & limits
 
 Knows: the card system, the mold's lifecycle (21–24h transformation; burn or dissolve the dead), ship history, safe routes through Levels 1–3, the garden's flora rules, the Horrid Plant, the froghemoth's existence. Does **not** know: the wolf-in-sheep's-clothing, the squealer's lair, the froghemoth's full capabilities.

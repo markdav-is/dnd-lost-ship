@@ -39,7 +39,7 @@ See [Alien Technology](../Game-Mechanics/Alien-Technology.md) for item rules.
 ## Clocks the DM is running
 
 - **Infection spread** — faster than official awareness; one town gone, two quarantined; wildlife networking; ravines impassable on foot.
-- **Erleena's silence** — every hour unanswered makes the observatory scenario worse.
+- **Erleena's silence** — every hour unanswered makes the scenario beneath the Lighthouse worse.
 - **George's decline** — his stimulant supply is finite; Harah's Sandwalker remedy buys time.
 - **The Sere negotiation** — containment cover for the mission depends on a reconciliation nobody has explained yet.
 - **Political pressure** — the sealed orders exist; the [merchant alliance](Plot-Threads/The-Merchant-Alliance.md) circles; the party is already managing information around Jak's own apparatus.

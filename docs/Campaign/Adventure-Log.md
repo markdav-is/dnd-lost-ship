@@ -34,7 +34,7 @@ In the ship's theater the party defeated **two mind flayers and four intellect d
 
 ## The Ship — The Garden Level
 
-George briefed the party in the crew room (S50), then stopped at the garden threshold — the spore air would kill him. The party crossed the outer jungle, the fungal inner garden, and the black central lake, defeated the **Froghemoth**, survived the **wolf-in-sheep's-clothing** on the bunny path, and entered the mycelium-consumed **[Lighthouse](../The-Lost-Ship/The-Lighthouse.md)** — finding **Erleena Riser alive**, straining at the floor hatch in her intact containment suit. Below, in the marine observatory, she declared her intent to build a cure lab and asked the party to secure the cycling door further down. *(Reference: [The Garden Level](../The-Lost-Ship/The-Garden-Level.md))*
+George briefed the party in the crew room (S50), then stopped at the garden threshold — the spore air would kill him. The party crossed the outer jungle, the fungal inner garden, and the black central lake, defeated the **Froghemoth**, survived the **wolf-in-sheep's-clothing** on the bunny path, and entered the mycelium-consumed **[Lighthouse](../The-Lost-Ship/The-Lighthouse.md)** — finding **Erleena Riser alive**, straining at the floor hatch in her intact containment suit. In the sealed levels beneath the Lighthouse she declared her intent to build her cure lab, and asked the party to secure the cycling door further down. *(Reference: [The Garden Level](../The-Lost-Ship/The-Garden-Level.md))*
 
 ## The Ship — The Lower Deck
 

@@ -48,7 +48,7 @@ Front-loaded social risk (the rift, the compact), then the heaviest sustained co
 
 *The only road that ends it — both sources — and the only one with no historical proof it exists.*
 
-Full module design: **[Return to the Ship](Return-to-the-Ship.md)** (re-entry, observatory siege, Alphie's bargain, the medical decks, the Nova race, the server-core cure, the Lighthouse retune, the [Counteragent village campaign](../Game-Mechanics/The-Counteragent.md)).
+Full module design: **[Return to the Ship](Return-to-the-Ship.md)** (re-entry, the lab siege, Alphie's bargain, the medical decks, the Nova race, the server-core cure, the Lighthouse retune, the [Counteragent village campaign](../Game-Mechanics/The-Counteragent.md)).
 
 **The honest caveat, kept honest:** there is no guarantee. Design the search so failure *teaches* rather than dead-ends — each medical-deck discovery either advances the cure or reveals why the pharmacological road is short (the mold adapts; the ark's own scientists failed), pushing the table toward the Erleena Pivot's hybrid answer or an informed fallback to Roads 1–2. The council asked for a direction, not a promise.
 

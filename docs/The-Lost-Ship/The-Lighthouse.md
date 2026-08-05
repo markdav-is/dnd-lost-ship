@@ -17,11 +17,11 @@ The source. A white tower at the center of the garden island, consumed by russet
 
 **[Erleena Riser](../NPCs/Erleena-Riser.md)** — alive, suit intact, found straining at the hatch wheel. *"Well. I'll be damned. You're a long way from home."*
 
-## The Marine Observatory (below)
+## Below the Lighthouse: Erleena's Lab, then the Observatory
 
 Fifty feet beneath the lake surface: a 30-ft circular chamber, 10-ft ceiling, cold stale air, blue-green emergency light. Concave porthole windows look into the murk (AC 13, 10 HP each; a broken window floods the chamber at 1 ft/round). If the froghemoth lives, three glowing eyes watch from the dark.
 
-- **Erleena's lab:** the seals are intact and the lake acts as a natural spore shield — the perfect control environment, directly beneath the heaviest spore concentration. She is synthesizing a cure here: for George, and for everyone infected.
+- **Erleena's lab sits in the sealed levels directly beneath the Lighthouse** — intact seals, the lake as a natural spore shield: the perfect control environment, directly beneath the heaviest spore concentration. She is synthesizing a cure here: for George, and for everyone infected. (George's own lab is separate — up on the observation deck; see [his page](../NPCs/George-Decay.md).)
 - **Her physics problem:** the stairwell continues down; the access door at the bottom is supposed to be sealed but **has been cycling open and closed for two days** — something is overriding the lock. She asked the party to make it stay shut. *(It didn't entirely work — this is Aphelion stirring; see [The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md).)*
 
 ## Stakes cheat sheet

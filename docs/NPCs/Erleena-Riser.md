@@ -2,7 +2,7 @@
 
 # Erleena Riser
 
-Scientist, veteran of the party's previous world-saving adventure, and the strongest voice for the cure. Found alive in the Lighthouse; now building her lab in the marine observatory beneath it. *"I'm not leaving until I understand what this thing is doing to people."*
+Scientist, veteran of the party's previous world-saving adventure, and the strongest voice for the cure. Found alive in the Lighthouse; her cure lab is **directly beneath it**, below the sealed hatch. *"I'm not leaving until I understand what this thing is doing to people."*
 
 (Some documents spell her *Arlena*; Erleena is canonical.)
 
@@ -16,7 +16,7 @@ Wry, exhausted, unstoppable. Teases Jak's methods (*"Only Jak would send a rescu
 
 ## The lab
 
-The marine observatory's seals are intact and fifty feet of lake water is a natural spore shield — a perfect control environment directly beneath the heaviest spore concentration. Her thesis: *the mold is aggressive, but it's biological. It follows rules.* She intends to synthesize a cure — for George, and for everything the ship has infected. A full cure for advanced infection requires materials from the ship's medical labs (undiscovered — a future expedition hook).
+**Under the Lighthouse:** the sealed levels beneath the hatch are intact, and the lake above is a natural spore shield — a perfect control environment directly beneath the heaviest spore concentration. Her thesis: *the mold is aggressive, but it's biological. It follows rules.* She intends to synthesize a cure — for George, and for everything the ship has infected. A full cure for advanced infection requires materials from the ship's medical labs (undiscovered — a future expedition hook).
 
 ## The Pivot (when she learns of Rajaat and the defilers)
 
@@ -35,5 +35,5 @@ Since the party left, **her comms have gone dead** — attempts return only *"No
 
 ## Open concerns
 
-- The **cycling door** below her observatory — something overrides the lock, opens it, closes it. She asked the party to make it stay shut. It is Aphelion stirring ([The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md)).
+- The **cycling door** below her lab — something overrides the lock, opens it, closes it. She asked the party to make it stay shut. It is Aphelion stirring ([The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md)).
 - Her suit *can* fail. George's warning stands: "Ensure she doesn't make the same mistake I did."

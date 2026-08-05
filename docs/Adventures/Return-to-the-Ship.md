@@ -26,7 +26,7 @@ Published Aphelion: *"initially friendly but ultimately evil"* — first contact
 ## Action arc (beats to build as encounter subpages)
 
 1. **Re-entry gauntlet.** The ship is *lit*. Doors open before they're touched. The mold-creatures fight in coordinated packs now — vegepygmy phalanxes, shrieker alarm-lines, a webbird murmuration steered like a weapon. The dungeon has become an organism.
-2. **The observatory siege.** The party reaches Erleena's lab as Aphelion's forces move on it — bipedal bots and mold-things together, the first undeniable proof the machines and the infection are one side now. Defend the lab; evacuate or fortify. (George and Erleena's account of the waking is the breather scene after.)
+2. **The lab siege.** The party reaches Erleena's lab beneath the Lighthouse as Aphelion's forces move on it — bipedal bots and mold-things together, the first undeniable proof the machines and the infection are one side now. Defend the lab; evacuate or fortify. (George and Erleena's account of the waking is the breather scene after.)
 3. **First contact with "Alphie."** After the siege — the friendly voice, the apology for "the misunderstanding," the offer: access to the medical decks in exchange for tasks. The full QftIS quest-giver loop, played straight, with mold in its veins. Every bargain is real action fuel: escort quests through hostile decks, power-rerouting under attack, retrieving components from lairs.
 4. **The medical decks.** New territory (the unconverted S3 levels): research labs, the pharmacopeia, the decontamination systems — and the ship's **records of the mold**, which reveal the ark met this thing before ([The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md)). Aphelion's archive holds the oldest record of the First Source in existence.
 5. **The serum & the first patient.** The medical decks yield the counteragent — and the first dose goes to **George**, on-screen. It works. The party gets the cure arsenal ([The Counteragent](../Game-Mechanics/The-Counteragent.md)): serum darts, dart grenades, aerosol sprayers, Musty-Jo's syringe lance.
@@ -41,7 +41,7 @@ Published Aphelion: *"initially friendly but ultimately evil"* — first contact
 - **Aphelion is redeemed, not destroyed.** Cured like George — same medicine, different substrate. Restored, it is the world's greatest scientific partner: the ark's knowledge, freely offered this time. (And Nova gets the better ending: the woman who had to kill her ship's mind gets to save it.)
 - **The purge never happens; Airlantis never drops a bomb.** The strategic weapon becomes the ark of restoration (below).
 - **Jak's arc lands softly.** The void resolves not by surveillance but by trust — his friends did what the network never could. Room for him to loosen his grip; the sealed orders quietly die unexecuted.
-- **The dragons' nod (optional):** the world-threat ends before they're needed — but the Black Dragon stirs long enough to witness the healing, for Shenandoah. A blessing, not a battle.
+- **The dragons' nod (optional):** the world-threat ends before they're needed — but the Black Dragon stirs long enough to witness the healing, for its bonded partner [Shhhmeowmeow/Shenandoah](../Campaign/The-Party/Shhhmeowmeow.md). A blessing, not a battle.
 
 ## Aerun comes south (the party wouldn't go — so it arrives)
 

@@ -11,6 +11,8 @@ The alien vessel buried in the Barrier Peaks — centuries crashed, still active
 - [The Lighthouse](The-Lost-Ship/The-Lighthouse.md) — the mold's broadcast source; Erleena's lab beneath
 - [The Lower Deck](The-Lost-Ship/The-Lower-Deck.md) — reactor core and cargo exit; explored ✔ (exit route)
 
+**QftIS deck mapping (the maps in play):** the remaster (`assets/quests-from-the-infinite-staircase.pdf`, ch. 7) has **four levels** — **1: main deck** (quarters, offices, recreation, the **medical clinic S23**, computer room S30) · **2: observation deck** (athletics, cargo, the theater — and George's lab) · **3: the garden** (the biosphere, the island, the Lighthouse; Erleena's lab beneath it) · **4: service deck** ("the brain from which the ship's core functions derive" — server core, stasis chamber S64/Nova). Medicine is *shallow* (Level 1); the deep knowledge (Aphelion's archive, the stasis labs) is on Level 4 — a cure hunt runs the ship's whole height.
+
 **Numbering note:** the source documents use inconsistent level numbers (the garden is "Level 3," "Level IV," and "Level 4" in different files; the reactor deck is also "Level 4"). This wiki names decks by function. The bulk of the original S3 ship (weapons levels, command deck, remaining S3 Levels II–VI content) remains unexplored and unconverted — room to grow.
 
 ## Ship-wide properties
