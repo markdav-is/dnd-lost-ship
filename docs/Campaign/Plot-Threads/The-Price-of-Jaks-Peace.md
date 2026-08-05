@@ -1,3 +1,5 @@
+[Campaign](../../Campaign.md) / [Plot Threads](../Plot-Threads.md) / The Price of Jaks Peace <!-- wikidown:breadcrumb -->
+
 # The Price of Jak's Peace
 
 Grønnfjord prospers — no raids, fair taxes, safe streets. But the older residents whisper of the cost, and the campaign keeps asking whether the peace is worth what sustains it.
@@ -17,6 +19,6 @@ Grønnfjord prospers — no raids, fair taxes, safe streets. But the older resid
 
 ## Escalation levers
 
-- Jak asks the party pointed questions about who they've been talking to (he can see almost everything — including, eventually, gaps shaped like [Kaelen](../../NPCs/Kaelen-al-Hajra.md)).
+- Jak asks the party pointed questions about who they've been talking to (he can see almost everything — including, eventually, gaps shaped like [Harah](../../NPCs/Harah-Tabr.md)).
 - A PC's admirer or contact joins the Spásistren and comes back *serene*.
 - The [merchant alliance](The-Merchant-Alliance.md) offers the party proof of what the ceremonies do.

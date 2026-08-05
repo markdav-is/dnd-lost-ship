@@ -31,7 +31,7 @@ The published works in `/assets`, what each contributes, and how it maps into Ve
 | Houses of the Landsraad | `Dune__Houses_Of_The_Landsraad_*.pdf` |
 | Masters of Dune | `masters_of_dune_digital_edition_pf_*.pdf` |
 
-**Mapping:** the Landsraad → the [merchant alliance](../Campaign/Plot-Threads/The-Merchant-Alliance.md) of the seven city-states; the spice melange → **the Spice** and its worm ecology; Fremen → the [Sandwalkers](../World/Factions/The-Sandwalkers.md); Fish Speakers / Sardaukar → the [Spásistren](../World/Factions/The-Spasistren.md); the Emperor's information monopoly → the [Aura network](../World/The-Aura-Network.md); Chakobsa flavor → Sandwalker naming (al-Hajra, "of the stone/journey"). *Houses of the Landsraad* remains the toolkit for house intrigue mechanics; the houses themselves now use Dark Sun's canon rosters.
+**Mapping:** the Landsraad → the [merchant alliance](../Campaign/Plot-Threads/The-Merchant-Alliance.md) of the seven city-states; the spice melange → **the Spice** and its worm ecology; Fremen → the [Sandwalkers](../World/Factions/The-Sandwalkers.md); Fish Speakers / Sardaukar → the [Spásistren](../World/Factions/The-Spasistren.md); the Emperor's information monopoly → the [Aura network](../World/The-Aura-Network.md); Chakobsa flavor → Sandwalker naming (Sietch-style surnames — Harah Tabr echoes Sietch Tabr from the novels). *Houses of the Landsraad* remains the toolkit for house intrigue mechanics; the houses themselves now use Dark Sun's canon rosters.
 
 ## The synthesis document
 
@@ -39,6 +39,6 @@ The published works in `/assets`, what each contributes, and how it maps into Ve
 
 ## Tone recipe (from the design notes)
 
-- **Dark Sun tone = ecological grief**, carried by Kaelen.
+- **Dark Sun tone = ecological grief**, carried by Harah.
 - **Dune tone = political vertigo** — everyone believes they're right — carried by Tomas Vel-Maret.
 - **George Decay = the personal anchor** that keeps both abstractions human.

@@ -1,3 +1,5 @@
+[NPCs](../NPCs.md) / High Sister Valerius <!-- wikidown:breadcrumb -->
+
 # High Sister Valerius
 
 Commander of the Spásistren occupation of Frostwatch. Silver-white hair, deeply lined face, extraordinary patient eyes utterly without warmth. The first crack in the Spásistren's armor.
@@ -28,7 +30,7 @@ At the Council of Frostwatch, Valerius dismissed the guards ("We are alone"), pr
 
 ## Playing her
 
-Not cruel — unsentimental. She has made decisions that cost lives and lost no sleep, because she believes her judgment is sound. She respects the party for doing what she could not: entering the void and coming back. She will never say so; she shows it by listening. She has marked [Kaelen's](Kaelen-al-Hajra.md) network invisibility as an asset: *"I may need that. Before this is over."*
+Not cruel — unsentimental. She has made decisions that cost lives and lost no sleep, because she believes her judgment is sound. She respects the party for doing what she could not: entering the void and coming back. She will never say so; she shows it by listening. She has marked [Harah's](Harah-Tabr.md) network invisibility as an asset: *"I may need that. Before this is over."*
 
 ## DM lever
 

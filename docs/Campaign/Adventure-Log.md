@@ -1,3 +1,5 @@
+[Campaign](../Campaign.md) / Adventure Log <!-- wikidown:breadcrumb -->
+
 # Adventure Log
 
 What has actually happened in play, in order. Each chapter links to the runnable module in [Adventures](../Adventures.md) where one exists.
@@ -40,4 +42,4 @@ Beneath the lake: the **reactor core** (glass columns of arcing water-cooled mac
 
 ## Return to Frostwatch
 
-The hoversled descent showed the infection loose in the world — watching herds, fungal perytons, the frozen pilgrims. Frostwatch was repaired but occupied by the **Spásistren**. Copper whispered his theory of an **invisible infection riding the network**; then the Council: [Valerius](../NPCs/High-Sister-Valerius.md) severed her implant, [Kaelen al-Hajra](../NPCs/Kaelen-al-Hajra.md) told the story of Aerun's death, and the three paths were laid before the party. *(Module: [Return to Frostwatch](../Adventures/Return-to-Frostwatch.md))*
+The hoversled descent showed the infection loose in the world — watching herds, fungal perytons, the frozen pilgrims. Frostwatch was repaired but occupied by the **Spásistren**. Copper whispered his theory of an **invisible infection riding the network**; then the Council: [Valerius](../NPCs/High-Sister-Valerius.md) severed her implant, [Harah Tabr](../NPCs/Harah-Tabr.md) told the story of Aerun's death, and the three paths were laid before the party. *(Module: [Return to Frostwatch](../Adventures/Return-to-Frostwatch.md))*

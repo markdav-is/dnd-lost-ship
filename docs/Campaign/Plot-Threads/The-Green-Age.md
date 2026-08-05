@@ -12,7 +12,7 @@ The cataclysm is anchored by three facts:
 
 Rajaat was **never destroyed**. It remains contained in the Deep Desert — by means the Sandwalkers guard.
 
-## What Kaelen's people know
+## What Harah's people know
 
 - The [Sandwalkers](../../World/Factions/The-Sandwalkers.md) preserve oral histories back to the Green Age. They are witnesses, not scholars — knowledge carried in song, scar, and the reading of ruins. For a thousand years they have been Rajaat's **wardens**.
 - Their word ***vel-keth*** — "the hunger that eats the world" — names the infection in both its outbreaks.
@@ -32,7 +32,7 @@ Most of Vermoon does not know the truth; these contested versions circulate as f
 
 ## Mechanical hook — the Primal Rite of Remembrance
 
-Kaelen can perform a one-hour ritual using a piece of material from the ship, granting the party a **vision of Aerun during the Green Age**. The vision contains one specific fact about the ship's original purpose or the infection's nature that cannot be obtained any other way — and it is the cleanest way to eventually *show* the defilers at their terrible work, Rajaat's discovery, or the Red Dragon's fire, rather than tell it.
+Harah can perform a one-hour ritual using a piece of material from the ship, granting the party a **vision of Aerun during the Green Age**. The vision contains one specific fact about the ship's original purpose or the infection's nature that cannot be obtained any other way — and it is the cleanest way to eventually *show* the defilers at their terrible work, Rajaat's discovery, or the Red Dragon's fire, rather than tell it.
 
 ## The stakes
 

@@ -1,8 +1,10 @@
-# Kaelen al-Hajra
+[NPCs](../NPCs.md) / Harah Tabr <!-- wikidown:breadcrumb -->
+
+# Harah Tabr
 
 Dune Strider of the [Sandwalkers](../World/Factions/The-Sandwalkers.md) — deep desert nomad and primal shaman of [Aerun](../World/Aerun.md), warden-born of Rajaat, sent north to find the source of the Defiling Silence. She has walked across the proof of what happens when a world chooses wrong. *"The desert does not lie. It shows you exactly what the world becomes when power is taken without giving anything back."*
 
-![Kaelen al-Hajra](../.attachments/council_kaelen.jpg)
+![Harah Tabr](../.attachments/council_kaelen.jpg)
 
 Full writeup: `assets/desert_continent_expansion.md`; deep desert context: `assets/Aerun_TheDesertContinent.md`; her council scenes: `assets/Return_to_Frostwatch_v3.md`.
 

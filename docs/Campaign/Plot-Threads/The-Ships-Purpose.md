@@ -19,4 +19,4 @@ Hundreds of years ago, an advanced humanoid civilization fled its dying homeworl
 
 - Was the mold cargo, stowaway, weapon, or the reason the homeworld died? (Ties directly to [The Green Age](The-Green-Age.md) "Fallen Star" theory — this may not be the first such ark.)
 - What is Aphelion doing now that it is waking? The cycling door beneath Erleena's observatory is a good first symptom.
-- George and Kaelen will eventually converge on the same conclusion from opposite directions: *the ship is not just a threat. It is a message. Someone sent it here — to warn, or to destroy?*
+- George and Harah will eventually converge on the same conclusion from opposite directions: *the ship is not just a threat. It is a message. Someone sent it here — to warn, or to destroy?*

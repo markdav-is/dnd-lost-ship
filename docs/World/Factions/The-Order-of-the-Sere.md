@@ -26,12 +26,12 @@ For the Barrier Peaks this is a real, horrifying option — a magical scorched-e
 
 - **Where is the Order?** Aerun's coastal ring, hidden in the Scarlands, or somewhere off every map — undefined. So are its numbers, leadership, and rites.
 - **Relationship to the sorcerer-kings:** rivals? apostates? the kings prove the knowledge never needed an order to survive — so what does the Order believe its oath *is*?
-- **Who knows it exists?** Kaelen does — it is part of the history she carries. Whether Jak, Valerius, or the houses know is a choice with big consequences: whoever reaches the Sere first gains the most terrible lever in the [Lighthouse Dilemma](../../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).
+- **Who knows it exists?** Harah does — it is part of the history she carries. Whether Jak, Valerius, or the houses know is a choice with big consequences: whoever reaches the Sere first gains the most terrible lever in the [Lighthouse Dilemma](../../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).
 - **What do they want?** Failsafe-keepers wait for a purpose. After a thousand years, do they *want* to be needed?
 - **The preserver counterweight:** the **Veiled Alliance** exists ([Aerun](../Aerun.md)) — natural opponents of ever invoking the Sere, and natural allies for any party seeking a gentler answer.
 
 ## Using them at the table
 
-- They arrive as an *option*, not an army: a delegation, an envoy, or a name Kaelen finally surrenders when the containment debate stalls.
+- They arrive as an *option*, not an army: a delegation, an envoy, or a name Harah finally surrenders when the containment debate stalls.
 - Their existence reframes the council's paths — see [The Lighthouse Dilemma](../../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).
 - Tone: not villains — undertakers. People who inherited a duty everyone else chose to forget, and who speak of killing a landscape with the calm of professionals. When they walk, the ground behind them is the argument.

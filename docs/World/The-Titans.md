@@ -22,5 +22,5 @@ This is the belief that drove the **Blue Dragon** off-world: *"I don't think I'm
 ## Hooks into the current campaign
 
 - **Aerun's Titan:** Sandwalker tradition speaks of the Titan ("the Work") slumbering in the deep desert — cause of the devastation, or the last attempt to stop it ([The Green Age](../Campaign/Plot-Threads/The-Green-Age.md)). If the ship's energy drain spreads, does it wake — or corrupt — what sleeps there?
-- **The Lighthouse question at Titan scale:** the ship drains the land's living energy the way the cities once drew on the Titans. Kaelen's *vel-keth* may be the same hunger wearing different machinery.
-- **Revelation delivery:** Kaelen's Primal Rite of Remembrance or Nova's recovering memory can each confirm — or complicate — the captor theory when the campaign is ready to answer it.
+- **The Lighthouse question at Titan scale:** the ship drains the land's living energy the way the cities once drew on the Titans. Harah's *vel-keth* may be the same hunger wearing different machinery.
+- **Revelation delivery:** Harah's Primal Rite of Remembrance or Nova's recovering memory can each confirm — or complicate — the captor theory when the campaign is ready to answer it.

@@ -1,3 +1,5 @@
+[Campaign](../Campaign.md) / Plot Threads <!-- wikidown:breadcrumb -->
+
 # Plot Threads
 
 Active mysteries, dilemmas, and long-game levers. Each thread page states what the players know, what is actually true, and how to escalate it.
@@ -15,4 +17,4 @@ Active mysteries, dilemmas, and long-game levers. Each thread page states what t
 
 ## How the threads connect
 
-The ecological thread (the mold, the Green Age, the First Source) and the political thread (Jak, the merchant houses, the Spice) are **the same story at different scales**: power consuming the living world faster than it can regenerate. [Kaelen](../NPCs/Kaelen-al-Hajra.md) is the bridge — she carries the ecological memory, the deep desert's secret, and exists entirely outside the network. [George Decay](../NPCs/George-Decay.md) is the emotional anchor: his dying is the personal stakes, the ecological collapse the world stakes, the political fracture the civilizational stakes. Keep all three present in every session.
+The ecological thread (the mold, the Green Age, the First Source) and the political thread (Jak, the merchant houses, the Spice) are **the same story at different scales**: power consuming the living world faster than it can regenerate. [Harah](../NPCs/Harah-Tabr.md) is the bridge — she carries the ecological memory, the deep desert's secret, and exists entirely outside the network. [George Decay](../NPCs/George-Decay.md) is the emotional anchor: his dying is the personal stakes, the ecological collapse the world stakes, the political fracture the civilizational stakes. Keep all three present in every session.

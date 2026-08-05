@@ -6,7 +6,7 @@ The powers moving through the campaign, each with a legitimate grievance and a d
 
 - [The Spásistren](Factions/The-Spasistren.md) — Jak's all-female implanted guard: the Fish Speakers / Sardaukar of Vermoon.
 - [The Merchant Houses](Factions/The-Merchant-Houses.md) — the seven great houses of Aerun's city-states and their proto-Landsraad.
-- [The Sandwalkers](Factions/The-Sandwalkers.md) — Aerun's deep desert witnesses; Kaelen's people.
+- [The Sandwalkers](Factions/The-Sandwalkers.md) — Aerun's deep desert witnesses; Harah's people.
 - [The Order of the Sere](Factions/The-Order-of-the-Sere.md) — keepers of the shunned magic that stopped the First Source.
 
 ## Alignment map

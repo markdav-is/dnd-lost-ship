@@ -24,7 +24,7 @@ The campaign's signature hazard. Golden-brown/rust-red mold broadcast from the [
 - *Lesser restoration* — halts progression, does not reverse.
 - *Greater restoration* — reverses one stage.
 - **Full cure** — requires materials from the ship's medical labs (undiscovered; Erleena's research goal).
-- **Stopgaps:** George's anti-fungal stimulant (expires in days), MED-1's injections, Kaelen's Sandwalker stabilizer (slows progression, eases pain).
+- **Stopgaps:** George's anti-fungal stimulant (expires in days), MED-1's injections, Harah's Sandwalker stabilizer (slows progression, eases pain).
 
 ## Horror-mode extras (Frostwatch rules)
 

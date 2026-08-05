@@ -8,9 +8,9 @@ Sources: `assets/Aerun_TheDesertContinent.md`, `assets/Return_to_Frostwatch_v3.m
 
 1. **Rajaat was discovered on Aerun during the Green Age** — an ancient, catastrophic origin point of a fungal/spore infection identical to the ship's russet mold. It spread the way the Scarlands outbreak is spreading now: *slowly, then all at once.* The animals changed. The trees changed. The people changed.
 2. **Containment was tried first — and failed.** Walls, burned borders, posted guards. The walls held **eleven years**; then the bloom came from *beneath* them. The spores had been in the groundwater the whole time.
-3. **Then they made a desert. On purpose.** *"They killed the land to save the world."* **Defiler magic** destroyed the spores directly (they are plant life) and every green thing with them — no water, no organic matter, no host for the bloom. The infected creatures survived the casting and starved. Defiling was shunned from Vermoon afterward; the [Order of the Sere](../../World/Factions/The-Order-of-the-Sere.md) keeps it as a failsafe. *(Kaelen tells the desert-was-made story in open council; the defiler method and the Order she reveals only if pressed or in private.)*
+3. **Then they made a desert. On purpose.** *"They killed the land to save the world."* **Defiler magic** destroyed the spores directly (they are plant life) and every green thing with them — no water, no organic matter, no host for the bloom. The infected creatures survived the casting and starved. Defiling was shunned from Vermoon afterward; the [Order of the Sere](../../World/Factions/The-Order-of-the-Sere.md) keeps it as a failsafe. *(Harah tells the desert-was-made story in open council; the defiler method and the Order she reveals only if pressed or in private.)*
 4. **The quarantine has held for a thousand years.** It is the only containment ever found that works.
-5. **Rajaat was never destroyed.** It remains beneath the Deep Desert — and the deep mechanism of its ongoing management is a secret Kaelen guards.
+5. **Rajaat was never destroyed.** It remains beneath the Deep Desert — and the deep mechanism of its ongoing management is a secret Harah guards.
 
 ## The containment (the deeper secret)
 
@@ -21,7 +21,7 @@ What actually keeps Rajaat in check is the Deep Desert's engineered ecology:
 3. **Bloom** — the mass eventually explodes into a violent fungal bloom.
 4. **Consumption** — the dead spores are eaten by the apex predators of the Deep Desert: **the great worms**.
 
-The defiling *created the conditions*; the worms *close the loop*. At the council Kaelen went as far as she ever has: Rajaat is *"contained only by sand and worms and the prayers of people the coastal cities have never met."* Her people are its **wardens** — a duty they did not choose.
+The defiling *created the conditions*; the worms *close the loop*. At the council Harah went as far as she ever has: Rajaat is *"contained only by sand and worms and the prayers of people the coastal cities have never met."* Her people are its **wardens** — a duty they did not choose.
 
 ## The Spice (never disclosed)
 
@@ -40,11 +40,11 @@ The ship is a **second Rajaat** — sitting in a valley full of trees, animals, 
 
 ## The new stake — the cure frees Aerun too
 
-The v3 council canon raises the ceiling: a true cure from the ship's medical levels **might work on Rajaat itself**. Not a seal, not a fire — an *end*, for both sources. For the Sandwalkers it would mean release from a thousand-year wardenship: *"We did not choose that. A cure would give us a choice for the first time."* This makes the [cure path](The-Lighthouse-Dilemma.md) a world-stakes proposition — and gives Kaelen a personal reason to see the party succeed.
+The v3 council canon raises the ceiling: a true cure from the ship's medical levels **might work on Rajaat itself**. Not a seal, not a fire — an *end*, for both sources. For the Sandwalkers it would mean release from a thousand-year wardenship: *"We did not choose that. A cure would give us a choice for the first time."* This makes the [cure path](The-Lighthouse-Dilemma.md) a world-stakes proposition — and gives Harah a personal reason to see the party succeed.
 
 ## DM levers
 
 - **The defiler option:** the Order of the Sere can kill the spores directly at the cost of all Scarlands plant life — with the starving-fauna aftermath. The proven, unbearable fourth path.
-- **Kaelen's layered secrecy, revised:** the Rajaat story is public; the defiler method and the Order surface under pressure; the worm ecology is half-named; **the Spice is never spoken**. Four rings of disclosure, each with a price.
+- **Harah's layered secrecy, revised:** the Rajaat story is public; the defiler method and the Order surface under pressure; the worm ecology is half-named; **the Spice is never spoken**. Four rings of disclosure, each with a price.
 - **The Spice dependency:** if Jak learns what the Spice really is, the political map redraws overnight.
 - **Rajaat itself:** never destroyed — only contained. Is it a *third* crashed ark? The Titan's wound? Whatever the answer, the precedent stands: sources are not destroyed. They are *managed*. The cure path is the first challenge to that rule in a thousand years.

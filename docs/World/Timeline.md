@@ -29,7 +29,7 @@ World history and campaign chronology, oldest first. Dates are relative to **now
 | ~2 years ago | A tremor unearths part of the ship. Creatures begin emerging; the Barrier Peaks grow dangerous; expeditions vanish. Ships begin supplying **Nordkrist's Hold** |
 | Months ago | Jak's scouts return from the peaks *changed*; his best dis-trans bat finds **the void**. Vegepygmies appear near settlements |
 | ~1–2 months ago | Jak sends **George Decay and Erleena Riser** into the ship. Both are exposed; George chooses chemistry, Erleena the containment suit |
-| 3 months ago | Aerun's primal spirits begin going silent; **Kaelen al-Hajra** is sent north |
+| 3 months ago | Aerun's primal spirits begin going silent; **Harah Tabr** is sent north |
 
 ## The campaign so far
 

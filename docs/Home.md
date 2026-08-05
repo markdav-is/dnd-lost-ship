@@ -26,4 +26,4 @@ DM reference wiki for **The Lost Ship**, a D&D 5e campaign built on *S3: Expedit
 | Which key card opens what? | [Key Card System](Game-Mechanics/Key-Card-System.md) |
 | What's the big decision looming? | [The Lighthouse Dilemma](Campaign/Plot-Threads/The-Lighthouse-Dilemma.md) |
 | What is Rajaat? | [The First Source](Campaign/Plot-Threads/The-First-Source.md) |
-| Who is the woman from the desert? | [Kaelen al-Hajra](NPCs/Kaelen-al-Hajra.md) |
+| Who is the woman from the desert? | [Harah Tabr](NPCs/Harah-Tabr.md) |

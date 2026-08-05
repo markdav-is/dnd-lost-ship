@@ -9,7 +9,7 @@ Dossiers for every named character. Statuses reflect the current campaign state.
 | [Jak Bjornsson](NPCs/Jak-Bjornsson.md) | The Administrator — patron, friend, world-ruler | ◈ Ally / patron |
 | [George Decay](NPCs/George-Decay.md) | Infected scientist, party companion & guide | ⚠ Infected / stable |
 | [Erleena Riser](NPCs/Erleena-Riser.md) | Scientist; cure lab beneath the Lighthouse | ◈ Found / active |
-| [Kaelen al-Hajra](NPCs/Kaelen-al-Hajra.md) | Sandwalker emissary from Aerun | ◈ New companion |
+| [Harah Tabr](NPCs/Harah-Tabr.md) | Sandwalker emissary from Aerun | ◈ New companion |
 | [High Sister Valerius](NPCs/High-Sister-Valerius.md) | Spásistren commander at Frostwatch | ◈ Neutral / secret ally? |
 
 ## Frostwatch

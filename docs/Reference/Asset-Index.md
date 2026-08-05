@@ -1,3 +1,5 @@
+[Reference](../Reference.md) / Asset Index <!-- wikidown:breadcrumb -->
+
 # Asset Index
 
 Every file in [`/assets`](../../assets), linked and grouped by type. (Published PDFs get fuller treatment in [Sourcebooks & Inspiration](Sourcebooks-and-Inspiration.md).)
@@ -15,7 +17,7 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 | [Return_to_Frostwatch_v3.md](../../assets/Return_to_Frostwatch_v3.md) ⭐ current | Descent + council module v3: the **Rajaat** naming scene, Seal-the-Ship path, triage framing, McReady in the Brennan role | [Return to Frostwatch](../Adventures/Return-to-Frostwatch.md) |
 | [Return_to_Frostwatch_Final.md](../../assets/Return_to_Frostwatch_Final.md) / [Return_to_Frostwatch.docx](../../assets/Return_to_Frostwatch.docx) (older) | Earlier revisions (contain the dropped "Elder Brennan") | — |
 | [george_decay_npc.docx](../../assets/george_decay_npc.docx) (+ [pdf](../../assets/george_decay_npc.pdf)) | Full George Decay NPC kit w/ d20 dialogue table | [George Decay](../NPCs/George-Decay.md) |
-| [desert_continent_expansion.md](../../assets/desert_continent_expansion.md) | Kaelen, Aerun lore, merchant-alliance design doc | [Kaelen](../NPCs/Kaelen-al-Hajra.md), [Green Age](../Campaign/Plot-Threads/The-Green-Age.md) |
+| [desert_continent_expansion.md](../../assets/desert_continent_expansion.md) | Harah, Aerun lore, merchant-alliance design doc | [Harah](../NPCs/Harah-Tabr.md), [Green Age](../Campaign/Plot-Threads/The-Green-Age.md) |
 | [Aerun_TheDesertContinent.md](../../assets/Aerun_TheDesertContinent.md) ⭐ | **Canonical Aerun guide**: rings, city-states, Tablelands, magic, society, First Source ecology | [Aerun](../World/Aerun.md), [The First Source](../Campaign/Plot-Threads/The-First-Source.md) |
 | [Aerun_TheMerchantHouses.md](../../assets/Aerun_TheMerchantHouses.md) ⭐ | **The seven merchant houses** — Wavir, Tsalaxa, Inika, Shom, M'ke, Vordon, Stel | [The Merchant Houses](../World/Factions/The-Merchant-Houses.md) |
 | [Aerun_Worldbuilding.md](../../assets/Aerun_Worldbuilding.md) (older) | Earlier Aerun draft — superseded on city names; still canonical for the political-monopoly framing | [Aerun](../World/Aerun.md) |
@@ -99,7 +101,7 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 | :--- | :--- | :--- |
 | [council_valerius.jpg](../../assets/council_valerius.jpg) | Valerius | [NPC page](../NPCs/High-Sister-Valerius.md) + [council](../Adventures/Return-to-Frostwatch/The-Council-of-Frostwatch.md) |
 | [council_mcready.jpg](../../assets/council_mcready.jpg) | McReady | [council](../Adventures/Return-to-Frostwatch/The-Council-of-Frostwatch.md) |
-| [council_kaelen.jpg](../../assets/council_kaelen.jpg) | Kaelen | [NPC page](../NPCs/Kaelen-al-Hajra.md) + [council](../Adventures/Return-to-Frostwatch/The-Council-of-Frostwatch.md) |
+| [council_kaelen.jpg](../../assets/council_kaelen.jpg) | Harah | [NPC page](../NPCs/Harah-Tabr.md) + [council](../Adventures/Return-to-Frostwatch/The-Council-of-Frostwatch.md) |
 | [council_copper.jpg](../../assets/council_copper.jpg) | Copper | [NPC page](../NPCs/Copper-the-Surgeon.md) + [council](../Adventures/Return-to-Frostwatch/The-Council-of-Frostwatch.md) |
 | [council_brennan.jpg](../../assets/council_brennan.jpg) | *(unused — character dropped)* | — |
 | [council_reference.jpg](../../assets/council_reference.jpg) / [council_reference2.jpg](../../assets/council_reference2.jpg) / [council_cast_reference.jpg](../../assets/council_cast_reference.jpg) | Council scene references | [Frostwatch Hold](../Locations/Frostwatch-Hold.md) |

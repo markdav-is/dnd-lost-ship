@@ -1,3 +1,5 @@
+[Campaign](../Campaign.md) / Current Status <!-- wikidown:breadcrumb -->
+
 # Current Status
 
 Snapshot of the campaign state for session prep. Last updated after the *Return to Frostwatch* council (v3 canon).
@@ -9,7 +11,7 @@ Snapshot of the campaign state for session prep. Last updated after the *Return 
 - **[Erleena Riser](../NPCs/Erleena-Riser.md)** has been recovered alive and is establishing a cure-research lab in the marine observatory beneath the Lighthouse. **[George Decay](../NPCs/George-Decay.md)** survives on his drug regimen; two scientists now work aboard toward reversal treatments.
 - The party escaped the ship through the **cargo disposal purge** and rode a recovered hoversled down to [Frostwatch Hold](../Locations/Frostwatch-Hold.md) — finding the mountains visibly dying and the infection networking through wildlife.
 - Frostwatch is now **occupied by ~30 [Spásistren](../World/Factions/The-Spasistren.md)** with military wagons of alchemical incendiaries and containment gear.
-- At the **Council of Frostwatch**, [High Sister Valerius](../NPCs/High-Sister-Valerius.md) severed her Aura implant — an act of heresy — and [Kaelen al-Hajra](../NPCs/Kaelen-al-Hajra.md) **named the enemy: Rajaat**. The Barrier Peaks ship is a *second* source; the first has been quarantined beneath Aerun's engineered desert for a thousand years. The council laid out its paths as **planetary triage**: seal the ship, purge the valley, or go deeper for a cure that might end *both* sources.
+- At the **Council of Frostwatch**, [High Sister Valerius](../NPCs/High-Sister-Valerius.md) severed her Aura implant — an act of heresy — and [Harah Tabr](../NPCs/Harah-Tabr.md) **named the enemy: Rajaat**. The Barrier Peaks ship is a *second* source; the first has been quarantined beneath Aerun's engineered desert for a thousand years. The council laid out its paths as **planetary triage**: seal the ship, purge the valley, or go deeper for a cure that might end *both* sources.
 
 ## The question on the table
 
@@ -34,5 +36,5 @@ See [Alien Technology](../Game-Mechanics/Alien-Technology.md) for item rules.
 ## Clocks the DM is running
 
 - **Infection spread** — every day the Lighthouse broadcasts, more of the Barrier Peaks falls; three foothill villages quarantined, two gone silent.
-- **George's decline** — his anti-fungal stimulant supply is finite; Kaelen's Sandwalker remedy can buy time.
+- **George's decline** — his anti-fungal stimulant supply is finite; Harah's Sandwalker remedy can buy time.
 - **Political pressure** — the [merchant alliance](Plot-Threads/The-Merchant-Alliance.md) ([Tomas Vel-Maret](../NPCs/Tomas-Vel-Maret.md)) is circling; Jak's sealed orders for the ship exist whether or not the party knows it — and note how neatly "seal the ship" aligns with them.
