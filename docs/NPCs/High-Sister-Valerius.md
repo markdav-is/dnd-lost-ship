@@ -19,14 +19,19 @@ At the Council of Frostwatch, Valerius dismissed the guards ("We are alone"), pr
 - Her fear: the infection may be *purposeful without being intelligent* — "the way a river is purposeful without being aware."
 - Her closing warning about [the invisible infection](../Campaign/Plot-Threads/The-Invisible-Infection.md): three trusted sources arrived at the theory independently.
 
-## Stats (CR 7)
+## Stats — Monk 13, Way of the Unseen Mind (Dark Sun rules)
 
-**AC** 16 (breastplate) · **HP** 91 · INT 18, **WIS 20** · Insight +11, Perception +8 · Passive Perception 18
+*The High Sister rank runs on the [Dark Sun 5e](../Game-Mechanics/Dark-Sun-5e-Rules.md) psionic-monk chassis — decades past the patrol sisters' 8th-level build. Party-parity CR 11.*
 
-- **Aura Network (Connected):** cannot be surprised; advantage on Perception; telepathy with Spásistren within 1 mile.
-- **Aura Network (Severed):** advantage vs. mind-affecting effects; unscryable 1 hour.
-- **Tactical Genius:** bonus action — ally within 30 ft gains advantage on next attack or save.
+**AC** 18 (Unarmored Defense) · **HP** 110 (17d8+34) · **Speed** 50 ft · STR 14, **DEX 18**, CON 14, **INT 16**, **WIS 18**, CHA 14 · **Saves** DEX +9, WIS +9, INT +8 · **Skills** Insight +14, Perception +9, History +8 · Passive Perception 19 · **Immune** charmed, frightened (mental discipline — hers survives the severing; the training was never the implant)
+
+- **Multiattack:** three unarmed strikes (+9, 1d10+4) or quarterstaff; **Stunning Strike DC 17**; Flurry, Patient Defense, Step of the Wind (Ki 13).
+- **Unseen Mind psionics** (INT, DC 16): **Mind Thrust** (bonus action, one creature within 60 ft, 3d10 psychic, INT save halves) · **Psychic Parry** (reaction: +3 AC against one attack, 3/rest) · **Read the Room** (1 min meditation: learn surface emotional state and one honest fear of each creature within 30 ft — this is how she tested the party).
+- **Aura Network (connected):** cannot be surprised; telepathy with Spásistren within 1 mile; direct line to Jak.
+- **Aura Network (severed):** loses the above; gains advantage on saves vs. mind-affecting effects and is **unscryable** — invisible to the network she commanded. She can re-sever or reconnect as an action; each severing is a spiritual act she does not perform lightly.
+- **Tactical Genius:** bonus action — one ally within 30 ft gains advantage on its next attack or save.
 - **Command** (recharge 5–6): up to 3 creatures, DC 16 WIS or Disengage-and-retreat.
+- **Gear:** quarterstaff, breastplate-weight ceremonial coat (counted in AC via training, not armor), the severed implant behind her left ear.
 
 ## Playing her
 

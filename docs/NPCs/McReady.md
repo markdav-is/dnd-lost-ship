@@ -24,6 +24,19 @@ McReady carries a double weight — the party's sponsor and the locals' advocate
 
 If confronted privately about the dis-trans bat: he doesn't deny it. *"Jak needed to know you arrived safely. That's all it was."* Whether that is the complete truth is left to the DM.
 
+## Stats — Fighter 12, Battle Master (expedition veteran)
+
+*Thirty years of winters, raids, and rescues. His weapon is credibility — but the axe still knows its work. Party-parity CR 8.*
+
+**AC** 17 (breastplate + cold-forged buckler) · **HP** 118 (14d10+42) · **Speed** 30 ft · **STR 18**, DEX 12, **CON 16**, INT 14, **WIS 16**, CHA 14 · **Saves** STR +8, CON +7 · **Skills** Survival +11, Perception +7, Insight +7, Athletics +8, Intimidation +6 · Passive Perception 17
+
+- **Multiattack:** three attacks — **bearded battleaxe** (+8, 1d8+4, versatile 1d10) or **heavy crossbow** (+5, 1d10+1).
+- **Superiority Dice** (5d10): Precision, Trip, Menacing, **Rally** (his signature — 1d10+2 temp HP and a steadying word), Commander's Strike (an ally attacks as a reaction).
+- **Second Wind** (1d10+12), **Action Surge** 1/rest, **Indomitable** 2/day (reroll a failed save).
+- **Cold-Wise:** immune to environmental cold-exposure effects; allies within 30 ft have advantage on [Cold & Survival](../Game-Mechanics/Cold-and-Survival.md) checks while he leads.
+- **Voice of the Mountain (once per encounter):** hostile humanoids who can hear him must make a DC 15 WIS save or hesitate — lose their reaction and can't willingly move closer this round. Words, not magic.
+- **Gear:** dis-trans bat and glass message tubes (the line to Jak), climbing kit, three days of everything.
+
 ## Playing him
 
-Rare, genuine smiles that precede difficult requests. Settles into rooms like a man who knows exactly what they cost. Authority earned, never announced. Use veteran soldier/scout statistics as needed; his weapon is credibility.
+Rare, genuine smiles that precede difficult requests. Settles into rooms like a man who knows exactly what they cost. Authority earned, never announced.

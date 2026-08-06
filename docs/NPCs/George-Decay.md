@@ -16,14 +16,19 @@ Entered the ship a month before the party with [Erleena Riser](Erleena-Riser.md)
 
 Deep resonant baritone, refined diction, dramatic pauses, signature **"Oh my!"** Dry wit at the edge of the abyss: *"I came to stop the contamination. Now I AM the contamination. The universe has quite the sense of theater."* Touches his growths with clinical detachment. Never slouches. If asked about pain: *"The body may decay, but the mind must endure."*
 
-## Stats (CR 2)
+## Stats — Wizard 11, Scholar of the Ark (infected)
 
-**AC** 12 · **HP** 32 (max reduced 8) · INT 18, WIS 16 · Medicine +9, Nature +10, Arcana/Investigation +7 · resists poison · reads ship language (limited)
+*A first-rank mind in a failing body. His spells are half arcana, half ship-tech jury-rigging — nobody at the table can tell where one ends. Party-parity CR 8 while the body holds.*
 
-- **Infected:** DC 15 CON per untreated 24h or lose 1d6 max HP; at 0 → vegepygmy in 1d4+20 hours.
-- **Stimulant cocktail** 3/day: advantage on INT checks/saves 10 min, then 1 exhaustion.
-- **Laser scalpel** (8 charges, +5, 2d8+2 radiant); alchemical vials (acid / alkaline mold-killer / flash powder); **Command Medical Android** (DC 15 INT — "MED-2, authorization code Decay-Gamma-Seven!").
-- Gear: medical bag (2 healing sprays 2d12), notebook of ship observations, atmosphere analyzer, gray key card.
+**AC** 12 (15 with *shield*) · **HP** 58 — max HP reduced by infection; a healthy George would have 77 · **Speed** 25 ft · STR 8, DEX 12, CON 12, **INT 20**, WIS 16, CHA 14 · **Saves** INT +9, WIS +7 · **Skills** Nature +13, Medicine +11, Arcana +9, Investigation +9 · **Resists** poison · reads ship language (limited)
+
+- **Spellcasting** (DC 17, +9) — flavored as technology as often as magic: *shield* (personal deflector), *web* (canister foam), *lightning bolt* (rewired conduit — "mind the insulation"), *haste* (his own cocktail, shared), *dispel magic*, *Bigby's hand* (loader arm), *polymorph* 1/day (gene sequencer, reluctantly).
+- **Laser scalpel** (8 charges, +9, 2d8+5 radiant — surgical precision: +1d8 vs. plants and infected tissue).
+- **Command Medical Android** (DC 15 INT — *"MED-2, authorization code Decay-Gamma-Seven!"*): the ship's surgeon android obeys him for 1 minute.
+- **Stimulant cocktail** 3/day: advantage on INT checks and saves 10 min, then 1 exhaustion.
+- **Alchemical vials:** acid, alkaline mold-killer (2d10 to fungal creatures, no save), flash powder.
+- **Infected:** DC 15 CON per untreated 24h or lose 1d6 max HP; at 0 → vegepygmy in 1d4+20 hours. He fights anyway.
+- **Gear:** medical bag (2 healing sprays 2d12), notebook of ship observations, atmosphere analyzer, gray key card.
 
 ## His lab
 

@@ -22,6 +22,21 @@ After the party's return, Copper delivered his warning in the granary's shadow: 
 
 Voted for the purge with two words: *"Do it."*
 
+## Stats — Cleric 11, Light Domain (the Cleansing Flame)
+
+*A battlefield surgeon whose faith curdled into doctrine: the rot hides in blood, and fire cleanses. Party-parity CR 8 — and pray you're on the same side.*
+
+**AC** 16 (chain shirt + shield) · **HP** 90 (12d8+36) · **Speed** 30 ft · STR 12, DEX 14, **CON 16**, INT 14, **WIS 18**, CHA 10 · **Saves** WIS +8, CHA +4 · **Skills** Medicine +12, Insight +8, Perception +8, Religion +6 · Passive Perception 18
+
+- **Spellcasting** (DC 16, +8): *sacred flame* (3d8), *cure wounds, lesser restoration, protection from poison, fireball, revivify, flame strike, mass cure wounds* 1/day.
+- **Warding Flare** (4/day, reaction): impose disadvantage on an attack against him or an ally within 30 ft.
+- **Channel Divinity: Radiance of Dawn** — 30-ft burst, DC 16 CON, 2d10+11 radiant (half on save); dispels magical darkness. *He calls it "sterilizing the room."*
+- **Fire Cleanses:** his fire and radiant spells deal +1d8 against fungal, plant, and infected creatures — conviction as war magic.
+- **Field Surgeon:** during a short rest, up to six creatures regain +2d8 extra HP from Hit Dice under his care; his Medicine check in place of a death save always succeeds.
+- **The scalpel** (+6, 1d4+2 piercing — and against a creature he has *diagnosed* [one round of observation], wounds precisely: +3d6 and the target can't regenerate until the start of his next turn).
+- **Paranoid Vigilance:** can't be surprised while conscious; **but** — DC 12 WIS check when a companion shows infection symptoms, or he acts on his doctrine first and asks after.
+- **Gear:** surgeon's kit, three flasks of alchemist's fire ("supplies"), tinderbox he touches like a talisman.
+
 ## Infection symptom table (his diagnostic list, d6)
 
 1. Coughing fits, orange fungus in saliva · 2. Chills, patchy discoloration · 3. Whispering-voice hallucinations · 4. Itching, small growths on arms/neck · 5. Extreme fatigue, poor concentration · 6. Violent aggression toward companions

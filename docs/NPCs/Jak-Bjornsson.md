@@ -16,6 +16,19 @@ A boy from Grønnfjord on the southern continent who traveled with the Wayward F
 - The peace preserved. He believes — sincerely — that he is the right steward for the world and for the ship's technology.
 - The party. They are the only people he trusts absolutely, and (his own words) the only ones he *can* trust with the void.
 
+## Stats — Monk 11, The Administrator
+
+*The monk who walked with the party is still in there — the fists still work. What's new is the crown: he fights wrapped in the network's sight. Party-parity CR 10; effectively far more anywhere the Aura reaches.*
+
+**AC** 17 (Unarmored Defense) · **HP** 93 (14d8+28) · **Speed** 45 ft · STR 14, **DEX 16**, CON 14, INT 14, **WIS 18**, CHA 16 · **Saves** DEX +7, WIS +8 · **Skills** Insight +12, Religion +6, Persuasion +7 · **Immune** charmed, frightened (implant)
+
+- **Multiattack:** three unarmed strikes (+7, 1d8+3); **Stunning Strike DC 16**; Flurry, Patient Defense, Step of the Wind (Ki 11); Deflect Missiles.
+- **The Administrator's Sight (while networked):** cannot be surprised; knows the location of every implanted creature within 1 mile; advantage on initiative. *The void's edge turns all of this off — his personal nightmare, mechanized.*
+- **Command the Faithful** (bonus action): one Spásistren ally he can perceive (in person or through the network) uses its reaction to move half speed or attack.
+- **The Network Bears Him Up** (1/day): when reduced below 30 HP, the Aura floods him — regain 40 HP and gain a fly speed of 30 ft for 1 minute as the orbs of the temple answer. Visually unmistakable; theologically alarming.
+- **Dis-trans swarm** (1/day): a wheeling cloud of network bats — 20-ft radius within 60 ft, heavily obscured, DC 15 WIS or frightened, 1 minute.
+- **Implant vulnerability:** psychic damage forces concentration-style CON saves to keep network features up; if [something rides the network](../Campaign/Plot-Threads/The-Invisible-Infection.md), his greatest asset is his attack surface.
+
 ## Playing Jak
 
 - Charismatic, warm toward the party, and visibly carrying fear beneath the authority — white knuckles on the armrests, the implant pulsing erratically when the void comes up.

@@ -16,6 +16,18 @@ Accompanied [George Decay](George-Decay.md) into the ship on Jak's orders. When 
 
 Wry, exhausted, unstoppable. Teases Jak's methods (*"Only Jak would send a rescue party into a bio-hazard zone without proper containment suits"*), and softens only for George: *"Tell me he's still insufferable. Please."*
 
+## Stats — Artificer 11, Field Alchemist
+
+*The practical half of the science team: if George is the theorist with a laser scalpel, Erleena is the engineer who hits things with the whole lab. Party-parity CR 9.*
+
+**AC** 17 (reinforced containment suit) · **HP** 88 (16d8+16) · **Speed** 30 ft · STR 10, DEX 14, CON 14, **INT 18**, WIS 14, CHA 12 · **Saves** CON +6, INT +8 · **Skills** Investigation +12, Medicine +10, Arcana +8, Sleight of Hand +6
+
+- **The suit:** while sealed — immunity to inhaled poisons, spores, and gases; resistance to poison and necrotic damage; self-contained air 4 hours. **Suit integrity 20 HP**: critical hits and acid chip it; at 0, the seal fails (the campaign's quiet countdown).
+- **Spell-tech** (DC 16, +8): *shield* (kinetic buffer), *cure wounds* (medi-spray), *web* (sealant foam), *lightning bolt* 2/day (capacitor discharge), *haste* (field stims), *greater restoration* 1/day (lab equipment required).
+- **Flash of Genius** (reaction, 4/day): +4 to an ally's failed check or save within 30 ft.
+- **Laser cutter** (+8, 2d10+4 fire — armor-piercing: ignores AC from nonmagical armor 1/turn) · **needler sidearm** (15-ft cone, DC 15 DEX, 8d4 piercing, 6 charges) · **serum injector** (auto-dose a grappled/willing target — the [Counteragent](../Game-Mechanics/The-Counteragent.md) delivery she designed).
+- **Field chemistry:** given 10 minutes and materials, produces 2 alchemical devices per day (acid, alkaline mold-killer, flash powder, smoke).
+
 ## The lab
 
 **Under the Lighthouse:** the sealed levels beneath the hatch are intact, and the lake above is a natural spore shield — a perfect control environment directly beneath the heaviest spore concentration. Her thesis: *the mold is aggressive, but it's biological. It follows rules.* She intends to synthesize a cure — for George, and for everything the ship has infected. A full cure for advanced infection requires materials from the ship's medical labs (undiscovered — a future expedition hook).

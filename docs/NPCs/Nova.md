@@ -2,7 +2,7 @@
 
 # Nova
 
-The last survivor of the ship's original crew — a scientist in cryogenic stasis on the [Lower Deck](../The-Lost-Ship/The-Lower-Deck.md) (stasis chamber, green access). Shaved head, green jumpsuit, lawful good (noble statistics). **Status: depends on whether the party opened her pod.**
+The last survivor of the ship's original crew — a scientist in cryogenic stasis on the [Lower Deck](../The-Lost-Ship/The-Lower-Deck.md) (stasis chamber, green access). Shaved head, green jumpsuit, lawful good. **Status: depends on whether the party opened her pod.**
 
 ![Nova in her stasis pod](../.attachments/nova_in_pod_v3.png)
 
@@ -15,6 +15,19 @@ The lone crew member who **shut down Aphelion** — the ship's murderous compute
 - **The true history** of the ship, hazily: the dying homeworld, the ark mission, the computer going haywire, the robot mutiny, the mold outbreak, the final hunt ([The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md)).
 - **Technology instruction:** she instinctively recalls how to use the ship's devices and can teach the party any equipment they've recovered.
 - A base presence: she insists on staying aboard to assess damage and salvage the servers — a third scientist for the ship's growing research colony (with [Erleena](Erleena-Riser.md) and George).
+
+## Stats — Wizard 11, Ship Technologist
+
+*Not a combat officer — the crew's systems scientist, whose "spells" are the ship's own tools obeying someone who actually read the manual. Party-parity CR 9 aboard the ship; noticeably weaker away from its systems.*
+
+**AC** 15 (personal shield belt) · **HP** 66 (12d8+12) · **Speed** 30 ft · STR 8, DEX 14, CON 12, **INT 20**, WIS 16, CHA 12 · **Saves** INT +9, WIS +7 · **Skills** Arcana/Technology +13, Investigation +13, History (the ship) +9 — *History of the last several centuries: disadvantage; she slept through them*
+
+- **Ship-tech "spellcasting"** (DC 17, +9): *magic missile* (seeker darts), *shield* (belt surge), *lightning bolt* (power-conduit tap), *telekinesis* (grav manipulator), *wall of force* 1/day (containment field projector) — all devices, all reasonable, all terrifying to medieval eyes.
+- **Robot Override:** as an action, one Construct within 60 ft — DC 17 WIS or charmed 1 min, obeying her verbal commands (crew-authorization codes; Aphelion's mutineers *fight this at advantage*).
+- **The Shutdown Protocols:** she knows how Aphelion was killed once — and that it can't be done the same way twice. With Erleena's cure research and the archive, she knows how to **heal** it instead ([Return to the Ship](../Adventures/Return-to-the-Ship.md), beat 7).
+- **Crew clearance:** her palmprint and codes function as a **platinum-tier key card** on any surviving reader — the single most operationally valuable fact about her.
+- **Laser pistol** (+7, 3d6+2 radiant, 50 shots) — held like someone qualified on it exactly once.
+- **Stasis aftermath:** disadvantage on CON saves vs. exhaustion; one foggy-memory revelation per session, DM's choice of timing.
 
 ## DM notes
 

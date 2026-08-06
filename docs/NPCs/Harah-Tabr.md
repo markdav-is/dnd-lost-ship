@@ -30,14 +30,18 @@ Economical with words, generous with action. States her position once, then does
 
 **Her vote (only if asked):** *"The cure. Because it is the only path that ends it rather than delays it or destroys everything around it. And because a cure does not just fix what is in your mountains. It fixes what is in mine. My people have been the wardens of Rajaat for a thousand years. We did not choose that. A cure would give us a choice for the first time."*
 
-## Stats (CR 5, level-9 druid chassis)
+## Stats — Athasian Druid 12, Dune Strider (Dark Sun rules)
 
-**AC** 14 (bone-and-hide) · **HP** 58 · **Speed** 35 ft · WIS 18 · Survival +10, Nature/Perception/Medicine +7 · resists poison & fire · Darkvision 60 ft · Languages: Common, Primordial (desert), Sandwalker sign
+*Built on the [Dark Sun 5e](../Game-Mechanics/Dark-Sun-5e-Rules.md) chassis: wild talent, preserver casting, desert-forged. Party-parity CR 10.*
 
+**AC** 16 (bone-and-hide + *barkskin* reflex) · **HP** 112 (15d8+45) · **Speed** 35 ft · STR 12, DEX 14, **CON 16**, INT 12, **WIS 20**, CHA 14 · **Saves** WIS +9, INT +5 · **Skills** Survival +13, Nature +9, Medicine +9, Perception +9 · **Resists** poison, fire · Darkvision 60 ft · Common, Primordial (desert), Sandwalker sign
+
+- **Preserver Spellcasting** (DC 17, +9): *entangle, spike growth, call lightning, mass healing word, commune with nature, wall of thorns, heal* — and **[Rejuvenate](../Game-Mechanics/Dark-Sun-5e-Rules.md)** prepared, always. She draws only what the land can give; **she will never defile**, even dying.
+- **Wild Talent (Spice-born) — Sandsense:** psionic; she cannot be surprised, and 3/day as a reaction imposes disadvantage on an attack against her (she felt the sand shift before the blade moved).
+- **Defiling Sense:** at-will *detect magic* for necromantic/life-drain effects; automatically knows when defiling occurs within 1 mile.
 - **Primal Attunement:** senses russet mold within 60 ft; can't be surprised by infected creatures.
-- **Defiling Sense:** at-will *detect magic* for necromantic/energy-drain effects only — the trained sense of a people who survived the defilers' work.
-- **Desert Endurance / Wasteland Stride;** spellcasting DC 15 (druid list through 5th: entangle, spike growth, call lightning, mass healing word, commune with nature…).
-- **Bone-tipped spear** ×2 (+6, 1d6+4); **Primal Surge** (recharge 5–6: allies heal 2d8+4 + save advantage); **Desert Dust** 1/day (15-ft cone blind).
+- **Bone-tipped spear** ×2 (+7, 1d6+2 plus 2d6 poison — worm-gland venom) · **Desert Dust** 1/day (15-ft cone, DC 17 CON or blinded 1 min) · **Primal Surge** (recharge 5–6: allies within 30 ft heal 3d8+5 and gain advantage on their next save).
+- **Desert Endurance:** ignores exhaustion from heat, thirst, or forced march; **Wasteland Stride** (difficult natural terrain costs nothing).
 
 ## Roleplay functions
 
