@@ -6,7 +6,7 @@ The **Wayward Friends** — the adventurers who restored order to the realm a ye
 
 | Character | Player | Species & Class | AC | HP | Notable |
 | :--- | :--- | :--- | :-: | :-: | :--- |
-| [Shhhmeowmeow](The-Party/Shhhmeowmeow.md) (a.k.a. **Shenandoah**) | Shhhmeowmeow | Tabaxi Ranger 11 | 17 | 92 | **Nine Lives Stealer Longbow**, laser pistol; paired with the **Black Dragon** |
+| [Shhhmeowmeow](The-Party/Shhhmeowmeow.md) | Shhhmeowmeow | Tabaxi Ranger 11 | 17 | 92 | **Nine Lives Stealer Longbow**, laser pistol; paired with the **Black Dragon** |
 | [Eustace (Eu) Thunderbeak](The-Party/Eustace-Thunderbeak.md) | Ben | Aarakocra Bard 11 | 16 | 69 | Flight 50 ft, d10 Inspiration, Cutting Words; keeper of **Airlantis** |
 | [Gobbledegook](The-Party/Gobbledegook.md) | Theonezerg | Goblin Cleric 10 | 17 | 73 | Trickery domain, **Divine Intervention** — 5th-level slots: **can cast Rejuvenate** |
 | [Musty-Jo Mustang](The-Party/Musty-Jo-Mustang.md) | yourthighness69 | Centaur Fighter 6 / Paladin 5 | 16 | 81 | Flail of Tiamat, flame tongue, **laser rifle**, Lay on Hands 25 |
@@ -17,7 +17,7 @@ The **Wayward Friends** — the adventurers who restored order to the realm a ye
 
 ## The dragon legacy
 
-In the previous campaign each hero was paired with one of the great dragons under the Prophecy of the Red Dragon ([The Dragons](../World/The-Dragons.md)). The pairings **mix past and present heroes**: Shhhmeowmeow/Shenandoah bonded the Black Dragon; the Blue Dragon belonged to **Tarn**, a former-campaign hero no longer in play; the Silver/White Dragon's partner is unconfirmed. The dragons sleep now — but the bonds are not gone, and the party also retains control of **[Airlantis](../World/The-Elemental-Cities.md)**, parked at Eustace's homeland.
+In the previous campaign each hero was paired with one of the great dragons under the Prophecy of the Red Dragon ([The Dragons](../World/The-Dragons.md)). The pairings **mix past and present heroes**: Shhhmeowmeow bonded the Black Dragon; the Blue Dragon belonged to **Tarn**, a former-campaign hero no longer in play; the Silver/White Dragon's partner is unconfirmed. The dragons sleep now — but the bonds are not gone, and the party also retains control of **[Airlantis](../World/The-Elemental-Cities.md)**, parked at Eustace's homeland.
 
 ## Party-level DM notes
 

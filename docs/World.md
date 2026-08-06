@@ -19,7 +19,7 @@
 
 - **The Scarlands** (south, cold): fjord ports, mountain holds, and the Barrier Peaks range where the ship crashed. Seat of Jak's earthbound power at Grønnfjord.
 - **Aerun** (central, equatorial): the desert crossroads-continent — seven merchant-house city-states on the coastal ring, the Rim Wall, and the Deep Desert quarantine at the center.
-- **Taldea** (northwest): dragon-tower country and Shhhmeowmeow/Shenandoah's homeland — home of **Drytide**, where the party first met Rico (and, unknowingly, the Blue Dragon). *(Earlier notes rendered this "Lafdea" — the map settles it as Taldea.)*
+- **Taldea** (northwest): dragon-tower country and Shhhmeowmeow's homeland — home of **Drytide**, where the party first met Rico (and, unknowingly, the Blue Dragon). *(Earlier notes rendered this "Lafdea" — the map settles it as Taldea.)*
 - **Caria** (southwest): green and temperate; the underwater city **Oceana** lies off its coast, and a site marked **Titans Rest** sits in its highlands.
 - **Malandara** (east): the largest landmass — **The Holy Citadel**, Boulderfort, Heronopia — and **Airlantis's** parking ground, making it Eustace's homeland.
 - **The orbital layer:** the space station of the previous campaign, where the First Administrator ruled and died — and where the Blue Dragon departed. Nothing up there can strike the ground; the world's only strategic air power is **Airlantis**, and the party holds it.

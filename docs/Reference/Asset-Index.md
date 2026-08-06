@@ -63,7 +63,7 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 
 | File | Character |
 | :--- | :--- |
-| [Shhhmeowmeow.pdf](../../assets/Shhhmeowmeow.pdf) | [Shhhmeowmeow / Shenandoah](../Campaign/The-Party/Shhhmeowmeow.md) — Tabaxi Ranger 11 |
+| [Shhhmeowmeow.pdf](../../assets/Shhhmeowmeow.pdf) | [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md) — Tabaxi Ranger 11 |
 | [Eustace (Eu) Thunderbeak.pdf](../../assets/Eustace%20%28Eu%29%20Thunderbeak.pdf) | [Eustace Thunderbeak](../Campaign/The-Party/Eustace-Thunderbeak.md) — Aarakocra Bard 11 |
 | [Gobbledegook.pdf](../../assets/Gobbledegook.pdf) | [Gobbledegook](../Campaign/The-Party/Gobbledegook.md) — Goblin Cleric 10 |
 | [Musty-Jo Mustang.pdf](../../assets/Musty-Jo%20Mustang.pdf) | [Musty-Jo Mustang](../Campaign/The-Party/Musty-Jo-Mustang.md) — Centaur Fighter 6 / Paladin 5 |
@@ -76,6 +76,7 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 
 | File | Subject | Embedded at |
 | :--- | :--- | :--- |
+| [scarlands_completed_map.png](../../assets/scarlands_completed_map.png) ⭐ new | **The revised Scarlands regional map** — Grønnfjord, Foggy Fjord, Fjord Village, Horseshoe Quarry, Frostwatch Hold, **The Lost Ship** marked in the Barrier Peaks | [The Scarlands](../World/The-Scarlands.md) |
 | [aerun_map.png](../../assets/aerun_map.png) ⭐ current | **The revised Aerun campaign map** — Dark Sun seven + legacy towns (Blackguard, Osgaker, Hollowstorm, Amber Valley, Eldorado), Rim Wall, Ring Road, Sea of Silt, Badlands, Deep Desert | [Aerun](../World/Aerun.md) |
 | [aerun_map_v3.png](../../assets/aerun_map_v3.png) (earlier draft) | Prior Aerun continent map | — |
 | [vermoon-map.png](../../assets/vermoon-map.png) ⭐ | **The hi-res world map** — Taldea, Caria (Oceana, Titans Rest), Aerun, Malandara (Airlantis, The Holy Citadel), the Scarlands | [World](../World.md) |
@@ -139,6 +140,7 @@ NPC art status: **every named principal now has page art except [Rico](../NPCs/R
 
 - ~~High-res world map~~ ✓ received (`vermoon-map.png`).
 - ~~Aerun legacy city-name reconciliation~~ ✓ **settled by the revised map** (`aerun_map.png`): the Dark Sun seven are the city-states; Blackguard, Osgaker, Hollowstorm, Amber Valley, and Eldorado are lesser towns.
+- ~~Scarlands regional map~~ ✓ received (`scarlands_completed_map.png`) — embedded at [The Scarlands](../World/The-Scarlands.md).
 - **Portraits: Rico and Tomas Vel-Maret** — no art exists for either; generate or commission headshots. A proper Erleena headshot (current page art is the hatch scene) and portraits for the six PCs would round out the set.
 - **House banner art** — the Merchant Houses doc references banners on expiring CDN links; save stable copies to embed on [The Merchant Houses](../World/Factions/The-Merchant-Houses.md).
 - Andy's **Trello board** of previous-campaign notes — city names, connections, the earth city.

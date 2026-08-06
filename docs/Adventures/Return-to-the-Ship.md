@@ -79,7 +79,7 @@ They don't know she exists yet (they escaped through the cargo deck without find
 - **Aphelion is redeemed, not destroyed.** Cured like George — same medicine, different substrate. Restored, it is the world's greatest scientific partner: the ark's knowledge, freely offered this time. (And Nova gets the better ending: the woman who had to kill her ship's mind gets to save it.)
 - **The purge never happens; Airlantis never drops a bomb.** The strategic weapon becomes the ark of restoration (below).
 - **Jak's arc lands softly.** The void resolves not by surveillance but by trust — his friends did what the network never could. Room for him to loosen his grip; the sealed orders quietly die unexecuted.
-- **The dragons' nod (optional):** the world-threat ends before they're needed — but the Black Dragon stirs long enough to witness the healing, for its bonded partner [Shhhmeowmeow/Shenandoah](../Campaign/The-Party/Shhhmeowmeow.md). A blessing, not a battle.
+- **The dragons' nod (optional):** the world-threat ends before they're needed — but the Black Dragon stirs long enough to witness the healing, for its bonded partner [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md). A blessing, not a battle.
 
 ## Aerun comes south (the party wouldn't go — so it arrives)
 

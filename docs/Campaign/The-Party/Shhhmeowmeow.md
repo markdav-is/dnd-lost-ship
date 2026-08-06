@@ -2,7 +2,7 @@
 
 # Shhhmeowmeow
 
-Tabaxi Ranger 11 (Outlander). Player: Shhhmeowmeow. Sheet: `assets/Shhhmeowmeow.pdf` (2026-08-05). Also known as **Shenandoah** — the name from the previous campaign's dragon arc.
+Tabaxi Ranger 11 (Outlander). Player: Shhhmeowmeow. Sheet: `assets/Shhhmeowmeow.pdf` (2026-08-05).
 
 ## Stats
 
@@ -22,7 +22,7 @@ Tabaxi Ranger 11 (Outlander). Player: Shhhmeowmeow. Sheet: `assets/Shhhmeowmeow.
 
 ## The dragon bond
 
-As Shenandoah, Shhhmeowmeow hails from the **northern continent** — the land of the tower journey where the party found the **[Black Dragon](../../World/The-Dragons.md)**, their paired dragon of the Red Dragon prophecy. The Black Dragon now sleeps with the rest; whether the old bond can rouse it if the infection becomes a world-threat is one of the campaign's held cards.
+Shhhmeowmeow hails from the **northern continent** — the land of the tower journey where the party found the **[Black Dragon](../../World/The-Dragons.md)**, their paired dragon of the Red Dragon prophecy. The Black Dragon now sleeps with the rest; whether the old bond can rouse it if the infection becomes a world-threat is one of the campaign's held cards.
 
 ## DM hooks
 
