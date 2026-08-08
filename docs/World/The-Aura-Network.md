@@ -25,7 +25,7 @@ Once the party restored power in the previous campaign, Aura's reach grew — in
 ## Limits (DM-critical)
 
 - **The void.** The ship's hyper-dimensional properties render it completely invisible: no scrying, no network perception, no teleport/ethereal/astral inside. This is why Jak needed the party.
-- **The Rim Wall.** Beyond Aerun's Rim Wall the network **fails completely** — the entire Deep Desert is off the grid. Jak is blind to a third of the central continent and does not know what that blindness hides ([The First Source](../Campaign/Plot-Threads/The-First-Source.md)).
+- **The Rim Wall.** Beyond Aerun's Rim Wall the network **fails completely** — the entire Sea of Silt is off the grid. Jak is blind to a third of the central continent and does not know what that blindness hides ([The First Source](../Campaign/Plot-Threads/The-First-Source.md)).
 - **Bulk transport.** Teleporters cannot move bulk goods — the merchant houses' Ring Road and shipping monopoly lives in this gap.
 - **Blind spots.** Unimplanted people carrying no technology are ghosts — this is Harah's strategic value, and where the [merchant alliance](../Campaign/Plot-Threads/The-Merchant-Alliance.md) meets.
 - **Permissions.** Aura's obedience cuts both ways: the party once held high access (they restored her), and Jak now outranks everyone. Whether legacy permissions from the previous campaign still work is a delicious open question.

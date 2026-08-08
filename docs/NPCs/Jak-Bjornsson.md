@@ -41,3 +41,7 @@ A boy from Grønnfjord on the southern continent who traveled with the Wayward F
 - [Nordkrist's Hold](../Campaign/Plot-Threads/Nordkrists-Hold.md) is his project; he has not told the party what it is.
 - He does not know Valerius severed her connection at the council.
 - The dis-trans bat on his throne — his best reconnaissance unit — is a good barometer prop: it trembles when the void is near the conversation.
+
+## The road ahead: Spicy Jak
+
+The long arc waiting past the current crisis: **Jak goes missing** — gone to Aerun to train with the desert's psion-monks on the **avatar road**, taking the Spice in a big way and waking latent talents the network never gave him. Blue-within-blue eyes, sight with no off-switch, a world left leaderless behind him. Full design: **[Spicy Jak](../Campaign/Plot-Threads/Spicy-Jak.md)**.

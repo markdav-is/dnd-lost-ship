@@ -18,7 +18,7 @@ The central question of the campaign: the [Lighthouse](../../The-Lost-Ship/The-L
 
 The [Order of the Sere](../../World/Factions/The-Order-of-the-Sere.md) preserves the magic that made Aerun's quarantine: **the spores are plant life — defiling kills them directly**, along with every growing thing in the region. The only method in history that has actually worked.
 
-- **The price:** the Scarlands become a second Deep Desert, dead by *unmaking*; the infected creatures survive the casting and then **starve** in the ash.
+- **The price:** the Scarlands become a second Sea of Silt, dead by *unmaking*; the infected creatures survive the casting and then **starve** in the ash.
 - **The precedent:** Aerun. Harah is the receipt — but she does not volunteer this in open council; the method and the Order surface only if pressed or in private.
 - **The catch:** Rajaat was never destroyed by this — only stopped. The Lighthouse would survive, contained but intact, forever needing management.
 

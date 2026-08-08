@@ -93,7 +93,7 @@ Word of a working cure for *vel-keth* crosses the sea the way all Sandwalker new
 
 ## Epilogue set-piece: the Airlantis flight
 
-The refusal becomes the payoff: the party doesn't sail to Aerun on a quest — **they fly Airlantis there**, cure aboard, Veiled Alliance ecomancers and freed Sere casting **Rejuvenate** in the city's shadow ([the spell is canon](../Game-Mechanics/Dark-Sun-5e-Rules.md); Gobbledegook can cast it at cleric 9). Over the Deep Desert, the thousand-year wardenship ends: Rajaat cured, the worms released from duty into mere magnificence, green returning to the dunes in 80-foot circles that no one has to stop casting. Eustace brings his city home to a hero's welcome — again. **The desert blooms behind a flying city.** Roll credits.
+The refusal becomes the payoff: the party doesn't sail to Aerun on a quest — **they fly Airlantis there**, cure aboard, Veiled Alliance ecomancers and freed Sere casting **Rejuvenate** in the city's shadow ([the spell is canon](../Game-Mechanics/Dark-Sun-5e-Rules.md); Gobbledegook can cast it at cleric 9). Over the Sea of Silt, the thousand-year wardenship ends: Rajaat cured, the worms released from duty into mere magnificence, green returning to the dunes in 80-foot circles that no one has to stop casting. Eustace brings his city home to a hero's welcome — again. **The desert blooms behind a flying city.** Roll credits.
 
 *(The Spice economy transforms rather than collapses — the houses pivot to shipping seed, water, and pilgrims; leave the details offscreen and sunny.)*
 

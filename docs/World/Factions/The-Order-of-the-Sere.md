@@ -12,7 +12,7 @@ Beyond Aerun, defiling is anathema everywhere: the peoples of Vermoon remember w
 
 ## The history
 
-During the end of the Green Age, when [Rajaat's](../../Campaign/Plot-Threads/The-First-Source.md) spores spread across Aerun, **defiler magic was the weapon that stopped them**. It worked. The price was the Deep Desert. Defiling was shunned from Vermoon afterward — but not extinguished: the Order of the Sere **keeps the knowledge alive as a failsafe**, against the day it is needed again. (The sorcerer-kings' continued defiling on Aerun is the tradition's ugly, unlicensed survival; the Order is its *sworn* one.)
+During the end of the Green Age, when [Rajaat's](../../Campaign/Plot-Threads/The-First-Source.md) spores spread across Aerun, **defiler magic was the weapon that stopped them**. It worked. The price was the Sea of Silt. Defiling was shunned from Vermoon afterward — but not extinguished: the Order of the Sere **keeps the knowledge alive as a failsafe**, against the day it is needed again. (The sorcerer-kings' continued defiling on Aerun is the tradition's ugly, unlicensed survival; the Order is its *sworn* one.)
 
 ## How it works against the mold
 

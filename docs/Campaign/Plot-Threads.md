@@ -14,6 +14,7 @@ Active mysteries, dilemmas, and long-game levers. Each thread page states what t
 - [The Green Age](Plot-Threads/The-Green-Age.md) — how Aerun died; the defilers' cure and the Red Dragon's apocalypse.
 - [The Merchant Alliance](Plot-Threads/The-Merchant-Alliance.md) — the Landsraad forming in the network's blind spots.
 - [The Ship's Purpose](Plot-Threads/The-Ships-Purpose.md) — the vessel is a machine with a purpose, still running.
+- [Spicy Jak](Plot-Threads/Spicy-Jak.md) — the future arc: Jak vanishes to Aerun, the monk avatar road, and the Spice taken in a big way.
 
 ## How the threads connect
 

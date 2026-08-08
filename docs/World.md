@@ -8,6 +8,7 @@
 
 - [The Scarlands](World/The-Scarlands.md) — the cold southern landmass: Grønnfjord, Frostwatch, the Barrier Peaks.
 - [Aerun](World/Aerun.md) — the central desert continent; the world's warning.
+- [Dark Sun](World/Dark-Sun.md) — the source setting Aerun borrows from: the 2e library, conversion rules, and the glossary of houses and city-states.
 - [The Dragons](World/The-Dragons.md) — the sleeping guardians of the Red Dragon prophecy.
 - [The Titans](World/The-Titans.md) — the elemental colossi: gods, engines, or captors.
 - [The Elemental Cities](World/The-Elemental-Cities.md) — Airlantis, Ocean, and the teleport network.
@@ -18,7 +19,7 @@
 ## The shape of the world
 
 - **The Scarlands** (south, cold): fjord ports, mountain holds, and the Barrier Peaks range where the ship crashed. Seat of Jak's earthbound power at Grønnfjord.
-- **Aerun** (central, equatorial): the desert crossroads-continent — seven merchant-house city-states on the coastal ring, the Rim Wall, and the Deep Desert quarantine at the center.
+- **Aerun** (central, equatorial): the desert crossroads-continent — seven merchant-house city-states on the coastal ring, the Rim Wall, and the Sea of Silt quarantine at the center — see [Dark Sun](World/Dark-Sun.md).
 - **Taldea** (northwest): dragon-tower country and Shhhmeowmeow's homeland — home of **Drytide**, where the party first met Rico (and, unknowingly, the Blue Dragon). *(Earlier notes rendered this "Lafdea" — the map settles it as Taldea.)*
 - **Caria** (southwest): green and temperate; the underwater city **Oceana** lies off its coast, and a site marked **Titans Rest** sits in its highlands.
 - **Malandara** (east): the largest landmass — **The Holy Citadel**, Boulderfort, Heronopia — and **Airlantis's** parking ground, making it Eustace's homeland.

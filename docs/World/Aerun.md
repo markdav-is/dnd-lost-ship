@@ -2,73 +2,84 @@
 
 # Aerun
 
-The central equatorial continent of Vermoon — a world of concentric rings where civilization clings to the coast, a wall marks the edge of the known, and the deep desert keeps the world's most dangerous secret. Vermoon's Dark Sun / Dune analogue.
+The central equatorial continent of Vermoon — a world of concentric rings where civilization clings to the coast, a wall marks the edge of the known, and the **Sea of Silt** at the center keeps the world's most dangerous secret. Vermoon's Dark Sun / Dune analogue — see **[Dark Sun (source setting)](Dark-Sun.md)** for the full borrowing map and the [Glossary](Dark-Sun/Glossary.md).
 
 ![Aerun](../.attachments/aerun_map.png)
 
-*"Beyond the Rim Wall, the world ends."* — coastal proverb. (Map: `assets/aerun_map.png` — the revised campaign map; the earlier draft is `aerun_map_v3.png`.)
+*"Beyond the Rim Wall, the world ends."* — coastal proverb. (Map: `assets/aerun_map.png`. **Note:** the map's central "Deep Desert" label predates the silt retcon — read the entire interior as the **Sea of Silt**; the labeled northeastern basin below Raam is the arm of it that reaches the coast.)
 
-Canonical sources: the revised map above, `assets/Aerun_TheDesertContinent.md`, and `assets/Aerun_TheMerchantHouses.md`. **The city-name reconciliation is settled by the revised map:** the Dark Sun seven are the great coastal city-states, and the legacy names from Andy's world map survive as smaller settlements — **Blackguard** (north coast, between Draj and Raam), **Osgaker** and **Hollowstorm** (west coast, between Tyr and Urik), **Amber Valley** (south coast, between Balic and Gulg), and **Eldorado** (inland, on the northwestern rim behind Tyr — the town at the edge of the wall).
+Canonical sources: the revised map above, `assets/Aerun_TheDesertContinent.md`, `assets/Aerun_TheMerchantHouses.md`, and the [Dark Sun library](Dark-Sun.md). **City names settled:** the Dark Sun seven are the great coastal cities; the legacy names survive as lesser towns — **Blackguard** (north coast), **Osgaker** and **Hollowstorm** (west coast), **Amber Valley** (south coast), and **Eldorado** (inland, at the rim behind Tyr — the town at the edge of the wall).
+
+## The shape of power: the triad
+
+Keep it simple at the table — three powers ([full glossary](Dark-Sun/Glossary.md)):
+
+1. **The Emperor — Jak**, the king in the south — **the Administrator**: the network, the temples, the Spásistren, and a deliberately light hand. Aerun is his wildest, least-controlled continent, and he leaves it alone **because it is the trading hub of the world**. There are no kings on Aerun; there is a king in the south.
+2. **The seven families** — they **rule the seven cities outright**: Wavir/Balic, Tsalaxa/Draj, Inika/Gulg, Shom/Nibenay, M'ke/Raam, Vordon/Tyr, Stel/Urik ([The Merchant Houses](Factions/The-Merchant-Houses.md)). The beings once worshiped as god-kings kept their names and lost their thrones — they are the families' **psionic dragons** now, leading each house's armies as generals and deterrents (Hamanu for Stel, the Shadow King for Shom, the Oba for Inika; the other four dragons are dead, broken, or banished).
+3. **The Caravan Guild** — no house, no master: the colossal **mekillot argosies** of the Ring Road and the **silt-crawlers** of the interior. All bulk transport, for everyone or no one. No army marches without Guild hulls.
 
 ## The concentric rings
 
-### 1. The Coastal Ring — the seven city-states
+### 1. The Coastal Ring — the seven cities
 
-The habitable coastal strip: seven great city-states controlling Vermoon's global commerce — the shipping hubs between the northern continents (**Taldea** and **Malandara**), the Scarlands, and the other landmasses — linked by the **Ring Road**, the continent-circling highway that carries the bulk goods teleporters cannot (labeled on the revised map along the southern coast). Jak keeps small temples in each city; true power lies with [the merchant houses](Factions/The-Merchant-Houses.md).
+The habitable coastal strip: seven great family-ruled cities controlling Vermoon's global commerce — the shipping hubs between the northern continents (**Taldea** and **Malandara**), the Scarlands, and the other landmasses — linked by the **Ring Road**, the continent-circling highway where the Guild's argosies carry the bulk goods teleporters cannot. Jak keeps small temples in each city — embassies of the southern Emperor; they watch, they do not rule.
 
 Going clockwise from the north (per the revised map): **Draj** → **Blackguard** → **Raam** → **Nibenay** → **Gulg** → **Amber Valley** → **Balic** → **Urik** → **Hollowstorm** → **Osgaker** → **Tyr**.
 
-| City-State | Ruling House | Character |
-| :--- | :--- | :--- |
-| **Balic** (south; the great harbor) | Wavir | Merchant-lord democracy; silt harbor fleet; salt and silver |
-| **Draj** (north) | Tsalaxa | Theocratic warrior culture; god-king figurehead; hemp and grain |
-| **Gulg** (southeast) | Inika | Forest city; sorcerer-queen styled a goddess; druidic templars |
-| **Nibenay** (east) | Shom | The Shadow King rules in mystery; half-giant legions; rare wood |
-| **Raam** (northeast; the sprawl) | M'ke | Teetering on civil war after its sorcerer-queen's death; gateway to the Sea of Silt |
-| **Tyr** (northwest) | Vordon | The Free City; first to abolish slavery; council-governed; iron mines |
-| **Urik** (southwest; the fortress-ring) | Stel | Militarized warrior-state; sorcerer-king still in power; sealed borders |
+| City | Ruling Family | Dragon | Character |
+| :--- | :--- | :--- | :--- |
+| **Balic** (south; the great harbor) | Wavir | *(banished)* | Merchant democracy; **silt-fleet harbor**; abolitionist; salt and silver |
+| **Draj** (north) | Tsalaxa | Tectuktitlay *(broken)* | Warrior-theocracy theater run by spymasters; hemp and grain |
+| **Gulg** (southeast) | Inika | **The Oba** | Forest city inside a living hedge; the dragon worshiped as goddess |
+| **Nibenay** (east) | Shom | **The Shadow King** | Ancient and decadent; the dragon is what holds it together |
+| **Raam** (northeast; the sprawl) | M'ke | *(dead)* | Half in civil war since its dragon died; gateway to the coastal silt basin |
+| **Tyr** (northwest) | Vordon | *(slain)* | The Free City veneer; iron mines; Vordon rebuilding in shadow |
+| **Urik** (southwest; the fortress-ring) | Stel | **Hamanu, the Lion** | The war-city: sealed borders, mercenary legions, the great surviving dragon |
 
-**The lesser towns** (no house seats — client settlements, each a story hook): **Blackguard** (grim north-coast waypoint), **Osgaker** and **Hollowstorm** (west-coast fishing and salvage towns in the seven's shadow), **Amber Valley** (south-coast caravanserai on the Ring Road), **Eldorado** (the rim town — last provision stop before the interior, all rumors and gold-fever; the classic jumping-off point for a Deep Desert expedition).
+Rulers, feuds, the Guild's law, and the Merchant's Code: **[the Glossary](Dark-Sun/Glossary.md)** — including the **[map-builder's geography table](Dark-Sun/Glossary.md)**: terrain, siting, populations, and landmarks per city, from the Wanderer's Journal.
+
+**The lesser towns** (no family seats — client settlements, each a story hook): **Blackguard** (grim north-coast waypoint), **Osgaker** and **Hollowstorm** (west-coast fishing and salvage towns), **Amber Valley** (south-coast caravanserai on the Ring Road), **Eldorado** (the rim town — last provision stop before the silt, all rumors and gold-fever; the classic jumping-off point for a silt-sea expedition).
 
 ### 2. The Rim Wall
 
-A massive geological barrier — labeled **The Rim Wall** on the revised map, walling the interior plateau on the south and west — the final boundary of civilization. **Beyond the Rim Wall the Aura network fails completely**: Jak is blind to the entire interior. Coastal citizens consider everything beyond it uninhabitable wasteland. **Eldorado** sits at the wall's northwestern edge — the traditional crossing point into the interior.
+A massive geological barrier walling the interior — the cliffs where the living coast ends and the silt begins, and the final boundary of civilization. **Beyond the Rim Wall the Aura network fails completely**: Jak is blind to the entire interior. Coastal citizens consider everything beyond it uncrossable void. **Eldorado** sits at the wall's northwestern edge — the traditional crossing point.
 
-### 3. The Tablelands and the Deep Desert
+### 3. The Tablelands and the Sea of Silt
 
-Between the wall and the true desert lie the transitional lands (per the revised map): the **Badlands** massif in the east behind Nibenay and Gulg — rust-red broken country — and the **Sea of Silt** in the northeast below Raam, a sunken basin of powder-fine dust that flows like water, navigable only by psionic silt skimmers, with horrors beneath the surface.
+Between the wall and the silt lie the transitional lands (per the map): the **Badlands** massif in the east behind Nibenay and Gulg — rust-red broken country — and stony barrens behind Tyr and Urik.
 
-The center is the **Deep Desert**: a vast raised plateau ringed by cliffs, capricious violent sandstorms, absolute water scarcity, entirely off the grid — home of the [Sandwalkers](Factions/The-Sandwalkers.md).
+The center is the **Sea of Silt**: a continent-heart ocean of powder-fine gray dust — the residue of the Green Age defiling, land unmade to its mineral ghost. It flows like water, drowns like water, and swallows everything heavier than a Guild silt-crawler. Violent silt-storms, absolute water scarcity, entirely off the grid. **Silt horrors** hunt beneath the surface; the **great worms** swim its deeps; and the [Sandwalkers](Factions/The-Sandwalkers.md) — who alone read its currents and know its walkable shoals — keep their thousand-year watch upon it.
 
 ## Magic: preservers and defilers
 
-Arcane magic on Aerun draws on the life force of the land. **Preservers** take only what the flora can recover from, and organize in secret cells — the **Veiled Alliance** — working quietly toward restoring Aerun's green. **Defilers** rip life out wholesale, turning soil to sterile ash; the **sorcerer-kings are defilers of the highest order**, and their centuries of defiling helped scour the Tablelands. Arcane magic is feared and often illegal in the city-states — punishable by death or enslavement. See [The Order of the Sere](Factions/The-Order-of-the-Sere.md) for how this connects to the Green Age containment and the Scarlands crisis.
+Arcane magic on Aerun draws on the life force of the land. **Preservers** take only what the flora can recover from, and organize in secret cells — the **Veiled Alliance** — working quietly toward restoring Aerun's green. **Defilers** rip life out wholesale, turning soil to sterile ash; **the dragons are the defiling art's apex** — each one a defiler-psion who walked the metamorphosis to its end, and their centuries of feeding helped scour the Tablelands. Arcane magic is feared and often illegal in the cities — punishable by death or enslavement. See [The Order of the Sere](Factions/The-Order-of-the-Sere.md) for how this connects to the Green Age containment and the Scarlands crisis; deep source: *Defilers and Preservers* ([library](Dark-Sun.md)).
 
 ## Society
 
 | Tier | Group |
 | :-: | :--- |
-| 1 | **Sorcerer-Kings** — god-like immortal defiler-psions (still enthroned in Urik, Gulg, Nibenay; fallen in Tyr, Raam, Balic, Draj — those cities now in violent flux) |
-| 2 | **Templars** — bureaucrat-enforcers; manage water; minor magic granted by their king |
-| 3 | **Nobility / merchant houses** — farms, water, Spice, the Ring Road |
+| 1 | **Jak** — the Emperor, far away and never far enough |
+| 2 | **The seven families** — the cities, the wells, the law; **their dragons** — the armies; **house templars** — the enforcement |
+| 3 | **The Caravan Guild** — beside the pyramid, not in it; everything moves at their rate |
 | 4 | **Free citizens** — tenuous freedom |
-| 5 | **Slaves** — the economic foundation; the arena is the only ladder up |
+| 5 | **Slaves** — the economic foundation; the arena is the only ladder up (except in Wavir's Balic, which pays wages and is hated for it) |
 
-**Peoples of Aerun:** ruthless-adaptable humans · nomadic elf desert-runners (earned reputation for larceny) · hairless single-purpose dwarves ("focus") · **muls** (sterile human-dwarf arena-breeds) · **thri-kreen** mantis pack-hunters of the deep wastes · **half-giant** shock troops. Ambient Spice exposure gives nearly everyone on Aerun a minor psionic wild talent.
+**Peoples of Aerun:** ruthless-adaptable humans · nomadic elf desert-runners (earned reputation for larceny) · hairless single-purpose dwarves ("focus") · **muls** (sterile human-dwarf arena-breeds) · **thri-kreen** mantis pack-hunters of the deep wastes · **half-giant** shock troops. **Ambient Spice exposure gives nearly everyone on Aerun a minor psionic wild talent — and any visitor who takes the Spice unlocks the same** ([conversion rules](Dark-Sun.md)).
 
 ## The secret at the center
 
-The Deep Desert is the **scar of a cure**. During the Green Age the **[First Source](../Campaign/Plot-Threads/The-First-Source.md)** — the original outbreak of the Barrier Peaks infection — was discovered here; **defiler magic** stopped it by killing every plant on the continent. *The desert did not happen to Aerun; it was made, at terrible cost, to keep something buried.* The First Source endures — contained by the desert's engineered ecology (massed spores, blooms, the great worms, and the **Spice** they produce), a mechanism the tribes guard absolutely.
+The Sea of Silt is the **scar of a cure**. During the Green Age the **[First Source](../Campaign/Plot-Threads/The-First-Source.md)** — the original outbreak of the Barrier Peaks infection — was discovered here; **defiler magic** stopped it by killing every living thing at the continent's heart, unmaking the land itself into silt. *The silt did not happen to Aerun; it was made, at terrible cost, to keep something buried.* The First Source endures beneath the gray — contained by the silt-cycle's engineered ecology (massed spores, blooms, the great worms that swim the deeps, and the **Spice** they produce), a mechanism the tribes guard absolutely.
 
 ## Why it matters now
 
-Three months ago Aerun's primal spirits began going **silent** — the Defiling Silence. [Harah Tabr](../NPCs/Harah-Tabr.md) followed it south to the Scarlands and recognized the Barrier Peaks infection at once: a **second source**, in a land with no worms and no desert. The party is unknowingly fighting the war Aerun has fought for millennia.
+Three months ago Aerun's primal spirits began going **silent** — the Defiling Silence. [Harah Tabr](../NPCs/Harah-Tabr.md) followed it south to the Scarlands and recognized the Barrier Peaks infection at once: a **second source**, in a land with no worms and no silt to drown it. The party is unknowingly fighting the war Aerun has fought for millennia.
 
 ## Using Aerun at the table
 
-- Rules: the **[Dark Sun 5e Rules](../Game-Mechanics/Dark-Sun-5e-Rules.md)** page summarizes the player-facing Players Guide (races, Psion, Arcane Defilement, wild talents); DM chassis: **`assets/DarkSun_5e_Campaign_Guide_v1.9.pdf`** and **`assets/DarkSun_5e_Terrors_of_the_Desert_v1.0.pdf`** (monster manual) — plus the 4e books and Dune 2d20 line ([Sourcebooks & Inspiration](../Reference/Sourcebooks-and-Inspiration.md)).
+- **Source shelf:** the **[Dark Sun section](Dark-Sun.md)** — conversion rules, the 2e library (Wanderer's Journal, Defilers and Preservers, The Will and the Way, Gladiator's Handbook), and the [Glossary](Dark-Sun/Glossary.md) of families, cities, dragons, and the Guild.
+- Rules: the **[Dark Sun 5e Rules](../Game-Mechanics/Dark-Sun-5e-Rules.md)** page summarizes the player-facing Players Guide (races, Psion, Arcane Defilement, wild talents); DM chassis: **`assets/DarkSun_5e_Campaign_Guide_v1.9.pdf`** and **`assets/DarkSun_5e_Terrors_of_the_Desert_v1.0.pdf`** — plus the 4e books and Dune 2d20 line ([Sourcebooks & Inspiration](../Reference/Sourcebooks-and-Inspiration.md)).
 - The party has been here before — by flight and teleporter, never by sea. The [teleport network](The-Elemental-Cities.md) nominally reaches the coastal ring. (The interview's elemental **fire city** should be mapped onto one of the seven — [ANDY LORE].)
-- Tone: **ecological grief** on the sand, **political vertigo** on the coast, **arena blood** in between.
+- Tone: **ecological grief** on the silt, **political vertigo** on the coast, **arena blood** in between.
 
 ## Design notebook
 

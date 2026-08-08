@@ -12,7 +12,7 @@ The cataclysm is anchored by three facts:
 2. **Defiler magic killed the spread — and the continent's green with it.** The spores are plant life; the defiling destroyed them directly, and every growing thing besides. The infected creatures survived the casting and starved. *"They made a desert. On purpose. They killed the land to save the world."* Defiling was shunned from Vermoon afterward, its knowledge preserved only by the secretive [Order of the Sere](../../World/Factions/The-Order-of-the-Sere.md) as a failsafe. The quarantine has held for a thousand years.
 3. **The Red Dragon brought about the apocalypse that buried the ancients' technology** ([Timeline](../../World/Timeline.md), [The Dragons](../../World/The-Dragons.md)) — the fall of the networks, teleporters, and Titan-driven cities. How the two catastrophes relate — one event or two, cause or consequence, and where the dragons' duty to protect the [Titans](../../World/The-Titans.md) fits — is deliberately open. (Was the Green Age's end *why* the Red Dragon buried the world's machines? Did the ancients' technology carry Rajaat here?)
 
-Rajaat was **never destroyed**. It remains contained in the Deep Desert — by means the Sandwalkers guard.
+Rajaat was **never destroyed**. It remains contained in the Sea of Silt — by means the Sandwalkers guard.
 
 ## What Harah's people know
 

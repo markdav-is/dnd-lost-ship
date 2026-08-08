@@ -31,7 +31,7 @@ From 1st level, **any wizard can choose to defile** as part of casting a wizard 
 
 **The temptation engine:** the first defilement is an addictive euphoric rush. Each time a preserver defiles, they make a **Wisdom save starting at DC 5, +5 per further use**. Fail → the **Defiler's Taint**: a permanent aura (animals within 30 ft grow uneasy; disadvantage on interactions with them), alignment shifts one step toward evil, and casting *without* defiling now requires an Intelligence save (DC 8 + 2×proficiency + spell level) made at disadvantage. Addiction, mechanized.
 
-**Campaign note:** read that terrain table against the map — on Aerun's coast a defiler scrapes 1–2 points; in the Deep Desert, *zero* (the quarantine starves defilers too). But the **Scarlands are forest terrain: 3 points per spell.** The [Order of the Sere's](../World/Factions/The-Order-of-the-Sere.md) failsafe is *more* potent in the green Scarlands south than defiling has been anywhere in a thousand years — and any wizard PC who learns to defile discovers this personally.
+**Campaign note:** read that terrain table against the map — on Aerun's coast a defiler scrapes 1–2 points; out on the Sea of Silt, *zero* (the quarantine starves defilers too). But the **Scarlands are forest terrain: 3 points per spell.** The [Order of the Sere's](../World/Factions/The-Order-of-the-Sere.md) failsafe is *more* potent in the green Scarlands south than defiling has been anywhere in a thousand years — and any wizard PC who learns to defile discovers this personally.
 
 ## Wild Talents (the Spice made mechanical)
 
@@ -41,7 +41,7 @@ From 1st level, **any wizard can choose to defile** as part of casting a wizard 
 
 ## New spells worth knowing (Ch. 7)
 
-- **Rejuvenate** (5th level, permanent): restores defiled/desolate ground — an 80-ft radius of enriched, moistened soil where grass grows again. **Casters:** Athasian clerics and druids (added lists), rangers (added list; 5th-level slots only at level 17), and **Ecomancer** wizards (9th level, paired with *greater restoration*). Table notes: **[Gobbledegook](../Campaign/The-Party/Gobbledegook.md) is cleric 10 now — he can prepare it today**; Harah's druid chassis could prepare it too, which raises its own questions. *This is the Veiled Alliance's dream in spell form* — and the first canonical proof that sere-made land can be healed at all. At world-scale it's a teaspoon against the Deep Desert, but as a symbol (and a post-cure restoration tool for the Scarlands) it's enormous.
+- **Rejuvenate** (5th level, permanent): restores defiled/desolate ground — an 80-ft radius of enriched, moistened soil where grass grows again. **Casters:** Athasian clerics and druids (added lists), rangers (added list; 5th-level slots only at level 17), and **Ecomancer** wizards (9th level, paired with *greater restoration*). Table notes: **[Gobbledegook](../Campaign/The-Party/Gobbledegook.md) is cleric 10 now — he can prepare it today**; Harah's druid chassis could prepare it too, which raises its own questions. *This is the Veiled Alliance's dream in spell form* — and the first canonical proof that sere-made land can be healed at all. At world-scale it's a teaspoon against the Sea of Silt, but as a symbol (and a post-cure restoration tool for the Scarlands) it's enormous.
 - **Psionic Dampener** (4th level): nullifies one creature's psionics — the counter to everything from wild talents to, potentially, Aura-implant abilities (DM's call on whether implants read as "psionic in nature").
 
 ## Using it at the table
