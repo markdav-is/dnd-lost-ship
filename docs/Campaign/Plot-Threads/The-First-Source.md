@@ -23,6 +23,7 @@ What actually keeps Rajaat in check is the Sea of Silt's engineered ecology — 
 3. **Bloom** — the mass eventually explodes into a violent fungal bloom.
 4. **Consumption** — the dead spores are eaten by the apex predators of the Sea of Silt: **the great worms**.
 5. **The Veil** — see below.
+6. **The Drought** — the dryness itself. Water is the breach vector (the Green Age walls fell to spores in the groundwater), so the working unmade the basin's entire water cycle: below sea level, endorheic, rain-suppressing haze dome overhead, moisture-swallowing silt below, and **worm larvae that sequester** any water that penetrates the deeps. Rare rain-years are **bloom years** — the cycle surges, the worms feast, and the coast sees only a bumper Spice harvest. **Wetting the interior at scale — a weather-working, an irrigation scheme, a cracked aquifer, a well-meant Rejuvenate campaign, a breached portage sill — is not terraforming. It is a containment breach.** The wardens' driest law, and the one the campaign will someday test.
 
 The defiling *created the conditions*; the worms *close the loop*; the Veil makes the whole machine **unfindable**. At the council Harah went as far as she ever has: Rajaat is *"contained only by sand and worms and the prayers of people the coastal cities have never met."* **The prayers are not metaphor** — see below. Her people are its **wardens** — a duty they did not choose.
 

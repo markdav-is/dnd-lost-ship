@@ -48,7 +48,7 @@ A massive geological barrier walling the interior — the cliffs where the livin
 
 Between the wall and the silt lie the transitional lands (per the map): the **Badlands** massif in the east behind Nibenay and Gulg — rust-red broken country — and stony barrens behind Tyr and Urik.
 
-The center is the **Sea of Silt**: a continent-heart ocean of powder-fine gray dust — the residue of the Green Age defiling, land unmade to its mineral ghost. It flows like water, drowns like water, and swallows everything heavier than a Guild silt-crawler. Violent silt-storms, absolute water scarcity, entirely off the grid. **Silt horrors** hunt beneath the surface; the **great worms** swim its deeps; and the [Sandwalkers](Factions/The-Sandwalkers.md) — who alone read its currents and know its walkable shoals — keep their thousand-year watch upon it.
+The center is the **Sea of Silt**: a continent-heart ocean of powder-fine gray dust — the residue of the Green Age defiling, land unmade to its mineral ghost. It flows like water, drowns like water, and swallows everything heavier than a Guild silt-crawler. Violent silt-storms, absolute water scarcity, entirely off the grid. **Silt horrors** hunt beneath the surface; the **great worms** swim its deeps; and the [Sandwalkers](Factions/The-Sandwalkers.md) — who alone read its currents and know its walkable shoals — keep their thousand-year watch upon it. Full systems reference — heights, weather, the spore-worm-Spice cycle, portage mechanics: **[Ecology of the Silt Sea](Dark-Sun/The-Silt-Sea.md)**.
 
 ## Magic: preservers and defilers
 
