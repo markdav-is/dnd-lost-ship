@@ -103,20 +103,45 @@ Terrain, siting, populations, and forces per city — the map-builder's referenc
 ![The Tyr Region — DM hex map (2e)](../../.attachments/darksun_tyr_region_hex.jpg)
 *The hex-gridded DM version — distances and terrain types at a glance; the best skeleton for drafting the new Aerun interior.*
 
+**Where things sit in relation to each other** (cartographer's crib — distances in miles, for a ~500-mile continent):
+
+| From | To | Distance | Relationship |
+| :--- | :--- | :-: | :--- |
+| **Urik** | Mountain of the Black Crown | **5–10** | On the city's doorstep: the volcano looms over the walls, quarry terraces and the slave road climbing its flank |
+| **Urik** | Lake Pit / the Dragon's Bowl | **~30** | Canon: "less than thirty miles from Urik" — one hard day's ride north, then the thousand-foot descent |
+| **Urik** | Ruins of Yaramuke | **~110** | The Road of Kings, northeast — Yaramuke sits **halfway between Urik and Raam** |
+| **Yaramuke** | **Black Oasis** | **0 — it is inside the ruins** | The oasis Hamanu poisoned when he erased the city; the two are **one site**, never separate features. Its water still kills |
+| **Urik** | Balic | **~150** | Southeast along the Ring Road — a week's caravan |
+| **Urik** | Raam | **~220** | The full Road of Kings, past Yaramuke |
+| **Balic** | Amber Valley | **~50** | The next stop east on the southern Ring Road |
+| **Balic** | Altaruk | **~35** | The caravan fort between them |
+| **Urik** | Hollowstorm | **~120** | North along the west coast |
+| **Bitter Well** | Hollowstorm | **~25** | The oasis on the scrub plains inland of the coast road |
+| **Tyr** | Eldorado | **~40** | Inland, up to the rim pass |
+| **Tyr** | its iron mines | **~15** | A day up the mountain road, three guard outposts |
+| **Nibenay** | Gulg | **~80** | Opposite ends of the Crescent Forest, around the Prong's belly — close enough to war over the trees |
+| **Raam** | Nibenay | **~90** | South around the Prong's northern shoulder |
+| **Gulg** | Amber Valley | **~90** | The forest road out to the southern coast |
+| Across **the Prong** | (no road) | — | The plateau blocks it: there is no eastern shortcut, only the long bend of the Ring Road |
+| **Draj** | Raam | **~130** | The north coast run; the two war constantly |
+
+**Rules of thumb:** neighboring cities are **100–150 miles** apart (4–7 caravan days at 20–25 mi/day); a landmark "near" a city means **under 30 miles**; the whole Ring Road is **~1,400 miles**.
+
 **Between-city landmarks worth placing** (all from the Journal):
 
 - **The Ringing Mountains** — the great range behind Tyr and Urik (the NW–SW coast's spine); iron at Tyr's end, obsidian at Urik's.
-- **The Crescent Forest** — the green crescent between Nibenay and Gulg on the eastern coast, with the rust-red **Badlands** rising behind it.
+- **The Prong** — the plateau's **great southeastern promontory**: a blunt peninsula of mesa that drives the rim wall far out toward the eastern ocean between Raam and Balic, pinching the living band into a narrow curving corridor and forcing the Ring Road into its longest detour. Cliff-walled on every side, silt on top, unclimbable except at the shepherd tracks; from anywhere in the eastern forest the gray wall stands over the treetops.
+- **The Crescent Forest** — **crescent-shaped because it wraps the Prong**: a long bowed arc of woodland pressed between the promontory's cliffs and the sea, **Nibenay** at the northern horn, **Gulg** in the belly of the curve. The rust-red **Badlands** are the Prong's outer buttresses, mesas stepping down from its flank.
 - **Altaruk** — fortified caravan fort on the southern Ring Road between Balic and Amber Valley; 15-ft walls, 500 mercenaries; jointly held by Wavir and two client houses; quietly a **Veiled Alliance haven** (defilers barred at the gate).
 - **The Mekillot Mountains** — an isolated range near the southern coast; **Salt View**, a boisterous ex-slave tribe village famous for its theater troupes, hides on its eastern face.
-- **The Dragon's Bowl** — not a crater and not a circle: an **irregular, elongated sunken basin** north of Urik, 35–50 miles across (a thousand-plus square miles of floor — a small hidden country, not a landmark), with a ragged thousand-foot rim of treacherous slopes and sheer cliffs. The myth is canon: the Bowl was formed **when the first great dragon was born, tearing its body out of the living rock** — in Aerun's terms, the site of the **first Champion's ascension** at the end of the Green Age war. The psychic residue is real: travelers entering the basin are struck by involuntary awe (the Wanderer fell trembling to his knees), and despite sitting between three busy caravan routes the Bowl stays hushed and empty. Ascension-road pilgrims — [a certain blue-eyed student included](../../Campaign/Plot-Threads/Spicy-Jak.md) — have reason to stand at the bottom of it. One stretch of the southern rim reads as *breached* rather than eroded; nobody says why out loud.
-- **Lake Pit** — in the Bowl's northern lobe: **28 square miles** of cerulean, the largest true water on the continent, pristine and teeming while thirty miles from Urik's legions. Beneath it, in submerged caves, the rumored **Sunken City** — in our canon a drowned **Green Age city**, preserved under the one thing the silt cannot touch; its records would be the oldest untouched account of the world before the defiling. The whole region is under the protection of **Enola**, a mul druid whom even Hamanu leaves alone — why, is a question the Lion does not answer.
-- **The ruins of Yaramuke** — the city Hamanu erased the one time an ascended champion made war, and the atrocity that taught the houses to build the [War of Champions](#the-war-of-champions) instead: the dispute was nothing grander than **obsidian quarrying rights on the Smoking Crown**, and the answer was annihilation. Queen **Sielba's** treasure is still said to lie beneath the rubble of her palace — good luck determining which pile it was. The oasis, **Black Waters**, is magically poisoned and spectre-haunted. Halfway between Urik and Raam — **the accord's memorial**.
+- **The Dragon's Bowl** — not a crater and not a circle: an **irregular, elongated sunken basin ~30 miles north of Urik** (canon: Lake Pit is "less than thirty miles" from the city), 35–50 miles long on its axis (a thousand-plus square miles of floor — a small hidden country, not a landmark), with a ragged thousand-foot rim of treacherous slopes and sheer cliffs. The myth is canon: the Bowl was formed **when the first great dragon was born, tearing its body out of the living rock** — in Aerun's terms, the site of the **first Champion's ascension** at the end of the Green Age war. The psychic residue is real: travelers entering the basin are struck by involuntary awe (the Wanderer fell trembling to his knees), and despite sitting between three busy caravan routes the Bowl stays hushed and empty. Ascension-road pilgrims — [a certain blue-eyed student included](../../Campaign/Plot-Threads/Spicy-Jak.md) — have reason to stand at the bottom of it. One stretch of the southern rim reads as *breached* rather than eroded; nobody says why out loud.
+- **Lake Pit** — **in the Bowl's northern lobe, not its center**: **28 square miles** (~6 miles across) of cerulean, the largest true water on the continent, pristine and teeming while thirty miles from Urik's legions. Beneath it, in submerged caves, the rumored **Sunken City** — in our canon a drowned **Green Age city**, preserved under the one thing the silt cannot touch; its records would be the oldest untouched account of the world before the defiling. The whole region is under the protection of **Enola**, a mul druid whom even Hamanu leaves alone — why, is a question the Lion does not answer.
+- **The ruins of Yaramuke and the Black Oasis** — *one site, not two*: the oasis lies **within the ruins**, at their heart. Hamanu erased the city the one time an ascended champion made war — the atrocity that taught the houses to build the [War of Champions](#the-war-of-champions) instead; the dispute was nothing grander than **obsidian quarrying rights on the Black Crown**, and the answer was annihilation. The magic that killed the city **poisoned its water forever**: the Black Oasis is black, spectre-haunted, and lethal to drink — the death of Yaramuke still killing travelers a thousand years on. Queen **Sielba's** treasure is said to lie beneath her palace rubble; good luck telling which pile that was. **Halfway between Urik and Raam (~110 miles from either) on the Road of Kings — the accord's memorial.**
 - **Walis** — a hidden village atop a 500-ft rock spire in the Ringing Mountain foothills, sitting on the continent's **only gold mine**.
 - **Ogo** — the halfling chief's step-pyramid village beneath the forest canopy; visitors survive only under Urik's escort.
 - **The Witchgrove** — a stretch of the deep Crescent Forest that is *malignantly aware*: watching undergrowth, hateful fey, travelers spirited away. The Lands Within the Wind press close here.
 - **The Crescent Circle** — a dozen hermit druids (escaped slaves among them) guarding the Crescent Forest against logging, overhunting, and defiling — squeezed between Nibenay's axes and Gulg's hunters, trusting neither.
-- **Bitter Well** — a sweet-water oasis on the scrub plains that caravans drain faster than it refills.
+- **Bitter Well** — a sweet-water oasis on the western scrub plains (~25 miles inland of Hollowstorm) that caravans drain faster than it refills.
 
 **Ruins & wonders of the wastes** (deeper cuts from the 4e atlas — optional placements):
 
