@@ -5,6 +5,7 @@ Source materials, published inspiration, and the asset index.
 - [Sourcebooks & Inspiration](Reference/Sourcebooks-and-Inspiration.md) — the published works behind the campaign and how each maps in.
 - [Asset Index](Reference/Asset-Index.md) — what every file in `/assets` is.
 - [Aerun Map Prompts](Reference/Aerun-Map-Prompts.md) — image-generation prompts for the new Aerun map set (continent + regional drill-ins).
+- [Aerun City Map Roster](Reference/Aerun-City-Map-Roster.md) — the seven city-map deliverables, with extracted reference maps for every city.
 
 ## External
 

@@ -4,9 +4,9 @@
 
 The central equatorial continent of Vermoon — a world of concentric rings where civilization clings to the coast, a wall marks the edge of the known, and the **Sea of Silt** at the center keeps the world's most dangerous secret. Vermoon's Dark Sun / Dune analogue — see **[Dark Sun (source setting)](Dark-Sun.md)** for the full borrowing map and the [Glossary](Dark-Sun/Glossary.md).
 
-![Aerun](../.attachments/aerun_map.png)
+![Aerun — The Living Coast](../.attachments/aerun_atlas.png)
 
-*"Beyond the Rim Wall, the world ends."* — coastal proverb. (Map: `assets/aerun_map.png`. **Note:** the map's central "Deep Desert" label predates the silt retcon — read the entire interior as the **Sea of Silt**; the labeled northeastern basin below Raam is the arm of it that reaches the coast.)
+*"Beyond the Rim Wall, the world ends."* — coastal proverb. (Map: `assets/Aerun_Atlas.png` — **the approved Aerun Atlas**, built to the [map prompt](../Reference/Aerun-Map-Prompts.md): Sea of Silt, Rim Wall, Ring Road, all seven cities and landmarks. City-level maps in progress: [Aerun City Map Roster](../Reference/Aerun-City-Map-Roster.md). Earlier drafts: `aerun_map.png`, `aerun_map_v3.png`.)
 
 Canonical sources: the revised map above, `assets/Aerun_TheDesertContinent.md`, `assets/Aerun_TheMerchantHouses.md`, and the [Dark Sun library](Dark-Sun.md). **City names settled:** the Dark Sun seven are the great coastal cities; the legacy names survive as lesser towns — **Blackguard** (north coast), **Osgaker** and **Hollowstorm** (west coast), **Amber Valley** (south coast), and **Eldorado** (inland, at the rim behind Tyr — the town at the edge of the wall).
 

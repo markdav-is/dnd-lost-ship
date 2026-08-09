@@ -81,6 +81,7 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 
 | File | Subject | Embedded at |
 | :--- | :--- | :--- |
+| [Aerun_Atlas.png](../../assets/Aerun_Atlas.png) ⭐ **canonical** | **The approved Aerun Atlas — "The Living Coast"**: Sea of Silt interior, Rim Wall, Ring Road with argosies, all seven cities, lesser towns, and Wanderer's Journal landmarks | [Aerun](../World/Aerun.md), [City Map Roster](Aerun-City-Map-Roster.md) |
 | [scarlands_completed_map.png](../../assets/scarlands_completed_map.png) ⭐ new | **The revised Scarlands regional map** — Grønnfjord, Foggy Fjord, Fjord Village, Horseshoe Quarry, Frostwatch Hold, **The Lost Ship** marked in the Barrier Peaks | [The Scarlands](../World/The-Scarlands.md) |
 | [aerun_map.png](../../assets/aerun_map.png) ⭐ current | **The revised Aerun campaign map** — Dark Sun seven + legacy towns (Blackguard, Osgaker, Hollowstorm, Amber Valley, Eldorado), Rim Wall, Ring Road, Sea of Silt, Badlands, Deep Desert | [Aerun](../World/Aerun.md) |
 | [aerun_map_v3.png](../../assets/aerun_map_v3.png) (earlier draft) | Prior Aerun continent map | — |
