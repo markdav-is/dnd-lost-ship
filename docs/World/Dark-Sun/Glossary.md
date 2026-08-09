@@ -77,6 +77,9 @@ City = family seat; the family rules it outright. Full dossiers, banners, and fe
 
 ### Geography for the map (from the Wanderer's Journal)
 
+**Continental scale (canon):** Aerun spans **~500 miles east–west by ~400 north–south** — roughly **160,000 sq mi: the size of California or Spain**, *not* Australia. The reference chain: Lake Pit is ~6 miles wide → the Dragon's Bowl (35–50 miles) holds it in one lobe → the Bowl spans about a tenth of the continent. Travel math that follows: **Ring Road circumference ~1,400 miles** (a caravan circles in ~2 months at 20–25 mi/day); **neighboring cities sit 100–150 miles apart** (4–7 caravan days — close enough to feud, too far to march cheaply); **Raam→Balic by silt lane ~350 miles** (5–6 days by Guild skimmer vs. 3–4 weeks by the half-ring road — the lanes' whole economic reason to exist).
+
+
 Terrain, siting, populations, and forces per city — the map-builder's reference, translated to Aerun's ring (interior = the Sea of Silt). Populations are the standard Dark Sun supplement figures; adjust freely. Source: *The Wanderer's Journal* atlas chapter (`DDDS_DarkSun_V.pdf`, pp. 65–75).
 
 | City | Siting & terrain | Surrounds | Pop. (approx) | Forces |
