@@ -26,6 +26,10 @@ Every city has an official labeled map from the Dark Sun 4e Campaign Setting's a
 
 ### 1. Tyr
 
+![APPROVED: Tyr — The Iron City](../.attachments/tyr_city.png)
+*The approved city map. Reference material below.*
+
+
 ![City of Tyr — 2e illustrated poster](../.attachments/darksun_city_of_tyr_2e.jpg)
 ![City of Tyr — 4e poster](../.attachments/darksun_city_of_tyr_4e.jpg)
 ![Under-Tyr — the undercity (4e)](../.attachments/darksun_under_tyr_4e.jpg)
@@ -37,6 +41,10 @@ Every city has an official labeled map from the Dark Sun 4e Campaign Setting's a
 
 ### 2. Draj
 
+![APPROVED: Draj — The Mudflat City](../.attachments/draj_city.png)
+*The approved city map. Reference material below.*
+
+
 ![Draj — 4e city map](../.attachments/darksun_draj_4e.jpg)
 *Walled grid on the mudflat, the pyramid-and-arena compound at center, the Two Moon Gate, fields of plenty outside the walls. Add the single stone causeway prominently — it is the city's whole defense. (No dedicated art in the chapter — the pyramid identity carries it.)*
 
@@ -44,12 +52,20 @@ Every city has an official labeled map from the Dark Sun 4e Campaign Setting's a
 
 ### 3. Raam
 
+![APPROVED: Raam — The Silt-Basin Metropolis](../.attachments/raam_city.png)
+*The approved city map. Reference material below.*
+
+
 ![Raam — 4e city map](../.attachments/darksun_raam_4e.jpg)
 *Concentric sprawl with the queen's hill and walled inner districts dissolving into unwalled outer chaos — exactly the "fractured metropolis" identity. Put the silt docks on the basin edge.*
 
 **District & lore notes (for the map):** 40,000+ inside, 40,000 more in the **warlord estates** outside — the ring's biggest and least-governed population. Since the champion's death the **mansabdars** (the law in name — thugs and bribe-takers in fact) lead the largest army on the ring, mostly wretched slave-soldiers; whole districts are no-go for them. The **Badna priesthood** maintains shrines to the four-armed god the dead queen invented; the **saddhus** (mystics) keep the older faith. Exhausted alabaster quarries and gem mines, abandoned shuttered quarters, inns clinging to life at the gates, the **hidden armory** beneath the palace — and House M'ke fortified in its compound, waiting out the warlords. Map key wants: the palace knoll and breastworks, warlord quarters, shrine-crowded streets, silt docks.
 
 ### 4. Nibenay
+
+![APPROVED: Nibenay — The City of Bubbling Springs](../.attachments/nibenay_city.png)
+*The approved city map. Reference material below.*
+
 
 ![Nibenay — 4e city map](../.attachments/darksun_nibenay_4e.jpg)
 ![Half-giant soldier (mood art — Nibenay's legions)](../.attachments/darksun_halfgiant_art.jpg)
@@ -65,6 +81,8 @@ Every city has an official labeled map from the Dark Sun 4e Campaign Setting's a
 
 **District & lore notes (for the map):** the city is nothing but **dagadas** — walled hut-compounds crowded along twisting roads, small dusty squares, animal pens, and groves; no districts, no grid, and outsiders can't navigate without a local. Each People (the clan-tier) keeps a **dagafari**, an ancestral tree-lodge in its own agafari's branches — elevation in a living tree is status here. At the center, visible from every dagada, stands **Sunlight Home**: the Oba's small wooden palace in the highest limbs of an agafari **grown to titanic size by her magic**, with the huts of the **nganga** — her templars, secretive witch doctors seen only in their aftermath — in the branches below. An inner **Mopti Wall** rings the royal precinct; the **People's Road** is the main artery; name-drops for the map key: the **Drum Circle** (storytellers' dagada), the small **Elven Market** dagada, the travelers' dagadas outside the wall, and House Inika's lone **Trading House**. **Ring Road note:** the highway passes the forest's edge; Gulg hangs off it by a guarded **forest spur track** to the People's Gate. With a gathered-food economy and no open market (one assigned templar barters for the whole city), Gulg needs the Guild less than any city on the ring — it merely tolerates the road.*
 
+**Image-agent brief (next up — city 5):** *GULG — The Forest City.* Break the pattern of the first four: **no stone walls, no grid** — the city is a great organic oval defined by a single living **hedge-wall of interwoven thorn-trees**, sitting inside the Crescent Forest with the canopy pressing close on every side (let trees overhang and interpenetrate the city; dappled light). At the exact center, **Sunlight Home**: one agafari tree grown to *titanic* scale — it should dwarf everything, visible as the tallest thing on the map by far — with the small wooden palace in its highest limbs and the nganga's huts on the branches below. An inner ring, the **Mopti Wall** (earthen, modest), encloses the royal precinct around the tree. Everything else is **dagadas**: dozens of round walled hut-compounds along twisting dirt roads with dusty squares, animal pens, and groves between them — no two roads parallel. Two gates only: the **People's Gate** (west, where a guarded **forest spur track** winds out to the Ring Road at the forest's edge — the road itself never enters the forest) and the **Queen's Gate** (south). Outside the hedge: the travelers' dagadas, **House Inika's lone Trading House** by the spur, and hunters' trails radiating into the trees. Label candidates: Sunlight Home, Mopti Wall, People's Gate, Queen's Gate, Drum Circle, Elven Market dagada, Trading House, the spur track. Smallest city (~8,000) — keep it tight, green, and strange.
+
 ### 6. Balic
 
 ![Balic — 4e city map](../.attachments/darksun_balic_4e.jpg)
@@ -73,6 +91,8 @@ Every city has an official labeled map from the Dark Sun 4e Campaign Setting's a
 
 **District & lore notes (for the map):** ~24,000 — the wealthiest city on the ring. With its champion banished, the democratic machinery *actually governs*: the **Chamber of Patricians** writes the law, **praetors** (templars) stand for ten-year elections, guilds vote — and House Wavir referees it all. Precincts: **Guilders'**, **Arena**, **Harbor**, **Market**, **Villa**, around the **megalitheum**. The **silt fleet** works the estuary and archipelago (silt schooners, giant attacks, dust storms); five **legions** of a thousand garrison city and fields, and every citizen serves three years. Dozens of **theaters** from ramshackle stagehouses to noble amphitheaters — playwrights win fame equal to gladiators. Named spots: the **Olive Tree** inn (Road of Legions), the rough **Furled Sail** on the docks, the **Thespian House** (secretly the Veiled Alliance's meeting hall). Exports: grain, salt, olives, wine, marble. Water: five public wells + cisterns, rationed in dry years.
 
+**Image-agent brief (city 6):** *BALIC — The City of Two Seas.* The defining feature: **two waterfronts on opposite faces**. The southern face opens on the blue **ocean harbor** — stone quays, sailing ships, the busiest port on the map set. The northern/eastern face opens on the gray **Forked Tongue Estuary** — **silt docks** with skimmers and schooners moored in dust, plus watchtowers facing the silt (giants wade ashore to raid from the estuary islands). White-stone Mediterranean architecture, domes and red canvas awnings (use the dusk mood art for palette). Land approach **only from the west**: the Ring Road enters through a single fortified west gate through olive orchards, vineyards, and grain farms; legion field-camps among the crops. Precincts to label: **Guilders' Precinct**, **Arena Precinct**, **Harbor Precinct** (ocean side), a **Silt Quarter** (estuary side — our two-seas addition), **Market Precinct**, **Villa Precinct**, around the central **megalitheum**; the **agora** ringed by the **Elven Market** at the base of the old dictator's rocky fortress (empty now — its champion banished; the **Chamber of Patricians** meets there). Sprinkle **theaters** everywhere, ramshackle to amphitheater — name the **Thespian House** (Market Precinct) and the **Olive Tree** inn on the **Road of Legions**. Wealthiest city (~24,000): make it gleam.
+
 ### 7. Urik
 
 ![Urik — 4e city map](../.attachments/darksun_urik_4e.jpg)
@@ -80,6 +100,8 @@ Every city has an official labeled map from the Dark Sun 4e Campaign Setting's a
 *Square military grid, walled quarters, the Destrier's Kilns and obsidian works, gates on sealed roads — the fortress identity is already drawn. The volcano art is the backdrop: put the Black Crown smoking behind the walls.*
 
 **District & lore notes (for the map):** ~20,000 under **Hamanu's Code** — the law that dictates everything from construction standards to weddings; templars test every child and assign vocations. Districts: **Potters' Square** and the **Obsidian Quarter** (deliberately uniform inns — Urik prides itself on uniformity), and the **Old District** (the only quarter with character). **Pottery is the highest art** on the ring and Urik's glory; its other fames are **astronomers** and the obsidian mines that kill more slaves than the arena. Yellow cloaks mark the templars (forbidden to all others); **sirdars** (nobles) alone own land. Defense: the thousand half-giant **Imperial Guard**, ten thousand soldiers, and two hundred **halfling scouts from Ogo** — Chief Urga-Zoltapl's standing gift, paid in obsidian. Herd-lands outside produce leather, chitin, and kank nectar.
+
+**Image-agent brief (city 7):** *URIK — The City of Lions.* The anti-Balic: **rigid rectilinear military grid**, the only square city in the series. Massive **yellow-glazed walls** with lion reliefs and banner-poles; walled internal quarters with checkpoint gates between them (the city is compartmentalized like a fortress). At center, the **citadel**: a full square mile of palace, templar administration, drill fields, barracks, and armory — a fortress inside the fortress, home of the thousand half-giant **Imperial Guard**. Quarters to label: **Potters' Square** (kilns, the city's artistic glory), the **Obsidian Quarter** (workshops, deliberately identical buildings — draw the uniformity), the **Old District** (the one irregular, characterful quarter), and the **Destrier's Kilns**. Gates open onto **sealed roads** with guard posts — nothing enters Urik unobserved; the Ring Road passes under the walls through a controlled caravan plaza. Behind everything, looming: the **Mountain of the Black Crown**, smoking, with **obsidian quarry terraces** scarred into its flanks and a guarded slave road climbing to them. Outside the walls: irrigated plantations and vast kank herds. Astronomy motif welcome (observatory towers — Urik is famed for its astronomers). ~20,000 people who are all exactly where Hamanu's Code says they should be. Make it feel disciplined, prosperous, and airless.
 
 ### Regional maps (for the drill-in maps between cities)
 
