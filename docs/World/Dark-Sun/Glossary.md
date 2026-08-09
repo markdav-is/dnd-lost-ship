@@ -49,7 +49,7 @@ A champion who advances far enough in the defiler-psionic (or preserver-psionic,
 | :--- | :--- | :--- |
 | **Hamanu, the Lion** | House Stel (Urik) | **Ascended — Dragon.** The great living deterrent; disciplined, patient, terrifying; Urik's sealed borders are his preference. Leads Stel's legions in name; has not needed to fight in centuries |
 | **The Shadow King** | House Shom (Nibenay) | **Ascended — Dragon**, half-withdrawn into mystery; the one force holding rotting Shom together |
-| **The Oba** | House Inika (Gulg) | **Ascended — state debated.** Her forest templars worship her as an **Avangion**; her rivals mutter Dragon. Nobody has tested the question |
+| **The Oba** | House Inika (Gulg) | **Ascended — state debated.** Her forest templars worship her as an **Avangion**; her rivals mutter Dragon. Her exhibit A is **Sunlight Home**: an agafari tree grown to titanic size by her own magic — and defilers cannot *grow*. Nobody has tested the question |
 | **Kalak** | House Vordon (Tyr) | **Slain — outside the rites.** The continent's unsolved crime; Vordon rebuilds in shadow and shame |
 | **Abalach-Re** | House M'ke (Raam) | **Dead** — and Raam burns without its deterrent |
 | **Tectuktitlay** | House Tsalaxa (Draj) | **Broken** — shattered in a champions' duel generations ago; paraded at festivals as a figurehead. Tsalaxa's spies do the work its champion cannot |
@@ -113,7 +113,17 @@ Terrain, siting, populations, and forces per city — the map-builder's referenc
 - **The ruins of Yaramuke** — the city Hamanu erased the one time an ascended champion made war, and the atrocity that taught the houses to build the [War of Champions](#the-war-of-champions) instead: the dispute was nothing grander than **obsidian quarrying rights on the Smoking Crown**, and the answer was annihilation. Queen **Sielba's** treasure is still said to lie beneath the rubble of her palace — good luck determining which pile it was. The oasis, **Black Waters**, is magically poisoned and spectre-haunted. Halfway between Urik and Raam — **the accord's memorial**.
 - **Walis** — a hidden village atop a 500-ft rock spire in the Ringing Mountain foothills, sitting on the continent's **only gold mine**.
 - **Ogo** — the halfling chief's step-pyramid village beneath the forest canopy; visitors survive only under Urik's escort.
+- **The Witchgrove** — a stretch of the deep Crescent Forest that is *malignantly aware*: watching undergrowth, hateful fey, travelers spirited away. The Lands Within the Wind press close here.
+- **The Crescent Circle** — a dozen hermit druids (escaped slaves among them) guarding the Crescent Forest against logging, overhunting, and defiling — squeezed between Nibenay's axes and Gulg's hunters, trusting neither.
 - **Bitter Well** — a sweet-water oasis on the scrub plains that caravans drain faster than it refills.
+
+**Ruins & wonders of the wastes** (deeper cuts from the 4e atlas — optional placements):
+
+- **Giustenal** — the *eighth* city, once as grand as Tyr: its champion **Dregoth** grew so strong the other champions **united to kill him** — the only time the Champions ever fought as one, and the other pillar of the accord (Yaramuke taught what one ascended does to a city; Giustenal taught what the champions do to one of their own). The duel entombed the city — and Dregoth persists beneath it, undead, with his created race of **dray**.
+- **Kalidnay** — a great city that simply *emptied* overnight on the eve of a festival; a cracked-open tomb-pyramid, streets that now half-exist in the shadow-world, nightly mists that take whoever they catch. No rival did this. Nobody knows what did.
+- **Slither, the Crawling Citadel** — a roving fortress built from seven fused mekillot skeletons, animated by the lich **Yarnath**; his raiders ambush caravans and hide their walking castle a quarter-day away. "The fortress moved" is a valid report on the southern routes.
+- **The Vault of House Madar** — an extinguished eighth merchant dynasty (Tsalaxa's work, a century ago); its hidden treasury labyrinth is still out in the wastes — unless the whole legend is a decoy for the true vault.
+- **Grak's Pool** — a fortified oasis on the southern routes; outside it camps **Mafoun**, a scarred prophet of the Children of the Dragon, who believe an ascended one will redeem the world *if it is fed enough lives*.
 
 **City maps** (for whichever city the campaign visits first — swap "Tyr" for its Aerun self):
 

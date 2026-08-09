@@ -49,5 +49,5 @@ Image-generation prompts for the new Aerun map set. The continent prompt is firs
 1. **The Northwest** — Tyr, Eldorado, Osgaker: Ringing Mountains, iron terraces, Walis spire, the Rim Wall pass.
 2. **The Southwest** — Urik and the Black Crown: the volcano, obsidian quarries, Yaramuke ruins on the Raam road — and the **Dragon's Bowl**: an irregular, *elongated* sunken basin with a ragged thousand-foot rim (emphatically not a neat circle), 35–50 miles long, Lake Pit's blue water in the northern lobe, and one torn-looking breach in the southern rim.
 3. **The South** — Balic and the Forked Tongue: the two-seas harbor, Altaruk, the Ledopolus twins and Ledo Island, Mekillot Mountains + Salt View, Amber Valley.
-4. **The East** — Nibenay and Gulg: the Crescent Forest between them, rice springs, the hedge-ring, Ogo, Badlands behind.
+4. **The East** — Nibenay and Gulg: the Crescent Forest between them, rice springs, the hedge-ring with **Sunlight Home**'s titanic tree rising from its center, Ogo, the **Witchgrove** deep in the forest (a darker, denser, *wrong-looking* stand of trees), Badlands behind.
 5. **The North** — Draj, Blackguard, Raam: the mudflats and causeway, the silt arm, the sprawl.
