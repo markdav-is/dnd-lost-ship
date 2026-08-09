@@ -5,7 +5,7 @@
 The reference shelf for everything [Aerun](Aerun.md) borrows — and it borrows **heavily**. Dark Sun (TSR's Athas) supplies the continent's bones: the city-states, the merchant houses, defiling and preserving, psionics everywhere, the silt, the arenas, the dying-world ecology. This section indexes the source library and states the campaign's official conversion rules, so future tie-ins pull from one place.
 
 - **[Glossary](Dark-Sun/Glossary.md)** — the triad, the merchant families, the dragons, the Caravan Guild, and the politics that make the world run.
-- **[The Silt Sea](Dark-Sun/The-Silt-Sea.md)** — ecology of the dead ocean: the basin's heights, the weather engine, the spore-worm-Spice cycle, and the two portage cities.
+- **[The Silt Sea](Dark-Sun/The-Silt-Sea.md)** — ecology of the dead ocean on the plateau: heights, the weather engine, the spore-worm-Spice cycle, and the two portage cities.
 
 ## Campaign conversion rules (canon)
 

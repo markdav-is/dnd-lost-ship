@@ -46,7 +46,7 @@ The island is **walled all the way around**: a continuous ring of mountains and 
 
 - **The high stretches:** where the old coastal ranges merge into the wall — the **Ringing Mountains** behind Tyr and Urik, the **Badlands** massif behind Nibenay and Gulg — the crests tower **+4,000–6,000 ft**, *well above the silt plateau behind them*: true mountains with the dead sea lapping at their inland shoulders. Iron, obsidian, and gold live in these heights.
 - **The typical wall:** elsewhere the rim runs **~+2,200 ft** — a ~2,000-ft climb from the coastal ring, with the silt surface (~+1,800 ft) just **300–500 ft below the crest** on the inner side.
-- **The low gaps — the portage saddles:** at a few places the rim dips to **mere hundreds of feet above the silt**, and the gray spills toward the coast in frozen lobes. These gaps are why the portage cities exist where they do: **Raam's arm** in the northeast and **Balic's estuary channel** in the south are the two great lows, and thin **silt-falls** smoke over every lesser dip when the wind runs.
+- **The low gaps — the portage saddles:** at a few places the rim dips to **mere hundreds of feet above the silt**, and the gray spills toward the coast in frozen lobes. These gaps are why the portage cities exist where they do: **Raam's arm** in the northeast and **Balic's southern ramp** are the two great lows, and thin **silt-falls** smoke over every lesser dip when the wind runs.
 
 **Beyond the Rim Wall the Aura network fails completely**: Jak is blind to the entire interior. Coastal citizens consider everything beyond it uncrossable void. **Eldorado** sits at a high northwestern pass — the old prospectors' crossing point, and the worst possible direction to enter from (see below).
 
