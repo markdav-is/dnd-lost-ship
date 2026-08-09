@@ -81,6 +81,7 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 
 | File | Subject | Embedded at |
 | :--- | :--- | :--- |
+| [aerun_control_base.svg](../../assets/aerun_control_base.svg) / [.png](../../assets/aerun_control_base.png) ⭐ tool | **Elevation control base** — flat-color diagram (ocean → lowland ring → cliff band → plateau top) with all cities, roads, lanes, and landmarks in place; feed to image models as img2img/ControlNet input | [Map Prompts](Aerun-Map-Prompts.md) |
 | [Aerun_Atlas.png](../../assets/Aerun_Atlas.png) ⭐ **canonical** | **The approved Aerun Atlas — "The Living Coast"**: Sea of Silt interior, Rim Wall, Ring Road with argosies, all seven cities, lesser towns, and Wanderer's Journal landmarks | [Aerun](../World/Aerun.md), [City Map Roster](Aerun-City-Map-Roster.md) |
 | [scarlands_completed_map.png](../../assets/scarlands_completed_map.png) ⭐ new | **The revised Scarlands regional map** — Grønnfjord, Foggy Fjord, Fjord Village, Horseshoe Quarry, Frostwatch Hold, **The Lost Ship** marked in the Barrier Peaks | [The Scarlands](../World/The-Scarlands.md) |
 | [Tyr_City.png](../../assets/Tyr_City.png) · [Draj_City.png](../../assets/Draj_City.png) · [Raam_City.png](../../assets/Raam_City.png) · [Nibenay_City.png](../../assets/Nibenay_City.png) · [Gulg_City.png](../../assets/Gulg_City.png) ⭐ approved | **Aerun city maps 1–5** — Tyr (Iron City), Draj (Mudflat City), Raam (Silt-Shelf Metropolis), Nibenay (Bubbling Springs), Gulg (Thorn City) | [City Map Roster](Aerun-City-Map-Roster.md) |
