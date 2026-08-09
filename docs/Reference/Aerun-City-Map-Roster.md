@@ -75,6 +75,10 @@ Every city has an official labeled map from the Dark Sun 4e Campaign Setting's a
 
 ### 5. Gulg
 
+![APPROVED: Gulg — The Thorn City](../.attachments/gulg_city.png)
+*The approved city map — the Oba's Tree, four gates (Exile's, Hunter's, People's, Queen's), the Field of Spears, Drum Circle, Queen's Trading House, and Bone Village outside the hedge. Reference material below.*
+
+
 ![Gulg — 4e city map](../.attachments/darksun_gulg_4e.jpg)
 ![Gulg hunter in moss and hide (mood art)](../.attachments/darksun_gulg_hunter_art.jpg)
 *The hedge-ring is canon-perfect: a single organic oval of thorn-tree wall, hut-cluster dagadas inside, the Oba's tree at center, People's Gate and Queen's Gate. The hunter art is the city's warrior-nobility.*
