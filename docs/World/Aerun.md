@@ -15,7 +15,7 @@ Canonical sources: the revised map above, `assets/Aerun_TheDesertContinent.md`, 
 Keep it simple at the table — three powers ([full glossary](Dark-Sun/Glossary.md)):
 
 1. **The Emperor — Jak**, the king in the south — **the Administrator**: the network, the temples, the Spásistren, and a deliberately light hand. Aerun is his wildest, least-controlled continent, and he leaves it alone **because it is the trading hub of the world**. There are no kings on Aerun; there is a king in the south.
-2. **The seven families** — they **rule the seven cities outright**: Wavir/Balic, Tsalaxa/Draj, Inika/Gulg, Shom/Nibenay, M'ke/Raam, Vordon/Tyr, Stel/Urik ([The Merchant Houses](Factions/The-Merchant-Houses.md)). The beings once worshiped as god-kings kept their names and lost their thrones — they are the families' **psionic dragons** now, leading each house's armies as generals and deterrents (Hamanu for Stel, the Shadow King for Shom, the Oba for Inika; the other four dragons are dead, broken, or banished).
+2. **The seven families** — they **rule the seven cities outright**: Wavir/Balic, Tsalaxa/Draj, Inika/Gulg, Shom/Nibenay, M'ke/Raam, Vordon/Tyr, Stel/Urik ([The Merchant Houses](Factions/The-Merchant-Houses.md)). The beings once worshiped as god-kings kept their names and lost their thrones — they are the families' **Champions** now: sovereign weapons who settle house disputes in the arena-born **[War of Champions](Dark-Sun/Glossary.md)**, because armies are too expensive to march. The greatest have **ascended** (Dragon, Avangion, Avatar) and serve as pure deterrent — Hamanu for Stel, the Shadow King for Shom, the Oba for Inika; the other four champions are dead, broken, or banished.
 3. **The Caravan Guild** — no house, no master: the colossal **mekillot argosies** of the Ring Road and the **silt-crawlers** of the interior. All bulk transport, for everyone or no one. No army marches without Guild hulls.
 
 ## The concentric rings
@@ -26,7 +26,7 @@ The habitable coastal strip: seven great family-ruled cities controlling Vermoon
 
 Going clockwise from the north (per the revised map): **Draj** → **Blackguard** → **Raam** → **Nibenay** → **Gulg** → **Amber Valley** → **Balic** → **Urik** → **Hollowstorm** → **Osgaker** → **Tyr**.
 
-| City | Ruling Family | Dragon | Character |
+| City | Ruling Family | Champion | Character |
 | :--- | :--- | :--- | :--- |
 | **Balic** (south; the great harbor) | Wavir | *(banished)* | Merchant democracy; **silt-fleet harbor**; abolitionist; salt and silver |
 | **Draj** (north) | Tsalaxa | Tectuktitlay *(broken)* | Warrior-theocracy theater run by spymasters; hemp and grain |
@@ -52,14 +52,14 @@ The center is the **Sea of Silt**: a continent-heart ocean of powder-fine gray d
 
 ## Magic: preservers and defilers
 
-Arcane magic on Aerun draws on the life force of the land. **Preservers** take only what the flora can recover from, and organize in secret cells — the **Veiled Alliance** — working quietly toward restoring Aerun's green. **Defilers** rip life out wholesale, turning soil to sterile ash; **the dragons are the defiling art's apex** — each one a defiler-psion who walked the metamorphosis to its end, and their centuries of feeding helped scour the Tablelands. Arcane magic is feared and often illegal in the cities — punishable by death or enslavement. See [The Order of the Sere](Factions/The-Order-of-the-Sere.md) for how this connects to the Green Age containment and the Scarlands crisis; deep source: *Defilers and Preservers* ([library](Dark-Sun.md)).
+Arcane magic on Aerun draws on the life force of the land. **Preservers** take only what the flora can recover from, and organize in secret cells — the **Veiled Alliance** — working quietly toward restoring Aerun's green. **Defilers** rip life out wholesale, turning soil to sterile ash; **the ascended Champions are the defiling art's apex** — the Dragon state is the defiler-psion metamorphosis walked to its end, and the ascended's centuries of feeding helped scour the Tablelands. Arcane magic is feared and often illegal in the cities — punishable by death or enslavement. See [The Order of the Sere](Factions/The-Order-of-the-Sere.md) for how this connects to the Green Age containment and the Scarlands crisis; deep source: *Defilers and Preservers* ([library](Dark-Sun.md)).
 
 ## Society
 
 | Tier | Group |
 | :-: | :--- |
 | 1 | **Jak** — the Emperor, far away and never far enough |
-| 2 | **The seven families** — the cities, the wells, the law; **their dragons** — the armies; **house templars** — the enforcement |
+| 2 | **The seven families** — the cities, the wells, the law; **their Champions** — the court and the deterrent; **house templars** — the enforcement |
 | 3 | **The Caravan Guild** — beside the pyramid, not in it; everything moves at their rate |
 | 4 | **Free citizens** — tenuous freedom |
 | 5 | **Slaves** — the economic foundation; the arena is the only ladder up (except in Wavir's Balic, which pays wages and is hated for it) |

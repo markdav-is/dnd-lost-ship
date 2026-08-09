@@ -14,11 +14,11 @@ Canonical source: `assets/Aerun_TheMerchantHouses.md`.
 | **Blind spot** | Bulk goods can't teleport; the network fails beyond the Rim Wall | No counter to the Spásistren; can't move an army without Guild hulls | Makes nothing, grows nothing, rules nothing |
 | **Dependency** | Needs Aerun *trading*, not obedient — the hub of world commerce is worth more wild than governed | They need the network's speed and the Guild's hulls | Fed and paid by everyone; steeped in Spice |
 
-Any two of the three can strangle the third — so nobody squeezes first. **There are no kings on Aerun.** The beings once called god-kings kept their names and lost their thrones: they are the families' **[dragons](../Dark-Sun/Glossary.md)** now — psionic army-leaders, living deterrents, generals with wings.
+Any two of the three can strangle the third — so nobody squeezes first. **There are no kings on Aerun.** The beings once called god-kings kept their names and lost their thrones: they are the families' **[Champions](../Dark-Sun/Glossary.md)** now — the sovereign weapons who settle house disputes in the **War of Champions** (armies are too expensive; the Guild sees to that). The greatest have **ascended** — Dragon, Avangion, Avatar — and ascended champions never fight: they deter.
 
 ## The seven families
 
-| House | City | Dragon | Banner | In a sentence |
+| House | City | Champion | Banner | In a sentence |
 | :--- | :--- | :--- | :--- | :--- |
 | **Wavir** | Balic | *(Andropinis — banished)* | Silver jozhal on blue | Richest and most respected; gladiator-founded; **abolitionist** — paid labor only, beloved by commoners, suspected of funding rebellions; deposed its own dragon and chose commerce |
 | **Tsalaxa** | Draj | Tectuktitlay *(broken figurehead)* | Glaring yellow eyes on black | Espionage, blackmail, and sabotage as business model; patriarch **Ydris** with his half-giant bodyguard; *"Never cross the dragon or House Tsalaxa"* — the joke being their dragon is the least of it |
@@ -28,7 +28,7 @@ Any two of the three can strangle the third — so nobody squeezes first. **Ther
 | **Vordon** | Tyr | *(Kalak — slain)* | Black diamond on red-brown | The iron house, humiliated by its dragon's assassination and rebuilding in secret — dummy corporations, a shadow army; patriarch **Thaxos** |
 | **Stel** | Urik | **Hamanu, the Lion** | Crossed black scimitars on white | The war-house: mercenary contracts, fortress-caravans, sealed borders — and the great surviving dragon at the head of its legions |
 
-**The strategic math:** three families hold living dragons (Stel, Shom, Inika); four don't — and the dragonless four lean hardest on gold, spies, shadow armies, and patience. Dragon-to-dragon deterrence keeps house wars cold; Guild rates keep them short.
+**The strategic math:** three families hold ascended Champions (Stel, Shom, Inika); four don't — and the champion-less four lean hardest on gold, spies, shadow armies, and hired arena talent. Ascended deterrence keeps house wars cold; Guild rates keep them short; the arena settles the rest ([the War of Champions](../Dark-Sun/Glossary.md)).
 
 *(House banner art exists in the Manus project; grab stable copies into `/assets` if you want them embedded here.)*
 

@@ -26,7 +26,7 @@ Athasian lore gives the road its gravity — the other ascensions it stands besi
 | **The Avangion** | Preserver-psions | The luminous guardian — Athas's only benevolent apotheosis |
 | **The Psionic Avatar** | Way of the Unseen Mind monks | The self as its own instrument — power that takes nothing from the land and nothing from other minds |
 
-The resonance that makes it Jak's story: **an Administrator is an avatar built from machines** — implant, network, orbital sight. The Unseen Mind teaches the same office *without the machine*: sight, reach, and protection generated from discipline alone. Jak — who has held absolute power and felt it distort him — is precisely the student that path was written for.
+On Aerun these ascensions are the **champion deterrent tier** — the states the house Champions hold over each other's heads ([Glossary](../../World/Dark-Sun/Glossary.md)); the Avatar is the one road no house has ever owned. The resonance that makes it Jak's story: **an Administrator is an avatar built from machines** — implant, network, orbital sight. The Unseen Mind teaches the same office *without the machine*: sight, reach, and protection generated from discipline alone. Jak — who has held absolute power and felt it distort him — is precisely the student that path was written for.
 
 **Where he trains:** with desert masters of the Unseen Mind beyond the [Rim Wall's](../../World/Aerun.md) reach — orders who serve no sorcerer-king, tolerated by the [Sandwalkers](../../World/Factions/The-Sandwalkers.md) because their discipline takes nothing from the land. (Whether Harah's people quietly sponsored his crossing is a lovely ambiguity — she is, after all, the only person he knows who could move him across the sea *invisibly*.)
 

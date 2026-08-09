@@ -2,7 +2,7 @@
 
 # Dark Sun Glossary (Aerun edition)
 
-The names, powers, and relationships that make the continent run — campaign-canon where it conflicts with the books. Deep sources: *The Wanderer's Journal* (`DDDS_DarkSun_V.pdf`), *Defilers and Preservers*, *The Will and the Way*.
+The names, powers, and relationships that make the continent run — campaign-canon where it conflicts with the books. Deep sources: *The Wanderer's Journal* (`DDDS_DarkSun_V.pdf`), *Defilers and Preservers*, *The Will and the Way*, *The Complete Gladiator's Handbook*.
 
 ## The shape of power: the triad
 
@@ -11,39 +11,66 @@ Aerun runs on the Dune model, and the players only need to remember three things
 | Power | Who | What they hold |
 | :--- | :--- | :--- |
 | **The Emperor** | **[Jak](../../NPCs/Jak-Bjornsson.md)** — the world's one king, in the south: **the Administrator** | The [Aura network](../The-Aura-Network.md), the temples in every city, the Spásistren — and a deliberately light hand on Aerun |
-| **The Houses** | The **seven merchant families** — they *rule* the seven cities outright | The cities, the wells, the arenas, the Spice trade |
+| **The Houses** | The **seven merchant families** — they *rule* the seven cities outright | The cities, the wells, the arenas, the Spice trade — and their **Champions** |
 | **The Guild** | **The Caravan Guild** — no house, no city, no master | **All bulk transport**: the colossal mekillot argosies of the Ring Road and the silt-crawlers of the interior. They carry everyone or no one |
 
 The balance: Jak's network moves *words* instantly but cannot move *goods*; the families own everything worth moving; the Guild is the only way to move it. Any two of the three can strangle the third — so nobody squeezes first. **There are no kings on Aerun. There is a king in the south — the Administrator — and everyone on the Ring Road knows it.** Aerun is his wildest, least-governed continent, and he leaves it that way on purpose: it is **the trading hub of the world**, and strangling the hub would cost him every other continent's peace. His temples watch; they do not rule.
 
-## The dragons (the former god-kings)
+## The Champions (the former god-kings)
 
-The beings the old world called sorcerer-kings **kept their names and lost their thrones**. Each was a defiler-psion who walked the metamorphosis to its end — they are **psionic dragons** now: living weapons, each bonded to (or leashed by, or worshiped within — it varies) one of the seven families, **leading that family's armies** as general and deterrent. A house with a dragon does not lose wars. A house with a dragon rarely needs one.
+The beings the old world worshiped as god-kings **kept their names and lost their thrones** — because on Aerun the role was never really *king*. It was **Champion**: each family's sovereign weapon, the single being who fights in the family's name. The title is a thousand years old and heavier than any crown: the first **Champions of Rajaat** were the Green Age heroes who led the great defiling that stopped the [First Source](../../Campaign/Plot-Threads/The-First-Source.md) — they saved the world by unmaking the continent's heart, and their successors have carried the name, the power, and the stain ever since.
 
-| Dragon | Serves | Status |
+### The War of Champions
+
+Armies do not march on Aerun. The Guild charges **triple rates for war freight**, a city under siege still has to eat at Guild prices, and every soldier in the field is a customer not buying — **open war bankrupts the victor**. So the houses settled on something older and cheaper, born of the arenas that stand at the heart of every city: **matters between houses are settled by champions.** Where Dune has the War of Assassins, Aerun has the **War of Champions** — a formal, refereed institution:
+
+1. **The challenge** — a house declares grievance and stakes: a contract, a tariff, a bride, a border well. Stakes are lodged with the Guild, which notarizes and enforces (the Guild carries the winnings; nobody argues with the freight-master).
+2. **The proxy tier** — most disputes end here: named gladiators fight in a neutral arena before both houses and a roaring city. This is why **every city has an arena** and why the gladiator ladder matters: the arena is the continent's *court system*, and its best fighters are the bar.
+3. **The champion tier** — grave matters call out the houses' **named Champions** themselves. Rare, ruinous to lose, unforgettable to watch. A house without a champion at this tier must hire, forfeit, or kneel.
+4. **The ascended tier — never.** This is the deterrent that holds the peace (below).
+
+*Fighting outside the rites is the continent's deepest crime.* Kalak was not defeated — he was **assassinated**, outside the forms, and all seven houses still pretend not to know who paid. That is why Vordon rebuilds in shadow: shame, and the fear that the answer will surface.
+
+### Ascension — Dragon, Avangion, Avatar
+
+A champion who advances far enough in the defiler-psionic (or preserver-psionic, or purely psionic) arts can **ascend** — transform into something beyond the mortal tiers:
+
+| State | Road | Nature |
 | :--- | :--- | :--- |
-| **Hamanu, the Lion** | House Stel (Urik) | The great surviving dragon — disciplined, patient, terrifying; Urik's sealed borders are his preference |
-| **The Shadow King** | House Shom (Nibenay) | Ancient and half-withdrawn into mystery; the one force holding rotting Shom together |
-| **The Oba** | House Inika (Gulg) | Worshiped by Inika's forest templars as a goddess; the most openly adored |
-| **Kalak** | House Vordon (Tyr) | **Slain** — the assassination that proved dragons die; Vordon has rebuilt in shadow ever since |
-| **Abalach-Re** | House M'ke (Raam) | **Dead** — and Raam burns without its deterrent |
-| **Tectuktitlay** | House Tsalaxa (Draj) | **Broken** — a diminished figurehead paraded at festivals; Tsalaxa's spies matter more than its dragon now |
-| **Andropinis** | House Wavir (Balic) | **Banished** — Wavir deposed its own dragon and chose commerce; the richest house has no army-leader, on purpose |
+| **Dragon** | Defiler-psion metamorphosis | An engine of appetite and war — power ripped from land and minds |
+| **Avangion** | Preserver-psion metamorphosis | The luminous guardian — power grown, never taken |
+| **Avatar** | The [Way of the Unseen Mind](../../Campaign/Plot-Threads/Spicy-Jak.md) | The self as transparent instrument — power that takes nothing at all |
 
-**The strategic math:** three houses hold living dragons (Stel, Shom, Inika); four do not (Wavir, Tsalaxa, Vordon, M'ke) — and the dragonless four are, not coincidentally, the houses that lean hardest on gold, spies, shadow armies, and patience. Dragon-to-dragon deterrence is why no house war goes total; the Guild's neutrality is why no dragon marches far.
+**An ascended champion is not a duelist. It is a deterrent.** Ascended beings never take the sand against each other — the one time it happened, **Hamanu erased the city of Yaramuke**, poisoned its oasis black, and gave the continent its permanent lesson: the ruins sit on the Urik–Raam road as the accord's memorial. Since Yaramuke, the ascended exist to make total war unthinkable, the way their originals once made Rajaat's return unthinkable. A house with an ascended champion cannot be conquered. A house without one negotiates accordingly.
+
+### The roster
+
+| Champion | Serves | State & status |
+| :--- | :--- | :--- |
+| **Hamanu, the Lion** | House Stel (Urik) | **Ascended — Dragon.** The great living deterrent; disciplined, patient, terrifying; Urik's sealed borders are his preference. Leads Stel's legions in name; has not needed to fight in centuries |
+| **The Shadow King** | House Shom (Nibenay) | **Ascended — Dragon**, half-withdrawn into mystery; the one force holding rotting Shom together |
+| **The Oba** | House Inika (Gulg) | **Ascended — state debated.** Her forest templars worship her as an **Avangion**; her rivals mutter Dragon. Nobody has tested the question |
+| **Kalak** | House Vordon (Tyr) | **Slain — outside the rites.** The continent's unsolved crime; Vordon rebuilds in shadow and shame |
+| **Abalach-Re** | House M'ke (Raam) | **Dead** — and Raam burns without its deterrent |
+| **Tectuktitlay** | House Tsalaxa (Draj) | **Broken** — shattered in a champions' duel generations ago; paraded at festivals as a figurehead. Tsalaxa's spies do the work its champion cannot |
+| **Andropinis** | House Wavir (Balic) | **Banished** — Wavir renounced the institution itself, banished its champion, and bet everything on commerce. The richest house fights every War of Champions with hired blades — and wins more than it should |
+
+**The strategic math:** three houses hold ascended champions (Stel, Shom, Inika); four do not (Wavir, Tsalaxa, Vordon, M'ke) — and the champion-less four are, not coincidentally, the houses that lean hardest on gold, spies, shadow armies, and hired arena talent. Ascended deterrence is why no house war goes total; the Guild's rates are why none goes long.
+
+**The arena ladder** (deep source: *Complete Gladiator's Handbook*): slave → gladiator → freed name → house blade → **named Champion** — and at the far end of a long life of power, perhaps ascension. It is the only ladder on Aerun that reaches from the bottom of the pyramid to the top, which is why every city roars for the games: everyone in the stands is watching the one road out.
 
 ## The seven cities and their families
 
 City = family seat; the family rules it outright. Full dossiers, banners, and feuds: [The Merchant Houses](../Factions/The-Merchant-Houses.md).
 
-| City | Ruling Family | Dragon | Character |
+| City | Ruling Family | Champion | Character |
 | :--- | :--- | :--- | :--- |
 | **Tyr** (NW) | Vordon | *(Kalak, slain)* | Iron mines the whole ring needs; free-city veneer over Vordon's rebuilding |
-| **Urik** (SW) | Stel | Hamanu | The war-city: fortress walls, mercenary legions, sealed borders |
+| **Urik** (SW) | Stel | Hamanu (Dragon) | The war-city: fortress walls, mercenary legions, sealed borders |
 | **Raam** (NE) | M'ke | *(Abalach-Re, dead)* | Teeming sprawl at the silt's edge, half in civil war; M'ke fortified and waiting |
 | **Draj** (N) | Tsalaxa | Tectuktitlay *(broken)* | Warrior-theocracy theater run by spymasters; hemp, grain, blood festivals |
-| **Nibenay** (E) | Shom | The Shadow King | Ancient, decadent, dragonfly-bannered; wealth without hunger |
-| **Gulg** (SE) | Inika | The Oba | Forest city inside a living hedge; small, agile, fanatically loyal |
+| **Nibenay** (E) | Shom | The Shadow King (Dragon) | Ancient, decadent, dragonfly-bannered; wealth without hunger |
+| **Gulg** (SE) | Inika | The Oba (ascended) | Forest city inside a living hedge; small, agile, fanatically loyal |
 | **Balic** (S) | Wavir | *(Andropinis, banished)* | The great harbor and silt-fleet; merchant democracy, abolitionist, beloved |
 
 **The lesser towns** (client settlements, no family seats): Blackguard, Osgaker, Hollowstorm, Amber Valley, and **Eldorado** — the rim town, last provisions before the interior silt.
@@ -82,7 +109,7 @@ Terrain, siting, populations, and forces per city — the map-builder's referenc
 - **North & South Ledopolus** — dwarven twin villages laboring to bridge the estuary past **Ledo Island**, whose giants tear the causeway down as fast as it rises.
 - **The Mekillot Mountains** — an isolated range near the southern coast; **Salt View**, a boisterous ex-slave tribe village famous for its theater troupes, hides on its eastern face.
 - **The Dragon's Bowl** — a cliff-walled crater north of Urik holding **Lake Pit**, the region's largest true water (28 sq mi, pristine, druid-guarded).
-- **The ruins of Yaramuke** — a city Hamanu destroyed; its oasis, **Black Waters**, is magically poisoned and spectre-haunted. Halfway between Urik and Raam.
+- **The ruins of Yaramuke** — the city Hamanu erased the one time an ascended champion made war; its oasis, **Black Waters**, is magically poisoned and spectre-haunted. Halfway between Urik and Raam — **the accord's memorial**.
 - **Walis** — a hidden village atop a 500-ft rock spire in the Ringing Mountain foothills, sitting on the continent's **only gold mine**.
 - **Ogo** — the halfling chief's step-pyramid village beneath the forest canopy; visitors survive only under Urik's escort.
 - **Bitter Well** — a sweet-water oasis on the scrub plains that caravans drain faster than it refills.
@@ -98,18 +125,19 @@ Terrain, siting, populations, and forces per city — the map-builder's referenc
 The Spacing Guild of Aerun. Nobody else can build, crew, or feed the **mekillot argosies** — rolling fortress land-trains the size of small villages — or the **silt-crawlers** that survive the interior crossings. The Guild's law is older than any family charter:
 
 - **Carry everyone or no one.** The Guild serves all seven families, Jak's temples, and any coin that meets the rate. Refusing one customer means the customer-refusing precedent — so it never does, and never has to.
-- **No armies aboard without every rate paid triple.** War freight is legal and ruinous — the Guild's quiet veto on conquest.
+- **No armies aboard without every rate paid triple.** War freight is legal and ruinous — the Guild's quiet veto on conquest, and the economic bedrock of the **War of Champions**: it is always cheaper to send one fighter than a legion.
+- **Stakes-holder of the rites.** Challenge stakes in a War of Champions are lodged with the Guild, which notarizes, holds, and delivers. Nobody argues with the freight-master.
 - **An embargo is a death sentence.** The one city the Guild ever cut off is a ruin with a cautionary name. (Which town? Open lore — Blackguard's grimness wants an origin story.)
 - **What the Guild wants** is an open design question with teeth: mere profit, or — like its Dune model — a private dependency of its own. The argosy crews consume more Spice than anyone on Aerun. Nobody audits the Guild.
 
 ## Powers and orders (the supporting cast)
 
-- **House templars** — each family's civil service, secret police, and (where a dragon lives) dragon-cult officer corps. Where the dragon died, the templars became something desperate.
-- **The [Order of the Sere](../Factions/The-Order-of-the-Sere.md)** — the sworn defiler order: undertakers keeping the Green Age failsafe. The dragons are the defiling art's apex; the Sere its oath. Deep source: *Defilers and Preservers*.
-- **The Veiled Alliance** — preserver cells in every city, working toward restoration, hunted by templars. Natural allies of any cure.
+- **House templars** — each family's civil service, secret police, and (where a champion lives) champion-cult officer corps. Where the champion died, the templars became something desperate.
+- **The [Order of the Sere](../Factions/The-Order-of-the-Sere.md)** — the sworn defiler order: undertakers keeping the Green Age failsafe. The first Champions were theirs in spirit — the Sere keep the *oath* form of the art whose *war* form the ascended embody. Deep source: *Defilers and Preservers*.
+- **The Veiled Alliance** — preserver cells in every city, working toward restoration, hunted by templars. Natural allies of any cure — and the quiet keepers of the **Avangion** road.
 - **Elemental priesthoods** — clerics of Air, Earth, Fire, Water ([5e domains](../../Game-Mechanics/Dark-Sun-5e-Rules.md)); quietly despairing keepers of a dying ecology's shrines.
 - **The [Sandwalkers](../Factions/The-Sandwalkers.md)** — the wardens: silt-shoal nomads keeping the thousand-year watch over the [First Source](../../Campaign/Plot-Threads/The-First-Source.md) beneath the Sea of Silt. [Harah Tabr](../../NPCs/Harah-Tabr.md) is theirs. Outside the triad entirely — which is their power.
-- **The psionic academies (the Way)** — every city trains the Will; the desert's masterless orders (the **Way of the Unseen Mind**) teach what the cities won't: the [avatar road](../../Campaign/Plot-Threads/Spicy-Jak.md). Deep source: *The Will and the Way*.
+- **The psionic academies (the Way)** — every city trains the Will; the desert's masterless orders (the **Way of the Unseen Mind**) teach what the cities won't: the [Avatar road](../../Campaign/Plot-Threads/Spicy-Jak.md) — the one ascension no house has ever owned.
 
 ## The land and its words
 
@@ -126,16 +154,16 @@ The Spacing Guild of Aerun. Nobody else can build, crew, or feed the **mekillot 
 ## The social pyramid
 
 1. **Jak** — the Emperor, far away and never far enough
-2. **The seven families** — the cities, the wells, the law; **their dragons** — the armies
+2. **The seven families** — the cities, the wells, the law; **their Champions** — the court and the deterrent
 3. **The Caravan Guild** — beside the pyramid, not in it; everything moves at their rate
 4. **Free citizens** — tenuous liberty, one bad season from the block
-5. **Slaves** — the economic foundation; the **arena** is the only ladder up (deep source: *Complete Gladiator's Handbook*) — except in Wavir's Balic, which pays wages and is hated for it
+5. **Slaves** — the economic foundation; the **arena ladder** is the only road up (deep source: *Complete Gladiator's Handbook*) — and it runs, in principle, all the way to Champion. Except in Wavir's Balic, which pays wages and is hated for it
 
 ## Relationships that drive stories
 
-- **Family ↔ family:** the permanent shadow war — spies, tariffs, arranged marriages, poisoned caravans. Wavir–Tsalaxa is the cold war everyone else navigates.
-- **Family ↔ dragon:** who really holds the leash? Stel commands Hamanu the way one commands weather. Inika *worships* the Oba. Wavir banished its dragon and sleeps badly.
-- **Families ↔ the Guild:** everyone resents the rates; nobody moves without them; every generation one house tries to build its own argosies and is quietly economically destroyed.
+- **Family ↔ family:** the permanent shadow war — spies, tariffs, arranged marriages, poisoned caravans — **settled, when it must be settled, by the War of Champions.** Wavir–Tsalaxa is the cold war everyone else navigates.
+- **Family ↔ Champion:** who really holds the leash? Stel commands Hamanu the way one commands weather. Inika *worships* the Oba. Wavir banished its champion and hires its wars out — and sleeps badly.
+- **Families ↔ the Guild:** everyone resents the rates; nobody moves without them; the Guild holds every challenge-stake; every generation one house tries to build its own argosies and is quietly economically destroyed.
 - **The triad ↔ Jak:** the families coalesce into a Landsraad-style [merchant alliance](../../Campaign/Plot-Threads/The-Merchant-Alliance.md) against the southern Emperor's reach — united outward, knives inward. His restraint is policy, not weakness; their alliance is insurance against the day the policy changes.
 - **Everyone ↔ the silt:** the interior is the sea no one owns; the Sandwalkers tolerate crossings and forbid one place only — and the campaign knows what lies there.
-- **The campaign's braid:** a working cure in the Scarlands ([Return to the Ship](../../Adventures/Return-to-the-Ship.md)) would end the wardenship, transform the Spice economy, and hand whoever delivers it more leverage than any dragon — every entity in this glossary has an opinion about that.
+- **The campaign's braid:** a working cure in the Scarlands ([Return to the Ship](../../Adventures/Return-to-the-Ship.md)) would end the wardenship, transform the Spice economy, and hand whoever delivers it more leverage than any Champion — every entity in this glossary has an opinion about that.
