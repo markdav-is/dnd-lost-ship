@@ -16,6 +16,8 @@ The silt fills a **Dead Sea-style depression** — the bed of the continent's mu
 | The arms | Shallower: **Draj mud-shelf** ~−100 ft · **Forked Tongue Estuary** ~−300 ft · **Raam arm** ~−400 ft |
 | The deeps | Unknown. [Veiled](../../Campaign/Plot-Threads/The-First-Source.md). Do not chart them; you can't |
 
+**Orientation (per the Aerun Atlas):** unlike Athas — where the silt lies east of the cities — Aerun's silt mass sits **center-north** of the continent, and the widest living band with the great ocean front runs along the **south**. The continental rule of thumb: **silt to the north, ocean to the south.** Per city: **Balic** (south coast) faces ocean south, silt north up the estuary — the rule exactly. **Raam** (northeast coast) inverts locally: ocean on its northeast face, the silt arm at its southwest back. **Draj** (north coast) is pinched between the two: ocean a few miles north behind it, its mud-shelf arm spreading south toward the deeps. **Tyr and Urik** keep the silt at their eastern backs beyond the mountains; **Nibenay and Gulg** at their western backs beyond the Badlands.
+
 The silt itself is powder finer than flour — it **flows like water and drowns like water**. A person sinks; a mekillot sinks slower; nothing swims. Crossing means Guild **silt-crawlers**, Balic-built **silt skimmers and schooners** (psionically buoyed), giant-wading channels, or the [Sandwalkers'](../Factions/The-Sandwalkers.md) secret **shoals** — ridges of firmer sediment that shift with the seasons and are read like tides.
 
 ## Why it stays dry (the weather engine)
