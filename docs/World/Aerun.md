@@ -40,15 +40,25 @@ Rulers, feuds, the Guild's law, and the Merchant's Code: **[the Glossary](Dark-S
 
 **The lesser towns** (no family seats — client settlements, each a story hook): **Blackguard** (grim north-coast waypoint), **Osgaker** and **Hollowstorm** (west-coast fishing and salvage towns), **Amber Valley** (south-coast caravanserai on the Ring Road), **Eldorado** (the rim town — last provision stop before the silt, all rumors and gold-fever; the classic jumping-off point for a silt-sea expedition).
 
-### 2. The Rim Wall
+### 2. The Rim Wall — the ring of walls and mountains
 
-A massive geological barrier walling the interior — the cliffs where the living coast ends and the silt begins, and the final boundary of civilization. **Beyond the Rim Wall the Aura network fails completely**: Jak is blind to the entire interior. Coastal citizens consider everything beyond it uncrossable void. **Eldorado** sits at the wall's northwestern edge — the traditional crossing point.
+The island is **walled all the way around**: a continuous ring of mountains and cliff-faces standing between the living coast and the raised interior. From the coastal ring you look **up** at it everywhere — but the wall is not uniform, and its variation is the continent's whole logic:
 
-### 3. The Tablelands and the Sea of Silt
+- **The high stretches:** where the old coastal ranges merge into the wall — the **Ringing Mountains** behind Tyr and Urik, the **Badlands** massif behind Nibenay and Gulg — the crests tower **+4,000–6,000 ft**, *well above the silt plateau behind them*: true mountains with the dead sea lapping at their inland shoulders. Iron, obsidian, and gold live in these heights.
+- **The typical wall:** elsewhere the rim runs **~+2,200 ft** — a ~2,000-ft climb from the coastal ring, with the silt surface (~+1,800 ft) just **300–500 ft below the crest** on the inner side.
+- **The low gaps — the portage saddles:** at a few places the rim dips to **mere hundreds of feet above the silt**, and the gray spills toward the coast in frozen lobes. These gaps are why the portage cities exist where they do: **Raam's arm** in the northeast and **Balic's estuary channel** in the south are the two great lows, and thin **silt-falls** smoke over every lesser dip when the wind runs.
 
-Between the wall and the silt lie the transitional lands (per the map): the **Badlands** massif in the east behind Nibenay and Gulg — rust-red broken country — and stony barrens behind Tyr and Urik.
+**Beyond the Rim Wall the Aura network fails completely**: Jak is blind to the entire interior. Coastal citizens consider everything beyond it uncrossable void. **Eldorado** sits at a high northwestern pass — the old prospectors' crossing point, and the worst possible direction to enter from (see below).
 
-The center is the **Sea of Silt**: a continent-heart ocean of powder-fine gray dust — the residue of the Green Age defiling, land unmade to its mineral ghost. It flows like water, drowns like water, and swallows everything heavier than a Guild silt-crawler. Violent silt-storms, absolute water scarcity, entirely off the grid. **Silt horrors** hunt beneath the surface; the **great worms** swim its deeps; and the [Sandwalkers](Factions/The-Sandwalkers.md) — who alone read its currents and know its walkable shoals — keep their thousand-year watch upon it. Full systems reference — heights, weather, the spore-worm-Spice cycle, portage mechanics: **[Ecology of the Silt Sea](Dark-Sun/The-Silt-Sea.md)**.
+### 3. The Sea of Silt — the dead sea on the roof
+
+Behind the wall, the interior is the **Sea of Silt**: the bed of the Green Age's highland heart-sea, unmade in the defiling — a continent-heart ocean of powder-fine gray dust at **~+1,800 ft**, dry because it is high, higher than everything except the mountain crests. It flows like water, drowns like water, and swallows everything heavier than a Guild silt-crawler. Violent silt-storms, absolute water scarcity, entirely off the grid.
+
+- **The shipping lanes:** the Guild runs marked **silt lanes between Raam and Balic** — skimmer convoys crossing the sea from the northeastern portage to the southern one, cutting the continent's diagonal in a fraction of the Ring Road's time. The lanes hug the **eastern and southern reaches**, staked with bone-and-obsidian channel markers, patrolled by the wardens' sufferance, and priced like the privilege they are. Harvest shoals branch off the lanes; so do the wrecks of everyone who cut a corner.
+- **The Deeps — northwest, and never:** the sea's **northwestern reach** is where the lanes do not go. Charts end. Markers stop. The [Sandwalkers](Factions/The-Sandwalkers.md) name no reason and permit no route, and travelers who cross anyway remember only empty gray — [the Veil](../Campaign/Plot-Threads/The-First-Source.md) holds there, over whatever the silt was made to bury. That the high Eldorado pass looks straight out over the Deeps is a joke the prospectors never get to appreciate.
+- **Silt horrors** hunt the arms and shallows; the **great worms** swim the open sea and feed the Spice-cycle; the [Sandwalkers](Factions/The-Sandwalkers.md) alone read the currents and walk the shoals, keeping their thousand-year watch.
+
+Full systems reference — heights, weather, the spore-worm-Spice cycle, portage mechanics: **[Ecology of the Silt Sea](Dark-Sun/The-Silt-Sea.md)**.
 
 ## Magic: preservers and defilers
 
