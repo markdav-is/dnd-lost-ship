@@ -32,22 +32,6 @@ Image-generation prompts for the new Aerun map set. The continent prompt is firs
 >
 > **MOOD:** sun-bleached and majestic; a living green ring of commerce hugging the shores of an island crowned by a vast dead gray table — and faint wakes of something enormous moving beneath the dust, subtle enough to miss.
 
-## The control base (use this instead of arguing with the model)
-
-`assets/aerun_control_base.svg` (+ `.png`, 2000×1500) is a **flat-color elevation diagram** of the whole continent: teal ocean → green coastal lowland ring → ochre Rim Wall cliff band → **pale-gray plateau top (the Sea of Silt)**, with the Prong lobe, both spill-ramps, the Ring Road, the silt lane, the Crescent Forest arc, all twelve settlements, and every lowland landmark in its correct position.
-
-**Why:** text prompts cannot reliably convey *which surface is higher* — that is why the plateau kept rendering as a crater or lake. Handing the model the geography as an image removes the guesswork; it only has to paint.
-
-**How to use it:**
-
-- **img2img / image-to-image:** feed the PNG at **denoise ~0.5–0.65** with the prompt below. Low enough to keep the landmasses and placements, high enough to replace the flat colors with painted cartography.
-- **ControlNet / reference / style-transfer:** use the PNG as the structure input, any approved Aerun map (`Aerun_Atlas.png`, the city maps) as the style reference.
-- **Editing the base:** the SVG is plain text — coordinates, colors, and labels are all editable, and it re-renders to PNG in one command. Adjust it rather than re-prompting when geography changes.
-
-**Prompt to pair with the control image:**
-
-> Repaint this elevation diagram as a finished fantasy atlas map in the style of a premium D&D campaign-setting poster. Keep every landmass shape, coastline, city dot, road, and label position exactly where they are. Translate the flat colors into painted terrain: teal → textured ocean with sailing ships; green → living lowlands (farmland, scrub, forest where marked); **ochre band → a tall, rendered CLIFF WALL with vertical striations, buttresses, and scree fans, casting shadow outward onto the green**; **pale gray → the flat, bright, dead-level TOP of that plateau, a matte dust plain seen from above — it is the highest surface on the map**. Gray meets the TOP edge of the cliffs; green meets the BOTTOM. Add mountain relief where triangles are marked (peaks taller than the plateau), a smoking volcano at the Black Crown, gray dust-falls spilling over the rim notches, and painted city icons at the dots. Weathered parchment palette, ornate compass rose, serif labels. Do not turn the gray into water, a lake, a crater, or a lowland.
-
 ## Iteration notes
 
 - If the generator fights the gray silt (defaults to sand), lead with: "The interior is GRAY DUST, the color of ash and bone — not a sand desert."
