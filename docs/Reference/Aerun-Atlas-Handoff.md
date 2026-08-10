@@ -4,6 +4,12 @@
 
 *Written after the v6–v11 generation session. Read this before attempting another atlas generation pass.*
 
+> **Canon updates since this was written** (see [Aerun Map Prompts](Aerun-Map-Prompts.md) for the current prompts and revision brief):
+> - The southern **"silt finger"** is superseded — the plateau edge now **sweeps** from Raam down the eastern coast to Balic in one long arc (no peninsula, no pointed lobe).
+> - The wall **grades down going south**, reaching the **Balic Saddle** at only two or three hundred feet — Balic sits *in a gap*, not at the foot of a cliff.
+> - The **Ringing Mountains run the entire west coast**, and the **prevailing winds always blow from the west** (the rain-shadow explanation).
+> - **Draj's stone causeway is canon** — the wiki has it as the city's whole defense. This page's "no causeway" note was a workaround for a *rendering* fault: the generator kept drawing the causeway running out into the silt sea. The fix is direction, not deletion — **the causeway runs landward, from the Ring Road on firm ground across the mudflats to the city gate, at sea level. It never touches the silt and never climbs the wall.**
+
 ## The best version so far
 
 **`assets/Aerun_Atlas_v10.png`** — the closest we got. It has:
