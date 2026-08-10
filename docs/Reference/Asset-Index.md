@@ -81,7 +81,7 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 
 | File | Subject | Embedded at |
 | :--- | :--- | :--- |
-| [Aerun_Atlas.png](../../assets/Aerun_Atlas.png) ⭐ **canonical** | **The approved Aerun Atlas — "The Living Coast"**: Sea of Silt interior, Rim Wall, Ring Road with argosies, all seven cities, lesser towns, and Wanderer's Journal landmarks | [Aerun](../World/Aerun.md), [City Map Roster](Aerun-City-Map-Roster.md) |
+| [Aerun_Atlas.png](../../assets/Aerun_Atlas.png) ⭐ **FINAL** | **The approved Aerun atlas** — plateau, Balic Saddle, Long Reach lane with its three waystations, west-coast Ringing Mountains, Yaramuke + Black Oasis | [Aerun](../World/Aerun.md), [Map Prompts](Aerun-Map-Prompts.md) |
 | [scarlands_completed_map.png](../../assets/scarlands_completed_map.png) ⭐ new | **The revised Scarlands regional map** — Grønnfjord, Foggy Fjord, Fjord Village, Horseshoe Quarry, Frostwatch Hold, **The Lost Ship** marked in the Barrier Peaks | [The Scarlands](../World/The-Scarlands.md) |
 | [Tyr_City.png](../../assets/Tyr_City.png) · [Draj_City.png](../../assets/Draj_City.png) · [Raam_City.png](../../assets/Raam_City.png) · [Nibenay_City.png](../../assets/Nibenay_City.png) · [Gulg_City.png](../../assets/Gulg_City.png) ⭐ approved | **Aerun city maps 1–5** — Tyr (Iron City), Draj (Mudflat City), Raam (Silt-Shelf Metropolis), Nibenay (Bubbling Springs), Gulg (Thorn City) | [City Map Roster](Aerun-City-Map-Roster.md) |
 | [aerun_map.png](../../assets/aerun_map.png) ⭐ current | **The revised Aerun campaign map** — Dark Sun seven + legacy towns (Blackguard, Osgaker, Hollowstorm, Amber Valley, Eldorado), Rim Wall, Ring Road, Sea of Silt, Badlands, Deep Desert | [Aerun](../World/Aerun.md) |

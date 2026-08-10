@@ -12,7 +12,7 @@
 
 ## The best version so far
 
-**`assets/Aerun_Atlas_v10.png`** — the closest we got. It has:
+**`assets/Aerun_Atlas.png`** (the final; the numbered drafts including v10 have been deleted) — the version this page was written against had. It has:
 - Correct mesa/plateau geography: cliff faces pointing outward, silt on top as high ground
 - The southern silt finger/point pressing down toward Balic (correct shape)
 - Balic correctly scaled and at the cliff base
