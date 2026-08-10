@@ -90,6 +90,10 @@ The Sea of Silt is the **scar of a cure**. During the Green Age the **[First Sou
 
 Three months ago Aerun's primal spirits began going **silent** — the Defiling Silence. [Harah Tabr](../NPCs/Harah-Tabr.md) followed it south to the Scarlands and recognized the Barrier Peaks infection at once: a **second source**, in a land with no worms and no silt to drown it. The party is unknowingly fighting the war Aerun has fought for millennia.
 
+## The Gazetteer — a player-facing guide
+
+Every labeled point on the atlas has a **spoiler-free visitor's-guide entry** written for handing to players: **[A Traveler's Gazetteer of Aerun](Aerun/Gazetteer.md)** — the seven cities, nine towns and outposts, nine wild places, and the silt country, each with practical factoids, local color, and the kind of warnings a caravan master would actually give. Nothing on those pages spoils the Champions, the Veil, the Spice, or the First Source.
+
 ## Using Aerun at the table
 
 - **Source shelf:** the **[Dark Sun section](Dark-Sun.md)** — conversion rules, the 2e library (Wanderer's Journal, Defilers and Preservers, The Will and the Way, Gladiator's Handbook), and the [Glossary](Dark-Sun/Glossary.md) of families, cities, dragons, and the Guild.
