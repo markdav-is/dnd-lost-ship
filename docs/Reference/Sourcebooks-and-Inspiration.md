@@ -2,7 +2,7 @@
 
 # Sourcebooks & Inspiration
 
-The published works in `/assets`, what each contributes, and how it maps into Vermoon. These are copyrighted books — this wiki references them; it does not reproduce them.
+The published works in `/assets`, what each contributes, and how it maps into Vermoon. These are copyrighted books — this wiki references them; it does not reproduce them. For the complete owned-vs-missing checklist of the Dark Sun product line, see the [Dark Sun Library](Dark-Sun-Library.md).
 
 ## The foundation
 

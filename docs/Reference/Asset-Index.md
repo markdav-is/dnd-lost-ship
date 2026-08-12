@@ -46,6 +46,8 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 
 ## Published sourcebooks
 
+See the [Dark Sun Library](Dark-Sun-Library.md) for the complete published-canon checklist — what's owned here vs. still missing.
+
 | File | Book |
 | :--- | :--- |
 | [tsr09033 - S3 - Expedition to the Barrier Peaks (1).pdf](../../assets/tsr09033%20-%20S3%20-%20Expedition%20to%20the%20Barrier%20Peaks%20%281%29.pdf) | **S3: Expedition to the Barrier Peaks** (AD&D) — the foundation |
