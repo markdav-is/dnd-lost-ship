@@ -4,7 +4,7 @@
 
 The complete catalog of published **Dark Sun** works checked against the PDFs in [`/assets`](../../assets). ✅ = in the library (linked to the file). Missing works link to a storefront or archive. DriveThruRPG and DMs Guild share product IDs — swap the domain on any link to use the other store. See [Sourcebooks & Inspiration](Sourcebooks-and-Inspiration.md) for how the owned books map into the campaign, and the [Asset Index](Asset-Index.md) for the full file listing.
 
-**Holdings at a glance:** AD&D 2e TSR line **4 of 32** · D&D 4e line **4 of 7** (plus none of the magazine content) · novels **0 of 16** · video games **0 of 3**.
+**Holdings at a glance:** AD&D 2e TSR line **4 of 32** · D&D 4e line **5 of 7** (plus none of the magazine content) · athas.org official free releases **27 of 27** ✅ · novels **0 of 16** · video games **0 of 3**.
 
 ## The AD&D 2e TSR line (1991–1996)
 
@@ -58,12 +58,37 @@ The complete catalog of published **Dark Sun** works checked against the PDFs in
 | Dark Sun Campaign Setting | 2010 | Hardcover / PDF | ✅ [PDF](../../assets/DD4_DarksunCampaign.pdf) + [poster map](../../assets/DD4_Darksun_map.pdf) |
 | Dark Sun Creature Catalog | 2010 | Hardcover / PDF | ✅ [PDF](../../assets/Dark_Sun_Creature_Catalog_%284e%29.pdf) |
 | Marauders of the Dune Sea | 2010 | Adventure | ✅ [PDF](../../assets/DD4_MauraudersDuneSea.pdf) |
-| Fury of the Wastewalker (D&D Encounters) | 2010 | Organized-play adventure | ✅ [Ch 1](../../assets/DD4_FuryofWastewalker_Chap1.pdf) · [Ch 2](../../assets/DD4_FuryofWastewalker_Chap2.pdf) · [Ch 3](../../assets/DD4_FuryofWastewalker_Chap3.pdf) · maps [2A](../../assets/DD4_FuryofWastewalker_Map2A.pdf) [2B](../../assets/DD4_FuryofWastewalker_Map2B.pdf) [2C](../../assets/DD4_FuryofWastewalker_Map2C.pdf) — also free at [athas.org](https://athas.org/products/fotw) |
-| Bloodsand Arena (Free RPG Day) | 2010 | Intro adventure | [archive.org search](https://archive.org/search?query=Bloodsand+Arena+Dark+Sun) |
-| Ashes of Athas | 2011–2013 | Organized-play campaign, 21 adventures | Free at [athas.org](https://athas.org/products/AoA) |
+| Fury of the Wastewalker (D&D Encounters) | 2010 | Organized-play adventure | ✅ [Ch 1](../../assets/DD4_FuryofWastewalker_Chap1.pdf) · [Ch 2](../../assets/DD4_FuryofWastewalker_Chap2.pdf) · [Ch 3](../../assets/DD4_FuryofWastewalker_Chap3.pdf) · maps [2A](../../assets/DD4_FuryofWastewalker_Map2A.pdf) [2B](../../assets/DD4_FuryofWastewalker_Map2B.pdf) [2C](../../assets/DD4_FuryofWastewalker_Map2C.pdf) — product page at [athas.org](https://athas.org/products/fotw) |
+| Bloodsand Arena (Free RPG Day) | 2010 | Intro adventure | ✅ [adventure](../../assets/Bloodsand%20Arena/Bloodsand%20Arena.pdf) · maps: [Altaruk Bazaar](../../assets/Bloodsand%20Arena/Altaruk%20Bazaar%20Map.pdf), [gladiator training](../../assets/Bloodsand%20Arena/Glad%20Training%20Map.pdf) · [6 pregens](../../assets/Bloodsand%20Arena/Characters) + [3 extras & iconic portraits](../../assets/Bloodsand%20Arena/Extra%20Characters) |
+| Ashes of Athas | 2011–2013 | Organized-play campaign, 21 adventures | By email request via [Alphastream's contact form](https://alphastream.org/index.php/ashes-of-athas/) (free; not directly downloadable) |
 | Dungeon Tiles: Desert of Athas | 2010 | Tiles accessory | Out of print — physical only |
 
 Magazine support (former D&D Insider, not sold anywhere): *The Vault of Darom Madar* (Dungeon #181), *Revenge of the Marauders* (Dungeon #183), *Beneath the Dust* (Dungeon #187), and Dark Sun articles in Dragon #388–390.
+
+## Athas.org official free releases (in library)
+
+[Athas.org](https://athas.org/products?publisher=Athas.org) is WotC-sanctioned to continue the setting; its entire free catalog — mostly D&D 3.5 conversions plus system-neutral lore — was downloaded to [`assets/athas-org/`](../../assets/athas-org) on 2026-08-12 (37 files, 276 MB). ✅ all 27 products.
+
+| Product | Files |
+| :--- | :--- |
+| [Dark Sun 3](https://athas.org/products/ds3) — the core rules conversion | [3.5 rules (2003)](../../assets/athas-org/ds3.20030717.pdf) · [r7](../../assets/athas-org/DS3_r7.pdf) · [**5e core rulebook v8**](../../assets/athas-org/DS3-5e%20Core%20rulebook%20v8-01a.pdf) |
+| [Terrors of Athas](https://athas.org/products/toa) — monster book | [PDF](../../assets/athas-org/ToA.pdf) |
+| [Dregoth Ascending](https://athas.org/products/da) — epic adventure trilogy | [Part 1](../../assets/athas-org/da_chapter1-v2.pdf) · [Part 2](../../assets/athas-org/DA_part_2_v1.1.pdf) · [Part 3](../../assets/athas-org/DA_part3.pdf) · Raam map keys [pre-FY10](../../assets/athas-org/Raam__Pre_FY_10__v2.1_Key.jpg) / [post-FY10](../../assets/athas-org/Raam_Post__FY_10__v2.1_Key.jpg) |
+| [Legends of Athas](https://athas.org/products/loa) — epic legacies | [Main](../../assets/athas-org/Legends_of_Athas_beta_1.pdf) · [Dragon](../../assets/athas-org/dragon-r3.pdf) · [Avangion](../../assets/athas-org/Avangion-r2.pdf) · [Champion of Rajaat](../../assets/athas-org/champion_of_rajaat-r2.pdf) |
+| [Athasian Emporium](https://athas.org/products/ae) — equipment | [PDF](../../assets/athas-org/Athasian_Emporium_beta_1.2.pdf) |
+| [City State of Draj](https://athas.org/products/csod) | [PDF](../../assets/athas-org/CSoD.pdf) |
+| [Trade Lords](https://athas.org/products/tradelords) — merchant houses | [PDF](../../assets/athas-org/Trade_Lords_r2.pdf) |
+| [Faces of the Forgotten North](https://athas.org/products/ffn) — NPCs | [PDF](../../assets/athas-org/Faces%20of%20the%20Forgotten%20North%201-0%20-%20V2a%20Release.pdf) |
+| [Lost Cities of the Trembling Plains](https://athas.org/products/lcottp) | [PDF](../../assets/athas-org/Lost%20Cities%20of%20the%20Trembling%20Plains%20-%20V2%20release.pdf) |
+| [Beyond the Silt Sea: The Anattan Coast](https://athas.org/products/anattan-gazetteer) — gazetteer | [PDF](../../assets/athas-org/Beyond%20the%20Silt%20Sea%20The%20Anattan%20Coast%20Gazetteer%20V1b.pdf) |
+| The Dead Lands quartet: [Secrets](https://athas.org/products/sotdl) · [Terrors](https://athas.org/products/totdl) · [Faces](https://athas.org/products/fotdl) · [Adventures](https://athas.org/products/aitdl) | [Secrets](../../assets/athas-org/Secrets-of-the-Dead-Lands_Official-Release-V2.pdf) · [Terrors](../../assets/athas-org/Terrors_of_the_Dead_Lands_V2-3.pdf) · [Faces](../../assets/athas-org/Faces-of-the-Dead-Lands_V1.pdf) · [Adventures](../../assets/athas-org/Adventures%20in%20the%20Dead%20Lands%20V1-3.pdf) |
+| [Scale, Tail, and Claw](https://athas.org/products/stc) — reptilian peoples | [PDF](../../assets/athas-org/Scale%20Tail%20and%20Claw%20V2-0.pdf) |
+| [Life Shaping Handbook](https://athas.org/products/lsh) — halfling biotech | [PDF](../../assets/athas-org/Life-Shaping_Handook_r1.pdf) |
+| [Wisdom of the Drylanders](https://athas.org/products/wotdl) | [PDF](../../assets/athas-org/WotDLv2.pdf) |
+| [The Crimson Sphere](https://athas.org/products/crimson-sphere) | [PDF](../../assets/athas-org/The%20Crimson%20Sphere_V1-5%20Beta.pdf) |
+| Prestige Class Appendix [I](https://athas.org/products/prc1) / [II](https://athas.org/products/prc2) | [Vol I](../../assets/athas-org/Prestigeclasses3_5-r2.pdf) · [Vol II](../../assets/athas-org/Prestige_Class_Appendix_2_r1.pdf) |
+| Adventures: [The Emissary](https://athas.org/products/emissary) · [Tyrian Conspiracy](https://athas.org/products/tyrianconspiracy) · [The Chthonian Womb](https://athas.org/products/tcw) · [Whispers of the Storm](https://athas.org/products/wots) · [Under a Crimson Sun](https://athas.org/products/rss01) · [Silt Paths of Samarah](https://athas.org/products/rss02) | [Emissary](../../assets/athas-org/The%20Emissary%20Adventure%2035e%20-%20Official%20Release%20V1-1.pdf) · [Tyrian](../../assets/athas-org/TyrianConspiracy-r6.pdf) · [Womb](../../assets/athas-org/The%20Chthonian%20Womb%20-%20v1%20release.pdf) · [Whispers](../../assets/athas-org/Whispers.pdf) · [Crimson Sun](../../assets/athas-org/RSS-01%20Under%20a%20Crimson%20Sun.pdf) (+ [maps zip](../../assets/athas-org/RSS01%20Under%20a%20Crimson%20Sun%20Maps.zip)) · [Samarah](../../assets/athas-org/RSS-02%20Silt%20Paths%20of%20Samarah.pdf) |
+| [Villages of the Wastes](https://athas.org/products/votw) | [zip](../../assets/athas-org/votw_v1.1.zip) |
 
 ## Novels
 
