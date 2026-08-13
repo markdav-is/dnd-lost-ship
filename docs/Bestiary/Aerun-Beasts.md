@@ -19,6 +19,8 @@ deep-linkable per creature, e.g. [tembo](Aerun-Stat-Blocks.md#tembo),
 | **CC4** | Dark Sun Creature Catalog (4e) — best lore write-ups, easy 5e conversion | [Dark_Sun_Creature_Catalog_(4e).pdf](../../assets/Dark_Sun_Creature_Catalog_%284e%29.pdf) |
 | **ToA** | Terrors of Athas (athas.org, 3.5) — deepest roster, 236 pp | [ToA.pdf](../../assets/athas-org/ToA.pdf) |
 | **STC** | Scale, Tail, and Claw (athas.org) — the reptilian peoples in depth | [Scale Tail and Claw V2-0.pdf](../../assets/athas-org/Scale%20Tail%20and%20Claw%20V2-0.pdf) |
+| **MC12** | Terrors of the Desert (2e Monstrous Compendium) — the classics, plus the terrain-keyed random encounter tables for outdoor play | [DDDS_MC_TerrorDesert.pdf](../../assets/DDDS_MC_TerrorDesert.pdf) |
+| **CSS** | City by the Silt Sea — Monstrous Supplement (2e) — silt-region creatures | [DD2_DS_CityBySiltSea_III.pdf](../../assets/DD2_DS_CityBySiltSea_III.pdf) |
 | **WJ** | The original Wanderer's Journal ch. 5 — tone reference | [DDDS_DarkSun_V.pdf](../../assets/DDDS_DarkSun_V.pdf) pp. 84–99 |
 | **MM** | Standard 5e books — noted where a straight reskin works | — |
 

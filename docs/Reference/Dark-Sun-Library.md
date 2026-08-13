@@ -4,7 +4,7 @@
 
 The complete catalog of published **Dark Sun** works checked against the PDFs in [`/assets`](../../assets). ✅ = in the library (linked to the file). Missing works link to a storefront or archive. DriveThruRPG and DMs Guild share product IDs — swap the domain on any link to use the other store. See [Sourcebooks & Inspiration](Sourcebooks-and-Inspiration.md) for how the owned books map into the campaign, and the [Asset Index](Asset-Index.md) for the full file listing.
 
-**Holdings at a glance:** AD&D 2e TSR line **4 of 32** · D&D 4e line **5 of 7** (plus none of the magazine content) · athas.org official free releases **27 of 27** ✅ · novels **0 of 16** · video games **0 of 3**.
+**Holdings at a glance:** AD&D 2e TSR line **11 of 32** · D&D 4e line **5 of 7** (plus none of the magazine content) · athas.org official free releases **27 of 27** ✅ · novels **0 of 16** · video games **0 of 3**.
 
 ## The AD&D 2e TSR line (1991–1996)
 
@@ -13,31 +13,31 @@ The complete catalog of published **Dark Sun** works checked against the PDFs in
 | 2400 | Dark Sun Boxed Set | 1991 | Boxed set | ✅ complete, 6 files: [I](../../assets/DDDS_DarkSun_I.pdf) · [II](../../assets/DDDS_DarkSun_II.pdf) · [III](../../assets/DDDS_DarkSun_III.pdf) · [IV — Rules Book](../../assets/DDDS_DarkSun_IV.pdf) · [V — Wanderer's Journal](../../assets/DDDS_DarkSun_V.pdf) · [VI — maps](../../assets/DDDS_DarkSun_VI.pdf) |
 | 2401 / DS1 | Freedom | 1991 | Flip-book adventure | [DMs Guild](https://www.dmsguild.com/en/product/17178/ds1-freedom-2e) |
 | 2404 / DSR1 | Slave Tribes | 1992 | Accessory | [DMs Guild](https://www.dmsguild.com/en/product/17179/dsr1-slave-tribes-2e) |
-| 2405 / MC12 | Monstrous Compendium: Terrors of the Desert | 1992 | Monstrous compendium | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17180/mc12-monstrous-compendium-dark-sun-appendix-terrors-of-the-desert-2e) |
+| 2405 / MC12 | Monstrous Compendium: Terrors of the Desert | 1992 | Monstrous compendium | ✅ [PDF](../../assets/DDDS_MC_TerrorDesert.pdf) |
 | 2406 / DSQ1 | Road to Urik | 1992 | Flip-book adventure | [DMs Guild](https://www.dmsguild.com/en/product/17181/dsq1-road-to-urik-2e) |
-| 2407 / DSR2 | Dune Trader | 1992 | Accessory | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17182/DSR2-Dune-Trader-2e) |
+| 2407 / DSR2 | Dune Trader | 1992 | Accessory | ✅ [PDF](../../assets/DDDS_DSR2_DuneTrader.pdf) |
 | 2408 | Dragon Kings | 1992 | Hardcover | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17183/index.html) |
 | 2410 / DSQ2 | Arcane Shadows | 1992 | Flip-book adventure | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17184/DSQ2-Arcane-Shadows-2e) |
-| 2411 / DSR3 | Veiled Alliance | 1992 | Accessory | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17185/dsr3-veiled-alliance-2e) |
+| 2411 / DSR3 | Veiled Alliance | 1992 | Accessory | ✅ [PDF](../../assets/DDDS_DSR3_VeiledAlliance.pdf) |
 | 2412 / DSQ3 | Asticlian Gambit | 1992 | Flip-book adventure | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17186/dsq3-asticlian-gambit-2e) |
-| 2413 / DSR4 | Valley of Dust and Fire | 1992 | Accessory | [DMs Guild](https://www.dmsguild.com/en/product/17187/dsr4-valley-of-dust-and-fire-2e) |
+| 2413 / DSR4 | Valley of Dust and Fire | 1992 | Accessory | ✅ [PDF](../../assets/DDDS_DSR4_ValleyDustFire.pdf) |
 | 2416 / DSE1 | Dragon's Crown | 1993 | Adventure (3 flip-books) | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17188/dse1-dragon-s-crown-2e) |
 | 2417 / DSM1 | Black Flames | 1993 | Flip-book adventure | [DMs Guild](https://www.dmsguild.com/en/product/17189/DSM1-Black-Flames-2e) |
 | 2418 | The Ivory Triangle | 1993 | Boxed set | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17190/the-ivory-triangle-2e) |
 | 2419 / CGR2 | The Complete Gladiator's Handbook | 1993 | Accessory | ✅ [PDF](../../assets/2419_CGR2_Complete_Gladiators_Handbook.pdf) |
 | 2420 / DSS1 | City-State of Tyr | 1993 | Accessory | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17192/dss1-city-state-of-tyr-2e) |
-| 2421 / DSM2 | Merchant House of Amketch | 1993 | Flip-book adventure | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17193/dsm2-merchant-house-of-amketch-2e) |
+| 2421 / DSM2 | Merchant House of Amketch | 1993 | Flip-book adventure | ✅ [Player's Book](../../assets/DDDS_DSM2_MrchHouseAmketch_I.pdf) · [DM Book](../../assets/DDDS_DSM2_MrchHouseAmketch_II.pdf) · ["The Gambit"](../../assets/DDDS_DSM2_MrchHouseAmketch_III.pdf) |
 | 2422 / DSS2 | Earth, Air, Fire, and Water | 1993 | Accessory | [DMs Guild](https://www.dmsguild.com/product/17194/DSS2-Earth-Air-Fire-and-Water-2e) |
 | 2423 / DSS3 | Elves of Athas | 1993 | Accessory | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17195/dss3-elves-of-athas-2e) |
 | 2424 / DSM3 | Marauders of Nibenay | 1993 | Flip-book adventure | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17196/dsm3-marauders-of-nibenay-2e) |
 | 2428 / DSE2 | Black Spine | 1994 | Boxed adventure | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17197/dse2-black-spine-2e) |
 | 2430 | Forest Maker | 1994 | Adventure | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17198/forest-maker-2e) |
 | 2431 | The Will and the Way: Psionicists of Athas | 1994 | Accessory | ✅ [PDF](../../assets/DDDS_TheWilltheWay.pdf) |
-| 2432 | City by the Silt Sea | 1994 | Boxed set | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17200/city-by-the-silt-sea-2e) |
+| 2432 | City by the Silt Sea | 1994 | Boxed set | ✅ [Campaign Book](../../assets/DD2_DS_CityBySiltSea_I.pdf) · [Adventure Book](../../assets/DD2_DS_CityBySiltSea_II.pdf) · [Monstrous Supplement](../../assets/DD2_DS_CityBySiltSea_III.pdf) · [reference cards](../../assets/DD2_DS_CityBySiltSea_IV.pdf) |
 | 2433 | Monstrous Compendium Appendix II: Terrors Beyond Tyr | 1995 | Monstrous compendium | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17201/dark-sun-monstrous-compendium-appendix-ii-terrors-beyond-tyr-2e) |
 | 2437 | Thri-Kreen of Athas | 1995 | Accessory | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17202/thri-kreen-of-athas-2e) |
 | 2438 | Dark Sun Campaign Setting, Expanded and Revised | 1995 | Boxed set | [DMs Guild](https://www.dmsguild.com/en/product/17203/dark-sun-campaign-setting-expanded-and-revised-edition-2e) |
-| 2439 | Windriders of the Jagged Cliffs (Wanderer's Chronicle) | 1995 | Accessory | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17204/windriders-of-the-jagged-cliffs-2e) |
+| 2439 | Windriders of the Jagged Cliffs (Wanderer's Chronicle) | 1995 | Accessory | ✅ [PDF](../../assets/DDDS_WindriderofJaggedCliffs.pdf) |
 | 2441 | Beyond the Prism Pentad | 1995 | Accessory | [DriveThruRPG](https://www.drivethrurpg.com/en/product/17205/beyond-the-prism-pentad-2e) |
 | 2444 | Mind Lords of the Last Sea (Wanderer's Chronicle) | 1996 | Boxed set | [DMs Guild](https://www.dmsguild.com/product/17206/Mind-Lords-of-the-Last-Sea-2e) |
 | 2445 | Defilers and Preservers: The Wizards of Athas | 1996 | Accessory | ✅ [PDF](../../assets/DDDS_DefilersPreservers.pdf) |
@@ -45,11 +45,10 @@ The complete catalog of published **Dark Sun** works checked against the PDFs in
 
 ### Suggested next pickups for the Aerun table
 
-- **Dune Trader (DSR2)** — the merchant-house economy; direct fuel for [The Merchant Houses](../World/Factions/The-Merchant-Houses.md).
-- **Veiled Alliance (DSR3)** — underground preserver cells; the shelf behind [The Order of the Sere](../World/Factions/The-Order-of-the-Sere.md).
 - **City-State of Tyr (DSS1)** — the deepest single city treatment for the [Gazetteer](../World/Aerun/Gazetteer.md) city arcs.
-- **Terrors of the Desert (MC12)** — the classic 2e bestiary the fan 5e *Terrors* book reinterprets.
 - **Expanded & Revised boxed set (2438)** — the 1995 re-founding of the setting; pairs with the original boxed set already in the library.
+
+*(2026-08-12 haul: Dune Trader, Veiled Alliance, Valley of Dust and Fire, MC12, Windriders, Amketch, and City by the Silt Sea all acquired — the list above is what remains.)*
 
 ## D&D 4th Edition (2010–2011)
 
