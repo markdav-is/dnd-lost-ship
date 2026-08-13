@@ -7,6 +7,8 @@ Creatures of the campaign, grouped by origin. Entries give the DM-essential summ
 - [Fungal Threats](Bestiary/Fungal-Threats.md) — the russet mold's servants and victims, from vegepygmies to the Mycelial Frost Giant Skeleton.
 - [Ship Constructs](Bestiary/Ship-Constructs.md) — robots and androids, functional and otherwise.
 - [Ship Creatures](Bestiary/Ship-Creatures.md) — the menagerie: alien flora and fauna, stowaways, and predators.
+- [Aerun Beasts](Bestiary/Aerun-Beasts.md) — the desert continent's bestiary by region: caravan beasts, the Tablelands, the Silt Sea, mountains, arena stock.
+- [Aerun Stat Blocks](Bestiary/Aerun-Stat-Blocks.md) — ready-to-run 5e blocks for all of them, deep-linkable per creature, with a CR-sorted encounter index.
 
 ## Threat-at-a-glance
 
