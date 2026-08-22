@@ -8,6 +8,7 @@ DM reference wiki for **The Lost Ship**, a D&D 5e campaign built on *S3: Expedit
 
 - **[Campaign](Campaign.md)** — current status, adventure log, plot threads, and the player characters.
 - **[World](World.md)** — Vermoon, its continents, the Aura network, and the factions moving against each other.
+- **[Aerun Players Guide](Aerun-Players-Guide.md)** — the one **player-safe** section: primer, gazetteer, and the Great Schools, built to hand out as a folder.
 - **[Locations](Locations.md)** — Grønnfjord, Frostwatch Hold, the Barrier Peaks, and Nordkrist's Hold.
 - **[The Lost Ship](The-Lost-Ship.md)** — deck-by-deck DM reference for the crashed vessel, including the Lighthouse.
 - **[NPCs](NPCs.md)** — dossiers for every named character, ally and enemy.
@@ -27,3 +28,4 @@ DM reference wiki for **The Lost Ship**, a D&D 5e campaign built on *S3: Expedit
 | What's the big decision looming? | [The Lighthouse Dilemma](Campaign/Plot-Threads/The-Lighthouse-Dilemma.md) |
 | What is Rajaat? | [The First Source](Campaign/Plot-Threads/The-First-Source.md) |
 | Who is the woman from the desert? | [Harah Tabr](NPCs/Harah-Tabr.md) |
+| What can I hand to players about Aerun? | [Aerun Players Guide](Aerun-Players-Guide.md) |

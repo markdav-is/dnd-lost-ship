@@ -1,4 +1,4 @@
-[World](../World.md) / Aerun <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [World](../World.md) / Aerun <!-- wikidown:breadcrumb -->
 
 # Aerun
 
@@ -80,7 +80,7 @@ Arcane magic on Aerun draws on the life force of the land. **Preservers** take o
 | 4 | **Free citizens** — tenuous freedom |
 | 5 | **Slaves** — the economic foundation; the arena is the only ladder up (except in Wavir's Balic, which pays wages and is hated for it) |
 
-**Peoples of Aerun:** ruthless-adaptable humans · nomadic elf desert-runners (earned reputation for larceny) · hairless single-purpose dwarves ("focus") · **muls** (sterile human-dwarf arena-breeds) · **thri-kreen** mantis pack-hunters of the deep wastes · **half-giant** shock troops. **Ambient Spice exposure gives nearly everyone on Aerun a minor psionic wild talent — and any visitor who takes the Spice unlocks the same** ([conversion rules](Dark-Sun.md)).
+**Peoples of Aerun:** ruthless-adaptable humans · nomadic elf desert-runners (earned reputation for larceny) · hairless single-purpose dwarves ("focus") · **muls** (sterile human-dwarf arena-breeds) · **thri-kreen** mantis pack-hunters of the deep wastes · **half-giant** shock troops. **Ambient Spice exposure gives nearly everyone on Aerun a minor psionic wild talent — and any visitor who takes the Spice unlocks the same** ([conversion rules](Dark-Sun.md)). The trained Will is taught by the five **[Great Schools](Factions/The-Great-Schools.md)** — where other lands raise temples, Aerun raises schools.
 
 ## The secret at the center
 
@@ -90,9 +90,15 @@ The Sea of Silt is the **scar of a cure**. During the Green Age the **[First Sou
 
 Three months ago Aerun's primal spirits began going **silent** — the Defiling Silence. [Harah Tabr](../NPCs/Harah-Tabr.md) followed it south to the Scarlands and recognized the Barrier Peaks infection at once: a **second source**, in a land with no worms and no silt to drown it. The party is unknowingly fighting the war Aerun has fought for millennia.
 
-## The Gazetteer — a player-facing guide
+## Player-facing material
 
-Every labeled point on the atlas has a **spoiler-free visitor's-guide entry** written for handing to players: **[A Traveler's Gazetteer of Aerun](Aerun/Gazetteer.md)** — the seven cities, nine towns and outposts, nine wild places, and the silt country, each with practical factoids, local color, and the kind of warnings a caravan master would actually give. Nothing on those pages spoils the Champions, the Veil, the Spice, or the First Source.
+Everything player-safe about Aerun lives in its own top-level section, built to be handed out as one folder: **[Aerun Players Guide](../Aerun-Players-Guide.md)**.
+
+- **[Aerun — A Primer](../Aerun-Players-Guide/Aerun-A-Primer.md)** — the continent's shape, the triad, the War of Champions, coin, Spice, and a DC 10–25 lore-check table.
+- **[A Traveler's Gazetteer of Aerun](../Aerun-Players-Guide/Gazetteer.md)** — every labeled point on the atlas as a spoiler-free visitor's-guide entry.
+- **[The Great Schools of Aerun — A Traveler's Primer](../Aerun-Players-Guide/The-Great-Schools.md)** — the five psionic academies; the DM version is [The Great Schools](Factions/The-Great-Schools.md).
+
+Nothing in that section spoils the Champions' true nature, the Veil, the Spice, or the First Source.
 
 ## Using Aerun at the table
 

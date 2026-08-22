@@ -1,4 +1,4 @@
-[World](../../World.md) / [Dark Sun](../Dark-Sun.md) / Glossary <!-- wikidown:breadcrumb -->
+[Home](../../Home.md) / [World](../../World.md) / [Dark Sun](../Dark-Sun.md) / Glossary <!-- wikidown:breadcrumb -->
 
 # Dark Sun Glossary (Aerun edition)
 
@@ -169,6 +169,8 @@ The Spacing Guild of Aerun. Nobody else can build, crew, or feed the **mekillot 
 - **An embargo is a death sentence.** The one city the Guild ever cut off is a ruin with a cautionary name. (Which town? Open lore — Blackguard's grimness wants an origin story.)
 - **What the Guild wants** is an open design question with teeth: mere profit, or — like its Dune model — a private dependency of its own. The argosy crews consume more Spice than anyone on Aerun. Nobody audits the Guild.
 
+The Guild's navigators and argosy pilots are trained at its own school in Raam, the **[Hooded Lodge](../Factions/The-Great-Schools.md)** — the only Great School owned by no city, and the one that never releases its graduates.
+
 ## Powers and orders (the supporting cast)
 
 - **House templars** — each family's civil service, secret police, and (where a champion lives) champion-cult officer corps. Where the champion died, the templars became something desperate.
@@ -176,7 +178,7 @@ The Spacing Guild of Aerun. Nobody else can build, crew, or feed the **mekillot 
 - **The Veiled Alliance** — preserver cells in every city, working toward restoration, hunted by templars. Natural allies of any cure — and the quiet keepers of the **Avangion** road.
 - **Elemental priesthoods** — clerics of Air, Earth, Fire, Water ([5e domains](../../Game-Mechanics/Dark-Sun-5e-Rules.md)); quietly despairing keepers of a dying ecology's shrines.
 - **The [Sandwalkers](../Factions/The-Sandwalkers.md)** — the wardens: silt-shoal nomads keeping the thousand-year watch over the [First Source](../../Campaign/Plot-Threads/The-First-Source.md) beneath the Sea of Silt. [Harah Tabr](../../NPCs/Harah-Tabr.md) is theirs. Outside the triad entirely — which is their power.
-- **The psionic academies (the Way)** — every city trains the Will; the desert's masterless orders (the **Way of the Unseen Mind**) teach what the cities won't: the [Avatar road](../../Campaign/Plot-Threads/Spicy-Jak.md) — the one ascension no house has ever owned.
+- **The psionic academies (the Way)** — every city trains the Will through the five **[Great Schools](../Factions/The-Great-Schools.md)**: the **Stillwater Sisterhood** (Nibenay), the **School of Reckoning** (Draj), **the Crag** (Tyr), the **Menders' Hall** (Balic), and the **Hooded Lodge** (Raam — the Guild's, not the city's). The desert's masterless orders (the **Way of the Unseen Mind**) teach what the cities won't: the [Avatar road](../../Campaign/Plot-Threads/Spicy-Jak.md) — the one ascension no house has ever owned.
 
 ## The land and its words
 

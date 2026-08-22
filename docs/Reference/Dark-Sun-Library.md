@@ -1,4 +1,4 @@
-[Reference](../Reference.md) / Dark Sun Library <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [Reference](../Reference.md) / Dark Sun Library <!-- wikidown:breadcrumb -->
 
 # Dark Sun Library
 
@@ -45,7 +45,7 @@ The complete catalog of published **Dark Sun** works checked against the PDFs in
 
 ### Suggested next pickups for the Aerun table
 
-- **City-State of Tyr (DSS1)** — the deepest single city treatment for the [Gazetteer](../World/Aerun/Gazetteer.md) city arcs.
+- **City-State of Tyr (DSS1)** — the deepest single city treatment for the [Gazetteer](../Aerun-Players-Guide/Gazetteer.md) city arcs.
 - **Expanded & Revised boxed set (2438)** — the 1995 re-founding of the setting; pairs with the original boxed set already in the library.
 
 *(2026-08-12 haul: Dune Trader, Veiled Alliance, Valley of Dust and Fire, MC12, Windriders, Amketch, and City by the Silt Sea all acquired — the list above is what remains.)*

@@ -1,4 +1,4 @@
-[Game Mechanics](../Game-Mechanics.md) / Dark Sun 5e Rules <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [Game Mechanics](../Game-Mechanics.md) / Dark Sun 5e Rules <!-- wikidown:breadcrumb -->
 
 # Dark Sun 5e Rules (Players Guide)
 
@@ -38,6 +38,8 @@ From 1st level, **any wizard can choose to defile** as part of casting a wizard 
 **Every Dark Sun character begins with one random psionic wild talent** (roll 3d6 on the table, p. 112) — the rules expression of our canon that ambient [Spice](../Campaign/Plot-Threads/The-First-Source.md) exposure gives nearly everyone on Aerun a minor gift. Wild talents choose CON, INT, WIS, or CHA as their psionic ability (DC = 8 + proficiency + mod). Psion-class characters get their wild talent *in addition* to class talents.
 
 **Table option for the campaign:** PCs raised off-Aerun wouldn't have one — but sustained Spice exposure during an Aerun arc is a natural in-fiction trigger to roll on the table (and the blue-eye stain that comes with heavy use).
+
+How a wild talent escalates into *trained* psionics — the Tested and Schooled layers, the UA Psion chassis, and one published subclass per School — is on **[Psionics and the Great Schools](Psionics-and-the-Great-Schools.md)**.
 
 ## New spells worth knowing (Ch. 7)
 
