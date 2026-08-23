@@ -17,7 +17,7 @@ Common knowledge across Vermoon. A Scarlands fisher, a Taldean factor, and a cle
   - **The Stillwater Sisterhood** ([Nibenay](Gazetteer/Nibenay.md)) — "the Sisters can tell when you lie, and tell you what to do, and you'll do it."
   - **The School of Reckoning** ([Draj](Gazetteer/Draj.md)) — "a Reckoner counts your coin before you've opened the purse; every House keeps one."
   - **The Crag** ([Tyr](Gazetteer/Tyr.md)) — "the best blades on Aerun, and they don't carry swords." Crag duels are to first touch and leave no mark.
-  - **The Menders' Hall** ([Balic](Gazetteer/Balic.md)) — "the healers. They'll treat a slave and a merchant-king in the same room, and they have sworn never to harm." Known by the blue ring around one eye.
+  - **The Menders' Hall** ([Balic](Gazetteer/Balic.md)) — "the healers. They'll treat a slave and a merchant-king in the same room, and they have sworn never to harm." Known by the Seam — the blue stitch-line across the forehead.
   - **The Hooded Lodge** ([Raam](Gazetteer/Raam.md) — but it belongs to the Caravan Guild, not the city) — "the hooded ones at the bow of every silt ship; don't lift the hood."
 - Metal is scarce, heavy, and hot on Aerun. School-trained people fight with bone, obsidian — or nothing at all.
 - Magic is despised on Aerun; psionics are the one power nobody is ashamed of. Spell components get bonded at the city gate. A mind cannot be.
@@ -47,7 +47,7 @@ Roll **Intelligence (History)** for the Schools as institutions, **Wisdom (Insig
 | 15 | The Weirding Step is the Sisterhood's, not the Crag's: Voice and motion together — you are told to halt, and she is already behind you. The Crag is touchy about the difference. | Stillwater |
 | 15 | Reckoners are not mind-readers — they are calculators. Draj's spymasters built the School; the Balic annex counts votes before they are cast. A Reckoner can walk through a gate that confiscates a Master's focus and lose nothing, because a Reckoner is not a Psion. | Reckoning |
 | 15 | The Crag does not teach fencing. It teaches you to hold a construct in your mind — "the Crag" — under blows until the body moves the way the construct already stands. Its blade is drawn from the mind, exists only while the hand closes, and passes every gate on the continent. Several Masters fight blind. | Crag |
-| 15 | The Menders' Oath: a Mender cannot willingly harm a creature that has not harmed them. Break it and you lose the tattoo and every House's door. The blue ring is dye, not Spice — everyone can tell the difference. | Menders |
+| 15 | The Menders' Oath: a Mender cannot willingly harm a creature that has not harmed them. Break it and you lose the Seam — cut out, not inked over — and every House's door. The Seam is dye, not Spice; everyone can tell the difference, and it is the mark of loyalty to the Oath, never to a House. | Menders |
 | 15 | A Mender's scalpel is their own bone — the Hall teaches the body to put out a blade from the forearm. It is the weirdest thing on Aerun, and nobody looks away in time. | Menders |
 | 15 | Navigators do not steer by sight — "silt blinds everyone equally; the difference is what you have left when it does." Under a Master navigator the [Long Reach](Gazetteer/The-Long-Reach.md) takes four days instead of six, and no one aboard can say which day went missing. | Lodge |
 
@@ -89,4 +89,4 @@ Each School is one published subclass, chosen at level 3; nothing is homebrewed.
 | The Menders' Hall | Psion — **Metamorph** |
 | The Hooded Lodge | Psion — **Psi Warper** |
 
-A School's first year — being "Tested" — is a UA **Wild Talent feat** taken in place of your Origin feat, and if you were born on Aerun you also roll once on the 3d6 wild talent table. Entrance requirements, the optional Will and Way table rules, and D&D Beyond setup are on [Psionics and the Great Schools](../Game-Mechanics/Psionics-and-the-Great-Schools.md).
+A School's first year — being "Tested" — is a UA **Wild Talent feat** taken in place of your Origin feat, and if you were born on Aerun you also roll once on the 3d6 wild talent table. A visitor with no wild talent can earn one by going into the desert and asking — see [The Vision Quest](The-Vision-Quest.md). Entrance requirements, the optional Will and Way table rules, and D&D Beyond setup are on [Psionics and the Great Schools](../Game-Mechanics/Psionics-and-the-Great-Schools.md).

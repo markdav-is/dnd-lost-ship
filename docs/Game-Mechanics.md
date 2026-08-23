@@ -10,4 +10,5 @@ Campaign-specific rules the table returns to every session.
 - [Cold & Survival](Game-Mechanics/Cold-and-Survival.md) — Frostwind Crossing hazards and frostbite.
 - [Dark Sun 5e Rules](Game-Mechanics/Dark-Sun-5e-Rules.md) — the Players Guide for the Aerun arc: races, Psion class, **Arcane Defilement**, wild talents, and the *Rejuvenate* spell.
 - [Psionics and the Great Schools](Game-Mechanics/Psionics-and-the-Great-Schools.md) — the UA Psion as the Schools' chassis: the Way / the Will / the Body, one published subclass per School, optional table rules, and D&D Beyond setup.
+- [Running the Vision Quest](Game-Mechanics/Running-the-Vision-Quest.md) — the DM's numbers for the players' Vision Quest: the guides' tests, the crossing, the Spice save, the 3d6 table, and the guides' prices as hooks.
 - [The Counteragent](Game-Mechanics/The-Counteragent.md) — ⚡ the cure as combat kit: serum weapons, dose resolution, the alarm track, and the village-mission template.
