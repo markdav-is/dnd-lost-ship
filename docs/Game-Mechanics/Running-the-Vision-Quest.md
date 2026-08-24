@@ -9,7 +9,7 @@ The players' pages are written so that the prose says *the DM rolls* and never s
 ## Eligibility
 
 - **PCs with no wild talent.** Anyone raised off Aerun. This is the intended case.
-- **Natives** already rolled a talent at creation, and the desert gives once. A native who goes up anyway is asking for something other than a gift; allow a second quest only as a **story cost** (a name in a Lodge ledger, a Sandwalker debt, a price the guide sets that is not on this page). The second talent, if any, should cost the character something the first did not.
+- **Natives** already rolled a talent at creation, and the desert gives once. A native who goes up anyway is asking for something other than a gift; allow a second quest only as a **story cost** (a name in a Silt Academy ledger, a Sandwalker debt, a price the guide sets that is not on this page). The second talent, if any, should cost the character something the first did not.
 - Anyone who already has the **Wild Talent feat** (a School graduate) has been Tested and has a talent; the desert knows.
 
 ## The guides' tests

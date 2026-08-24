@@ -10,7 +10,7 @@ Each guide gives it differently.
 
 **If your guide is the old woman**, she steeps it in the last of the water, over a handful of dried reed that burns in a moment and is gone. The tea is bitter and then it is not bitter at all. She drinks first.
 
-**If your guide is the hooded runaway**, he takes a pinch between two fingers and puts it under his own tongue, the way the Lodge does it at the bow, and then he does the same for you. He does not lower the hood to do this.
+**If your guide is the hooded runaway**, he takes a pinch between two fingers and puts it under his own tongue, the way the Academy does it at the bow, and then he does the same for you. He does not lower the hood to do this.
 
 **If your guide is the kreen hunter**, the hunter gives you the castings raw — the Spice as the desert people find it, crusted and unwashed — and tells you to chew. The hunter chews too. For the pack.
 

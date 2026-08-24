@@ -4,7 +4,7 @@
 
 The rules layer for trained psionics on [Aerun](../World/Aerun.md): the UA 2025 Psion as the chassis, one published subclass per School, and a handful of optional table rules. Lore, charters, secrets, and the full skill trees live on **[The Great Schools](../World/Factions/The-Great-Schools.md)**; the base Players Guide rules (wild talent table, equipment scarcity) on [Dark Sun 5e Rules](Dark-Sun-5e-Rules.md).
 
-> **Design rule (locked 2026-08-21):** we play on D&D Beyond, so the Schools use the **UA Psion exactly as written — spell slots + Psionic Energy Dice — and each School is one published subclass.** Three Schools map to UA Psion subclasses unchanged; the two fighting Schools use the 2024 PHB's psionic subclasses — Reckoning is the **Psi Warrior (Fighter)**, the Crag is the **Soulknife (Rogue)**. Nothing is homebrewed: no alternate fuel systems, no rewrites of published features — flavor, spell electives, and a few optional table rules only. This keeps the Schools legible to players and in line with the official Dark Sun release when it lands.
+> **Design rule (locked 2026-08-21):** we play on D&D Beyond, so the Schools use the **UA Psion exactly as written — spell slots + Psionic Energy Dice — and each School is one published subclass.** Three Schools map to UA Psion subclasses unchanged; the two fighting Schools use the 2024 PHB's psionic subclasses — Reckoning is the **Psi Warrior (Fighter)**, Kenaz is the **Soulknife (Rogue)**. Nothing is homebrewed: no alternate fuel systems, no rewrites of published features — flavor, spell electives, and a few optional table rules only. This keeps the Schools legible to players and in line with the official Dark Sun release when it lands.
 
 **Sources used:** UA 2025 *The Psion* (`assets/UA2025-ThePsion.pdf`) · *The Will and the Way* (2e, `assets/2E Adventure Dark Sun The Will and the Way.pdf`) · Dark Sun Players Guide (AthasCon 5e, `assets/DarkSun_Players_Guide_Athascon_V2.1.md`) · Tasha's psionic subclasses (`sci-classes.md`: Psi Warrior, Soulknife, Aberrant Sorcery, Great Old One) · Dune Awakening skill trees (fextralife wiki). Design draft: `assets/Aerun_GreatSchools.md`.
 
@@ -12,11 +12,11 @@ The rules layer for trained psionics on [Aerun](../World/Aerun.md): the UA 2025 
 
 | School | Subclass | Source book | Charter city (annex) |
 | :--- | :--- | :--- | :--- |
-| **The Stillwater Sisterhood** | Telepath (Psion) | UA 2025 *The Psion* | Nibenay (Raam) |
+| **Stillwater** | Telepath (Psion) | UA 2025 *The Psion* | Nibenay (Raam) |
 | **The School of Reckoning** | Psi Warrior (Fighter) | PHB 2024 | Draj (Balic) |
-| **The Crag** | Soulknife (Rogue) | PHB 2024 | Tyr (Urik) |
+| **Kenaz** | Soulknife (Rogue) | PHB 2024 | Tyr (Urik) |
 | **The Menders' Hall** | Metamorph (Psion) | UA 2025 *The Psion* | Balic (Gulg) |
-| **The Hooded Lodge** | Psi Warper (Psion) | UA 2025 *The Psion* | Raam — the Caravan Guild's, not the city's |
+| **The Silt Academy** | Psi Warper (Psion) | UA 2025 *The Psion* | Raam — the Caravan Guild's, not the city's |
 
 ## Chassis: the UA 2025 Psion
 
@@ -56,14 +56,14 @@ Canon says the Will is a tool used *on* other minds, and that disciplined minds 
 
 1. **Native?** Roll a wild talent (3d6, Players Guide p. 112). Visitors roll after a season or on Spice.
 2. **Tested?** Take a **Wild Talent feat** (UA) in place of your Origin feat — choose from your School's favored two.
-3. **Schooled?** Psion class (UA, as written) → the School's subclass at 3 — or **Fighter → Psi Warrior** for Reckoning, **Rogue → Soulknife** for the Crag. Need Con 13 and Int 13 either way.
+3. **Schooled?** Psion class (UA, as written) → the School's subclass at 3 — or **Fighter → Psi Warrior** for Reckoning, **Rogue → Soulknife** for Kenaz. Need Con 13 and Int 13 either way.
 4. **Another class?** Pick the re-skinned published subclass ([Other classes at the Schools](../World/Factions/The-Great-Schools.md) — Aberrant Sorcery = Spice-burnt, Great Old One = Champion-bound, Psykinetic = unclaimed; the Way of the Unseen Mind is the [Avatar road](../Campaign/Plot-Threads/Spicy-Jak.md), NPC-only unless entered as homebrew) and a Wild Talent feat.
 5. *(Optional table rules)* **The Will:** burn Hit Dice for Energy Dice, Con mod times per long rest; heavy Spice: +2 to Con for that purpose, blue eyes, dependency. **Sight contests sight:** trained minds may spend an Energy Die on a save against another trained mind.
 
-**D&D Beyond setup:** enable the UA Psion; the Schools are published subclasses renamed in the character's notes — Telepath = Stillwater, Metamorph = Mender, Psi Warper = Hooded, **Psi Warrior (Fighter) = Reckoner**, **Soulknife (Rogue) = Crag-sworn**. Wild Talent feats are UA feats. Nothing homebrew.
+**D&D Beyond setup:** enable the UA Psion; the Schools are published subclasses renamed in the character's notes — Telepath = Stillwater, Metamorph = Mender, Psi Warper = Silt Academy, **Psi Warrior (Fighter) = Reckoner**, **Soulknife (Rogue) = Kenaz-sworn**. Wild Talent feats are UA feats. Nothing homebrew.
 
 ## See also
 
 - [The Great Schools](../World/Factions/The-Great-Schools.md) — lore, charters, no-metal kit, skill trees, and the Schools' secrets (DM-facing).
 - [Dark Sun 5e Rules](Dark-Sun-5e-Rules.md) — the Players Guide: wild talent table, Arcane Defilement, equipment scarcity.
-- [The Merchant Houses](../World/Factions/The-Merchant-Houses.md) — who hires the graduates; [The Sandwalkers](../World/Factions/The-Sandwalkers.md) — the only minds besides the Lodge's to feel the Veil.
+- [The Merchant Houses](../World/Factions/The-Merchant-Houses.md) — who hires the graduates; [The Sandwalkers](../World/Factions/The-Sandwalkers.md) — the only minds besides the Silt Academy's to feel the Veil.

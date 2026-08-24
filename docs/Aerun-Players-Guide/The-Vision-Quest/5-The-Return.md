@@ -24,7 +24,7 @@ Your guide's price comes due now. The tube. The first use. The thing you said ou
 
 ## What comes after
 
-The Schools notice. They always notice. You may be on the Ring Road for a month, or a season, and then there is a woman in gray at the next waystation who does not quite look at you, or a man with ink on his fingers who already knows your name and what you paid at the well. A Sister, or a Reckoner, come asking. What they ask is up to them. What you say is up to you.
+The Schools notice. They always notice. You may be on the Ring Road for a month, or a season, and then there is a woman in gray at the next waystation who does not quite look at you, or a man with ink on his fingers who already knows your name and what you paid at the well. A Stillwater, or a Reckoner, come asking. What they ask is up to them. What you say is up to you.
 
 ## Choose
 

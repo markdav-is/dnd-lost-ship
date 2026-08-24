@@ -6,7 +6,7 @@ The psionic academies of the seven cities — five Schools, modeled on the Great
 
 **Player handout:** [The Great Schools of Aerun — A Traveler's Primer](../../Aerun-Players-Guide/The-Great-Schools.md) — the spoiler-free version with common knowledge and a DC 10–25 lore-check table.
 
-**Design rule (locked 2026-08-21):** we play on D&D Beyond, so the Schools use the **UA Psion exactly as written — spell slots + Psionic Energy Dice — and each School is one published subclass.** Three Schools map to UA Psion subclasses unchanged; the two fighting Schools use the 2024 PHB's psionic subclasses — Reckoning is the **Psi Warrior (Fighter)**, the Crag is the **Soulknife (Rogue)**. Nothing is homebrewed.
+**Design rule (locked 2026-08-21):** we play on D&D Beyond, so the Schools use the **UA Psion exactly as written — spell slots + Psionic Energy Dice — and each School is one published subclass.** Three Schools map to UA Psion subclasses unchanged; the two fighting Schools use the 2024 PHB's psionic subclasses — Reckoning is the **Psi Warrior (Fighter)**, Kenaz is the **Soulknife (Rogue)**. Nothing is homebrewed.
 
 **Sources used:** UA 2025 *The Psion* (`assets/UA2025-ThePsion.pdf`) · *The Will and the Way* (2e, `assets/2E Adventure Dark Sun The Will and the Way.pdf`) · Dark Sun Players Guide (AthasCon 5e, `assets/DarkSun_Players_Guide_Athascon_V2.1.md`) · Tasha's psionic subclasses (`sci-classes.md`: Psi Warrior, Soulknife, Aberrant Sorcery, Great Old One) · Dune Awakening skill trees (fextralife wiki). Design draft: `assets/Aerun_GreatSchools.md`.
 
@@ -18,21 +18,21 @@ Five Schools. Each holds a charter in one of the seven cities; the larger cities
 
 | School | Dune model | What it makes | Charter city (annexes) | Subclass |
 | :--- | :--- | :--- | :--- | :--- |
-| **The Stillwater Sisterhood** | Bene Gesserit | Minds that command other minds; bodies under total control | **[Nibenay](../../Aerun-Players-Guide/Gazetteer/Nibenay.md)** (Raam) | **Telepath** |
+| **Stillwater** | Bene Gesserit | Minds that command other minds; bodies under total control | **[Nibenay](../../Aerun-Players-Guide/Gazetteer/Nibenay.md)** (Raam) | **Telepath** |
 | **The School of Reckoning** | Mentats + Troopers | Human calculators, spymasters, war-planners | **[Draj](../../Aerun-Players-Guide/Gazetteer/Draj.md)** (Balic) | **Psi Warrior** (Fighter, PHB 2024) |
-| **The Crag** | Swordmasters of Ginaz | Supernaturally good blades | **[Tyr](../../Aerun-Players-Guide/Gazetteer/Tyr.md)** (Urik) | **Soulknife** (Rogue, PHB 2024) |
+| **Kenaz** | Swordmasters of Ginaz | Supernaturally good blades | **[Tyr](../../Aerun-Players-Guide/Gazetteer/Tyr.md)** (Urik) | **Soulknife** (Rogue, PHB 2024) |
 | **The Menders' Hall** | Suk Inner School | Aerun's clerics: healers sworn never to harm | **[Balic](../../Aerun-Players-Guide/Gazetteer/Balic.md)** (Gulg) | **Metamorph** |
-| **The Hooded Lodge** | Spacing Guild | Silt navigators and argosy pilots | **[Raam](../../Aerun-Players-Guide/Gazetteer/Raam.md)** (the Guild's, not a city's) | **Psi Warper** |
+| **The Silt Academy** | Spacing Guild | Silt navigators and argosy pilots | **[Raam](../../Aerun-Players-Guide/Gazetteer/Raam.md)** (the Guild's, not a city's) | **Psi Warper** |
 
-The names are deliberately plain — Aerunites name things the way they name wells. Each has a street form: a Sister is *a Stillwater*; a graduate of Reckoning is *a Reckoner*; a Crag blade is *Crag-sworn*; a Mender is *a Mender*; a navigator is simply *Hooded*.
+The names are deliberately plain — Aerunites name things the way they name wells. Each School's name doubles as the member's: a graduate of Stillwater is *a Stillwater*; a graduate of Reckoning is *a Reckoner*; a blade of Kenaz is *Kenaz-sworn*; a Mender is *a Mender*; a navigator of the Silt Academy is simply *hooded* — they never say which came first.
 
 ### Why these names
 
-- **Stillwater** — on a continent with no water to spare, "still water" is the rarest thing there is: a mind that does not ripple. The Sisters' first teaching is that a still surface reflects everything. ([Dark Sun](../Dark-Sun.md) hook: Athas's *Villichi* convents of psionic women are the Sisterhood's ancestor-order; the name survives for their rural retreats.)
+- **Stillwater** — on a continent with no water to spare, "still water" is the rarest thing there is: a mind that does not ripple. Stillwater's first teaching is that a still surface reflects everything. The name stands alone the way a House's does — you are trained *by Stillwater*, and that is explanation enough. ([Dark Sun](../Dark-Sun.md) hook: Athas's *Villichi* convents of psionic women are Stillwater's ancestor-order; the School dropped the convent walls, the convent rule, and the convent name — it takes all comers now — and the old name survives for the rural retreats.)
 - **Reckoning** — merchant-house vocabulary: to reckon accounts, to reckon a course, the day of reckoning. Reckoners were born in counting-houses and grew into war-rooms.
-- **The Crag** — from the old mental-combat constructs of the Way (*The Will and the Way*: the Tower, the Rampart, the Gate, **the Crag** — "lonely and strong, resists all attacks"). A swordmaster's mind is the Crag; the blade is just where it shows.
+- **Kenaz** — the swordmasters took their name from the north, off the steel they refuse to carry: **kenaz**, the old Scarlands rune for the torch — skill, the craft that burns in the hand — is the forge-mark the northern smiths stamp on true steel, and Tyr's iron wears it out of every Guild hull. The school of the skill-mark, on the continent that shuns the steel itself. Its teaching kept the older name: **the Crag**, from the mental-combat constructs of the Way (*The Will and the Way*: the Tower, the Rampart, the Gate, the Crag — "lonely and strong, resists all attacks"). A swordmaster's mind is the Crag; Kenaz is where they learn to hold it.
 - **Menders** — *mending* is the humblest cantrip in the Way; the Hall chose it on purpose. Menders fix what is broken and are forbidden to break.
-- **The Hooded Lodge** — the Journal already gives us navigators who "stand hooded at the bow, always hooded." The Guild never names its school; everyone else names it for the hoods.
+- **The Silt Academy** — the one School named for its element instead of a virtue, because the element *is* the curriculum: the Guild's school teaches the silt itself — reading it, riding it, folding it. Its graduates are the Journal's navigators who "stand hooded at the bow, always hooded," and the street still calls them *the hooded* — but the school is the Academy, on the silt shelf above Raam.
 
 ## What the Schools carry (no metal)
 
@@ -40,21 +40,21 @@ Metal is a bummer on Aerun — too heavy and too hot at 120°, and the Players G
 
 | School | Standard kit | Why it works |
 | :--- | :--- | :--- |
-| **Stillwater** | Nothing visible. A bone needle, a chitin wrist-razor under the sleeve | The Voice needs no hands. A Sister trained on the **Soulknife** path carries *Psychic Blades* — no material at all, and nothing for a gate to confiscate |
+| **Stillwater** | Nothing visible. A bone needle, a chitin wrist-razor under the sleeve | The Voice needs no hands. A Stillwater trained on the **Soulknife** path carries *Psychic Blades* — no material at all, and nothing for a gate to confiscate |
 | **Reckoning** | Obsidian-tipped spear or bone longsword; chitin shield; obsidian darts for ranged Psionic Strikes | Psi Warrior damage is force, not the weapon's — a bone blade with an Energy Die behind it out-hits Nordic steel |
-| **The Crag** | **Nothing.** The Crag-sworn's blade is a *Psychic Blade* — it exists from the moment the hand closes to the moment it lands. Obsidian practice blades for novices (break on a 1 — the Crag teaches you to finish before it does); *no armor* | The only swordsmen on Aerun who never buy a sword. Nothing to break in the heat, nothing to surrender at a gate; a Crag-sworn walks into a House's hall disarmed by every visible measure. The Crag's creed: "a wall is a thing you carry, not a thing you wear" |
+| **Kenaz** | **Nothing.** The Kenaz-sworn's blade is a *Psychic Blade* — it exists from the moment the hand closes to the moment it lands. Obsidian practice blades for novices (break on a 1 — Kenaz teaches you to finish before it does); *no armor* | The only swordsmen on Aerun who never buy a sword. Nothing to break in the heat, nothing to surrender at a gate; a Kenaz-sworn walks into a House's hall disarmed by every visible measure. The school's creed: "a wall is a thing you carry, not a thing you wear" |
 | **Menders** | None. The **Bone Blade** grows out of the Mender's own forearm (Metamorph *Organic Weapons*) | Organic Weapons reshape the *body* — bone blade, flesh maul, viscera launcher. Nothing to buy, nothing to break in the heat, and the only weapon on Aerun that cannot be taken at a gate. A Mender's scalpel is their own ulna |
-| **The Hooded** | Bone gaff, chitin hull-armor plates | Guild rate includes the crew's kit; the navigator's real weapon is *Shatter* + Warp Space |
+| **The Silt Academy** | Bone gaff, chitin hull-armor plates | Guild rate includes the crew's kit; the navigator's real weapon is *Shatter* + Warp Space |
 
 **Rule of thumb:** the Schools' power is force, psychic, and the body — damage types that don't care what the weapon is made of. Bone and obsidian are the default; a School graduate with a metal weapon is either rich, foreign, or lying.
 
-## The Stillwater Sisterhood — *Telepath*
+## Stillwater — *Telepath*
 
 *Bene Gesserit → stealth, cunning, telepathy, body awareness. The Voice, the truthtrance, prana-bindu.*
 
-**Charter:** Nibenay — the ancient, decadent city the Shadow King holds together; the Sisterhood holds the city's *memory*. Annex in Raam (the old Psiumarkh quarter). Mother-house rule: Sisters serve a House by contract, never by birth — a Stillwater placed with House Shom is on loan.
+**Charter:** Nibenay — the ancient, decadent city the Shadow King holds together; Stillwater holds the city's *memory*. Annex in Raam (the old Psiumarkh quarter). Mother-house rule: Stillwaters serve a House by contract, never by birth — a Stillwater placed with House Shom is on loan.
 
-**Entrance:** women and, quietly, anyone the Sisters judge can hold still. Tested talent: **Empath** (Charm Person, Calm Emotions, advantage on Influence) or **Mind Whisperer** (Mind Sliver, Dissonant Whispers, limited telepathy).
+**Entrance:** anyone the Stillwaters judge can hold still — man, woman, mul, kreen; the School has never cared what a student was before they were still. There is one rank worth having and it is the name itself: you leave the hall *a Stillwater*, or you leave it nothing. Tested talent: **Empath** (Charm Person, Calm Emotions, advantage on Influence) or **Mind Whisperer** (Mind Sliver, Dissonant Whispers, limited telepathy).
 
 **Psion subclass: Telepath.** Telepathic Hub; Mind Infiltrator (Detect Thoughts with no components, no Concentration, and the target doesn't know) — *that is the truthtrance*; Empowered Defense Mode shared with everyone you're linked to — *that is the Litany*; Scramble Minds at 14.
 
@@ -68,15 +68,15 @@ Metal is a bummer on Aerun — too heavy and too hot at 120°, and the Players G
 | **Truthsay** | — | *truthtrance* | **Detect Thoughts** + Mind Infiltrator (lvl 3); **Zone of Truth** (2); Insight proficiency; Discipline **Expanded Awareness** |
 | | — | *the Other Memory* | **Legend Lore** (5), **Modify Memory** (5, always-prepared at 9), **Rary's Telepathic Bond** (5) |
 | **Prana-bindu** | Bindu Sprint / Bindu Dodge | *nerve-knowing* | **Longstrider** (1), **Enhance Ability** (2), **Freedom of Movement** (4); Discipline **Psionic Guards** (immune to charm/fright this turn) |
-| | Metabolize Poison / Poison Tolerance / Sun Tolerance | *the inner chemistry* | **Lesser Restoration** (elective — learned at the Menders' annex); Con save proficiency via Resilient feat at the Sisterhood's expense |
+| | Metabolize Poison / Poison Tolerance / Sun Tolerance | *the inner chemistry* | **Lesser Restoration** (elective — learned at the Menders' annex); Con save proficiency via Resilient feat at Stillwater's expense |
 | | Litany Against Fear | *the Litany* | Telepath lvl 6 Empowered Defense Mode (+1d4 saves, shared across telepathic links); **Calm Emotions**, **Intellect Fortress** (3) |
-| | Prana-Bindu Strikes / Manipulate Instability | *the Weirding Way* | cantrip **Mind Sliver** + Discipline **Inerrant Aim**; **Telekinetic Propel** for the nerve-strike shove. *(The full fighting art is the Crag's — a Sister who wants it studies there for a year, and the Crag has never refused one.)* |
-| | Weirding Step | *the Step* | **Stillwater's signature.** Voice + motion, not a teleport: **Command** ("approach" / "halt" / "drop") or **Telekinetic Propel** to *pull* the target past you as a Bonus Action, then **Longstrider / Jump** (lvl 1) or the **Psykineticist** talent's +10 ft Dash to be behind them before they finish obeying. At 7, **Dimension Door** is the Step as the old Sisters do it. Discipline **Ego Whip** punishes anyone who tries to follow |
-| **Sisterhood** | Self-Healing / Recovery / Vitality | *body-ledger* | Discipline **Biofeedback** (temp HP on Transmutation/Necromancy casts) |
+| | Prana-Bindu Strikes / Manipulate Instability | *the Weirding Way* | cantrip **Mind Sliver** + Discipline **Inerrant Aim**; **Telekinetic Propel** for the nerve-strike shove. *(The full fighting art is Kenaz's — a Stillwater who wants it studies there for a year, and Kenaz has never refused one.)* |
+| | Weirding Step | *the Step* | **Stillwater's signature.** Voice + motion, not a teleport: **Command** ("approach" / "halt" / "drop") or **Telekinetic Propel** to *pull* the target past you as a Bonus Action, then **Longstrider / Jump** (lvl 1) or the **Psykineticist** talent's +10 ft Dash to be behind them before they finish obeying. At 7, **Dimension Door** is the Step as the old Stillwaters do it. Discipline **Ego Whip** punishes anyone who tries to follow |
+| **Stillwater** | Self-Healing / Recovery / Vitality | *body-ledger* | Discipline **Biofeedback** (temp HP on Transmutation/Necromancy casts) |
 
-**Disciplines the Sisterhood teaches first:** Devilish Tongue, Id Insinuation, Psionic Guards, Expanded Awareness.
+**Disciplines Stillwater teaches first:** Devilish Tongue, Id Insinuation, Psionic Guards, Expanded Awareness.
 
-**Secret:** the Sisterhood keeps a *breeding ledger* on every House — not for a messiah, but to predict which bloodlines throw Spice-strong children. It is the best map of the Will on the continent and the Houses would kill for it.
+**Secret:** Stillwater keeps a *breeding ledger* on every House — not for a messiah, but to predict which bloodlines throw Spice-strong children. It is the best map of the Will on the continent and the Houses would kill for it.
 
 ## The School of Reckoning — *Psi Warrior (Fighter, PHB 2024)*
 
@@ -113,15 +113,15 @@ Metal is a bummer on Aerun — too heavy and too hot at 120°, and the Players G
 
 **Secret:** every Reckoner is taught one House's full books as a graduation exercise — a *different* House from the one that paid their tuition. The School holds the continent's only honest ledger, and it is memorized, not written.
 
-## The Crag — *Soulknife (Rogue, PHB 2024)*
+## Kenaz — *Soulknife (Rogue, PHB 2024)*
 
 *Swordmasters of Ginaz → supernaturally good swordsmen. The blade is the mind, made visible.*
 
-**Charter:** Tyr — the Free City, which killed its own champion and has no ascended deterrent. Tyr needs blades it can *hire*, and the Crag sells them to everyone (Wavir's Balic is its best customer). Annex in Urik under Stel, harder and narrower — Urik's Crag trains legion-captains, Tyr's trains duelists, and the two have not spoken in a generation.
+**Charter:** Tyr — the Free City, which killed its own champion and has no ascended deterrent. Tyr needs blades it can *hire*, and Kenaz sells them to everyone (Wavir's Balic is its best customer). The mother-hall stands on the bare crag above the iron road. Annex in Urik under Stel, harder and narrower — Urik's Kenaz trains legion-captains, Tyr's trains duelists, and the two have not spoken in a generation.
 
-**Entrance:** the pits send their promising young on their masters' coin; the Crag is the ladder that reaches the arena floor. Tested talent: **Flesh Morpher** (Longstrider, Alter Self, Int to Acrobatics/Sleight of Hand) or **Psykineticist** (Telekinetic Fling, Thunderwave, +10 ft on Dash).
+**Entrance:** the pits send their promising young on their masters' coin; Kenaz is the ladder that reaches the arena floor. Tested talent: **Flesh Morpher** (Longstrider, Alter Self, Int to Acrobatics/Sleight of Hand) or **Psykineticist** (Telekinetic Fling, Thunderwave, +10 ft on Dash).
 
-**Why the Soulknife:** a Ginaz swordmaster is not a caster and not a soldier — a duelist whose weapon is an extension of will. The Soulknife's **Psychic Blades** are exactly that: a finesse blade that exists only while the hand is closing, psychic damage, thrown 60 ft, *Vex* mastery, and a second blade as a bonus action. On a continent where every steel sword is a liability and every obsidian one shatters, the Crag produces the only swordsmen who never carry a sword. The Rogue chassis supplies the rest of Ginaz: Cunning Action, Uncanny Dodge (*Foil*), Evasion, Reliable Talent, and Sneak Attack as the killing cut. **Psionic Energy Dice** are the Crag's Will, the same currency the Psions use.
+**Why the Soulknife:** a Ginaz swordmaster is not a caster and not a soldier — a duelist whose weapon is an extension of will. The Soulknife's **Psychic Blades** are exactly that: a finesse blade that exists only while the hand is closing, psychic damage, thrown 60 ft, *Vex* mastery, and a second blade as a bonus action. On a continent where every steel sword is a liability and every obsidian one shatters, Kenaz produces the only swordsmen who never carry a sword. The Rogue chassis supplies the rest of Ginaz: Cunning Action, Uncanny Dodge (*Foil*), Evasion, Reliable Talent, and Sneak Attack as the killing cut. **Psionic Energy Dice** are Kenaz's Will, the same currency the Psions use.
 
 ### Skill tree
 
@@ -134,20 +134,20 @@ Metal is a bummer on Aerun — too heavy and too hot at 120°, and the Players G
 | | Crippling Strike | *the hamstring* | Weapon Mastery swap to **Slow**-mastery weapon, or **Cunning Strike — Trip / Withdraw** (lvl 5) |
 | | Eye of the Storm | *the storm* | **Cunning Action** + two blades + thrown return: one target per blade per turn; at 11 **Reliable Talent** keeps the footwork honest |
 | | Deflection (darts) | *the wall* | **Uncanny Dodge**; **Devious Strikes — Daze / Knock Out** (lvl 14) |
-| | Inspiration | *the call* | **Psychic Whispers** (lvl 3): telepathic link to Proficiency-Bonus allies for hours — the Crag's duel-seconds talk without moving their lips |
+| | Inspiration | *the call* | **Psychic Whispers** (lvl 3): telepathic link to Proficiency-Bonus allies for hours — the duel-seconds of Kenaz talk without moving their lips |
 | **Conditioning** | General / Desert Conditioning, Disciplined Breathing | *the dry body* | **Psi-Bolstered Knack** (lvl 3): Energy Die rescues a failed Athletics/Acrobatics/Stealth; **Resilient (Con)** |
-| | Thrive on Danger / Field Medicine | *the long fight* | [Burning the Will](../../Game-Mechanics/Psionics-and-the-Great-Schools.md) (optional table rule) — the Crag teaches it first and uses it hardest |
-| | Confidence / Solid Stance | *the Crag itself* | **Slippery Mind** (lvl 15: Wis and Cha save proficiency) — the mental construct the School is named for |
-| **The Closing** | Knee Charge / Reckless Lunge | *the closing* | **Psychic Teleportation** (lvl 9): throw a blade, teleport to it, up to 10 × die feet — the Ginaz lunge. *(Not the Weirding Step — that is the Sisterhood's, and the Crag is touchy about the difference.)* |
+| | Thrive on Danger / Field Medicine | *the long fight* | [Burning the Will](../../Game-Mechanics/Psionics-and-the-Great-Schools.md) (optional table rule) — Kenaz teaches it first and uses it hardest |
+| | Confidence / Solid Stance | *the Crag itself* | **Slippery Mind** (lvl 15: Wis and Cha save proficiency) — the Crag itself, the construct held at last without effort |
+| **The Closing** | Knee Charge / Reckless Lunge | *the closing* | **Psychic Teleportation** (lvl 9): throw a blade, teleport to it, up to 10 × die feet — the Ginaz lunge. *(Not the Weirding Step — that is Stillwater's, and Kenaz is touchy about the difference.)* |
 | | Ignore (BG crossover) | *the unseen blade* | **Psychic Veil** (lvl 13): invisible for an hour until you strike |
 | | Death from Above | *the drop* | Psychic Teleportation onto a ledge, then Sneak Attack |
 | **Mastery** | (the Ginaz killing art) | *the rending* | **Rend Mind** (lvl 17): Sneak Attack with a Psychic Blade → Wis save or Stunned for a minute |
 
-**Skills the Crag trains:** Acrobatics, Athletics, Intimidation, Perception. Background: **Gladiator** / **Arena Survivor** (Players Guide) or **Soldier**.
+**Skills Kenaz trains:** Acrobatics, Athletics, Intimidation, Perception. Background: **Gladiator** / **Arena Survivor** (Players Guide) or **Soldier**.
 
-**The duel.** Crag-sworn settle the Houses' small matters the way Champions settle the large ones — and a Crag duel is *first touch of the psychic blade*, because a blade made of mind leaves no mark. That is why the Houses hire them: a Crag-sworn can win an argument in a hall and nobody bleeds.
+**The duel.** Kenaz-sworn settle the Houses' small matters the way Champions settle the large ones — and a Kenaz duel is *first touch of the psychic blade*, because a blade made of mind leaves no mark. That is why the Houses hire them: a Kenaz-sworn can win an argument in a hall and nobody bleeds.
 
-**Secret:** the Crag does not teach fencing. It teaches you to hold a *mental construct* — the Crag — under blows until the body learns to move the way the construct already stands. Its Masters can fight blindfolded; several fight blind. And the blade they draw is the only weapon on Aerun that passes every gate on the continent — the Houses have noticed, and so has the Guild.
+**Secret:** Kenaz does not teach fencing. It teaches you to hold a *mental construct* — **the Crag** — under blows until the body learns to move the way the construct already stands. Its Masters can fight blindfolded; several fight blind. And the blade they draw is the only weapon on Aerun that passes every gate on the continent — the Houses have noticed, and so has the Guild.
 
 ## The Menders' Hall — *Metamorph*
 
@@ -171,7 +171,7 @@ Metal is a bummer on Aerun — too heavy and too hot at 120°, and the Players G
 | | — | *the bone-tool* | **Organic Weapons** (lvl 3) — **kept.** The Bone Blade is the Mender's own forearm bone, the continent's native weapon material; the Viscera Launcher is a syringe-dart. No metal, no equipment, nothing to confiscate |
 | **Planetology** | Dew Gathering / Stillsuit Seals | *water-craft* | Survival proficiency; **Locate Animals or Plants** (2); the Hall's *stillcloak* (equipment: halves water need) |
 | | Scanner Mastery / Deep Analysis / Spice Surveyor | *reading the land* | **Detect Magic** re-skinned (*Detect Defilement*), **Identify**, **Locate Object**; Discipline **Expanded Awareness** |
-| | Cartographer | *the sinkchart* | Cartographer's tools; **Find the Path** (6) — learned at the Lodge |
+| | Cartographer | *the sinkchart* | Cartographer's tools; **Find the Path** (6) — learned at the Silt Academy |
 | | Mountaineer / Conservation of Energy | *the long walk* | **Longstrider**, **Enhance Ability** |
 | | Suspensor Pad | *the litter* | **Tenser's Floating Disk** (1) — the Menders' stretcher |
 | **Non-Psion path** | — | *hedge-healer* | **Biokinesis** wild talent on any class |
@@ -180,11 +180,11 @@ Metal is a bummer on Aerun — too heavy and too hot at 120°, and the Players G
 
 **Secret:** the Menders know what the Spice does to a body over forty years, because they are the ones who open the bodies. They have never published.
 
-## The Hooded Lodge — *Psi Warper*
+## The Silt Academy — *Psi Warper*
 
 *Spacing Guild → the caravans and the silt navigators. Aerun-centric; mostly NPCs, one terrific PC.*
 
-**Charter:** Raam — head of the [Long Reach](../../Aerun-Players-Guide/Gazetteer/The-Long-Reach.md), gateway to the silt basin. The Lodge is not the city's; it is the **Caravan Guild's** ([Glossary](../Dark-Sun/Glossary.md)), and Raam tolerates it because Raam would starve without it. The Lodge also trains the **argosy pilots** — the mekillot-bonded minds that steer the [Ring Road's](../../Aerun-Players-Guide/Gazetteer/The-Ring-Road.md) rolling fortresses.
+**Charter:** Raam — head of the [Long Reach](../../Aerun-Players-Guide/Gazetteer/The-Long-Reach.md), gateway to the silt basin. The Academy is not the city's; it is the **Caravan Guild's** ([Glossary](../Dark-Sun/Glossary.md)), and Raam tolerates it because Raam would starve without it. The Academy also trains the **argosy pilots** — the mekillot-bonded minds that steer the [Ring Road's](../../Aerun-Players-Guide/Gazetteer/The-Ring-Road.md) rolling fortresses.
 
 **Entrance:** the Guild takes children, pays the families, and does not explain. Graduates are the heaviest Spice users on the continent. Tested talent: **Clairsentience** (See Invisibility — the first thing a navigator learns is to see what the silt hides) for navigators; **Empath** (beast-side) for pilots.
 
@@ -195,7 +195,7 @@ Metal is a bummer on Aerun — too heavy and too hot at 120°, and the Players G
 | Tree | Dune skill | Aerun name | 5e implementation |
 | :--- | :--- | :--- | :--- |
 | **Navigation** | Cartographer / Scanner Mastery | *reading the gray* | **See Invisibility** (2), **Locate Object** (2), **Clairvoyance** (3), **Find the Path** (6); Discipline **Expanded Awareness** |
-| | — | *the fold* | **Expeditious Retreat, Misty Step** (3); **Blink** (5); **Dimension Door** (7); **Teleportation Circle** (9) — the Lodge's circles are the bone-and-obsidian channel markers |
+| | — | *the fold* | **Expeditious Retreat, Misty Step** (3); **Blink** (5); **Dimension Door** (7); **Teleportation Circle** (9) — the Academy's circles are the bone-and-obsidian channel markers |
 | | Heat Management / Fuel Efficient Pilot | *the quiet hull* | Psi Warper's **Teleportation** (free *Misty Step* per rest) |
 | | Vehicle Scanning | *hailing the gray* | **Sending** (3) — how waystations talk |
 | **Pilotage** | (Beastmaster kit, W&W) | *the bonded mind* | **Animal Friendship, Speak with Animals** (1); **Animal Messenger** (2); Telepathic Connection to the mekillot; **Dominate Beast** elective |
@@ -204,9 +204,9 @@ Metal is a bummer on Aerun — too heavy and too hot at 120°, and the Players G
 
 **Disciplines first:** Expanded Awareness, Swift Precognition, Psionic Guards, Tactical Mind.
 
-**Why PCs rarely come from here:** the Guild does not release graduates. A PC from the Lodge is a *runaway navigator* — blue-eyed, hooded, hunted by the only organization on Aerun that never loses track of anything. That is a good character.
+**Why PCs rarely come from here:** the Guild does not release graduates. A PC from the Academy is a *runaway navigator* — blue-eyed, hooded, hunted by the only organization on Aerun that never loses track of anything. That is a good character.
 
-**Secret (DM only):** the Lodge's navigators are the only non-[Sandwalkers](The-Sandwalkers.md) who have ever *felt the edge of the [Veil](../../Campaign/Plot-Threads/The-First-Source.md)* — and the Lodge's standing order is that the Long Reach never bends northwest. They don't know why. They have never asked.
+**Secret (DM only):** the Academy's navigators are the only non-[Sandwalkers](The-Sandwalkers.md) who have ever *felt the edge of the [Veil](../../Campaign/Plot-Threads/The-First-Source.md)* — and the Academy's standing order is that the Long Reach never bends northwest. They don't know why. They have never asked.
 
 ## Other classes at the Schools
 
@@ -215,14 +215,14 @@ The Schools are Psion subclasses first. For players who want a School's flavor o
 | Subclass | Aerun reading |
 | :--- | :--- |
 | **Psi Warrior** (Fighter) | **A Reckoner** — this *is* the School of Reckoning's training (above) |
-| **Soulknife** (Rogue) | **Crag-sworn** — this *is* the Crag's training (above) |
+| **Soulknife** (Rogue) | **Kenaz-sworn** — this *is* Kenaz's training (above) |
 | **Way of the Unseen Mind** (Monk, Players Guide — *not on DDB*) | The desert's masterless orders — what the Schools *won't* teach (Avatar road; see [Spicy Jak](../../Campaign/Plot-Threads/Spicy-Jak.md)). NPC use only unless entered as homebrew |
 | **Aberrant Sorcery** (Sorcerer) | **Spice-burnt** — a wild talent that grew without a School. Too much Spice, no Way; the tentacles and the black eyes are what the Hall warns about. Houses fear them more than wizards |
 | **Great Old One** (Warlock) | **Champion-bound** — a mind that has touched an *ascended* Champion (Hamanu, the Oba, the Shadow King) and come back with a piece of it. The Thought Shield is the dragon's gift; *Create Thrall* is its price |
-| **Psykinetic** (UA Psion) | **Unclaimed.** No School teaches pure force — the cities find it too much like magic. A Psykinetic PC learned it from a wandering master or the desert; Urik's Crag annex is rumored to be quietly building a curriculum for Stel's legions (hook) |
+| **Psykinetic** (UA Psion) | **Unclaimed.** No School teaches pure force — the cities find it too much like magic. A Psykinetic PC learned it from a wandering master or the desert; Urik's Kenaz annex is rumored to be quietly building a curriculum for Stel's legions (hook) |
 | **Psionic Study** feat (Players Guide — *not on DDB*) | "Went to the School, didn't stay." Prefer the UA **Wild Talent feats** (DDB-enterable) for this; keep Psionic Study for NPCs |
 
-**A caster Mentat?** Reckoning and the Crag have no Psion track, and the Psykinetic is unclaimed. If a player wants a *caster* Mentat, the nearest fit is Telepath with a Clairsentience wild talent and a divination-heavy prepared list — not a new subclass.
+**A caster Mentat?** Reckoning and Kenaz have no Psion track, and the Psykinetic is unclaimed. If a player wants a *caster* Mentat, the nearest fit is Telepath with a Clairsentience wild talent and a divination-heavy prepared list — not a new subclass.
 
 ## Using at the table
 
