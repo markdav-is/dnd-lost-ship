@@ -1,4 +1,4 @@
-[Bestiary](../Bestiary.md) / Aerun Stat Blocks <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [Bestiary](../Bestiary.md) / Aerun Stat Blocks <!-- wikidown:breadcrumb -->
 
 # Aerun Stat Blocks
 
@@ -29,6 +29,11 @@ with its heading anchor, e.g. `Aerun-Stat-Blocks.md#tembo`.*
 | 14 | [Nightmare Beast](#nightmare-beast) | once per campaign |
 | 15 | [Lane Worm](#lane-worm) | the wake nobody points at |
 | — | [Arena-Bred](#arena-bred-template) · [Sunwarped](#sunwarped-template) (templates) | modifiers |
+
+## D&D Beyond homebrew pages
+
+Every stat block above has a subpage formatted for the D&D Beyond homebrew monster form — the DDB field values, the traits and actions written out in official style with rollable dice expressions, and a token art prompt.
+[Erdlu](Aerun-Stat-Blocks/Erdlu.md), [Kank](Aerun-Stat-Blocks/Kank.md), [Soldier Kank](Aerun-Stat-Blocks/Soldier-Kank.md), [Crodlu](Aerun-Stat-Blocks/Crodlu.md), [War Crodlu](Aerun-Stat-Blocks/War-Crodlu.md), [Inix](Aerun-Stat-Blocks/Inix.md), [Mekillot](Aerun-Stat-Blocks/Mekillot.md), [Tembo](Aerun-Stat-Blocks/Tembo.md), [Jhakar](Aerun-Stat-Blocks/Jhakar.md), [Kirre](Aerun-Stat-Blocks/Kirre.md), [Tagster](Aerun-Stat-Blocks/Tagster.md), [Id Fiend](Aerun-Stat-Blocks/Id-Fiend.md), [Silk Wyrm](Aerun-Stat-Blocks/Silk-Wyrm.md), [Dagorran](Aerun-Stat-Blocks/Dagorran.md), [Kestrekel Swarm](Aerun-Stat-Blocks/Kestrekel-Swarm.md), [Z'tal](Aerun-Stat-Blocks/Z'tal.md), [Hunting Cactus](Aerun-Stat-Blocks/Hunting-Cactus.md), [Sand Cactus](Aerun-Stat-Blocks/Sand-Cactus.md), [Dune Trapper](Aerun-Stat-Blocks/Dune-Trapper.md), [Sand Bride](Aerun-Stat-Blocks/Sand-Bride.md), [Anakore](Aerun-Stat-Blocks/Anakore.md), [Megapede](Aerun-Stat-Blocks/Megapede.md), [Dune Reaper Drone](Aerun-Stat-Blocks/Dune-Reaper-Drone.md), [Dune Reaper Warrior](Aerun-Stat-Blocks/Dune-Reaper-Warrior.md), [Dune Reaper Matron](Aerun-Stat-Blocks/Dune-Reaper-Matron.md), [Rampager](Aerun-Stat-Blocks/Rampager.md), [Belgoi](Aerun-Stat-Blocks/Belgoi.md), [Gith](Aerun-Stat-Blocks/Gith.md), [Tarek](Aerun-Stat-Blocks/Tarek.md), [B'rohg](Aerun-Stat-Blocks/B'rohg.md), [Braxat](Aerun-Stat-Blocks/Braxat.md), [Shelf Worm](Aerun-Stat-Blocks/Shelf-Worm.md), [Lane Worm](Aerun-Stat-Blocks/Lane-Worm.md), [Silt Horror (White)](Aerun-Stat-Blocks/Silt-Horror-White.md), [Silt Horror (Black)](Aerun-Stat-Blocks/Silt-Horror-Black.md), [Silt Runner](Aerun-Stat-Blocks/Silt-Runner.md), [Silt Drake](Aerun-Stat-Blocks/Silt-Drake.md), [Floating Mantle](Aerun-Stat-Blocks/Floating-Mantle.md), [Cloud Ray](Aerun-Stat-Blocks/Cloud-Ray.md), [Silt Giant](Aerun-Stat-Blocks/Silt-Giant.md), [Hejkin](Aerun-Stat-Blocks/Hejkin.md), [Crag Giant](Aerun-Stat-Blocks/Crag-Giant.md), [Elemental Drake](Aerun-Stat-Blocks/Elemental-Drake.md), [Jozhal](Aerun-Stat-Blocks/Jozhal.md), [Pterrax](Aerun-Stat-Blocks/Pterrax.md), [Gaj](Aerun-Stat-Blocks/Gaj.md), [Nightmare Beast](Aerun-Stat-Blocks/Nightmare-Beast.md), [Psurlon](Aerun-Stat-Blocks/Psurlon.md), [Arena-Bred & Sunwarped (templates)](Aerun-Stat-Blocks/Arena-Templates.md)
 
 ---
 
