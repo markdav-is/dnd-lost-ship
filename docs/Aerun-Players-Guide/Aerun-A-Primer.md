@@ -58,7 +58,7 @@ Roll **Intelligence (History)** unless a row says otherwise — **Wisdom (Surviv
 | 15 | **Raam has been half in civil war** since its champion Abalach-Re died. M'ke holds the palace behind breastworks; the city's armory can arm every citizen, and sometimes does. Forty thousand people and no law. | History |
 | 15 | **Draj's champion is broken** — Tectuktitlay was shattered in a champions' duel generations ago and is paraded at festivals as a figurehead. Tsalaxa's spies do the work its champion cannot. | History |
 | 15 | The wind is the whole logic of the land: the westerlies come off the ocean heavy with rain, strike the **Ringing Mountains** on the west coast, and give up everything on the seaward slopes. That is why Tyr's valley is green, why Hollowstorm has fisheries, and why nothing east of the crest has had rain in an age. | Survival |
-| 15 | Heavy Spice users live long and push their Will further than anyone else; the Guild's argosy pilots and navigators are the heaviest users on the continent. The families sell it; the Guild eats it; nobody audits the Guild. | Arcana |
+| 15 | Heavy Spice users live long and push their Will further than anyone else; the Guild's argosy pilots and Navigators are the heaviest users on the continent. The families sell it; the Guild eats it; nobody audits the Guild. | Arcana |
 
 ### DC 20
 
@@ -81,7 +81,7 @@ Roll **Intelligence (History)** unless a row says otherwise — **Wisdom (Surviv
 | 25 | They say there are **three roads to ascension**, not one: the **Dragon**, which takes; the **Avangion**, which grows; and a third that nobody owns, taught by masterless orders in the deep desert. The Houses swear the roads are closed. The desert remembers otherwise. | Arcana |
 | 25 | They say the Oba of Gulg is no dragon at all — that her great tree, Sunlight Home, was *grown* by her own hand, and a defiler cannot grow anything. Nobody has tested the question. | Arcana |
 | 25 | They say **Eldorado looks out over where the charts end** — that from the rim pass above the town you can see the one stretch of the gray where no Guild lane has ever bent, and that the prospectors who walk down into it come back remembering nothing at all. | Survival |
-| 25 | They say the Guild's silt lane never turns northwest, by standing order, and that no navigator has ever asked why. | Survival |
+| 25 | They say the Guild's silt lane never turns northwest, by standing order, and that no Navigator has ever asked why. | Survival |
 | 25 | They say there was an **eighth city** once, as grand as Tyr, and an eighth House, and that the seven Champions — who have never agreed on anything — agreed on that. | History |
 
 ## Words a traveler should know

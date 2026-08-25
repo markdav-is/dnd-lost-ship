@@ -18,7 +18,7 @@ Common knowledge across Vermoon. A Scarlands fisher, a Taldean factor, and a cle
   - **The School of Reckoning** ([Draj](Gazetteer/Draj.md)) — "a Reckoner counts your coin before you've opened the purse; every House keeps one."
   - **Kenaz** ([Tyr](Gazetteer/Tyr.md)) — "the best blades on Aerun, and they don't carry swords." Kenaz duels are to first touch and leave no mark.
   - **The Menders' Hall** ([Balic](Gazetteer/Balic.md)) — "the healers. They'll treat a slave and a merchant-king in the same room, and they have sworn never to harm." Known by the Seam — the blue stitch-line across the forehead.
-  - **The Silt Academy** ([Raam](Gazetteer/Raam.md) — but it belongs to the Caravan Guild, not the city) — "the hooded ones at the bow of every silt ship; don't lift the hood."
+  - **The Navigation Academy** ([Raam](Gazetteer/Raam.md) — but it belongs to the Caravan Guild, not the city) — "the Navigators: the hooded ones at the bow of every silt ship; don't lift the hood."
 - Metal is scarce, heavy, and hot on Aerun. School-trained people fight with bone, obsidian — or nothing at all.
 - Magic is despised on Aerun; psionics are the one power nobody is ashamed of. Spell components get bonded at the city gate. A mind cannot be.
 
@@ -49,7 +49,8 @@ Roll **Intelligence (History)** for the Schools as institutions, **Wisdom (Insig
 | 15 | Kenaz does not teach fencing. It teaches you to hold a construct in your mind — "the Crag" — under blows until the body moves the way the construct already stands. Its blade is drawn from the mind, exists only while the hand closes, and passes every gate on the continent. Several Masters fight blind. | Kenaz |
 | 15 | The Menders' Oath: a Mender cannot willingly harm a creature that has not harmed them. Break it and you lose the Seam — cut out, not inked over — and every House's door. The Seam is dye, not Spice; everyone can tell the difference, and it is the mark of loyalty to the Oath, never to a House. | Menders |
 | 15 | A Mender's scalpel is their own bone — the Hall teaches the body to put out a blade from the forearm. It is the weirdest thing on Aerun, and nobody looks away in time. | Menders |
-| 15 | Navigators do not steer by sight — "silt blinds everyone equally; the difference is what you have left when it does." Under a Master navigator the [Long Reach](Gazetteer/The-Long-Reach.md) takes four days instead of six, and no one aboard can say which day went missing. | Academy |
+| 15 | Navigators do not steer by sight — "silt blinds everyone equally; the difference is what you have left when it does." Under a Master Navigator the [Long Reach](Gazetteer/The-Long-Reach.md) takes four days instead of six, and no one aboard can say which day went missing. | Academy |
+| 15 | The Guild's waystations talk to each other. Convoys are expected before they arrive, storms are announced before they strike, and a beacon is answered because the tower already knew you were coming. How, the Guild does not say — but crews call it *the Relay*, and only Navigators touch it. | Academy |
 
 ### DC 20
 
@@ -61,7 +62,7 @@ Roll **Intelligence (History)** for the Schools as institutions, **Wisdom (Insig
 | 20 | Every Reckoner has a "Solido" — the trick of standing, speaking, and walking so exactly like their House's lord that a decoy is half-made before any Stillwater lends them the rest. | Reckoning |
 | 20 | Nibenay's Stillwater hall keeps the city's memory: it is said the Shadow King's court cannot remember what the Stillwaters decline to let it. | Stillwater |
 | 20 | The Menders' [Gulg](Gazetteer/Gulg.md) annex, inside the living hedge, holds the continent's only pharmacopoeia. Menders are the only people who open the bodies of the Spice-dead. | Menders |
-| 20 | The Academy also trains the argosy pilots — the mekillot-bonded minds of the Ring Road. Pilots and navigators are the heaviest Spice users on the continent. | Academy |
+| 20 | The Academy also trains the argosy pilots — the mekillot-bonded minds of the Ring Road. Pilots and Navigators are the heaviest Spice users on the continent. | Academy |
 | 20 | No School teaches pure force — throwing things with the mind, walls of force — because the cities find it too much like magic. Those who can do it learned it from a wandering master or in the desert. | All |
 
 ### DC 25 — rumors
@@ -74,6 +75,8 @@ Roll **Intelligence (History)** for the Schools as institutions, **Wisdom (Insig
 | 25 | They say the School of Reckoning holds the continent's only honest accounts — memorized, and never written down. | Reckoning |
 | 25 | They say the Menders know what forty years of Spice does to a body. They have never published. | Menders |
 | 25 | They say the Academy has a standing order: the Long Reach never bends northwest. Navigators do not know why, and have never asked. | Academy |
+| 25 | They say the Relay is a string of Ancient far-speakers — metal boxes older than any House that carry a living voice across the gray; that perhaps two dozen survive; that none has ever been built new, and a dead set stays dead. The Houses would trade a city for one. The Academy does not discuss it, which is how everyone knows it is real. | Academy |
+| 25 | They say the hooded Navigators are only the Academy's lower orders — that deep in every great argosy, sealed amidships in a vault the crew calls the tank and never enters, rides something that used to be a pilot before the Spice finished with it. The crews leave a cup of water at the tank's door at dusk. It is always gone by morning. Nobody watches how. | Academy |
 | 25 | They say Urik's Kenaz is quietly building a curriculum in pure force for Stel's legions. | Kenaz |
 | 25 | They say the desert has masterless orders that teach what the Schools won't — a road to something beyond mastery. The Schools do not speak of it. | All |
 
@@ -87,6 +90,6 @@ Each School is one published subclass, chosen at level 3; nothing is homebrewed.
 | The School of Reckoning | Fighter — **Psi Warrior** |
 | Kenaz | Rogue — **Soulknife** |
 | The Menders' Hall | Psion — **Metamorph** |
-| The Silt Academy | Psion — **Psi Warper** |
+| The Navigation Academy | Psion — **Psi Warper** |
 
 A School's first year — being "Tested" — is a UA **Wild Talent feat** taken in place of your Origin feat, and if you were born on Aerun you also roll once on the 3d6 wild talent table. A visitor with no wild talent can earn one by going into the desert and asking — see [The Vision Quest](The-Vision-Quest.md). Entrance requirements, the optional Will and Way table rules, and D&D Beyond setup are on [Psionics and the Great Schools](../Game-Mechanics/Psionics-and-the-Great-Schools.md).

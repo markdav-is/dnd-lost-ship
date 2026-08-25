@@ -50,7 +50,7 @@ These pages are meant to be *done*, not just read. Things a traveler can walk up
 - **Buy a pinch of [Spice](Aerun-Players-Guide/The-Spice.md) through a House factor** — and learn what the factor now knows about you.
 - **Lodge a challenge-stake with the Guild.** A grievance, a stake, a notary's seal — and then the sand. The freight-master holds the winnings. Nobody argues with the freight-master.
 - **Ride an argosy on the Ring Road** and talk to the pilot. The pilot's eyes are blue-within-blue, and the pilot has been everywhere.
-- **Book passage on the Long Reach.** Five days of gray instead of four weeks of road. Do not lift the navigator's hood.
+- **Book passage on the Long Reach.** Five days of gray instead of four weeks of road. Do not lift the Navigator's hood.
 - **Buy a bone blade** and learn why it breaks on a 1 — and why nobody on Aerun carries steel at noon anyway.
 - **Bet on an arena bout** and learn who owns the fighter, what the bout is really settling, and which House just lost a silver mine.
 - **Ask a Mender** to treat someone the House wouldn't. They will. Then ask what it costs the Mender.

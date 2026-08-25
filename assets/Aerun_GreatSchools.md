@@ -20,9 +20,9 @@ Five Schools. Each holds a charter in one of the seven cities; the larger cities
 | **The School of Reckoning** | Mentats + Troopers | Human calculators, spymasters, war-planners | **Draj** (Balic) | **Psi Warrior** (Fighter, PHB 2024) |
 | **Kenaz** | Swordmasters of Ginaz | Supernaturally good blades | **Tyr** (Urik) | **Soulknife** (Rogue, PHB 2024) |
 | **The Menders' Hall** | Suk Inner School | Aerun's clerics: healers sworn never to harm | **Balic** (Gulg) | **Metamorph** |
-| **The Silt Academy** | Spacing Guild | Silt navigators and argosy pilots | **Raam** (the Guild's, not a city's) | **Psi Warper** |
+| **The Navigation Academy** | Spacing Guild | Navigators and argosy pilots | **Raam** (the Guild's, not a city's) | **Psi Warper** |
 
-The names are deliberately plain — Aerunites name things the way they name wells. Each doubles as the member's name: a graduate of Stillwater is *a Stillwater*; a graduate of Reckoning is *a Reckoner*; a blade of Kenaz is *Kenaz-sworn*; a Mender is *a Mender*; a navigator of the Silt Academy is simply *hooded* — they never say which came first.
+The names are deliberately plain — Aerunites name things the way they name wells. Each doubles as the member's name: a graduate of Stillwater is *a Stillwater*; a graduate of Reckoning is *a Reckoner*; a blade of Kenaz is *Kenaz-sworn*; a Mender is *a Mender*; a graduate of the Navigation Academy is a **Navigator** — the capital letter is theirs, and every silt-crew and gate-clerk on the continent grants it.
 
 ### 1.1 Why these names
 
@@ -30,7 +30,7 @@ The names are deliberately plain — Aerunites name things the way they name wel
 - **Reckoning** — merchant-house vocabulary: to reckon accounts, to reckon a course, the day of reckoning. Reckoners were born in counting-houses and grew into war-rooms.
 - **Kenaz** — the swordmasters took their name from the north, off the steel they refuse to carry: **kenaz**, the old Scarlands rune for the torch — skill, the craft that burns in the hand — is the forge-mark the northern smiths stamp on true steel, and Tyr's iron wears it out of every Guild hull. The school of the skill-mark, on the continent that shuns the steel itself. Its teaching kept the older name: **the Crag**, from the mental-combat constructs of the Way (*The Will and the Way*: the Tower, the Rampart, the Gate, the Crag — "lonely and strong, resists all attacks"). A swordmaster's mind is the Crag; Kenaz is where they learn to hold it.
 - **Menders** — *mending* is the humblest cantrip in the Way; the Hall chose it on purpose. Menders fix what is broken and are forbidden to break.
-- **The Silt Academy** — the one School named for its element instead of a virtue, because the element *is* the curriculum: the Guild's school teaches the silt itself — reading it, riding it, folding it. Its graduates are the Journal's navigators who "stand hooded at the bow, always hooded," and the street still calls them *the hooded* — but the school is the Academy, on the silt shelf above Raam.
+- **The Navigation Academy** — the plainest name of the five, and the proudest: navigation is the one art the cities cannot teach, because the curriculum is the silt itself — reading it, riding it, folding it. Its graduates are **Navigators**, capital letter and all — the Journal's hooded figures at the bow — and no one else on Aerun may use the word with a straight face. The Academy sits on the silt shelf above Raam, and it keeps one more thing besides the lane: **the Relay** (see the school's entry).
 
 ---
 
@@ -80,7 +80,7 @@ Metal is a bummer on Aerun — too heavy and too hot at 120°, and the Players G
 | **Reckoning** | Obsidian-tipped spear or bone longsword; chitin shield; obsidian darts for ranged Psionic Strikes | Psi Warrior damage is force, not the weapon's — a bone blade with an Energy Die behind it out-hits Nordic steel |
 | **Kenaz** | **Nothing.** The Kenaz-sworn's blade is a *Psychic Blade* — it exists from the moment the hand closes to the moment it lands. Obsidian practice blades for novices (break on a 1 — Kenaz teaches you to finish before it does); *no armor* | The only swordsmen on Aerun who never buy a sword. Nothing to break in the heat, nothing to surrender at a gate; a Kenaz-sworn walks into a House's hall disarmed by every visible measure. The school's creed: "a wall is a thing you carry, not a thing you wear" |
 | **Menders** | None. The **Bone Blade** grows out of the Mender's own forearm (Metamorph *Organic Weapons*) | Organic Weapons reshape the *body* — bone blade, flesh maul, viscera launcher. Nothing to buy, nothing to break in the heat, and the only weapon on Aerun that cannot be taken at a gate. A Mender's scalpel is their own ulna |
-| **The Silt Academy** | Bone gaff, chitin hull-armor plates | Guild rate includes the crew's kit; the navigator's real weapon is *Shatter* + Warp Space |
+| **The Navigation Academy** | Bone gaff, chitin hull-armor plates | Guild rate includes the crew's kit; the navigator's real weapon is *Shatter* + Warp Space |
 
 **Rule of thumb:** the Schools' power is force, psychic, and the body — damage types that don't care what the weapon is made of. Bone and obsidian are the default; a School graduate with a metal weapon is either rich, foreign, or lying.
 
@@ -213,7 +213,7 @@ Metal is a bummer on Aerun — too heavy and too hot at 120°, and the Players G
 | | — | *the bone-tool* | **Organic Weapons** (lvl 3) — **kept.** The Bone Blade is the Mender's own forearm bone, the continent's native weapon material; the Viscera Launcher is a syringe-dart. No metal, no equipment, nothing to confiscate |
 | **Planetology** | Dew Gathering / Stillsuit Seals | *water-craft* | Survival proficiency; **Locate Animals or Plants** (2); the Hall's *stillcloak* (equipment: halves water need) |
 | | Scanner Mastery / Deep Analysis / Spice Surveyor | *reading the land* | **Detect Magic** re-skinned (*Detect Defilement*), **Identify**, **Locate Object**; Discipline **Expanded Awareness** |
-| | Cartographer | *the sinkchart* | Cartographer's tools; **Find the Path** (6) — learned at the Silt Academy |
+| | Cartographer | *the sinkchart* | Cartographer's tools; **Find the Path** (6) — learned at the Navigation Academy |
 | | Mountaineer / Conservation of Energy | *the long walk* | **Longstrider**, **Enhance Ability** |
 | | Suspensor Pad | *the litter* | **Tenser's Floating Disk** (1) — the Menders' stretcher |
 | **Non-Psion path** | — | *hedge-healer* | **Biokinesis** wild talent on any class |
@@ -224,11 +224,15 @@ Metal is a bummer on Aerun — too heavy and too hot at 120°, and the Players G
 
 ---
 
-## 7. The Silt Academy — *Psi Warper*
+## 7. The Navigation Academy — *Psi Warper*
 
 *Spacing Guild → the caravans and the silt navigators. Aerun-centric; mostly NPCs, one terrific PC.*
 
 **Charter:** Raam — head of the Long Reach, gateway to the silt basin. The Academy is not the city's; it is the **Caravan Guild's**, and Raam tolerates it because Raam would starve without it. The Academy also trains the **argosy pilots** — the mekillot-bonded minds that steer the Ring Road's rolling fortresses.
+
+**The Relay.** The Academy maintains the Guild's one open miracle: a string of **Ancient far-speakers** — dull metal boxes older than any House, origin unknown, that carry a living voice across hundreds of miles of gray. One set in each waystation tower, one at each terminal, one sealed aboard each Master's skimmer; perhaps two dozen survive, none has ever been built new, and a dead set stays dead. Navigators alone are taught their working, and the Relay speaks only along the Guild's own lanes — convoy schedules, storm warnings, beacon law. It is why a waystation's beacon is *answered*: the tower already told the lane you were coming. (The Houses covet the sets; Jak's temples log them and say nothing; the Academy does not discuss the Relay, which on Aerun is how everyone knows it is real.)
+
+**The Steersmen (DM).** The Navigators the world sees — hooded, blue-eyed, human — are the Academy's *lower orders*. Deep in the heart of every great argosy, sealed in a bone vault amidships that the crew calls **the tank** and never enters, rides a **Steersman**: a pilot who gave themselves wholly to the Spice years ago and has been *changed* by it, the way the old books of Dune change their Guildsmen. The body is elongated and pale, the limbs half-forgotten, the eyes blue through and through with no white left; the mind is mostly elsewhere — bonded permanently to the argosy's mekillot teams and to the road ahead, which the Steersman reads the way a lane Navigator reads the silt, and folds a little, which is why an argosy is never late. Steersmen are fed Spice-thick air through the vault's one louver, do not leave, and by the time they are needed could not. The Guild's book carries them as cargo. The crews leave a cup of water at the tank's door at dusk, and it is always gone by morning, and nobody watches how. *This is the answer to the Spice page's politest unasked question — where the Guild's off-book Spice goes — and it is never volunteered: crews do not speak of the tank, the Academy does not confirm the rank exists, and a PC who opens a vault mid-crossing has made the whole convoy's problem.*
 
 **Entrance:** the Guild takes children, pays the families, and does not explain. Graduates are the heaviest Spice users on the continent. Tested talent: **Clairsentience** (See Invisibility — the first thing a navigator learns is to see what the silt hides) for navigators; **Empath** (beast-side) for pilots.
 
@@ -276,7 +280,7 @@ The Schools are Psion subclasses first. For players who want a School's flavor o
 4. **Another class?** Pick the re-skinned published subclass (§8) and a Wild Talent feat.
 5. *(Optional table rules)* **The Will:** burn Hit Dice for Energy Dice, Con mod times per long rest; heavy Spice: +2 to Con for that purpose, blue eyes, dependency. **Sight contests sight:** trained minds may spend an Energy Die on a save against another trained mind.
 
-**D&D Beyond setup:** enable the UA Psion; the Schools are published subclasses renamed in the character's notes — Telepath = a Stillwater, Metamorph = Mender, Psi Warper = Silt Academy, **Psi Warrior (Fighter) = Reckoner**, **Soulknife (Rogue) = Kenaz-sworn**. Wild Talent feats are UA feats. Nothing homebrew.
+**D&D Beyond setup:** enable the UA Psion; the Schools are published subclasses renamed in the character's notes — Telepath = a Stillwater, Metamorph = Mender, Psi Warper = Navigation Academy, **Psi Warrior (Fighter) = Reckoner**, **Soulknife (Rogue) = Kenaz-sworn**. Wild Talent feats are UA feats. Nothing homebrew.
 
 ---
 

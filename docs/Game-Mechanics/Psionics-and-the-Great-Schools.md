@@ -16,7 +16,7 @@ The rules layer for trained psionics on [Aerun](../World/Aerun.md): the UA 2025 
 | **The School of Reckoning** | Psi Warrior (Fighter) | PHB 2024 | Draj (Balic) |
 | **Kenaz** | Soulknife (Rogue) | PHB 2024 | Tyr (Urik) |
 | **The Menders' Hall** | Metamorph (Psion) | UA 2025 *The Psion* | Balic (Gulg) |
-| **The Silt Academy** | Psi Warper (Psion) | UA 2025 *The Psion* | Raam — the Caravan Guild's, not the city's |
+| **The Navigation Academy** | Psi Warper (Psion) | UA 2025 *The Psion* | Raam — the Caravan Guild's, not the city's |
 
 ## Chassis: the UA 2025 Psion
 
@@ -60,10 +60,10 @@ Canon says the Will is a tool used *on* other minds, and that disciplined minds 
 4. **Another class?** Pick the re-skinned published subclass ([Other classes at the Schools](../World/Factions/The-Great-Schools.md) — Aberrant Sorcery = Spice-burnt, Great Old One = Champion-bound, Psykinetic = unclaimed; the Way of the Unseen Mind is the [Avatar road](../Campaign/Plot-Threads/Spicy-Jak.md), NPC-only unless entered as homebrew) and a Wild Talent feat.
 5. *(Optional table rules)* **The Will:** burn Hit Dice for Energy Dice, Con mod times per long rest; heavy Spice: +2 to Con for that purpose, blue eyes, dependency. **Sight contests sight:** trained minds may spend an Energy Die on a save against another trained mind.
 
-**D&D Beyond setup:** enable the UA Psion; the Schools are published subclasses renamed in the character's notes — Telepath = Stillwater, Metamorph = Mender, Psi Warper = Silt Academy, **Psi Warrior (Fighter) = Reckoner**, **Soulknife (Rogue) = Kenaz-sworn**. Wild Talent feats are UA feats. Nothing homebrew.
+**D&D Beyond setup:** enable the UA Psion; the Schools are published subclasses renamed in the character's notes — Telepath = Stillwater, Metamorph = Mender, Psi Warper = Navigation Academy, **Psi Warrior (Fighter) = Reckoner**, **Soulknife (Rogue) = Kenaz-sworn**. Wild Talent feats are UA feats. Nothing homebrew.
 
 ## See also
 
 - [The Great Schools](../World/Factions/The-Great-Schools.md) — lore, charters, no-metal kit, skill trees, and the Schools' secrets (DM-facing).
 - [Dark Sun 5e Rules](Dark-Sun-5e-Rules.md) — the Players Guide: wild talent table, Arcane Defilement, equipment scarcity.
-- [The Merchant Houses](../World/Factions/The-Merchant-Houses.md) — who hires the graduates; [The Sandwalkers](../World/Factions/The-Sandwalkers.md) — the only minds besides the Silt Academy's to feel the Veil.
+- [The Merchant Houses](../World/Factions/The-Merchant-Houses.md) — who hires the graduates; [The Sandwalkers](../World/Factions/The-Sandwalkers.md) — the only minds besides the Navigation Academy's to feel the Veil.

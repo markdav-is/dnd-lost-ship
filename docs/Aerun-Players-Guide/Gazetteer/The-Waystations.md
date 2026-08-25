@@ -18,4 +18,5 @@ Each is the same kit: a tower with a **beacon fire** on top, a **cistern**, a **
 
 - **A convoy that misses a waystation is a convoy in trouble.** The stations are spaced for a day's run; overshooting one means a night on the open silt.
 - Beacons are answered, always, by anyone who can see them. This is the one rule of the silt that even smugglers keep.
+- The stations are never surprised. Your convoy is expected before its sail clears the horizon, and the crews will not say how. Ask, and you will be told about the weather.
 - The crews are worth talking to — they see everything that crosses, remember all of it, and are bored enough to tell you. They will not, however, discuss the northwest.

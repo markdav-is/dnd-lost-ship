@@ -6,7 +6,7 @@
 
 He sleeps in the prop-loft behind the theater, among painted flats of cities he has actually seen. The hood is up. It stays up. When he turns his head toward you there is, under the cloth, a blue so deep it has no white around it.
 
-He was a navigator of the Silt Academy. Graduates are not released. He released himself, and the Guild has a price on him that Salt View finds more entertaining than profitable.
+He was a Navigator of the Navigation Academy. Graduates are not released. He released himself, and the Guild has a price on him that Salt View finds more entertaining than profitable.
 
 He does not explain why he helps people go up. You suspect it is the only thing he is still allowed to be good at.
 

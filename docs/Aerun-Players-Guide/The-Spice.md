@@ -11,10 +11,10 @@
 - **What it is.** The Spice is a dull blue grain, like coarse salt that has been somewhere cold. It comes off the harvest shoals of the [Sea of Silt](Gazetteer/The-Sea-of-Silt.md) and from nowhere else in the world. It is Aerun's one export that no other land can grow, mine, or fake, and it has made the seven families what they are.
 - **What it does**, in the order people care about it: it lengthens life — the old rich of the seven cities are older than they admit; it strengthens the Will — a user pushes the mind further and recovers faster; and with time it stains the eyes, first a thin ring at the edge of the iris, then deeper, until the whole eye — iris and white together — is **blue-within-blue**.
 - **Blue eyes are the rank-sign of the continent.** The Primer says it and the streets confirm it: the stain means great wealth, a champion's provision, the Guild's crews, or the deep desert. It cannot be faked, bought off, or dyed away, and everyone on Aerun can read its depth at a glance.
-- **Who eats it.** The families sell it and take their own cut. The rich buy focus and years. The Guild's argosy pilots and silt navigators are the heaviest users alive. The desert people are born to it. A School master makes do on discipline instead — which is cheaper, and hurts more.
+- **Who eats it.** The families sell it and take their own cut. The rich buy focus and years. The Guild's argosy pilots and Navigators are the heaviest users alive. The desert people are born to it. A School master makes do on discipline instead — which is cheaper, and hurts more.
 - **The price** is ruinous and the supply is one pair of hands. Everything comes across the [Long Reach](Gazetteer/The-Long-Reach.md) or around the ring from the harvest shoals, in the Guild's sealed vaults, under the families' seals. Nobody retails it openly; you buy it the way you buy anything the law has no opinion on but everyone watches — through a House factor, at a House price.
 - **The habit is real.** The body learns the Spice and does not unlearn it. The poor man's version of the story ends in the pits; the rich man's version ends with a factor who owns him. An Aerunite proverb covers it: *"The Spice pays for itself. That is the problem."*
-- **Forms.** The trade moves it as sealed cakes and loose grain. It is taken as a bitter tea, as a pinch under the tongue (the Silt Academy's way), or — among the desert people — raw and unwashed as it comes off the shoal. The taste, every user agrees, is *blue*. No one has improved on that word.
+- **Forms.** The trade moves it as sealed cakes and loose grain. It is taken as a bitter tea, as a pinch under the tongue (the Navigators' way), or — among the desert people — raw and unwashed as it comes off the shoal. The taste, every user agrees, is *blue*. No one has improved on that word.
 - **Visitors are not exempt.** Stay on Aerun a season or two and the land gets into you regardless — the wild talent surfaces on its own. The Spice just opens the door faster, and wider, and does not close it.
 
 ## Lore checks
@@ -36,7 +36,7 @@ Roll **Intelligence (History)** for the trade, **Intelligence (Arcana)** for wha
 | DC | Tidbit | Check |
 | :-: | :--- | :--- |
 | 15 | Heavy users age at perhaps half the pace, and the oldest family elders are rumored well past their second century. The families neither confirm nor celebrate this; an heir's arithmetic is awkward enough already. | Arcana |
-| 15 | The stain's depth tracks the habit's depth: a ring is a taster, full blue-within-blue is years of daily use. The Guild's navigators are the deepest blue on the continent — those few who have seen under a hood agree. | Arcana |
+| 15 | The stain's depth tracks the habit's depth: a ring is a taster, full blue-within-blue is years of daily use. The Guild's Navigators are the deepest blue on the continent — those few who have seen under a hood agree. | Arcana |
 | 15 | The desert people follow the worms; where the great ones have passed, the tribes harvest. What the connection is, no coastal scholar can tell you and no Sandwalker will. | Survival |
 | 15 | Withdrawal does not kill, usually. It takes the sleep first, then the temper, then the Will itself — a heavy user cut off is weaker of mind than if he had never touched it, for a season or more. Factors know this arithmetic exactly. | Arcana |
 | 15 | No one has ever grown it, cooked it, or counterfeited it. Alchemists in three cities have hanged for selling blue salt; the buyers always know within the week. | History |
@@ -60,6 +60,7 @@ Roll **Intelligence (History)** for the trade, **Intelligence (Arcana)** for wha
 | 25 | They say it is the old sea itself — that the gray was a living ocean once, and the Spice is what a murdered sea dreams. Drunks and poets favor this one. | Arcana |
 | 25 | They say the desert people do not *find* the Spice; they are *given* it, and that they give something in return no city would pay. | Survival |
 | 25 | They say the blue in the eye is the Spice looking out. This one is told to frighten children, and works on adults. | Arcana |
+| 25 | They say the Guild's missing Spice is breathed, not eaten — piped as thick air into sealed vaults in the argosies' hearts, for passengers who are never on the manifest and never disembark. | History |
 | 25 | They say a Balic alchemist once fed it to a plant, and the plant lived a hundred years, and the alchemist's House keeps the pot behind three locks and will not sell cuttings at any price. | History |
 
 ## A word from the compiler
