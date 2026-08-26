@@ -33,7 +33,7 @@ WANDERER: The silt report. [rustle of paper] Winds — [beat] friends, you know.
 
 ANNOUNCER: Support for Wandering Aerun comes from the city of Draj. Grain, hemp, and the finest theater on the north coast. Draj: attendance is expected.
 
-ANNOUNCER: And from the city of Nibenay, and its Shadow King. Nibenay: the King sees no reason for concern. The King sees everything else, too.
+ANNOUNCER: And from the city of Nibenay, and its Shadow Knight. Nibenay: the Knight sees no reason for concern. The Knight sees everything else, too.
 
 ANNOUNCER: And from the city of Gulg, and the Oba, who grows what she keeps and keeps what she grows. Gulg: the forest provides. Ask it nothing further.
 
