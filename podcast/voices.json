@@ -24,6 +24,10 @@
     "voice_id": "pFZP5JQG7iQjIQuC4Bku",
     "note": "Master Yaxa of the School of Reckoning. Precise, courteous, quietly terrifying; answers with exact figures instantly. Premade 'Lily' (velvety, confident)."
   },
+  "CLERK": {
+    "voice_id": "2qQJWjw5XdG80GreshqG",
+    "note": "Clerk Praxa of the Balic west gate. Career bureaucrat, unshockable, reads categories like scripture, secretly funny. Library 'Eleanor' (gracious, authoritative, seasoned British)."
+  },
   "JINGLE": {
     "voice_id": "cgSgspJ2msm6clMCkdW9",
     "note": "Jingle singer for Tsalaxa tag. Bright, cheerful, wrong. Premade 'Jessica' (playful, bright)."

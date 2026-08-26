@@ -147,8 +147,11 @@ def main():
     voices = load_voices()
     slug, scenes = parse_script(args.script)
     build = os.path.join(HERE, "build", slug)
-    clips_dir = os.path.join(build, "clips")
+    # Shared across episodes: identical content (theme music, recurring SFX,
+    # unchanged sponsor reads) is generated once for the whole show.
+    clips_dir = os.path.join(HERE, "build", "_cache")
     os.makedirs(clips_dir, exist_ok=True)
+    os.makedirs(build, exist_ok=True)
 
     manifest = []  # ordered [{scene, mode, file|pause}]
     for si, scene in enumerate(scenes):
