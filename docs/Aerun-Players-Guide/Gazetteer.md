@@ -55,6 +55,6 @@
 | [The Sea of Silt](Gazetteer/The-Sea-of-Silt.md) | The gray country on the roof of the world |
 | [The Rim Wall](Gazetteer/The-Rim-Wall.md) | The cliffs that hold it up |
 | [The Balic Saddle](Gazetteer/The-Balic-Saddle.md) | The one gap where the wall lets you across |
-| [The Long Reach](Gazetteer/The-Long-Reach.md) | The Guild's lane; five days instead of four weeks |
+| [The Long Reach](Gazetteer/The-Long-Reach.md) | The Guild's lane; five days instead of three tendays |
 | [First Mark, Midreach, and Saltbone](Gazetteer/The-Waystations.md) | Three towers, and why you do not miss one |
 | [The Ring Road](Gazetteer/The-Ring-Road.md) | Fourteen hundred miles of everything |

@@ -39,7 +39,7 @@ Roll **Intelligence (History)** for the trade, **Intelligence (Arcana)** for wha
 | 15 | The stain's depth tracks the habit's depth: a ring is a taster, full blue-within-blue is years of daily use. The Guild's Navigators are the deepest blue on the continent — those few who have seen under a hood agree. | Arcana |
 | 15 | The desert people follow the worms; where the great ones have passed, the tribes harvest. What the connection is, no coastal scholar can tell you and no Sandwalker will. | Survival |
 | 15 | Withdrawal does not kill, usually. It takes the sleep first, then the temper, then the Will itself — a heavy user cut off is weaker of mind than if he had never touched it, for a season or more. Factors know this arithmetic exactly. | Arcana |
-| 15 | No one has ever grown it, cooked it, or counterfeited it. Alchemists in three cities have hanged for selling blue salt; the buyers always know within the week. | History |
+| 15 | No one has ever grown it, cooked it, or counterfeited it. Alchemists in three cities have hanged for selling blue salt; the buyers always know within the tenday. | History |
 
 ### DC 20
 

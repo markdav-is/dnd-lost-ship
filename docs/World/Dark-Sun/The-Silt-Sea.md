@@ -1,4 +1,4 @@
-[World](../../World.md) / [Dark Sun](../Dark-Sun.md) / The Silt Sea <!-- wikidown:breadcrumb -->
+[Home](../../Home.md) / [World](../../World.md) / [Dark Sun](../Dark-Sun.md) / The Silt Sea <!-- wikidown:breadcrumb -->
 
 # Ecology of the Silt Sea
 
@@ -60,7 +60,7 @@ The [Sandwalkers](../Factions/The-Sandwalkers.md) walk the shoals, read the curr
 
 ### The Long Reach — the Raam–Balic silt lane
 
-The Guild's one great crossing, and the reason the two portage cities matter more than their size suggests: **a marked lane running southwest across the open silt from the Raam shelf to the Balic saddle — ~350 miles, 5–6 days by convoy**, against 3–4 weeks hauling the same freight around the half-ring by road. Everything time-sensitive on Aerun goes this way: Spice out of the harvest shoals, Draj grain for the southern cities, house couriers, and any cargo whose buyer is waiting.
+The Guild's one great crossing, and the reason the two portage cities matter more than their size suggests: **a marked lane running southwest across the open silt from the Raam shelf to the Balic saddle — ~350 miles, 5–6 days by convoy**, against about three tendays hauling the same freight around the half-ring by road. Everything time-sensitive on Aerun goes this way: Spice out of the harvest shoals, Draj grain for the southern cities, house couriers, and any cargo whose buyer is waiting.
 
 **How the lane is built:**
 
@@ -72,7 +72,7 @@ The Guild's one great crossing, and the reason the two portage cities matter mor
 
 **Where it does not go:** the lane holds to the **eastern and southern reaches** and never bends northwest. Pilots call that horizon *the blank*; the Guild's charts simply stop, and nobody in three centuries has filed a complaint about it ([the Veil](../../Campaign/Plot-Threads/The-First-Source.md)).
 
-**At the table:** the Long Reach is the fastest way to cross Aerun and the easiest place on the continent to disappear. Hijack, quarantine, embargo, a convoy that arrives with its crew missing, a house paying to have one waystation go dark for a week — every silt-crossing plot starts by asking who controls which marker.
+**At the table:** the Long Reach is the fastest way to cross Aerun and the easiest place on the continent to disappear. Hijack, quarantine, embargo, a convoy that arrives with its crew missing, a house paying to have one waystation go dark for a tenday — every silt-crossing plot starts by asking who controls which marker.
 
 **The Deeps:** the **northwestern reach** of the sea is the unplace — no lanes, no markers, no charts, and no memory: [the Veil](../../Campaign/Plot-Threads/The-First-Source.md) holds there, over the First Source. Lane pilots call the northwestern horizon "the blank" and do not look at it long. The high **Eldorado pass** opens onto exactly this reach, which is why prospectors who descend from it so rarely file a second claim.
 

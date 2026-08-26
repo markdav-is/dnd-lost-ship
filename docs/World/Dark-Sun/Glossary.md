@@ -77,7 +77,7 @@ City = family seat; the family rules it outright. Full dossiers, banners, and fe
 
 ### Geography for the map (from the Wanderer's Journal)
 
-**Continental scale (canon):** Aerun spans **~500 miles east–west by ~400 north–south** — roughly **160,000 sq mi: the size of California or Spain**, *not* Australia. The reference chain: Lake Pit is ~6 miles wide → the Dragon's Bowl (35–50 miles) holds it in one lobe → the Bowl spans about a tenth of the continent. Travel math that follows: **Ring Road circumference ~1,400 miles** (a caravan circles in ~2 months at 20–25 mi/day); **neighboring cities sit 100–150 miles apart** (4–7 caravan days — close enough to feud, too far to march cheaply); **Raam→Balic by silt lane ~350 miles** (5–6 days by Guild skimmer vs. 3–4 weeks by the half-ring road — the lanes' whole economic reason to exist).
+**Continental scale (canon):** Aerun spans **~500 miles east–west by ~400 north–south** — roughly **160,000 sq mi: the size of California or Spain**, *not* Australia. The reference chain: Lake Pit is ~6 miles wide → the Dragon's Bowl (35–50 miles) holds it in one lobe → the Bowl spans about a tenth of the continent. Travel math that follows: **Ring Road circumference ~1,400 miles** (a caravan circles in ~2 months — six tendays and change — at 20–25 mi/day); **neighboring cities sit 100–150 miles apart** (4–7 caravan days — close enough to feud, too far to march cheaply); **Raam→Balic by silt lane ~350 miles** (5–6 days by Guild skimmer vs. about three tendays by the half-ring road — the lanes' whole economic reason to exist).
 
 
 Terrain, siting, populations, and forces per city — the map-builder's reference, translated to Aerun's ring (interior = the Sea of Silt). Populations are the standard Dark Sun supplement figures; adjust freely. Source: *The Wanderer's Journal* atlas chapter (`DDDS_DarkSun_V.pdf`, pp. 65–75).
@@ -111,12 +111,12 @@ Terrain, siting, populations, and forces per city — the map-builder's referenc
 | **Urik** | Lake Pit / the Dragon's Bowl | **~30** | Canon: "less than thirty miles from Urik" — one hard day's ride north, then the thousand-foot descent |
 | **Urik** | Ruins of Yaramuke | **~110** | The Road of Kings, northeast — Yaramuke sits **halfway between Urik and Raam** |
 | **Yaramuke** | **Black Oasis** | **0 — it is inside the ruins** | The oasis Hamanu poisoned when he erased the city; the two are **one site**, never separate features. Its water still kills |
-| **Urik** | Balic | **~150** | Southeast along the Ring Road — a week's caravan |
+| **Urik** | Balic | **~150** | Southeast along the Ring Road — six or seven caravan days |
 | **Urik** | Raam | **~220** | The full Road of Kings, past Yaramuke |
 | **Balic** | Amber Valley | **~50** | The next stop east on the southern Ring Road |
 | **Balic** | Altaruk | **~35** | The caravan fort between them |
 | **Raam** | **Balic** *by the Long Reach* | **~350** | Across the silt: **5–6 days** by Guild convoy — the continent's fastest route |
-| **Raam** | **Balic** *by road* | **~700** | The half-ring the long way: **3–4 weeks**. This gap is why the portages print money |
+| **Raam** | **Balic** *by road* | **~700** | The half-ring the long way: **about three tendays** at caravan pace (28–35 days at 20–25 mi/day). This gap is why the portages print money |
 | **Urik** | Hollowstorm | **~120** | North along the west coast |
 | **Bitter Well** | Hollowstorm | **~25** | The oasis on the scrub plains inland of the coast road |
 | **Tyr** | Eldorado | **~40** | Inland, up to the rim pass |

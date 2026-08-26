@@ -6,7 +6,7 @@
 
 ## The vision
 
-The Ring Road. You know it at once — the packed stone, the cairns, the wall on your right hand and the sea on your left, the way it has been every day for weeks. You are riding.
+The Ring Road. You know it at once — the packed stone, the cairns, the wall on your right hand and the sea on your left, the way it has been every day for tendays. You are riding.
 
 You do not remember mounting. The thing under you runs on two legs, long-necked, feathered in dust, the stride of it eating the road in gulps. A courier's mount. The waystation ahead has been ahead for an hour and is no closer.
 

@@ -6,7 +6,7 @@ The Caravan Guild's marked lane across the open silt, running southwest from Raa
 
 ## At a glance
 
-- **The arithmetic** Five or six days by skimmer convoy — against **three or four weeks** hauling the same freight the long way round the Ring Road. Everything urgent goes this way, and pays for the privilege.
+- **The arithmetic** Five or six days by skimmer convoy — against **two to three tendays** hauling the same freight the long way round the Ring Road. Everything urgent goes this way, and pays for the privilege.
 - **The markers** The route is staked end to end with **bone-and-obsidian channel markers**: mekillot ribs sunk upright in the dust, capped with black glass that catches the sun. In clear air the next one is always in sight. Re-staking after storm season is a standing Guild expense and a standing Guild complaint.
 - **The waystations** Three towers on the firmest shoals — [First Mark, Midreach, and Saltbone](The-Waystations.md).
 - **Who runs it** The Guild, entirely. Both terminals, the markers, the schedule, and the rates.

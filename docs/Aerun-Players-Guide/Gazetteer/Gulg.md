@@ -21,5 +21,5 @@ Not streets but **dagadas** — dozens of round hut-compounds along twisting dir
 
 - Outsiders cannot navigate Gulg. Hire a local child for a coin; this is normal and expected.
 - The **nganga** — the queen's templars — are rarely seen. You will know they have been by what is missing in the morning.
-- Storytellers are honored here beyond gladiators. If you can tell a tale, you can eat for a week at the **Drum Circle**.
+- Storytellers are honored here beyond gladiators. If you can tell a tale, you can eat for a tenday at the **Drum Circle**.
 - The Ring Road does not enter the forest; Gulg hangs off it by a guarded spur track. Arrive by daylight.

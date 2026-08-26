@@ -31,10 +31,12 @@ Which check to roll:
 | Page | What it covers |
 | :--- | :--- |
 | [Aerun — A Primer](Aerun-Players-Guide/Aerun-A-Primer.md) | The shape of the continent, the three powers, how disputes are settled, what the coin is, and why everyone's eyes are a little blue |
+| [The Gate Ritual](Aerun-Players-Guide/The-Gate-Ritual.md) | Your first gate on the continent: the five declarations, the wax and the triplicate log, water for metal at the scale, and why you must declare the port you mean |
 | [A Traveler's Gazetteer of Aerun](Aerun-Players-Guide/Gazetteer.md) | Every place on the atlas — seven cities, nine towns, nine wild places, and the silt country — with the warnings a caravan master would actually give |
 | [The Great Schools of Aerun](Aerun-Players-Guide/The-Great-Schools.md) | The five psionic academies: what people say of each, what a lore check adds, and which class and subclass each one is |
 | [The Spice](Aerun-Players-Guide/The-Spice.md) | The desert's one true luxury: what it does, what it costs, who eats it, and the five wrong stories about where it comes from |
 | [The Vision Quest](Aerun-Players-Guide/The-Vision-Quest.md) | A story you walk through: a guide, the wall, the Spice, a vision, and the wild talent the desert gives to those who go and ask |
+| [Wandering Aerun](Aerun-Players-Guide/Wandering-Aerun.md) | The unlicensed broadcast on Relay channel forty-three: the Wanderer, the transcription wafers, and the Guild's very loud silence |
 | *Peoples of Aerun* | *Planned* |
 | *Crossing the Silt* | *Planned* |
 | *Playing an Aerun character* | *Planned* |
@@ -43,19 +45,22 @@ Which check to roll:
 
 These pages are meant to be *done*, not just read. Things a traveler can walk up and do on Aerun:
 
-- **Answer the gate question.** *"What's your business?"* — and watch your spell components get searched, sealed, logged, and bonded to your declared exit port. Lie, and the registry remembers in every city.
+- **Answer the gate question.** *"What's your business?"* — at your **first** gate on the continent you declare your business, your goods, your metals, your components, and your **exit city**, and everything bonded travels to the port you named ([The Gate Ritual](Aerun-Players-Guide/The-Gate-Ritual.md)). Lie, and the registry remembers in every city.
+- **Trade your steel for water at the gate scale** — weight for weight, at the rate posted daily — and get it all back at your exit port. *Nothing is taken. Everything is held.*
 - **Hire a Kenaz-sworn** to settle an argument to first touch. No blood, no mark, and the loser pays the fee.
 - **Get tested at a School.** Anyone with the Will may be tested; a wild talent is the Wild Talent feat, and the School's first year is where you earn it.
 - **Go into the desert and ask.** A guide, a crossing, the Spice, and a gift — if you have no wild talent, [The Vision Quest](Aerun-Players-Guide/The-Vision-Quest.md) is how a visitor gets one.
 - **Buy a pinch of [Spice](Aerun-Players-Guide/The-Spice.md) through a House factor** — and learn what the factor now knows about you.
 - **Lodge a challenge-stake with the Guild.** A grievance, a stake, a notary's seal — and then the sand. The freight-master holds the winnings. Nobody argues with the freight-master.
 - **Ride an argosy on the Ring Road** and talk to the pilot. The pilot's eyes are blue-within-blue, and the pilot has been everywhere.
-- **Book passage on the Long Reach.** Five days of gray instead of four weeks of road. Do not lift the Navigator's hood.
+- **Book passage on the Long Reach.** Five days of gray instead of three tendays of road. Do not lift the Navigator's hood.
 - **Buy a bone blade** and learn why it breaks on a 1 — and why nobody on Aerun carries steel at noon anyway.
+- **Sign your contracts in the white hours**, when no party can be traveling away from the agreement — and pay a Reckoner to read them first.
 - **Bet on an arena bout** and learn who owns the fighter, what the bout is really settling, and which House just lost a silver mine.
 - **Ask a Mender** to treat someone the House wouldn't. They will. Then ask what it costs the Mender.
 - **Try to lie to a Stillwater.** Once.
 - **Pay a Reckoner for a count** — of a caravan's cargo, a rival's debts, or the votes in Balic's agora before they are cast.
+- **Listen to channel forty-three.** If you can get near a far-speaker in the broadcast hours, [the Wanderer](Aerun-Players-Guide/Wandering-Aerun.md) is talking. The Guild will not discuss it, which is how you know it is real.
 - **Ask where the elf quarter is**, and get the smile. There are no peoples on Aerun; there are Houses.
 - **Look up at the Rim Wall** and ask what's behind it. You will get the proverb: *"Beyond the Rim Wall, the world ends."* Ask again, and you will get a price for a guide.
 
