@@ -15,7 +15,7 @@ Canonical sources: the revised map above, `assets/Aerun_TheDesertContinent.md`, 
 Keep it simple at the table — three powers ([full glossary](Dark-Sun/Glossary.md)):
 
 1. **The Emperor — Jak**, the king in the south — **the Administrator**: the network, the temples, the Spásistren, and a deliberately light hand. Aerun is his wildest, least-controlled continent, and he leaves it alone **because it is the trading hub of the world**. There are no kings on Aerun; there is a king in the south.
-2. **The seven families** — they **rule the seven cities outright**: Wavir/Balic, Tsalaxa/Draj, Inika/Gulg, Shom/Nibenay, M'ke/Raam, Vordon/Tyr, Stel/Urik ([The Merchant Houses](Factions/The-Merchant-Houses.md)). The beings once worshiped as god-kings kept their names and lost their thrones — they are the families' **Champions** now: sovereign weapons who settle house disputes in the arena-born **[War of Champions](Dark-Sun/Glossary.md)**, because armies are too expensive to march. The greatest have **ascended** (Dragon, Avangion, Avatar) and serve as pure deterrent — Hamanu for Stel, the Shadow King for Shom, the Oba for Inika; the other four champions are dead, broken, or banished.
+2. **The seven families** — they **rule the seven cities outright**: Wavir/Balic, Tsalaxa/Draj, Inika/Gulg, Shom/Nibenay, M'ke/Raam, Vordon/Tyr, Stel/Urik ([The Merchant Houses](Factions/The-Merchant-Houses.md)). The beings once worshiped as god-kings kept their names and lost their thrones — they are the families' **Champions** now: sovereign weapons who settle house disputes in the arena-born **[War of Champions](Dark-Sun/Glossary.md)**, because armies are too expensive to march. The greatest have **ascended** (Dragon, Avangion, Avatar) and serve as pure deterrent — Hamanu for Stel, the Shadow Knight for Shom, the Oba for Inika; the other four champions are dead, broken, or banished.
 3. **The Caravan Guild** — no house, no master: the colossal **mekillot argosies** of the Ring Road and the **silt skimmers and long haulers** of the interior lanes. All bulk transport, for everyone or no one. No army marches without Guild hulls.
 
 ## The concentric rings
@@ -31,7 +31,7 @@ Going clockwise from the north (per the revised map): **Draj** → **Blackguard*
 | **Balic** (south; the great harbor) | Wavir | *(banished)* | Merchant democracy; **silt-fleet harbor**; abolitionist; salt and silver |
 | **Draj** (north) | Tsalaxa | Tectuktitlay *(broken)* | Warrior-theocracy theater run by spymasters; hemp and grain |
 | **Gulg** (southeast) | Inika | **The Oba** | Forest city inside a living hedge; the dragon worshiped as goddess |
-| **Nibenay** (east) | Shom | **The Shadow King** | Ancient and decadent; the dragon is what holds it together |
+| **Nibenay** (east) | Shom | **The Shadow Knight** | Ancient and decadent; the dragon is what holds it together |
 | **Raam** (northeast; the sprawl) | M'ke | *(dead)* | Half in civil war since its dragon died; gateway to the coastal silt basin |
 | **Tyr** (northwest) | Vordon | *(slain)* | The Free City veneer; iron mines; Vordon rebuilding in shadow |
 | **Urik** (southwest; the fortress-ring) | Stel | **Hamanu, the Lion** | The war-city: sealed borders, mercenary legions, the great surviving dragon |
@@ -75,7 +75,7 @@ Arcane magic on Aerun draws on the life force of the land. **Preservers** take o
 | Tier | Group |
 | :-: | :--- |
 | 1 | **Jak** — the Emperor, far away and never far enough |
-| 2 | **The seven families** — the cities, the wells, the law; **their Champions** — the court and the deterrent; **house templars** — the enforcement |
+| 2 | **The seven families** — the cities, the wells, the law; **their Champions** — the court and the deterrent; **the house bureaus** — the enforcement, under a different livery in every city |
 | 3 | **The Caravan Guild** — beside the pyramid, not in it; everything moves at their rate |
 | 4 | **Free citizens** — tenuous freedom |
 | 5 | **Slaves** — the economic foundation; the arena is the only ladder up (except in Wavir's Balic, which pays wages and is hated for it) |

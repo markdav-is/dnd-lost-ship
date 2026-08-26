@@ -10,7 +10,7 @@ South coast, built into the great rock dam at the foot of the **Balic Saddle** â
 
 - **Population** ~24,000. Wealthiest of the seven.
 - **Ruling family** Wavir â€” abolitionist, which is to say Balic pays wages, and is loathed for it by every other city.
-- **Government** Genuinely peculiar: a **Chamber of Patricians** writes the laws, the templars stand for ten-year elections, and the guilds vote. Cynics note who counts the votes. Optimists note that they are counted at all.
+- **Government** Genuinely peculiar: a **Chamber of Patricians** writes the laws, the **praetors** stand for ten-year elections, and the guilds vote. Cynics note who counts the votes. Optimists note that they are counted at all.
 - **Trade** Everything, because everything must cross here: grain, salt, olives, wine, livestock, leather, marble. The tolls are the real crop.
 
 ## What a visitor sees

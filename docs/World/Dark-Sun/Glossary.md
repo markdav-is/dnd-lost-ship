@@ -48,8 +48,8 @@ A champion who advances far enough in the defiler-psionic (or preserver-psionic,
 | Champion | Serves | State & status |
 | :--- | :--- | :--- |
 | **Hamanu, the Lion** | House Stel (Urik) | **Ascended — Dragon.** The great living deterrent; disciplined, patient, terrifying; Urik's sealed borders are his preference. Leads Stel's legions in name; has not needed to fight in centuries |
-| **The Shadow King** | House Shom (Nibenay) | **Ascended — Dragon**, half-withdrawn into mystery; the one force holding rotting Shom together |
-| **The Oba** | House Inika (Gulg) | **Ascended — state debated.** Her forest templars worship her as an **Avangion**; her rivals mutter Dragon. Her exhibit A is **Sunlight Home**: an agafari tree grown to titanic size by her own magic — and defilers cannot *grow*. Nobody has tested the question |
+| **The Shadow Knight** | House Shom (Nibenay) | **Ascended — Dragon**, half-withdrawn into mystery; the one force holding rotting Shom together |
+| **The Oba** | House Inika (Gulg) | **Ascended — state debated.** Her **nganga** worship her as an **Avangion**; her rivals mutter Dragon. Her exhibit A is **Sunlight Home**: an agafari tree grown to titanic size by her own magic — and defilers cannot *grow*. Nobody has tested the question |
 | **Kalak** | House Vordon (Tyr) | **Slain — outside the rites.** The continent's unsolved crime; Vordon rebuilds in shadow and shame |
 | **Abalach-Re** | House M'ke (Raam) | **Dead** — and Raam burns without its deterrent |
 | **Tectuktitlay** | House Tsalaxa (Draj) | **Broken** — shattered in a champions' duel generations ago; paraded at festivals as a figurehead. Tsalaxa's spies do the work its champion cannot |
@@ -69,7 +69,7 @@ City = family seat; the family rules it outright. Full dossiers, banners, and fe
 | **Urik** (SW) | Stel | Hamanu (Dragon) | The war-city: fortress walls, mercenary legions, sealed borders |
 | **Raam** (NE) | M'ke | *(Abalach-Re, dead)* | Teeming sprawl at the silt's edge, half in civil war; M'ke fortified and waiting |
 | **Draj** (N) | Tsalaxa | Tectuktitlay *(broken)* | Warrior-theocracy theater run by spymasters; hemp, grain, blood festivals |
-| **Nibenay** (E) | Shom | The Shadow King (Dragon) | Ancient, decadent, dragonfly-bannered; wealth without hunger |
+| **Nibenay** (E) | Shom | The Shadow Knight (Dragon) | Ancient, decadent, dragonfly-bannered; wealth without hunger |
 | **Gulg** (SE) | Inika | The Oba (ascended) | Forest city inside a living hedge; small, agile, fanatically loyal |
 | **Balic** (S) | Wavir | *(Andropinis, banished)* | The great harbor and silt-fleet; merchant democracy, abolitionist, beloved |
 
@@ -157,7 +157,7 @@ Terrain, siting, populations, and forces per city — the map-builder's referenc
 
 ![The City of Tyr — 2e illustrated map](../../.attachments/darksun_city_of_tyr_2e.jpg)
 ![The City of Tyr — 4e poster map](../../.attachments/darksun_city_of_tyr_4e.jpg)
-*Templar district, elven market, warrens, stadium, and the ziggurat — a ready-made street map for any of the seven with the labels filed off.*
+*Templar district, elven market, warrens, stadium, and the ziggurat — a ready-made street map for any of the seven with the labels filed off. ("Templar" is the source setting's word — on Aerun the Tyr quarter is the **Bureau District**; filing off that label is part of the conversion.)*
 
 ## The Caravan Guild
 
@@ -173,9 +173,9 @@ A great argosy carries **four tiers of crew**, top of the hull to the depths: **
 
 ## Powers and orders (the supporting cast)
 
-- **House templars** — each family's civil service, secret police, and (where a champion lives) champion-cult officer corps. Where the champion died, the templars became something desperate.
+- **The house bureaus** — each family's civil service, secret police, and (where a champion lives) champion-cult officer corps, under a different livery in every city: Draj's **moon priests**, Nibenay's **merchant family wives**, Gulg's **nganga** and house factors, Balic's **praetors**, Urik's **Code officers** (the yellow cloaks), Tyr's **High Bureaus**. Where the champion died, the bureaus became something desperate.
 - **The [Order of the Sere](../Factions/The-Order-of-the-Sere.md)** — the sworn defiler order: undertakers keeping the Green Age failsafe. The first Champions were theirs in spirit — the Sere keep the *oath* form of the art whose *war* form the ascended embody. Deep source: *Defilers and Preservers*.
-- **The Veiled Alliance** — preserver cells in every city, working toward restoration, hunted by templars. Natural allies of any cure — and the quiet keepers of the **Avangion** road.
+- **The Veiled Alliance** — preserver cells in every city, working toward restoration, hunted by the house bureaus. Natural allies of any cure — and the quiet keepers of the **Avangion** road.
 - **Elemental priesthoods** — clerics of Air, Earth, Fire, Water ([5e domains](../../Game-Mechanics/Dark-Sun-5e-Rules.md)); quietly despairing keepers of a dying ecology's shrines.
 - **The [Sandwalkers](../Factions/The-Sandwalkers.md)** — the wardens: silt-shoal nomads keeping the thousand-year watch over the [First Source](../../Campaign/Plot-Threads/The-First-Source.md) beneath the Sea of Silt. [Harah Tabr](../../NPCs/Harah-Tabr.md) is theirs. Outside the triad entirely — which is their power.
 - **The psionic academies (the Way)** — every city trains the Will through the five **[Great Schools](../Factions/The-Great-Schools.md)**: **Stillwater** (Nibenay), the **School of Reckoning** (Draj), **Kenaz** (Tyr), the **Menders' Hall** (Balic), and the **Navigation Academy** (Raam — the Guild's). The desert's masterless orders (the **Way of the Unseen Mind**) teach what the cities won't: the [Avatar road](../../Campaign/Plot-Threads/Spicy-Jak.md) — the one ascension no house has ever owned.

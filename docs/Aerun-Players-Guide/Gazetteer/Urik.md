@@ -10,7 +10,7 @@ Southwest, square-walled on the tan barrens beneath a smoking mountain. Urik is 
 
 - **Population** ~20,000 inside the walls, more on the plantations.
 - **Ruling family** Stel, the war-house: mercenary contracts, fortress-caravans, and the ring's finest soldiers.
-- **The Code** Urik runs on one enormous written law that governs commerce, taxes, holidays, building standards, weddings, funerals, and the care of elders. Templars test every child and assign the trade they will follow. Crime is rare; so is choice.
+- **The Code** Urik runs on one enormous written law that governs commerce, taxes, holidays, building standards, weddings, funerals, and the care of elders. The Code's officers test every child and assign the trade they will follow. Crime is rare; so is choice.
 - **Trade** Obsidian from the quarries on the **Mountain of the Black Crown**, the finest **pottery** on Aerun, leather, meat, chitin, and kank nectar from vast herds.
 
 ## What a visitor sees
@@ -19,7 +19,7 @@ Yellow-glazed walls with lions worked into them, and inside, a rectilinear grid 
 
 ## Traveler's notes
 
-- Obey the yellow cloaks. Templars are the king's hands and answer to nobody else; a bribe is sometimes possible and always dangerous.
+- Obey the yellow cloaks. The Code's officers are the king's hands and answer to nobody else; a bribe is sometimes possible and always dangerous.
 - Keep coin hidden for emergencies. The quarries take more lives than the arena and they are not fussy about how the labor arrives.
 - Urik's astronomers are famous and surprisingly welcoming to foreign scholars — one of the few doors here that opens to a stranger.
 - North out of the city runs the **Road of Kings**, toward the Dragon's Bowl and the ruins at Yaramuke. Caravans go in company.

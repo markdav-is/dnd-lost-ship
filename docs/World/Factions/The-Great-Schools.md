@@ -52,7 +52,7 @@ Metal is a bummer on Aerun — too heavy and too hot at 120°, and the Players G
 
 *Bene Gesserit → stealth, cunning, telepathy, body awareness. The Voice, the truthtrance, prana-bindu.*
 
-**Charter:** Nibenay — the ancient, decadent city the Shadow King holds together; Stillwater holds the city's *memory*. Annex in Raam (the old Psiumarkh quarter). Mother-house rule: Stillwaters serve a House by contract, never by birth — a Stillwater placed with House Shom is on loan.
+**Charter:** Nibenay — the ancient, decadent city the Shadow Knight holds together; Stillwater holds the city's *memory*. Annex in Raam (the old Psiumarkh quarter). Mother-house rule: Stillwaters serve a House by contract, never by birth — a Stillwater placed with House Shom is on loan.
 
 **Entrance:** anyone the Stillwaters judge can hold still — man, woman, mul, kreen; the School has never cared what a student was before they were still. There is one rank worth having and it is the name itself: you leave the hall *a Stillwater*, or you leave it nothing. Tested talent: **Empath** (Charm Person, Calm Emotions, advantage on Influence) or **Mind Whisperer** (Mind Sliver, Dissonant Whispers, limited telepathy).
 
@@ -228,7 +228,7 @@ The Schools are Psion subclasses first. For players who want a School's flavor o
 | **Soulknife** (Rogue) | **Kenaz-sworn** — this *is* Kenaz's training (above) |
 | **Way of the Unseen Mind** (Monk, Players Guide — *not on DDB*) | The desert's masterless orders — what the Schools *won't* teach (Avatar road; see [Spicy Jak](../../Campaign/Plot-Threads/Spicy-Jak.md)). NPC use only unless entered as homebrew |
 | **Aberrant Sorcery** (Sorcerer) | **Spice-burnt** — a wild talent that grew without a School. Too much Spice, no Way; the tentacles and the black eyes are what the Hall warns about. Houses fear them more than wizards |
-| **Great Old One** (Warlock) | **Champion-bound** — a mind that has touched an *ascended* Champion (Hamanu, the Oba, the Shadow King) and come back with a piece of it. The Thought Shield is the dragon's gift; *Create Thrall* is its price |
+| **Great Old One** (Warlock) | **Champion-bound** — a mind that has touched an *ascended* Champion (Hamanu, the Oba, the Shadow Knight) and come back with a piece of it. The Thought Shield is the dragon's gift; *Create Thrall* is its price |
 | **Psykinetic** (UA Psion) | **Unclaimed.** No School teaches pure force — the cities find it too much like magic. A Psykinetic PC learned it from a wandering master or the desert; Urik's Kenaz annex is rumored to be quietly building a curriculum for Stel's legions (hook) |
 | **Psionic Study** feat (Players Guide — *not on DDB*) | "Went to the School, didn't stay." Prefer the UA **Wild Talent feats** (DDB-enterable) for this; keep Psionic Study for NPCs |
 

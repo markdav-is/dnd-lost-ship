@@ -22,6 +22,16 @@ Simple, universal, and enforced by everyone aboard:
 4. Answer a beacon.
 5. **Stop for nothing that hails you from the gray.**
 
+### The traveler's beacon
+
+Rule four has a price, and the Guild will happily sell it to you. Every waystation and Guild terminal stocks the **traveler's beacon**: a single-use bone-and-glass burner, about fifty ceramic, that when struck burns **Guild-blue** — the same color as the channel markers and the waystation lights — visible for miles and burning about six hours. The fifty ceramic buys the flare and a line in the Guild's book, and the line is the real product: a beacon is **registered** to its buyer, and lighting a registered beacon binds any Guild vessel that sees it to answer. Strike one falsely, or strike one that is not in the book, and you have committed a Code crime of the kind that ends with an arena verdict.
+
+The doctrine that keeps rules four and five from contradicting each other is taught to every Guild hand and worth memorizing before you cross:
+
+> *A beacon is light; it never speaks. If it speaks, it is not a beacon.*
+
+A true beacon burns blue and says nothing. Anything out on the gray that calls, waves, or hails is not a beacon, and the lane's last rule already told you what to do about it.
+
 ## Traveler's notes
 
 - Passage can be bought at either terminal. It is not cheap and it is not negotiable; the Guild's rate is the rate.

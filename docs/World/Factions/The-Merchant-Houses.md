@@ -1,4 +1,4 @@
-[World](../../World.md) / [Factions](../Factions.md) / The Merchant Houses <!-- wikidown:breadcrumb -->
+[Home](../../Home.md) / [World](../../World.md) / [Factions](../Factions.md) / The Merchant Houses <!-- wikidown:breadcrumb -->
 
 # The Merchant Houses
 
@@ -22,8 +22,8 @@ Any two of the three can strangle the third — so nobody squeezes first. **Ther
 | :--- | :--- | :--- | :--- | :--- |
 | **Wavir** | Balic | *(Andropinis — banished)* | Silver jozhal on blue | Richest and most respected; gladiator-founded; **abolitionist** — paid labor only, beloved by commoners, suspected of funding rebellions; deposed its own dragon and chose commerce |
 | **Tsalaxa** | Draj | Tectuktitlay *(broken figurehead)* | Glaring yellow eyes on black | Espionage, blackmail, and sabotage as business model; patriarch **Ydris** with his half-giant bodyguard; *"Never cross the dragon or House Tsalaxa"* — the joke being their dragon is the least of it |
-| **Inika** | Gulg | **The Oba** | Gold circle on black | Small by choice, devastating by economics; high-value cargo on fast elf-scouted caravans; matriarch **Andiama**; their forest templars *worship* their dragon as a goddess |
-| **Shom** | Nibenay | **The Shadow King** | Three white dragonflies on red/black | Ancient, immense, rotting — palanquin decadence and embezzling agents; the half-withdrawn dragon is the one thing holding it together |
+| **Inika** | Gulg | **The Oba** | Gold circle on black | Small by choice, devastating by economics; high-value cargo on fast elf-scouted caravans; matriarch **Andiama**; the **nganga** — the Oba's forest witch doctors — *worship* their dragon as a goddess |
+| **Shom** | Nibenay | **The Shadow Knight** | Three white dragonflies on red/black | Ancient, immense, rotting — palanquin decadence and embezzling agents; the half-withdrawn dragon is the one thing holding it together |
 | **M'ke** | Raam | *(Abalach-Re — dead)* | Silver quill on red | Courteous in person, ruthless in trade; hoarded hidden wealth; fortified and neutral while dragonless Raam burns around them |
 | **Vordon** | Tyr | *(Kalak — slain)* | Black diamond on red-brown | The iron house, humiliated by its dragon's assassination and rebuilding in secret — dummy corporations, a shadow army; patriarch **Thaxos** |
 | **Stel** | Urik | **Hamanu, the Lion** | Crossed black scimitars on white | The war-house: mercenary contracts, fortress-caravans, sealed borders — and the great surviving dragon at the head of its legions |

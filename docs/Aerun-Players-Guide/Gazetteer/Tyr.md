@@ -15,7 +15,7 @@ Northwest, high in the green foothills of the Ringing Mountains, where the rain 
 
 ## What a visitor sees
 
-The **Golden Tower** above the inner precinct; the **Ziggurat**, enormous and sealed, which nobody will explain to you; the **Stadium** and its ragtag bazaar; the **Elven Market** buried in the Warrens, where the prices are excellent and your purse is not. Newcomers are steered toward the Caravan and Merchant Districts, which have thirty inns apiece and the honest ones are marked.
+The **Golden Tower** above the inner precinct, beside the **Bureau District** — the clerks, tax-masters, and record-halls of the **High Bureaus** that actually run the city (older maps stamp the quarter "Templar District," a Green Age mapmaker's confusion that stuck; nobody in Tyr can tell you what a templar was); the **Ziggurat**, enormous and sealed, which nobody will explain to you; the **Stadium** and its ragtag bazaar; the **Elven Market** buried in the Warrens, where the prices are excellent and your purse is not. Newcomers are steered toward the Caravan and Merchant Districts, which have thirty inns apiece and the honest ones are marked.
 
 ## Traveler's notes
 

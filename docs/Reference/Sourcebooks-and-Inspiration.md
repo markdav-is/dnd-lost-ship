@@ -1,4 +1,4 @@
-[Reference](../Reference.md) / Sourcebooks and Inspiration <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [Reference](../Reference.md) / Sourcebooks and Inspiration <!-- wikidown:breadcrumb -->
 
 # Sourcebooks & Inspiration
 
@@ -35,7 +35,7 @@ The published works in `/assets`, what each contributes, and how it maps into Ve
 | **Merchant House of Amketch** (DSM2, 2e) | `DDDS_DSM2_MrchHouseAmketch_*.pdf` | Ready-to-run merchant-house contract adventure; easy Aerun reskin |
 | **City by the Silt Sea** (2e boxed) | `DD2_DS_CityBySiltSea_*.pdf` | The Silt Sea campaign box — silt travel, ruins beneath the dust; prequel to the athas.org Dregoth Ascending trilogy |
 
-**Mapping:** the Green Age and its death → [The Green Age](../Campaign/Plot-Threads/The-Green-Age.md); defiling → the [Order of the Sere](../World/Factions/The-Order-of-the-Sere.md) and the containment of the [First Source](../Campaign/Plot-Threads/The-First-Source.md); the canonical city-states and **[merchant houses](../World/Factions/The-Merchant-Houses.md)** (Tyr/Vordon, Urik/Stel, Raam/M'ke, Draj/Tsalaxa, Balic/Wavir, Gulg/Inika, Nibenay/Shom) → adopted on [Aerun](../World/Aerun.md) with the families **ruling the cities outright** (the Dune triad: Emperor Jak, the families, the [Caravan Guild](../World/Dark-Sun/Glossary.md)); the sorcerer-kings → **the dragons**: names kept, thrones gone — psionic army-leaders bonded to the families (living: Hamanu/Stel, the Shadow King/Shom, the Oba/Inika); psionics ("the Will and the Way") → what the Spice enables, mechanized as the Players Guide's **wild talents**.
+**Mapping:** the Green Age and its death → [The Green Age](../Campaign/Plot-Threads/The-Green-Age.md); defiling → the [Order of the Sere](../World/Factions/The-Order-of-the-Sere.md) and the containment of the [First Source](../Campaign/Plot-Threads/The-First-Source.md); the canonical city-states and **[merchant houses](../World/Factions/The-Merchant-Houses.md)** (Tyr/Vordon, Urik/Stel, Raam/M'ke, Draj/Tsalaxa, Balic/Wavir, Gulg/Inika, Nibenay/Shom) → adopted on [Aerun](../World/Aerun.md) with the families **ruling the cities outright** (the Dune triad: Emperor Jak, the families, the [Caravan Guild](../World/Dark-Sun/Glossary.md)); the sorcerer-kings → **the dragons**: names kept, thrones gone — psionic army-leaders bonded to the families (living: Hamanu/Stel, the Shadow Knight/Shom, the Oba/Inika); psionics ("the Will and the Way") → what the Spice enables, mechanized as the Players Guide's **wild talents**.
 
 ## Dune 2d20 (Modiphius) — the political layer
 

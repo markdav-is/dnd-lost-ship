@@ -1,4 +1,4 @@
-[NPCs](../NPCs.md) / Tomas Vel Maret <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [NPCs](../NPCs.md) / Tomas Vel Maret <!-- wikidown:breadcrumb -->
 
 # Tomas Vel-Maret
 
@@ -25,7 +25,7 @@ Tomas holds a copy of the Spásistren's sealed orders: once the party's mission 
 - **Master of Tactics:** Help as a bonus action, at 30 ft — in a fight he *directs*, granting advantage like a conductor.
 - **Misdirection** (reaction): redirect an attack targeting him to a creature within 5 ft providing cover. His bodyguards know the terms of their employment.
 - **Cunning Action**, **Evasion**, **Reliable Talent** (no social or investigative roll below 10 + modifier — the terrifying one).
-- **Retinue:** two house **veterans** (MM stats) as porters-who-aren't; in the city-states, add a house templar or agent per the [Merchant Houses](../World/Factions/The-Merchant-Houses.md).
+- **Retinue:** two house **veterans** (MM stats) as porters-who-aren't; in the city-states, add a house bureau officer or agent per the [Merchant Houses](../World/Factions/The-Merchant-Houses.md).
 - **Gear:** impeccable papers under three names, the sealed-orders copy (never carried on his person), letters of credit good in seven cities.
 
 ## Playing him

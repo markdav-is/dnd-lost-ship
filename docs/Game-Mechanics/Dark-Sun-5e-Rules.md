@@ -10,11 +10,19 @@ Player-facing 5e rules for the Aerun arc, from the **Dark Sun Player's Guide —
 | :--- | :--- |
 | 1 — People of Athas | Athasian dwarf, elf, half-elf, half-giant, halfling, human, **mul**, **ssurran**, **thri-kreen**; languages |
 | 2 — Classes | Barbarian (Pit Fighter, Wilder) · Cleric (**Air/Earth/Fire/Water elemental domains**) · Druid · Fighter (**Gladiator**, Warlord) · Monk (Way of the Unseen Mind) · **Psion** (full class: Egoist, Telepath, Nomad, Kineticist, Seer) · Ranger conclaves · Rogue · **Athasian Bard** · Wizard (**Arcane Defilement**, Ecomancer, Arcanamach) |
-| 3 — Backgrounds | Arena Survivor, Dune Trader, Former Slave, **Former Templar**, Gladiator, House Agent (Dynastic), **Veiled One**, Wastelander… |
+| 3 — Backgrounds | Arena Survivor, Dune Trader, Former Slave, **Former Templar** (played on Aerun as **Former Bureau Officer** — see below), Gladiator, House Agent (Dynastic), **Veiled One**, Wastelander… |
 | 4 — Feats | Arena Trained, Psionic Study, Touched by the Elements… |
 | 5 — Money & Equipment | Ceramic coinage & barter economy; bone/obsidian/chitin **weapon and armor scarcity** rules |
 | 6 — Psionics | Full discipline list, psionic talents, **Wild Talents** |
 | 7 — Magic | Athasian spell lists, new spells (incl. **Rejuvenate**, Psionic Dampener), special rules |
+
+## Former Bureau Officer (the Aerun re-skin of "Former Templar")
+
+The book's **Former Templar** background assumes a sorcerer-king granting magic to a priestly enforcer caste. **Aerun has no god-kings and no templars** — each family seat runs on its own flavorful bureaucracy instead ([the Glossary](../World/Dark-Sun/Glossary.md)). Use the background's mechanics unchanged (proficiencies, feature, equipment) and re-skin the fiction:
+
+- **You served a city's bureau, and you left — or it left you.** Pick your city: a **moon priest** of Draj who read one horoscope too honestly · a **merchant family wife** of Nibenay who walked out of the Naggaramakam (they do not walk out) · one of Gulg's **house factors** — or, whisper it, a failed **nganga** novice · a **praetor** of Balic who lost a ten-year election and the protection that came with it · a **Code officer** of Urik whose yellow cloak was taken · a clerk of Tyr's **High Bureaus**, unemployed since the assassination rewrote the org chart · a **mansabdar** of Raam, which is barely a job now.
+- **The background's authority feature** reads as bureau habits: you know how permits, tolls, tithes, and slave manifests actually move, and functionaries instinctively treat you as one of their own.
+- **No granted spells.** The templar's god-given magic does not exist here. A character who wants the *state-sanctioned caster* niche should look at the setting's own arcane roads instead: the Wizard's **Arcane Defilement** tradition — the defiler's art, kept in oath-form by the [Order of the Sere](../World/Factions/The-Order-of-the-Sere.md) — or the **Ecomancer**, the restorer's road the [Veiled Alliance](../World/Dark-Sun/Glossary.md) quietly cultivates (see *Rejuvenate*, below). Elemental-domain Clerics cover the priestly flavor. No new mechanics needed; the subclasses already exist in Chapter 2.
 
 ## Arcane Defilement (the core mechanic)
 
@@ -50,4 +58,4 @@ How a wild talent escalates into *trained* psionics — the Tested and Schooled 
 
 - This is the **player-facing option set** for any Aerun-native character, companion NPC (Harah's tribe, house agents), or a PC rebuild for the desert arc; the DM-side rules chassis remains `DarkSun_5e_Campaign_Guide_v1.9.pdf` and the monster manual `DarkSun_5e_Terrors_of_the_Desert_v1.0.pdf` ([Sourcebooks](../Reference/Sourcebooks-and-Inspiration.md)).
 - Equipment scarcity (bone/obsidian, barter, ceramic coin) applies **on Aerun** — the Scarlands still run on Nordic steel and gold. Crossing the sea should feel like changing rule-worlds.
-- Backgrounds double as faction hooks: **Veiled One** → the Veiled Alliance; **Former Templar** → the fallen sorcerer-king cities; **House Agent** → [the merchant houses](../World/Factions/The-Merchant-Houses.md).
+- Backgrounds double as faction hooks: **Veiled One** → the Veiled Alliance; **Former Bureau Officer** → the city bureaus and the families they serve; **House Agent** → [the merchant houses](../World/Factions/The-Merchant-Houses.md).

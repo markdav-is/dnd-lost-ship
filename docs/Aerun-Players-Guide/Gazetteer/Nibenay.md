@@ -15,7 +15,7 @@ East coast, between the red mesas and the forest's northern tip, built over hot 
 
 ## What a visitor sees
 
-Every surface carved — ancestors, triumphs, and a good deal of shocking hedonism, all in flawless relief. The **Serpent Towers**, the **Temple of the Sun**, the great **City Reservoir**, and at the heart a **walled inner precinct** nobody outside the templar order may enter, ever, on any pretext. The templars are all women, and they run the city's entire bureaucracy.
+Every surface carved — ancestors, triumphs, and a good deal of shocking hedonism, all in flawless relief. The **Serpent Towers**, the **Temple of the Sun**, the great **City Reservoir**, and at the heart a **walled inner precinct** nobody outside the **merchant family wives** may enter, ever, on any pretext. The wives — several hundred women of the city's great merchant families — run the city's entire bureaucracy.
 
 ## Traveler's notes
 

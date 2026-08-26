@@ -30,7 +30,15 @@ All metal — weapons, armor, buckles — is likewise taken at the scale, logged
 
 Northerners call this robbery until they have walked a tenday of the Ring Road. Out here the metal was always the cook-pot, and the water was always the treasure.
 
-Gold need not travel to the exit city at all: it may instead be **exchanged at the gate table for local currency** — ceramic, bone, black glass — at rates set by the Reckoners.
+Gold need not travel to the exit city at all: it may instead be **exchanged at the gate table for local currency** — ceramic, bone, black glass — at rates set by the Reckoners. The rate is posted beside the scale, coin for coin, and it does not move for you:
+
+| You lay down | You take up |
+| :--- | :--- |
+| 1 gold piece | 1 **ceramic** |
+| 1 silver piece | 1 **bone** |
+| 1 platinum piece | 1 **obsidian** — the black glass, the highest denomination |
+
+The rate is honest, because a Reckoner set it and a Reckoner audits it. A declared price is a price — even the gate's.
 
 ## The bond follows the declaration
 
