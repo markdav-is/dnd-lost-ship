@@ -113,6 +113,18 @@ def chunk_dialogue(lines):
     return chunks
 
 
+def have(path):
+    return os.path.exists(path) and os.path.getsize(path) > 0
+
+
+def save(path, data):
+    if not data:
+        sys.exit(f"API returned empty audio for {os.path.basename(path)} - retry the run.")
+    tmp = path + ".tmp"
+    open(tmp, "wb").write(data)
+    os.replace(tmp, path)
+
+
 def cache_path(clips_dir, prefix, payload):
     # Identity is content-only, so reordering scenes never re-bills a clip.
     h = hashlib.sha256(json.dumps(payload, sort_keys=True).encode()).hexdigest()[:16]
@@ -151,17 +163,17 @@ def main():
             if item[0] == "music":
                 payload = {"prompt": item[1], "music_length_ms": int(item[2] * 1000)}
                 out = cache_path(clips_dir, prefix + "-music", payload)
-                if wanted and not os.path.exists(out):
+                if wanted and not have(out):
                     print(f"[music]    {prefix}: {item[1][:60]}")
-                    open(out, "wb").write(call("/music", payload, "POST"))
+                    save(out, call("/music", payload, "POST"))
                 manifest.append({"scene": scene["name"], "mode": scene["mode"], "file": out})
                 continue
             if item[0] == "sfx":
                 payload = {"text": item[1], "duration_seconds": min(item[2], 22)}
                 out = cache_path(clips_dir, prefix + "-sfx", payload)
-                if wanted and not os.path.exists(out):
+                if wanted and not have(out):
                     print(f"[sfx]      {prefix}: {item[1][:60]}")
-                    open(out, "wb").write(call("/sound-generation", payload, "POST"))
+                    save(out, call("/sound-generation", payload, "POST"))
                 manifest.append({"scene": scene["name"], "mode": scene["mode"], "file": out})
                 continue
             for chunk in chunk_dialogue(item[1]):
@@ -175,9 +187,9 @@ def main():
                     "settings": {"stability": 0.0},
                 }
                 out = cache_path(clips_dir, prefix, payload)
-                if wanted and not os.path.exists(out):
+                if wanted and not have(out):
                     print(f"[dialogue] {prefix}: {len(chunk)} lines, {sum(len(t) for _, t in chunk)} chars")
-                    open(out, "wb").write(call("/text-to-dialogue", payload, "POST"))
+                    save(out, call("/text-to-dialogue", payload, "POST"))
                 manifest.append({"scene": scene["name"], "mode": scene["mode"], "file": out})
                 ci += 1
 

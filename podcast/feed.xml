@@ -19,6 +19,16 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The White Hours</title>
+      <description>Why does the whole continent stop at noon? The Wanderer asks Master Yaxa of the School of Reckoning what the smart money does while everything's stopped — and gets audited on the air for his trouble. This episode brought to you by Stillwater, Kenaz, the Navigation Academy, and the Caravan Guild.</description>
+      <pubDate>Tue, 25 Aug 2026 23:30:00 GMT</pubDate>
+      <enclosure url="https://archive.org/download/wandering-aerun/ep002-the-white-hours.mp3" length="10016684" type="audio/mpeg"/>
+      <guid isPermaLink="false">wandering-aerun-ep002-the-white-hours</guid>
+      <itunes:duration>10:26</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Long Reach</title>
       <description>The Wanderer opens channel forty-three with the silt report, talks tea and travelers with Bellin, keeper of Midreach waystation, runs the mail, and reminds you to stop for nothing that hails you from the gray. This episode brought to you by the School of Reckoning, the Menders' Hall, the city of Tyr, and the Open Market of Tyr.</description>
       <pubDate>Tue, 25 Aug 2026 20:00:00 GMT</pubDate>
