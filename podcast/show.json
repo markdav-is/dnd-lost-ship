@@ -1,0 +1,14 @@
+{
+  "title": "Wandering Aerun",
+  "author": "The Wanderer",
+  "owner_email": "aerun@nohorse.com",
+  "description": "Coming to you live on channel 43 from an undisclosed relay in the Sea of Silt. Everything you are about to hear is what a well-traveled Aerunite believes to be true. Which is not the same as true. An in-universe podcast for the Aerun campaign.",
+  "language": "en-us",
+  "category": "Fiction",
+  "subcategory": "Drama",
+  "explicit": false,
+  "archive_item": "wandering-aerun",
+  "site_url": "https://archive.org/details/wandering-aerun",
+  "feed_url": "https://archive.org/download/wandering-aerun/feed.xml",
+  "cover_url": "https://archive.org/download/wandering-aerun/cover.jpg"
+}

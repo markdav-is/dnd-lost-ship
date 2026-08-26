@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wandering Aerun</title>
+    <link>https://archive.org/details/wandering-aerun</link>
+    <atom:link href="https://archive.org/download/wandering-aerun/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>Coming to you live on channel 43 from an undisclosed relay in the Sea of Silt. Everything you are about to hear is what a well-traveled Aerunite believes to be true. Which is not the same as true. An in-universe podcast for the Aerun campaign.</description>
+    <itunes:author>The Wanderer</itunes:author>
+    <itunes:owner>
+      <itunes:name>The Wanderer</itunes:name>
+      <itunes:email>aerun@nohorse.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://archive.org/download/wandering-aerun/cover.jpg"/>
+    <itunes:category text="Fiction">
+      <itunes:category text="Drama"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>The Long Reach</title>
+      <description>The Wanderer opens channel forty-three with the silt report, talks tea and travelers with Bellin, keeper of Midreach waystation, runs the mail, and reminds you to stop for nothing that hails you from the gray. This episode brought to you by the School of Reckoning, the Menders' Hall, the city of Tyr, and the Open Market of Tyr.</description>
+      <pubDate>Tue, 25 Aug 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://archive.org/download/wandering-aerun/ep001-the-long-reach.mp3" length="11119916" type="audio/mpeg"/>
+      <guid isPermaLink="false">wandering-aerun-ep001-the-long-reach</guid>
+      <itunes:duration>11:35</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
