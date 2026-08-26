@@ -16,7 +16,7 @@ It stops, because you are in the way, and it does not seem to mind.
 
 ## The beast
 
-A [mekillot](../../../Bestiary/Aerun-Stat-Blocks.md#mekillot). Guild-bred, Guild-owned, the engine of everything that moves on Aerun. No pilot tonight; the hood at the bow is empty. It is alone with you, and it lowers its head — a boulder with eyes — until the great blunt snout is level with you and the breath of it is warm and grass-sweet and moves your hair.
+A [mekillot](../../../Bestiary/Aerun-Stat-Blocks.md#mekillot). Guild-bred, Guild-owned, the engine of everything that moves on Aerun. No Navigator tonight; the hood at the bow is empty, and no drover walks the harness line. It is alone with you, and it lowers its head — a boulder with eyes — until the great blunt snout is level with you and the breath of it is warm and grass-sweet and moves your hair.
 
 It does not do anything. That is what it does.
 

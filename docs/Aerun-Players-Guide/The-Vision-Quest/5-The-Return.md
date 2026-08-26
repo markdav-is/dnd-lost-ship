@@ -18,7 +18,7 @@ You do not talk much. Neither does the guide. On the second day, near the foot o
 
 The well-keeper, the pit-boss, the factor — whoever pointed you — looks at you as you come in and looks a moment longer than they need to. They have seen it before.
 
-A thin ring of blue at the edge of the iris. Not the deep stain of the Guild's pilots or the desert people. Just a rim. Most people will never notice. The ones who do will know exactly what it means.
+A thin ring of blue at the edge of the iris. Not the deep stain of the Guild's Navigators or the desert people. Just a rim. Most people will never notice. The ones who do will know exactly what it means.
 
 Your guide's price comes due now. The tube. The first use. The thing you said out loud. The desert keeps no ledgers, but the guides do.
 

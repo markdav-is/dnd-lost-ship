@@ -82,8 +82,8 @@ As [crodlu](#crodlu) but **AC** 14 (barding), **HP** 45 (6d10+12), **Multiattack
 *Gargantuan beast, unaligned — CR 12 (8,400 XP)*
 **AC** 18 (natural) · **HP** 186 (12d20+60) · **Speed** 30 ft.
 | STR 26 | DEX 6 | CON 21 | INT 2 | WIS 12 | CHA 5 |
-**Saves** Wis +5 · **Condition Immunities** frightened (while piloted) · **Senses** passive Perception 11
-**Guild Bond.** A bonded pilot within 120 ft. can direct the mekillot telepathically (no action). **Unpiloted:** at the start of each of its turns without a pilot, roll 1d6; on 1–2 it moves its speed in a random direction, crushing (below) everything in its path.
+**Saves** Wis +5 · **Condition Immunities** frightened (while Guild Bond is active) · **Senses** passive Perception 11
+**Guild Bond.** While the mekillot is under the hand of a Guild train's Navigators — an effect the argosy's hidden Steersman amplifies and extends across the whole beast-train and roughly a mile beyond — it is docile and follows its drovers' directions as though expertly trained. Taken outside Guild hands, it loses this trait within a few days. **Wild:** while this trait is inactive, roll 1d6 at the start of each of its turns; on 1–2 it moves its speed in a random direction, crushing (below) everything in its path. *(DM note: the drovers attribute the calm to their own skill, and are wrong.)*
 **Crush.** Everything in its path when it moves: DC 18 Dex save, 4d10+8 bludgeoning, half on success; prone on failure.
 **Bite.** +12, 3d12+8 piercing; a Large or smaller target is swallowed on a second consecutive hit (2d10 acid per round inside, escape DC 16).
 **Tongue Slap.** +12, reach 20 ft., 3d8+8 bludgeoning, pull 10 ft.

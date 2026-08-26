@@ -4,23 +4,39 @@
     "title": "The Long Reach",
     "summary": "The Wanderer opens channel forty-three with the silt report, talks tea and travelers with Bellin, keeper of Midreach waystation, runs the mail, and reminds you to stop for nothing that hails you from the gray. This episode brought to you by the School of Reckoning, the Menders' Hall, the city of Tyr, and the Open Market of Tyr.",
     "pubdate": "Fri, 08 May 2026 17:00:00 GMT",
-    "bytes": 11119916,
-    "duration": "11:35"
+    "bytes": 11138732,
+    "duration": "11:36"
   },
   {
     "slug": "ep002-the-white-hours",
     "title": "The White Hours",
     "summary": "Why does the whole continent stop at noon? The Wanderer asks Master Yaxa of the School of Reckoning what the smart money does while everything's stopped — and gets audited on the air for his trouble. This episode brought to you by Stillwater, Kenaz, the Navigation Academy, and the Caravan Guild.",
     "pubdate": "Fri, 22 May 2026 17:00:00 GMT",
-    "bytes": 10015148,
-    "duration": "10:26"
+    "bytes": 10323116,
+    "duration": "10:45"
   },
   {
     "slug": "ep003-the-gate-ritual",
     "title": "The Gate Ritual",
     "summary": "What's your business? The Wanderer sits down with Clerk Praxa, twenty-two years on the Balic west gate, to learn what happens to your goods, your components, and your dignity at a city gate — including Category Four: items that scream. This episode brought to you by the cities of Draj, Nibenay, and Gulg, and the Furled Sail.",
     "pubdate": "Fri, 05 Jun 2026 17:00:00 GMT",
-    "bytes": 11681708,
-    "duration": "12:10"
+    "bytes": 12019244,
+    "duration": "12:31"
+  },
+  {
+    "slug": "ep004-the-waystations",
+    "title": "The Waystations",
+    "summary": "All three lights on the Long Reach — and for the first time on any frequency, Bellin of Midreach and Vess of Saltbone on the same band. Twenty years of silence, one mekillot, live on channel forty-three. This episode brought to you by the cities of Balic, Raam, and Urik, and Doctor Halbresh's Genuine Blue Restorative.",
+    "pubdate": "Fri, 19 Jun 2026 17:00:00 GMT",
+    "bytes": 11288492,
+    "duration": "11:45"
+  },
+  {
+    "slug": "ep005-salt-view",
+    "title": "Salt View",
+    "summary": "The village that traded its chains for a stage. The Wanderer climbs to the Mekillot Mountains to talk heroes, tyrants, and the noble art of being eaten nightly with Madame Ossia, director of Salt View's principal troupe. Featuring Boffo. This episode brought to you by Altaruk, Eldorado, the Olive Tree, and the Fall of Yaramuke.",
+    "pubdate": "Fri, 03 Jul 2026 17:00:00 GMT",
+    "bytes": 11597612,
+    "duration": "12:05"
   }
 ]

@@ -17,11 +17,17 @@ MUSIC: dusty desert-blues radio show theme, twangy plucked oud and lap steel gui
 
 WANDERER: [warmly] Good white hours, friends, wherever the gray finds you — Wandering Aerun, channel forty-three, live from the relay the Guild still hasn't found. [chuckles] They've stopped sending letters, which either means they've given up or they've gotten serious. I'll keep you posted. Loudly, if it's the second one.
 
-WANDERER: Tonight — four words, friends. Four words you have heard at every wall on this continent, four words I have personally been asked, by my own count, upwards of four thousand times: [beat] "What's your business?" The gate ritual. What actually happens to your goods, your spell components, and — let's be honest — your dignity, between the outer arch and the inner arch of a great city's gate. Because here's the thing I need the new listeners to understand: they take your things, friends, and then — and this is the part visitors never believe — they give them back. Bonded, not stolen. It's not kindness. It's the Code. And to walk us through it, I have an absolute coup of a guest: twenty-two years on the Balic west gate. Mail and notices after. Pour the tea — and declare it.
+WANDERER: Tonight — four words, friends. You've heard them at every wall on this continent, and I've been asked them, by my own count, upwards of four thousand times: [beat] "What's your business?" The gate ritual. What actually happens to your goods, your spell components, and — let's be honest — your dignity, between the outer arch and the inner arch of a great city's gate. Because here's the thing I need the new listeners to understand: they take your things, friends, and then — and this is the part visitors never believe — they give them back. Bonded, not stolen. It's not kindness. It's the Code. And to walk us through it, I have an absolute coup of a guest: twenty-two years on the Balic west gate. Mail and notices after. Pour the tea — and declare it.
+
+## scene: sting-1 [radio]
+
+PAUSE: 0.6
+SFX: quick plucked oud flourish ending in a soft radio static crackle, short station transition sting | 3
+PAUSE: 0.4
 
 ## scene: silt-report [radio]
 
-WANDERER: The silt report. [rustle of paper] Winds — [beat] friends, you know. You all know. Say it with me at home. Temperatures: one twenty-four on the Crest, one thirty at Midreach, sidings still declining to give a number, and honestly at this point the number is a formality. Markers — quiet, actually. A quiet tenday on the Reach. [dry] Which the old hands hate more than a loud one, and I've stopped arguing with the old hands. The Balic portage — tenday four of the strike, friends. Tenday four. The Cochlea is stacked to the third turn, the Guild has started using the word "arbitration," and the porters have started using the word "no." My advice remains one sentence long: pay the porters. That's the report. Stay between the markers.
+WANDERER: The silt report. [rustle of paper] Winds — [beat] friends, you know. You all know. Say it with me at home. Temperatures: one twenty-four on the Crest, one thirty at Midreach, sidings still declining to give a number, and honestly at this point the number is a formality. Markers — quiet, actually. A quiet tenday on the Reach. [dry] Which the old hands hate more than a loud one, and I've stopped arguing with the old hands. The Balic portage — tenday four of the slowdown, friends. The Cochlea is stacked to the third turn, the Guild has started using the word "arbitration," and the porter gangs continue to weigh every basket twice, exactly as the law allows, at the exact speed the law imagines. My advice remains one sentence long: pay the porters. That's the report. Stay between the markers.
 
 ## scene: sponsors-1 [radio]
 
@@ -33,7 +39,7 @@ ANNOUNCER: And from the city of Gulg, and the Oba, who grows what she keeps and 
 
 ## scene: interview [radio]
 
-WANDERER: My guest tonight — twenty-two years on the west gate of Balic, the busiest arch on the southern road. Clerk Praxa. Praxa, welcome — and I have to do it, you understand. I have to. [grinning] What's your business?
+WANDERER: My guest tonight — twenty-two years on the west gate of Balic, the busiest arch on the southern road. Clerk Praxa. Welcome to the show — and you understand that I simply have to do it. [grinning] What's your business?
 
 CLERK: [unhurried, dry] Broadcasting. Undeclared. You'd be fined at my gate, Wanderer, and you'd thank me, because the fine is on the schedule and the schedule is posted. Ask your questions.
 
@@ -49,25 +55,29 @@ WANDERER: [pause, delighted] And you're not going to tell me what Category five 
 
 CLERK: Declare it at the gate and find out. [beat] Mind the queue on your way out, Wanderer. And your business — [dry] still undeclared.
 
+## scene: sting-2 [radio]
+
+PAUSE: 0.6
+SFX: quick plucked oud flourish ending in a soft radio static crackle, short station transition sting | 3
+PAUSE: 0.4
+
 ## scene: mail-run [radio]
 
-WANDERER: Mail run! [rustle of paper] And it's a themed mailbag tonight, friends, entirely by accident. First: a traveler writes — quote — "Wanderer. Two years ago I declared Balic as my exit city. My ship home leaves from Draj in a tenday. Where are my components?" [beat] [deadpan] Friend. They're in Balic. They have been in Balic for two years, sealed, logged, and perfectly safe, which is the good news, and Balic is nine days' hard road from Draj, which is the other news. The bond follows the declaration, not the traveler — that's the whole system, working. Miss your ship or miss your magic, friend; the gate will not be choosing for you. [dry] The system is not your enemy. The system is merely not your friend. Declare the port you mean.
+WANDERER: Mail run! [rustle of paper] And it's a themed mailbag tonight, friends, entirely by accident. First: a traveler writes — quote — "Wanderer. Two years ago I declared Balic as my exit city. My ship home leaves from Draj in a tenday. Where are my components?" [beat] [deadpan] Friend. They're in Balic. They have been in Balic for two years, sealed, logged, and perfectly safe, which is the good news, and Balic is the far side of the continent from Draj — two tendays by road, or six days if you catch a skimmer up the Reach and the Guild likes your coin — which is the other news. The bond follows the declaration, not the traveler — that's the whole system, working. Miss your ship or miss your magic, friend; the gate will not be choosing for you. [dry] The system is not your enemy. The system is merely not your friend. Declare the port you mean.
 
 WANDERER: Second — and I love this one — someone asks: "Can I declare a dagorran?" [long pause] [flat] You can. You must, actually. There's a form. What you cannot do, friend, is make it my problem, or the clerk's, or the queue's. Leash law is gate law. Category — [beat] you know what, I genuinely don't know the category for a dagorran, and I've just realized I know someone who does now. Praxa, if you're still listening: write in. The audience has questions. I have questions.
 
 ## scene: notices [radio]
 
-WANDERER: Notices! The Bitey saga continues, friends — Altaruk reports that Bitey, the kank, the harness, the attitude, has not been recaptured so much as [beat] hired. He's pulling the gate-side water cart. On wages. In ceramic, which — yes, we all see the flaw, he's eaten his first advance, the fort considers it "a retention issue." Next: Salt View's spring auditions — the tyrant has been cast, both heroes have been cast, and the position of "someone comfortable being eaten nightly" remains, and I quote, "stubbornly open." Benefits included, friends. Inquire within. And the Menders' clinic at First Mark rotates south next tenday to Saltbone — line before dawn, shade and water, count the stitches. Always count the stitches.
+WANDERER: Notices! The Bitey saga continues, friends — Altaruk reports that Bitey, the kank, the harness, the attitude, has not been recaptured so much as [beat] hired. He's pulling the gate-side water cart. On wages. In ceramic, which — yes, we all see the flaw, he's eaten his first advance, the fort considers it "a retention issue." Next: Salt View's spring auditions — the tyrant has been cast, both heroes have been cast, and the position of "someone comfortable being eaten nightly" remains, and I quote, "stubbornly open." Benefits included, friends. Inquire within. And the Menders' clinic at First Mark rotates south next tenday to Saltbone — line before dawn, shade and water, and look for the Hall's mark on the forehead, friends. It's the one credential on this continent nobody can rent.
 
 ## scene: commercial [radio]
 
-SFX: slow sultry torch-song piano and muted trumpet intro, smoky lounge feel, slightly scratchy old record | 6
+MUSIC: slow sultry vintage torch song, smoky female lounge singer over piano and muted trumpet, scratchy old record, sung lyrics: "Down on the docks where the lanterns swing low, there's a door that the dockhands and captains all know... the Furled Sail, where the evening runs late...", cut off abruptly mid-phrase | 20
 
-JINGLE: [sung, slow and sultry] Down on the docks... where the lanterns swing looow... there's a door that the dockhands and the captains all knooow... the Furled Saaail... where the evening runs laaate... [spoken, breathy] and the first cup is—
+DISPATCHER: [abruptly, flat] This advertisement has been interrupted by the Caravan Guild. Crews on layover are reminded that berth call is at first bell. The Guild does not pay for the other kind of evening. [pause] The Furled Sail. Balic docks. Apparently.
 
-DISPATCHER: [abruptly, flat] This advertisement has been interrupted by the Caravan Guild. Guild crews on layover are reminded that berth call is at first bell. The Guild does not pay for the other kind of evening. [pause] The Furled Sail. Balic docks. Apparently.
-
-JINGLE: [sung, bright and cheerful] Never cross the dragon — or House Tsalaxa!
+MUSIC: campy vintage advertising jingle, bright cheerful female singer with reed pipes and hand drum, sung lyrics: "Never cross the dragon — or House Tsalaxa!", short punchy radio spot ending on a big cheerful note | 12
 
 ANNOUNCER: [flat] House Tsalaxa has preemptively approved this message. And several of yours.
 
@@ -75,7 +85,7 @@ ANNOUNCER: [flat] House Tsalaxa has preemptively approved this message. And seve
 
 WANDERER: That's the hour, friends. My thanks to Clerk Praxa — who confiscated forty minutes of my evening, sealed it, logged it, and returned it better than she found it — and to whoever keeps this radio humming. [warmly] Next time on Wandering Aerun: the waystations. All three of them, the whole string — and yes, that means Bellin's back, and better still, we've finally done it: we've got the keeper of Saltbone on the same band. [conspiratorial] Twenty years, friends, those two have not spoken. We're going to find out why, live, or we're going to witness something. Either way — radio.
 
-WANDERER: Until then, the old rules, all four: pay the rate. Answer the beacon. Drink your water in the shade. And stop for nothing — nothing — that hails you from the gray. [beat, softer] Declare your business honestly, friends. Somebody at the gate already knows it anyway. [warmly] Good night from channel forty-three.
+WANDERER: Until then, the old rules, all four: pay the rate. Answer the beacon. Drink your water in the shade. And stop for nothing that hails you from the gray. [beat, softer] Declare your business honestly, friends. Somebody at the gate already knows it anyway. [warmly] Good night from channel forty-three.
 
 ## scene: theme-out [dry]
 

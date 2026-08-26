@@ -18,7 +18,7 @@ Common knowledge across Vermoon. A Scarlands fisher, a Taldean factor, and a cle
   - **The School of Reckoning** ([Draj](Gazetteer/Draj.md)) — "a Reckoner counts your coin before you've opened the purse; every House keeps one."
   - **Kenaz** ([Tyr](Gazetteer/Tyr.md)) — "the best blades on Aerun, and they don't carry swords." Kenaz duels are to first touch and leave no mark.
   - **The Menders' Hall** ([Balic](Gazetteer/Balic.md)) — "the healers. They'll treat a slave and a merchant-king in the same room, and they have sworn never to harm." Known by the Seam — the blue stitch-line across the forehead.
-  - **The Navigation Academy** ([Raam](Gazetteer/Raam.md) — but it belongs to the Caravan Guild, not the city) — "the Navigators: the hooded ones at the bow of every silt ship; don't lift the hood."
+  - **The Navigation Academy** ([Raam](Gazetteer/Raam.md) — but it belongs to the Caravan Guild, not the city) — "the Navigators: the hooded ones at the bow of every silt ship, and riding every great argosy of the Ring Road; don't lift the hood."
 - Metal is scarce, heavy, and hot on Aerun. School-trained people fight with bone, obsidian — or nothing at all.
 - Magic is despised on Aerun; psionics are the one power nobody is ashamed of. Spell components get bonded at the city gate. A mind cannot be.
 
@@ -36,6 +36,7 @@ Roll **Intelligence (History)** for the Schools as institutions, **Wisdom (Insig
 | 10 | Kenaz-sworn are hired by every House; Balic buys most of them. [Urik](Gazetteer/Urik.md) runs its own, harsher Kenaz, and the two branches have not spoken in a generation. | Kenaz |
 | 10 | Menders travel the [Ring Road](Gazetteer/The-Ring-Road.md) free — the Guild charges them no rate, and argosy crews treat a Mender aboard as luck. | Menders |
 | 10 | The Guild takes children for the Academy, pays the families, and does not explain. Graduates are not released. | Academy |
+| 10 | **The Guild crews free — there are no slaves aboard an argosy.** It is a point of Guild identity, and the Guild is loud about it. Slaves belong to the cities and work the ports; that is why cargo changes hands at the portage, and why the ports, not the road, are where freight goes slow. | Academy |
 
 ### DC 15
 
@@ -62,7 +63,7 @@ Roll **Intelligence (History)** for the Schools as institutions, **Wisdom (Insig
 | 20 | Every Reckoner has a "Solido" — the trick of standing, speaking, and walking so exactly like their House's lord that a decoy is half-made before any Stillwater lends them the rest. | Reckoning |
 | 20 | Nibenay's Stillwater hall keeps the city's memory: it is said the Shadow King's court cannot remember what the Stillwaters decline to let it. | Stillwater |
 | 20 | The Menders' [Gulg](Gazetteer/Gulg.md) annex, inside the living hedge, holds the continent's only pharmacopoeia. Menders are the only people who open the bodies of the Spice-dead. | Menders |
-| 20 | The Academy also trains the argosy pilots — the mekillot-bonded minds of the Ring Road. Pilots and Navigators are the heaviest Spice users on the continent. | Academy |
+| 20 | For all the awe around the hoods, an argosy's **drovers** — the ones at the helm and the brakes, driving the mekillot teams — are no Academy men at all: skilled low-level Guild hands, hired at the waystations and taught on the road. The Academy trains **Navigators** only — the hooded, blue-eyed ones who ride openly aboard, hold command over the whole train, and keep the beasts calm — and Navigators are the heaviest Spice users on the continent. | Academy |
 | 20 | No School teaches pure force — throwing things with the mind, walls of force — because the cities find it too much like magic. Those who can do it learned it from a wandering master or in the desert. | All |
 
 ### DC 25 — rumors
@@ -76,7 +77,7 @@ Roll **Intelligence (History)** for the Schools as institutions, **Wisdom (Insig
 | 25 | They say the Menders know what forty years of Spice does to a body. They have never published. | Menders |
 | 25 | They say the Academy has a standing order: the Long Reach never bends northwest. Navigators do not know why, and have never asked. | Academy |
 | 25 | They say the Relay is a string of Ancient far-speakers — metal boxes older than any House that carry a living voice across the gray; that perhaps two dozen survive; that none has ever been built new, and a dead set stays dead. The Houses would trade a city for one. The Academy does not discuss it, which is how everyone knows it is real. | Academy |
-| 25 | They say the hooded Navigators are only the Academy's lower orders — that deep in every great argosy, sealed amidships in a vault the crew calls the tank and never enters, rides something that used to be a pilot before the Spice finished with it. The crews leave a cup of water at the tank's door at dusk. It is always gone by morning. Nobody watches how. | Academy |
+| 25 | They say the hooded Navigators are only the Academy's lower orders — that deep in every great argosy, sealed amidships in a vault the crew calls the tank and never enters, rides something that used to be a Navigator before the Spice finished with it. The crews leave a cup of water at the tank's door at dusk. It is always gone by morning. Nobody watches how. | Academy |
 | 25 | They say Urik's Kenaz is quietly building a curriculum in pure force for Stel's legions. | Kenaz |
 | 25 | They say the desert has masterless orders that teach what the Schools won't — a road to something beyond mastery. The Schools do not speak of it. | All |
 

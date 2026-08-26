@@ -17,7 +17,8 @@ import subprocess
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-GAP = 0.45  # seconds of silence between clips
+GAP = 0.32  # seconds of silence between clips
+DIALOGUE_TEMPO = 1.06  # gentle pitch-preserving speedup for dialogue clips only
 
 RADIO_FILTER = (
     "highpass=f=280,lowpass=f=3400,"
@@ -73,6 +74,8 @@ def main():
             sys.exit(f"Missing clip {item['file']} - run generate.py first.")
         out = os.path.join(proc_dir, f"{i:03d}.wav")
         filt = RADIO_FILTER if item["mode"] == "radio" else DRY_FILTER
+        if item.get("kind") == "dialogue":
+            filt = f"atempo={DIALOGUE_TEMPO}," + filt
         run([exe, "-y", "-i", item["file"], "-af", filt, out])
         concat_list.append(out)
         concat_list.append(silence)

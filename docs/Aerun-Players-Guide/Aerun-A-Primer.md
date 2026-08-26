@@ -22,9 +22,9 @@ Common knowledge across Vermoon. A Scarlands fisher, a Taldean factor, and a cle
 - **Three powers, and the players need only remember three:**
   1. **The king in the south** — Jak's temples, his network, his deliberately light hand.
   2. **The seven families** — the merchant kings who **rule the seven cities outright**: Wavir in Balic, Tsalaxa in Draj, Inika in Gulg, Shom in Nibenay, M'ke in Raam, Vordon in Tyr, Stel in Urik. No crowns; a crown is an asset that cannot be sold.
-  3. **The Caravan Guild** — no house, no city, no master. Its colossal **mekillot argosies** haul everything on the **Ring Road**, the highway that circles the whole continent; its **silt-crawlers** are the only things that cross the interior. The Guild carries everyone or no one. No army marches without Guild hulls.
+  3. **The Caravan Guild** — no house, no city, no master. Its colossal **mekillot argosies** haul everything on the **Ring Road**, the highway that circles the whole continent; its **silt skimmers and long haulers** are the only things that cross the interior. The Guild carries everyone or no one. No army marches without Guild hulls.
 - **Armies do not march.** Houses that come to a dispute the ledgers cannot settle send **champions to the arena**, under the **Merchant's Code**, and the stakes go to the House still standing. Every city has an arena for this reason. The bouts empty the streets.
-- **Aerun runs on slaves**, and an Aerunite will explain the arithmetic to you without a flicker of shame. There are no jails — a jail is a warehouse that eats. Every sentence resolves to the pits or the arena, and the arena ladder is the only road up. The exception is **Balic**, which pays wages and is hated for it by the other six.
+- **Aerun runs on slaves**, and an Aerunite will explain the arithmetic to you without a flicker of shame. There are no jails — a jail is a warehouse that eats. Every sentence resolves to the pits or the arena, and the arena ladder is the only road up. The exceptions are **Balic**, which pays wages and is hated for it by the other six — and **the Guild**, which crews free and is loud about it: **there are no slaves aboard an argosy.** The cities' slaves work the ports, which is why cargo changes hands at the portage, and why the ports, not the road, are where freight goes slow.
 - **There are no gods.** *"Where other lands raise temples, Aerun raises schools."* The five [Great Schools](The-Great-Schools.md) train the mind — the Will and the Way — and a School master is the most respected person in any city.
 - **Magic is despised.** Ask any child what made the gray interior and they will say: wizards did. At your **first gate on the continent** you will be asked *"What's your business?"* — and you will declare your business, your goods, your metals, your spell components, and your **exit city**, the port you will eventually leave by. The components are confiscated, sealed in wax, logged in triplicate, and carried under Guild bond to that exit city, where they wait for you — **bonded, not stolen**. You cross Aerun without your magic and collect it on your way off the continent. *Nothing is taken. Everything is held. You leave the continent exactly as armed as you came to it.* The whole ceremony, scale to wax to registry: [The Gate Ritual](The-Gate-Ritual.md). Cast openly inside a city and no writ will save you.
 - **Everyone has a wild talent.** Nearly every soul born on Aerun carries some small trick of the mind, and visitors who stay long enough grow one too. Do not gamble against an Aerunite until you have watched him play.
@@ -53,12 +53,12 @@ Roll **Intelligence (History)** unless a row says otherwise — **Wisdom (Surviv
 | DC | Tidbit | Check |
 | :-: | :--- | :--- |
 | 15 | The **Champions** are the names the old books called god-kings — Hamanu, the Shadow King, the Oba, Kalak, Abalach-Re, Tectuktitlay, Andropinis. They **kept the names and lost the thrones**; on Aerun the title was never really *king*, it was Champion, the family's sovereign weapon. | History |
-| 15 | The **Long Reach** is the Guild's marked lane across the silt from Raam to Balic: about three hundred and fifty miles, **five or six days** by crawler convoy, against two to three tendays hauling the same freight the long way round the ring. Three waystations — First Mark, Midreach, Saltbone — stand on the firmest shoals. | Survival |
+| 15 | The **Long Reach** is the Guild's marked shipping lane across the silt from Raam to Balic: about three hundred and fifty miles, **five or six days** by skimmer convoy, against two to three tendays hauling the same freight the long way round the ring. Three waystations — First Mark, Midreach, Saltbone — stand on the firmest shoals. | Survival |
 | 15 | **Wavir banished its champion** and bet everything on commerce. Balic fights every War of Champions with hired blades — and wins more than it should. Its agora votes; its militia is every citizen one month in ten. | History |
 | 15 | **Raam has been half in civil war** since its champion Abalach-Re died. M'ke holds the palace behind breastworks; the city's armory can arm every citizen, and sometimes does. Forty thousand people and no law. | History |
 | 15 | **Draj's champion is broken** — Tectuktitlay was shattered in a champions' duel generations ago and is paraded at festivals as a figurehead. Tsalaxa's spies do the work its champion cannot. | History |
 | 15 | The wind is the whole logic of the land: the westerlies come off the ocean heavy with rain, strike the **Ringing Mountains** on the west coast, and give up everything on the seaward slopes. That is why Tyr's valley is green, why Hollowstorm has fisheries, and why nothing east of the crest has had rain in an age. | Survival |
-| 15 | Heavy Spice users live long and push their Will further than anyone else; the Guild's argosy pilots and Navigators are the heaviest users on the continent. The families sell it; the Guild eats it; nobody audits the Guild. | Arcana |
+| 15 | Heavy Spice users live long and push their Will further than anyone else; the Guild's hooded Navigators are the heaviest users on the continent. The families sell it; the Guild eats it; nobody audits the Guild. | Arcana |
 
 ### DC 20
 
@@ -89,7 +89,9 @@ Roll **Intelligence (History)** unless a row says otherwise — **Wisdom (Surviv
 | Word | Meaning |
 | :--- | :--- |
 | **Argosy** | A Guild land-train the size of a small village, drawn by mekillots; the Ring Road's freight and its inns |
-| **Silt-crawler** | A Guild hull built for the interior; the only thing that crosses the gray |
+| **Skimmer** | A light, fast Guild silt vessel, psionically buoyed above the gray; the lane's courier and coaster |
+| **Long hauler** | The Guild's passenger-and-parcel workhorse of the Long Reach; book passage across the silt and this is your berth |
+| **Drover** | The Guild hand at an argosy's helm and brakes, driving the mekillot teams — a skilled trade learned on the road. The road has drovers; the gray has pilots; call one the other and buy the next round |
 | **The Code** | The Merchant's Code — the one law between Houses |
 | **Champion** | A House's sovereign weapon; the one who fights in the family's name |
 | **Ascended** | A Champion who has gone beyond the mortal tiers; a deterrent, never a duelist |

@@ -52,8 +52,8 @@ These pages are meant to be *done*, not just read. Things a traveler can walk up
 - **Go into the desert and ask.** A guide, a crossing, the Spice, and a gift — if you have no wild talent, [The Vision Quest](Aerun-Players-Guide/The-Vision-Quest.md) is how a visitor gets one.
 - **Buy a pinch of [Spice](Aerun-Players-Guide/The-Spice.md) through a House factor** — and learn what the factor now knows about you.
 - **Lodge a challenge-stake with the Guild.** A grievance, a stake, a notary's seal — and then the sand. The freight-master holds the winnings. Nobody argues with the freight-master.
-- **Ride an argosy on the Ring Road** and talk to the pilot. The pilot's eyes are blue-within-blue, and the pilot has been everywhere.
-- **Book passage on the Long Reach.** Five days of gray instead of three tendays of road. Do not lift the Navigator's hood.
+- **Ride an argosy on the Ring Road** and drink with the crews and the drovers. They are ordinary Guild hands who have been everywhere and will talk about all of it — except the one part of the hull nobody goes to, which they will not discuss at any price.
+- **Book passage on the Long Reach aboard a Guild long hauler.** Five days of gray instead of three tendays of road. Do not lift the Navigator's hood.
 - **Buy a bone blade** and learn why it breaks on a 1 — and why nobody on Aerun carries steel at noon anyway.
 - **Sign your contracts in the white hours**, when no party can be traveling away from the agreement — and pay a Reckoner to read them first.
 - **Bet on an arena bout** and learn who owns the fighter, what the bout is really settling, and which House just lost a silver mine.

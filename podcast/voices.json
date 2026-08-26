@@ -28,6 +28,14 @@
     "voice_id": "2qQJWjw5XdG80GreshqG",
     "note": "Clerk Praxa of the Balic west gate. Career bureaucrat, unshockable, reads categories like scripture, secretly funny. Library 'Eleanor' (gracious, authoritative, seasoned British)."
   },
+  "KEEPER2": {
+    "voice_id": "YHcCpa6SBWnKDaCPZJQR",
+    "note": "Vess, keeper of Saltbone waystation. Flinty, terse, weathered; twenty years of not speaking to Bellin. Library 'Mora' (gritty, raspy edge)."
+  },
+  "DIRECTOR": {
+    "voice_id": "aAsWcN5jdLdiYG7Hq0YL",
+    "note": "Madame Ossia, director of Salt View's principal troupe. Grande dame, refined, bossy, treats everything as theater. Library 'Harriet' (British actress)."
+  },
   "JINGLE": {
     "voice_id": "cgSgspJ2msm6clMCkdW9",
     "note": "Jingle singer for Tsalaxa tag. Bright, cheerful, wrong. Premade 'Jessica' (playful, bright)."

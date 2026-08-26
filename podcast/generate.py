@@ -169,7 +169,7 @@ def main():
                 if wanted and not have(out):
                     print(f"[music]    {prefix}: {item[1][:60]}")
                     save(out, call("/music", payload, "POST"))
-                manifest.append({"scene": scene["name"], "mode": scene["mode"], "file": out})
+                manifest.append({"scene": scene["name"], "mode": scene["mode"], "kind": "music", "file": out})
                 continue
             if item[0] == "sfx":
                 payload = {"text": item[1], "duration_seconds": min(item[2], 22)}
@@ -177,7 +177,7 @@ def main():
                 if wanted and not have(out):
                     print(f"[sfx]      {prefix}: {item[1][:60]}")
                     save(out, call("/sound-generation", payload, "POST"))
-                manifest.append({"scene": scene["name"], "mode": scene["mode"], "file": out})
+                manifest.append({"scene": scene["name"], "mode": scene["mode"], "kind": "sfx", "file": out})
                 continue
             for chunk in chunk_dialogue(item[1]):
                 missing = [s for s, _ in chunk if s not in voices]
@@ -193,7 +193,7 @@ def main():
                 if wanted and not have(out):
                     print(f"[dialogue] {prefix}: {len(chunk)} lines, {sum(len(t) for _, t in chunk)} chars")
                     save(out, call("/text-to-dialogue", payload, "POST"))
-                manifest.append({"scene": scene["name"], "mode": scene["mode"], "file": out})
+                manifest.append({"scene": scene["name"], "mode": scene["mode"], "kind": "dialogue", "file": out})
                 ci += 1
 
     with open(os.path.join(build, "manifest.json"), "w", encoding="utf-8") as f:

@@ -1,4 +1,4 @@
-[Bestiary](../Bestiary.md) / Aerun Beasts <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [Bestiary](../Bestiary.md) / Aerun Beasts <!-- wikidown:breadcrumb -->
 
 # Aerun Beasts
 
@@ -36,7 +36,7 @@ they fear being between them and water.
 
 | Beast | What it is | Aerun notes | Stats |
 | :-- | :-- | :-- | :-- |
-| **[Mekillot](Aerun-Stat-Blocks.md#mekillot)** | Mountain-sized hauling lizard; the argosy engine | Guild-bred, Guild-owned. Only bonded pilots (hooded, Spice-eyed) can hold one calm; an unpiloted mekillot is a siege event, not an animal. Herds maintained at Amber Valley and outside Raam | ToD; CC4; WJ |
+| **[Mekillot](Aerun-Stat-Blocks.md#mekillot)** | Mountain-sized hauling lizard; the argosy engine | Guild-bred, Guild-owned. The Guild's hooded, blue-eyed Navigators ride every great train, and under them the beasts are strangely biddable — though the drovers will tell you the calm is their own knack, and the pride is earned as far as it goes. Off a Guild train the beasts are infamously nothing of the kind: stolen mekillots go feral within days, and nobody in the trade discusses why. A mekillot loose off its train is a siege event, not an animal. Herds maintained at Amber Valley and outside Raam | ToD; CC4; WJ |
 | **[Kank](Aerun-Stat-Blocks.md#kank)** | Wagon-sized docile hive insect; riders and honey | House-branded hives at every waystop; kank honey is road currency. Hive-mind makes them easy work for even a weak wild talent. [Soldier kank](Aerun-Stat-Blocks.md#soldier-kank) for escorts | ToD; CC4; WJ |
 | **[Crodlu](Aerun-Stat-Blocks.md#crodlu)** | Ostrich-lizard riding beast; the courier's mount | Guard companies ride [war-crodlu](Aerun-Stat-Blocks.md#war-crodlu); racing bloodlines are a noble vice with its own arena card | ToD; CC4 |
 | **[Inix](Aerun-Stat-Blocks.md#inix)** | Elephant-sized riding/pack lizard | The mid-weight hauler for House caravans too proud to share an argosy | ToD; CC4; WJ |

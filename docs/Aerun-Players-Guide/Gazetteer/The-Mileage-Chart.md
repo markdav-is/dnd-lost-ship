@@ -16,7 +16,7 @@ Road distances between the seven cities, in miles, by the shortest way around th
 | **Urik** | 590 | 460 | 370 | 290 | 150 | — | 495 |
 | **Tyr** | 315 | 445 | 535 | 615 | 645 | 495 | — |
 
-\* Raam and Balic are also joined by [the Long Reach](The-Long-Reach.md) across the open silt: ~350 miles, but **5–6 days** by Guild convoy against roughly a tenday and a half by road — the continent's fastest route, and priced accordingly.
+\* Raam and Balic are also joined by [the Long Reach](The-Long-Reach.md) across the open silt: ~350 miles, but **5–6 days** by Guild skimmer convoy against roughly a tenday and a half by road — the continent's fastest crossing, and priced accordingly. Passengers and light cargo only; bulk freight rounds the ring.
 
 ## The legs of the Ring Road
 
@@ -38,5 +38,5 @@ The Guild reckons in **tendays**, like everything else on the continent, and its
 
 - **A walking caravan** makes 20–25 miles a day — call it **two hundred-odd miles to the tenday**. Divide the miles by twenty and add your misfortunes.
 - **A loaded argosy** makes 12–15 miles a day — a hundred and thirty-odd to the tenday — and stops for nothing smaller than a mountain.
-- **A Guild convoy on the silt** makes sixty or better, and no one aboard can tell you how.
+- **A Guild skimmer convoy on the silt** makes sixty or better, and no one aboard can tell you how.
 - Neighboring cities on the eastern sweep sit four to seven days apart — close enough to quarrel, far enough that marching an army is ruinous. The western legs are another matter: between Urik and Tyr there is a great deal of coast and very little forgiveness.

@@ -50,7 +50,7 @@ Then **roll 3d6 on the Chapter 4 table** — or let the table choose the talent,
 
 - The talent is the **wild talent** from the Player's Guide table, exactly as written there. The one-line summary on each vision page is a reminder, not the rule.
 - The PC **chooses Con, Int, Wis, or Cha** as the talent's ability score, now, and it does not change (DC = 8 + proficiency + mod).
-- **A faint blue ring in the iris.** Cosmetic. Aerun natives, Schools, Guild pilots, and Sandwalkers will notice. No one else will.
+- **A faint blue ring in the iris.** Cosmetic. Aerun natives, Schools, Guild drovers and lane pilots, and Sandwalkers will notice. No one else will.
 - **The spirit-beast flash** ("the first time each day you use the gift, you see it for an instant") is **flavor with no mechanics**. It is a thing the player describes; it is not a sense, a warning, or a familiar. If a player wants to make more of it, that is a story you are running, not a rule.
 - The vision page for **Energy Beam** asks the player to choose a drake at the table; that choice is the beam's damage type and is permanent.
 
