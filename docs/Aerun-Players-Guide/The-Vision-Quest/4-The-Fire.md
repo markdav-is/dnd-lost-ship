@@ -4,7 +4,7 @@
 
 *There is no fire. There is nothing here to burn. The desert people call it the fire anyway.*
 
-Your guide opens the packet. Inside is the Spice: a dull blue grain, like coarse salt that has been somewhere cold.
+Your guide opens the packet. Inside is the Spice: a dull orange grain, rust-colored, like old iron ground fine.
 
 Each guide gives it differently.
 
@@ -16,7 +16,7 @@ Each guide gives it differently.
 
 ## What it does
 
-The taste is blue. That is the only word for it afterward. Blue and cold and very far down.
+The taste is blue. That is the only word for it afterward. Blue and cold and very far down, and nothing in the rust-colored grain to warn you of it.
 
 Then the slowing. The wind over the dust, which made no sound before, makes less. Your guide's breathing stretches out. The light goes long and the stones of the ring throw shadows that do not match the sun.
 
