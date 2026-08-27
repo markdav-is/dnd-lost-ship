@@ -77,7 +77,7 @@ Roll **Intelligence (History)** for the Schools as institutions, **Wisdom (Insig
 | 25 | They say the Menders know what forty years of Spice does to a body. They have never published. | Menders |
 | 25 | They say the Academy has a standing order: the Long Reach never bends northwest. Navigators do not know why, and have never asked. | Academy |
 | 25 | They say the Relay is a string of Ancient far-speakers — metal boxes older than any House that carry a living voice across the gray; that perhaps two dozen survive; that none has ever been built new, and a dead set stays dead. The Houses would trade a city for one. The Academy does not discuss it, which is how everyone knows it is real. | Academy |
-| 25 | They say the hooded Navigators are only the Academy's lower orders — that deep in every great argosy, sealed amidships in a vault the crew calls the tank and never enters, rides something that used to be a Navigator before the Spice finished with it. The crews leave a cup of water at the tank's door at dusk. It is always gone by morning. Nobody watches how. | Academy |
+| 25 | They say the hooded Navigators are only the Academy's lower orders — that deep in every great argosy, sealed amidships in a vault the crew calls the tank and never enters, rides something that used to be a Navigator before the Spice finished with it. The tank is never tapped, the crews will not speak of it, and no one who has shipped aboard ever asks twice. | Academy |
 | 25 | They say Urik's Kenaz is quietly building a curriculum in pure force for Stel's legions. | Kenaz |
 | 25 | They say the desert has masterless orders that teach what the Schools won't — a road to something beyond mastery. The Schools do not speak of it. | All |
 

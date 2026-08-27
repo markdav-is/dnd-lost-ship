@@ -21,5 +21,6 @@ A city climbing in tiers up the face of the dam — precinct above precinct, lin
 
 - Ask what turn of the Cochlea a man lives off, and you will know his station. Balicans do it constantly and pretend they don't.
 - The **theaters** are the city's glory — dozens, from ramshackle stagehouses to noble amphitheaters. A good playwright is as famous here as a gladiator.
+- Late this summer, after six tendays of the porters' work-to-rule slowdown, the factors hired the [Salt View](Salt-View.md) Principal Troupe to stage the **Fall of Yaramuke** at the foot of the Cochlea; all five [Great Schools](../The-Great-Schools.md) walked the turns during the play, and seven porters left the stair that night in School cloaks. The gangs ended the slowdown the next morning on their own count, and the city posted a water increase and called it "seasonal." Balic is still arguing about what happened.
 - Try the **Olive Tree** on the Road of Legions for a cheap safe bed; the **Furled Sail** on the docks for the other kind of evening.
 - Every free citizen serves three years in the legions, so the innkeeper who pours your wine has probably stood a wall against giants.

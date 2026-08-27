@@ -20,5 +20,5 @@ Draj → Blackguard → Raam → Nibenay → Gulg → Amber Valley → Balic →
 
 - Walking alone is possible on the settled stretches and unwise everywhere else. Attach yourself to a caravan at any city gate or at Amber Valley, where hiring is done openly each dawn.
 - The road is neutral ground by ancient custom. Feuds are not conducted on it. This holds well in the west, indifferently in the north, and not at all near the Mekillot Mountains.
-- They say raiders who board a great argosy always find less aboard than the manifest promised, and that the crews leave a cup of water at the door of a sealed hold at dusk and it is gone by morning. *An argosy is never late* — people say it on the road the way they say things they have stopped questioning.
+- They say raiders who board a great argosy always find less aboard than the manifest promised, and that every great argosy carries a sealed hold the crews will not enter and will not discuss. *An argosy is never late* — people say it on the road the way they say things they have stopped questioning.
 - Two shortcuts exist and both are silt crossings: [the Long Reach](The-Long-Reach.md) from Raam to Balic, and the shoal routes the desert tribes use and will not sell.

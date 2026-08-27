@@ -13,5 +13,6 @@ A village on the eastern face of the Mekillot Mountains, founded by people who l
 ## Traveler's notes
 
 - The troupes are genuinely superb — a generation of people who survived the arena and discovered they preferred an audience.
+- The **Principal Troupe**'s biggest booking yet came late this summer: the **Fall of Yaramuke**, staged at the foot of [Balic](Balic.md)'s Cochlea for the factors, on the night the porters' slowdown ended. The town has been dining out on it since.
 - Salt View will not perform for nobles. Not for any fee. Ask why and you will get a long answer and a longer drink.
 - Traveling this stretch of road, a caravan either hires Salt View as escort or is robbed by it, and the town is perfectly open about the choice.
