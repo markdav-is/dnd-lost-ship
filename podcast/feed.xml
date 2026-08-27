@@ -19,12 +19,32 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Blank</title>
+      <description>Season finale, live from Midreach waystation: the audit is settled, the beacon lesson is taught, a letter is waiting where no letter should be — and at dawn, the Wanderer goes north past the last marker. Keep listening to this frequency. This episode brought to you by the Menders' Hall, the Open Market of Tyr, and the Navigation Academy, which has no comment.</description>
+      <pubDate>Fri, 14 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://archive.org/download/wandering-aerun/ep008-the-blank.mp3" length="9544364" type="audio/mpeg"/>
+      <guid isPermaLink="false">wandering-aerun-ep008-the-blank</guid>
+      <itunes:duration>9:56</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Portage</title>
+      <description>Down the Cochlea: the stair, the gangs, and the longest queue the portage has ever produced — until a traveling company sold the factors a distraction and delivered a mirror. With Harl, twenty years a drover on the Ring Road. This episode brought to you by the School of Reckoning, Stillwater, and the Guild's registered traveler's beacon.</description>
+      <pubDate>Fri, 31 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://archive.org/download/wandering-aerun/ep007-the-portage.mp3" length="9482540" type="audio/mpeg"/>
+      <guid isPermaLink="false">wandering-aerun-ep007-the-portage</guid>
+      <itunes:duration>9:53</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Spice</title>
       <description>No guest tonight. The Wanderer talks about the blue — what it is, what it costs, who it belongs to, and the once, the only once, he took it himself. And a letter arrives that should not have been possible. This episode brought to you by the Guild's registered traveler's beacon, Stillwater, and deck passage on the Ring Road.</description>
       <pubDate>Fri, 17 Jul 2026 17:00:00 GMT</pubDate>
-      <enclosure url="https://archive.org/download/wandering-aerun/ep006-the-spice.mp3" length="10547372" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/wandering-aerun/ep006-the-spice.mp3" length="10480940" type="audio/mpeg"/>
       <guid isPermaLink="false">wandering-aerun-ep006-the-spice</guid>
-      <itunes:duration>10:59</itunes:duration>
+      <itunes:duration>10:55</itunes:duration>
       <itunes:episode>6</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>

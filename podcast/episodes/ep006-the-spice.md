@@ -39,7 +39,7 @@ PAUSE: 0.5
 
 ANNOUNCER: And from Stillwater, of Nibenay. Stillwater reminds you that you have nothing to hide. Nothing at all. [beat] Doesn't that feel better?
 
-WANDERER: [dry] And — the third spot tonight was sold, friends. I'm told it was sold to a certain restorative tonic. [pause] Not tonight of all nights, friends. Not on this frequency. We'll run it twice next episode and they'll bill me for the courtesy. Moving on.
+WANDERER: [dry] And — the third spot tonight was sold, friends. I'm told it was sold to a certain restorative tonic. [pause] Not tonight of all nights. Not on this frequency. Moving on.
 
 ## scene: the-blue [radio]
 
@@ -74,6 +74,8 @@ PAUSE: 1.2
 WANDERER: And... [pause] the second letter. [paper handled slowly] Friends, my anonymous correspondent has written back. Same hand. Same excellent ink. And I invited this, on the air, so I'm going to honor it and read the whole thing, which is not long. Quote. "You asked why the Reach never bends northwest. You already know. You have been closer than the markers — once, in the desert, for one hour. The blue remembers you." [long pause] [quietly] ...That's the letter. [pause] I read my mail on this show, friends, and I don't perform surprise, so I'll tell you honestly: I told the story of the once tonight for the first time anywhere. And this letter was handed up the Reach four days ago. [beat] We're going to sit with that, you and I. Next segment.
 
 ## scene: notices [radio]
+
+PAUSE: 1.2
 
 WANDERER: Notices — and bless the notices, friends, tonight of all nights. Altaruk reports Bitey has learned to open the ceramic reserve. Unassisted. The fort has stopped calling it a reserve and started calling it Bitey's, which the quartermaster describes as "an accounting simplification." Next: Salt View's spring circuit posts its dates — all seven cities, waystation shows at First Mark and Midreach, and yes, Boffo is touring. Travel safe, big fellow. And the Menders' Hall reminds the lane that white-hour clinics resume at the turn of the season. Look for the mark on the brow, friends. You know the one.
 

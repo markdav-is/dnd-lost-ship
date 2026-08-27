@@ -44,7 +44,23 @@
     "title": "The Spice",
     "summary": "No guest tonight. The Wanderer talks about the blue — what it is, what it costs, who it belongs to, and the once, the only once, he took it himself. And a letter arrives that should not have been possible. This episode brought to you by the Guild's registered traveler's beacon, Stillwater, and deck passage on the Ring Road.",
     "pubdate": "Fri, 17 Jul 2026 17:00:00 GMT",
-    "bytes": 10547372,
-    "duration": "10:59"
+    "bytes": 10480940,
+    "duration": "10:55"
+  },
+  {
+    "slug": "ep007-the-portage",
+    "title": "The Portage",
+    "summary": "Down the Cochlea: the stair, the gangs, and the longest queue the portage has ever produced — until a traveling company sold the factors a distraction and delivered a mirror. With Harl, twenty years a drover on the Ring Road. This episode brought to you by the School of Reckoning, Stillwater, and the Guild's registered traveler's beacon.",
+    "pubdate": "Fri, 31 Jul 2026 17:00:00 GMT",
+    "bytes": 9482540,
+    "duration": "9:53"
+  },
+  {
+    "slug": "ep008-the-blank",
+    "title": "The Blank",
+    "summary": "Season finale, live from Midreach waystation: the audit is settled, the beacon lesson is taught, a letter is waiting where no letter should be — and at dawn, the Wanderer goes north past the last marker. Keep listening to this frequency. This episode brought to you by the Menders' Hall, the Open Market of Tyr, and the Navigation Academy, which has no comment.",
+    "pubdate": "Fri, 14 Aug 2026 17:00:00 GMT",
+    "bytes": 9544364,
+    "duration": "9:56"
   }
 ]
