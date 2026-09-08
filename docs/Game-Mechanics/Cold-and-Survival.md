@@ -1,4 +1,4 @@
-[Game Mechanics](../Game-Mechanics.md) / Cold and Survival <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [Game Mechanics](../Game-Mechanics.md) / Cold and Survival <!-- wikidown:breadcrumb -->
 
 # Cold & Survival
 
@@ -26,3 +26,7 @@ The dogs are life support: no team, no crossing ([Korrin's](../NPCs/Korrin.md) w
 ## Atmosphere dial
 
 Describe creeping numbness and urgency; the cold is a lethal, ever-present antagonist — and now it's the *safe* part of the mountains. Pair with the "Signs of Spreading Infection" table in [Return to Frostwatch](../Adventures/Return-to-Frostwatch.md) once the party is below the crash site.
+
+## See also
+
+[Heat & Survival](Heat-and-Survival.md) — the desert-side mirror of this page for the Aerun arc: water rings, heatstroke, and race-by-race modifiers.
