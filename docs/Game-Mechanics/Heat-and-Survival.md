@@ -46,6 +46,7 @@ its own physiology rather than reaching for the Athasian race list wholesale.
 | Gobbledegook | Goblin (Small) | half rings, round up | Standard size-based ration halving applies same as food — a smaller body loses less water. |
 | Musty-Jo Mustang | Centaur (Large, quadruped) | +4 rings/day | Horse physiology: a real horse drinks 5–10 gallons a day. Treat him as drinking for two travelers. His hooves also sink in loose dune sand — same mobility tax as the ship's corridors, inverted. |
 | Shhhmeowmeow | Tabaxi | −1 ring/day; disadvantage on Heatstroke saves unless groomed/shaded | Feline kidneys are built for low water intake (desert-cat ancestry) — but that fur retains heat hard. Cheap to hydrate, easy to overheat. |
+| Robin Wood | Variant Human | none | Baseline, same as Beyond-Ce — no species quirk to account for. As the party's cleric she can prepare *create water*, which per the Mitigation note above can auto-succeed or lower the group's Heatstroke DC when she has a slot to spare. |
 
 Use this table as the standing ruling once the party crosses into the Aerun
 desert arc; adjust per NPC/monster only if it comes up (kanks, crodlu, and
