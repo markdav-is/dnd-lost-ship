@@ -1,4 +1,4 @@
-[Campaign](../../Campaign.md) / [The Party](../The-Party.md) / Beyond Ce <!-- wikidown:breadcrumb -->
+[Home](../../Home.md) / [Campaign](../../Campaign.md) / [The Party](../The-Party.md) / Beyond Ce <!-- wikidown:breadcrumb -->
 
 # Beyond-Ce
 
@@ -18,6 +18,28 @@ Human Sorcerer 11 (Faction Agent). Player: natnerd15 (**Andy**). Sheet: `assets/
 
 - Primary blaster/controller caster — **Font of Magic up to 5th-level slot conversion** (7 sorcery points → a 5th-level slot), metamagic engine online.
 - Attacks: **Dagger of Returning** (+5, 1d4+1), **Laser Pistol** (3d6+1 radiant), simple weapons; herbalism kit proficiency.
+
+## Equipment
+
+**Currency:** 900 gp. **Weight carried:** 59 lb / **Encumbered at:** 180 lb / **Push, drag, lift:** 360 lb (all per the 2026-08-05 sheet).
+
+| Item | Qty | Weight |
+| :--- | :-: | :-: |
+| Elven Chain | 1 | 20 lb |
+| Robe of Scintillating Colors *(attuned)* | 1 | — |
+| Wand of Magic Missiles | 1 | — |
+| Wand of the War Mage, +3 *(attuned)* | 1 | — |
+| Dagger of Returning | 1 | 1 lb |
+| Potion of Healing | 1 | 0.5 lb |
+| Collar of the Beast | 1 | — |
+| Laser Pistol | 1 | 2 lb |
+| Bedroll | 1 | 7 lb |
+| Clothes, Common | 1 | 3 lb |
+| Herbalism Kit | 1 | 3 lb |
+| Energy Cell | 5 | 2.5 lb |
+| Small Knife | 2 | — |
+| Robot Controller | 0 | — |
+| Tent | 1 | 20 lb |
 
 ## DM hooks
 

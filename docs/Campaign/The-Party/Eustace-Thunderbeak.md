@@ -1,4 +1,4 @@
-[Campaign](../../Campaign.md) / [The Party](../The-Party.md) / Eustace Thunderbeak <!-- wikidown:breadcrumb -->
+[Home](../../Home.md) / [Campaign](../../Campaign.md) / [The Party](../The-Party.md) / Eustace Thunderbeak <!-- wikidown:breadcrumb -->
 
 # Eustace (Eu) Thunderbeak
 
@@ -17,6 +17,62 @@ Aarakocra Bard 11 (Pirate). Player: Ben. Sheet: `assets/Eustace (Eu) Thunderbeak
 
 - **Bardic Inspiration** (d10 now, refreshing on short rests) and **Cutting Words** (reaction: subtract an inspiration die from an enemy roll).
 - Attacks: Shortsword +1 (+8, vex), Daggers of Returning (+8/+7), Dagger of Warning, Staff of Thunder and Lightning, heavy crossbow.
+
+## Equipment
+
+**Currency:** 4,162 gp, 70 sp. **Weight carried:** 211.5 lb / **Encumbered at:** 195 lb / **Push, drag, lift:** 390 lb (all per the 2026-08-05 sheet) — **already over the encumbrance line by 16.5 lb**, largely thanks to a chest and a personal hoard of gold and unidentified coins (see [Heat & Survival](../../Game-Mechanics/Heat-and-Survival.md) for what that means for his water budget).
+
+| Item | Qty | Weight |
+| :--- | :-: | :-: |
+| Glamoured Studded Leather | 1 | 13 lb |
+| Ring of Feather Falling | 1 | — |
+| Staff of Thunder and Lightning *(attuned)* | 1 | — |
+| Potion of Healing (Greater) | 2 | 1 lb |
+| Shortsword, +1 | 1 | 2 lb |
+| Dagger of Warning *(attuned)* | 1 | 1 lb |
+| Dagger of Returning *(attuned)* | 1 | 1 lb |
+| Crossbow Bolts, Walloping | 4 | — |
+| Leather (spare armor) | 1 | 10 lb |
+| G-Force Medallion | 1 | — |
+| Ancient gold coin | 25 | — |
+| Unknown metal coin ("Sharts") | 10 | — |
+| Crossbow bolt of frost | 5 | — |
+| Staff of Whirlpool | 1 | — |
+| Crossbow bolt of electricity | 6 | — |
+| Prosthetic limb with magnetic attachment | 1 | — |
+| Small glass terrarium with empty cocoon | 1 | — |
+| Rapier | 1 | 2 lb |
+| Chest | 1 | 25 lb |
+| Lamp | 1 | 1 lb |
+| Lute | 1 | 2 lb |
+| Rope, Silk (50 feet) | 1 | 5 lb |
+| Clothes, Common | 1 | 3 lb |
+| Lantern, Hooded | 1 | 2 lb |
+| Pearl | 12 | — |
+| Potion of Healing | 2 | 1 lb |
+| Crossbow, Heavy | 1 | 18 lb |
+| Crossbow Bolts | 20 | 1.5 lb |
+| Antitoxin | 1 | — |
+| Paralysis Pistol | 1 | — |
+| Energy Cell | 10 | 5 lb |
+| Robot Controller | 0 | — |
+| Bedroll | 1 | 7 lb |
+| Mess Kit | 1 | 1 lb |
+| Rations (1 day) | 10 | 20 lb |
+| Rope, Hempen (50 feet) | 1 | 10 lb |
+| Tinderbox | 1 | 1 lb |
+| Torch | 10 | 10 lb |
+| Waterskin | 1 | 5 lb |
+| Dagger | 1 | 1 lb |
+| Ink (1 ounce bottle) | 1 | — |
+| Ink Pen | 1 | — |
+| Case, Map or Scroll | 2 | 1 lb |
+| Clothes, Fine | 1 | 6 lb |
+| Oil (flask) | 2 | 2 lb |
+| Paper (one sheet) | 5 | — |
+| Perfume (vial) | 1 | — |
+| Sealing Wax | 1 | — |
+| Soap | 1 | — |
 
 ## Airlantis
 

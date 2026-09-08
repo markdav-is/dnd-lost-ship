@@ -1,4 +1,4 @@
-[Campaign](../../Campaign.md) / [The Party](../The-Party.md) / Shhhmeowmeow <!-- wikidown:breadcrumb -->
+[Home](../../Home.md) / [Campaign](../../Campaign.md) / [The Party](../The-Party.md) / Shhhmeowmeow <!-- wikidown:breadcrumb -->
 
 # Shhhmeowmeow
 
@@ -19,6 +19,38 @@ Tabaxi Ranger 11 (Outlander). Player: Shhhmeowmeow. Sheet: `assets/Shhhmeowmeow.
 - **Dread Ambusher:** +WIS to initiative, +10 ft speed and an extra weapon attack (+1d8) on the first turn.
 - **Deft Explorer: Tireless** (temp HP as an action; short rests shed exhaustion), **Nature's Veil** (bonus-action invisibility), **Favored Foe**, **Feline Agility** (double speed 1/rest).
 - Attacks: **Nine Lives Stealer Longbow** (+12, 1d8+6 — the new signature weapon), Arrow of Electric Sting +1 (+2d6 lightning), Scimitar (+8, nick), **Laser Pistol** (radiant), Primal Savagery, Magic Stone.
+
+## Equipment
+
+**Currency:** 1,628 gp, 75 sp, 10 ep. **Weight carried:** 113 lb / **Encumbered at:** 240 lb / **Push, drag, lift:** 480 lb (all per the 2026-08-05 sheet).
+
+| Item | Qty | Weight |
+| :--- | :-: | :-: |
+| Bracers of Archery | 1 | — |
+| Glamoured Studded Leather | 1 | 13 lb |
+| Orb of Dragonkind *(attuned)* | 1 | — |
+| Potion of Water Breathing | 6 | — |
+| Potion of Healing (Greater) | 5 | 2.5 lb |
+| Arrow of Electric Sting, +1 | 6 | 2 lb each |
+| Arrow of Fire | 7 | — |
+| Longbow | 1 | 2 lb |
+| Scimitar | 1 | 3 lb |
+| Backpack | 1 | 5 lb |
+| Laser Pistol | 1 | 2 lb |
+| Potion of Healing | 1 | 0.5 lb |
+| Nine Lives Stealer Longbow *(attuned)* | 1 | 2 lb |
+| Concussion Grenade | 5 | — |
+| Grenade, Smoke | 5 | 10 lb |
+| Antigravity Belt | 2 | — |
+| Green gem (50 gold) | 1 | — |
+| Bedroll | 1 | 7 lb |
+| Mess Kit | 1 | 1 lb |
+| Rations (1 day) | 10 | 20 lb |
+| Rope, Hempen (50 feet) | 1 | 10 lb |
+| Tinderbox | 1 | 1 lb |
+| Torch | 10 | 10 lb |
+| Waterskin | 1 | 5 lb |
+| Orb | 1 | 3 lb |
 
 ## The dragon bond
 
