@@ -61,61 +61,43 @@ other mounts drink separately and aren't tracked against the party's rings).
 
 ## Player handouts
 
-One self-contained paragraph per character — print and hand out separately so
-each player only has their own numbers on the page.
+One self-contained card per character — print and cut these apart so each
+player only has their own numbers in hand. Each one repeats the base zone
+rates, applies that character's modifier, and gives their real carry budget,
+so nobody needs to flip back to the tables above.
 
-#### Beyond-Ce (Human)
+#### Beyond-Ce (Human, she/her)
 
-No water ring modifier — Beyond-Ce's Human physiology is the baseline the
-zone table above already assumes, so just read rings/day straight off it.
-His sheet carries 59 lb of gear against a 180 lb encumbrance threshold,
-leaving 121 lb of headroom — about **55 rings** he could add today before
-he's overloaded.
+**Daily water rings:** Shaded/oasis 2 · Normal desert 4 · Hot exposure 8 · Extreme 12 — no modifier; Human is the baseline the zone table is built around, so read these numbers straight.
 
-#### Eustace Thunderbeak (Aarakocra)
+**Water budget:** her sheet carries 59 lb of gear against a 180 lb encumbrance threshold, leaving 121 lb of headroom — about **55 rings** she could add today before she's overloaded.
 
-Flying keeps Eustace off the radiant heat coming up off sand and rock, so
-while airborne his water rings cost drops by 2/day; on the ground, with his
-hollow bones doing nothing for him on the Sea of Silt, he pays the normal
-rate. His sheet already carries 211.5 lb against a 195 lb encumbrance
-threshold — he's **16.5 lb over before a single ring of water**, mostly
-thanks to a chest and a personal hoard of gold and unidentified coins he's
-hauling around. He can't add any water of his own until he drops weight (or
-the table accepts he flies encumbered).
+#### Eustace Thunderbeak (Aarakocra, he/him)
 
-#### Gobbledegook (Goblin, Small)
+**Daily water rings — flying:** Shaded/oasis 0 · Normal desert 2 · Hot exposure 6 · Extreme 10 (base rate −2/day, floor of 0). **On the ground:** Shaded/oasis 2 · Normal desert 4 · Hot exposure 8 · Extreme 12 (full rate — hollow bones don't help him walk the Sea of Silt).
 
-As a Small creature, Gobbledegook uses the same size-based ration halving
-that applies to food — round up, so his daily water rings are half the zone
-rate. His sheet carries 90.5 lb against a 150 lb threshold, leaving 59.5 lb
-of headroom — about **27 rings**. Between the halved need and that real
-headroom, he's the easiest member of the party to keep hydrated.
+**Water budget:** his sheet already carries 211.5 lb against a 195 lb encumbrance threshold — he's **16.5 lb over before a single ring of water**, mostly thanks to a chest and a personal hoard of gold and unidentified coins he's hauling around. He can't add any water of his own until he drops weight (or the table accepts he flies encumbered).
 
-#### Musty-Jo Mustang (Centaur, Large, quadruped)
+#### Gobbledegook (Goblin, Small, he/him)
 
-Horse physiology means Musty-Jo drinks for two travelers — real horses put
-away 5 to 10 gallons a day, so his water rings run +4/day over the zone rate.
-His hooves also sink in loose dune sand, the same mobility tax he gets in the
-ship's corridors, just inverted. His Equine Build trait counts him as one
-size larger for carrying capacity, so even with 276.5 lb of gear already on
-his sheet against a 540 lb threshold, he still has 263.5 lb of headroom —
-about **119 rings**. He's comfortably the one who can carry a shared water
-reserve for the rest of the party on top of his own higher rate.
+**Daily water rings:** Shaded/oasis 1 · Normal desert 2 · Hot exposure 4 · Extreme 6 — half the zone rate, round up. Standard size-based ration halving, same as food.
 
-#### Shhhmeowmeow (Tabaxi)
+**Water budget:** his sheet carries 90.5 lb against a 150 lb threshold, leaving 59.5 lb of headroom — about **27 rings**. Between the halved need and that real headroom, he's the easiest member of the party to keep hydrated.
 
-Feline kidneys built for low water intake mean Shhhmeowmeow's daily ring cost
-drops by 1, but that same fur retains heat hard — she saves at disadvantage
-on Heatstroke checks unless she's groomed or kept shaded. Her sheet carries
-113 lb against a 240 lb threshold, leaving 127 lb of headroom — about
-**57 rings**: cheap to keep hydrated, but don't skip the shade.
+#### Musty-Jo Mustang (Centaur, Large, quadruped, he/him)
 
-#### Robin Wood (Variant Human)
+**Daily water rings:** Shaded/oasis 6 · Normal desert 8 · Hot exposure 12 · Extreme 16 — zone rate +4/day. Horse physiology: a real horse drinks 5–10 gallons a day, so treat him as drinking for two travelers. His hooves also sink in loose dune sand, the same mobility tax he gets in the ship's corridors, just inverted.
 
-No water ring modifier — like Beyond-Ce, her Variant Human physiology is the
-baseline the zone table already assumes, with no species quirk to account
-for. Her sheet carries 88 lb against a 150 lb threshold, leaving 62 lb of
-headroom — about **28 rings**. As the party's cleric she can prepare
-*create water*, which per the Mitigation note above can auto-succeed or
-lower the group's Heatstroke DC when she has a slot to spare — worth more to
-the party's water budget than anything she could physically haul.
+**Water budget:** his Equine Build trait counts him as one size larger for carrying capacity, so even with 276.5 lb of gear already on his sheet against a 540 lb threshold, he still has 263.5 lb of headroom — about **119 rings**. He's comfortably the one who can carry a shared water reserve for the rest of the party on top of his own higher rate.
+
+#### Shhhmeowmeow (Tabaxi, he/him)
+
+**Daily water rings:** Shaded/oasis 1 · Normal desert 3 · Hot exposure 7 · Extreme 11 — zone rate −1/day. Feline kidneys are built for low water intake, but that same fur retains heat hard: he saves at **disadvantage** on Heatstroke checks unless groomed or kept shaded.
+
+**Water budget:** his sheet carries 113 lb against a 240 lb threshold, leaving 127 lb of headroom — about **57 rings**: cheap to keep hydrated, but don't skip the shade.
+
+#### Robin Wood (Variant Human, she/her)
+
+**Daily water rings:** Shaded/oasis 2 · Normal desert 4 · Hot exposure 8 · Extreme 12 — no modifier; like Beyond-Ce, her Variant Human physiology is the baseline the zone table already assumes, with no species quirk to account for.
+
+**Water budget:** her sheet carries 88 lb against a 150 lb threshold, leaving 62 lb of headroom — about **28 rings**. As the party's cleric she can prepare *create water*, which per the Mitigation note above can auto-succeed or lower the group's Heatstroke DC when she has a slot to spare — worth more to the party's water budget than anything she could physically haul.
