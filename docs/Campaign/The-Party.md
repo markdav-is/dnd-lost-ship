@@ -1,4 +1,4 @@
-[Campaign](../Campaign.md) / The Party <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [Campaign](../Campaign.md) / The Party <!-- wikidown:breadcrumb -->
 
 # The Party
 
@@ -11,7 +11,7 @@ The **Wayward Friends** — the adventurers who restored order to the realm a ye
 | [Gobbledegook](The-Party/Gobbledegook.md) | Theonezerg | Goblin Cleric 10 | 17 | 73 | Trickery domain, **Divine Intervention** — 5th-level slots: **can cast Rejuvenate** |
 | [Musty-Jo Mustang](The-Party/Musty-Jo-Mustang.md) | yourthighness69 | Centaur Fighter 6 / Paladin 5 | 16 | 81 | Flail of Tiamat, flame tongue, **laser rifle**, Lay on Hands 25 |
 | [Beyond-Ce](The-Party/Beyond-Ce.md) | natnerd15 (Andy) | Human Sorcerer 11 | 15 | 68 | Darkvision 120 ft, war-caster style concentration, laser pistol |
-| [Robin Wood](The-Party/Robin-Wood.md) | *(new player)* | Variant Human Cleric 8 / Rogue 3 | 18 | 102 | Blessed Healer, Medicine +12, Staff of Healing — and a rogue's toolkit |
+| [Robin Wood](The-Party/Robin-Wood.md) | markdav_is | Variant Human Cleric 8 / Rogue 3 | 18 | 102 | Blessed Healer, Medicine +12, Staff of Healing — and a rogue's toolkit |
 
 **Roster note:** [Robin Wood](The-Party/Robin-Wood.md) — recruited in-fiction at Frostwatch — is a **new player's PC**, joining the table for the Return to the Ship arc. The recruitment scene the party played *was* her introduction.
 

@@ -1,8 +1,8 @@
-[Campaign](../../Campaign.md) / [The Party](../The-Party.md) / Robin Wood <!-- wikidown:breadcrumb -->
+[Home](../../Home.md) / [Campaign](../../Campaign.md) / [The Party](../The-Party.md) / Robin Wood <!-- wikidown:breadcrumb -->
 
 # Robin Wood
 
-**Variant Human Cleric 8 / Rogue 3** (Custom background). Played by a **new player** joining for the Return to the Ship arc. Sheet: `assets/Robin Wood.pdf` (2026-08-05).
+**Variant Human Cleric 8 (Life Domain) / Rogue 3 (Arcane Trickster)** (Custom background), Neutral Good. Player: markdav_is. Joined for the Return to the Ship arc. Sheet: `assets/Robin Wood.pdf` (2026-08-05).
 
 The occupation's infirmary medic at Frostwatch — a healer-cleric who arrived "a few days ago with everybody" (the Spásistren deployment), ran the hold's very well-stocked infirmary, and got recruited by the party on the spot. *"You want to save the world?" "Sure, I guess. It's an adventure."* That recruitment scene was the new player's introduction to the table.
 
@@ -18,11 +18,19 @@ The occupation's infirmary medic at Frostwatch — a healer-cleric who arrived "
 ## Combat & support
 
 - **Blessed Healer** (healing others heals her), **Channel Divinity 3/rest**, **Staff of Healing** (10 charges); **Cunning Action** and **Steady Aim** from the rogue side; Hand Crossbow +1.
-- Toughest sheet in the party at **HP 102** — the medic is the last one standing, which is exactly right.
+- Toughest sheet in the party at **HP 102** (the **Tough** feat alone adds 22) — the medic is the last one standing, which is exactly right.
 
 ## The rogue layer
 
 Thieves' tools, a **forgery kit**, and **Thieves' Cant**. The kind, competent medic who says she's a cleric "of sorts" can pick locks, fake documents, and speak the language of thieves. Where she learned all that is the new player's story to tell — leave the door open.
+
+## Personality (from the sheet)
+
+- **Trait:** keeps multiple holy symbols on her and invokes whatever deity might be useful in the moment — flattery is her preferred trick.
+- **Ideal:** Charity — she distributes what she acquires to the people who really need it. (Good)
+- **Bond:** rural communities are where her heart lives; no one should die of treatable causes just because they don't have the money.
+- **Flaw:** weary of anyone who comes from money — will stop to help anyone, even at risk to herself.
+- **Note on the sheet:** *"Steal from med bay B4 you leave."* Read literally, that's a standing player intention — Robin means to loot the ship's medical stores before the party's done there, in character with the Charity ideal above.
 
 ## What's known (from the played sessions)
 
@@ -35,3 +43,4 @@ Thieves' tools, a **forgery kit**, and **Thieves' Cant**. The kind, competent me
 - The party recruited her *while actively suspicious of everyone at Frostwatch* — she passed their sniff test when almost nobody else did. That trust is now a stake on the table.
 - The natural [Counteragent](../../Game-Mechanics/The-Counteragent.md) medic for [Return to the Ship](../../Adventures/Return-to-the-Ship.md): Medicine +12 turns dose triage into her spotlight, and Steady Aim makes her deadly with serum-tipped bolts.
 - Background threads deliberately open for the new player: why the forgery kit, why "of sorts," why no implant when everyone around her wears one.
+- **The med bay note is a hook, not just flavor.** If the party lets her raid the ship's infirmary before departure, that's Charity in action and free Restorative Ointment/healing stock for the road; if the party or ship security stops her, that's the Flaw (resentment of the well-off/well-stocked) landing on-screen.
