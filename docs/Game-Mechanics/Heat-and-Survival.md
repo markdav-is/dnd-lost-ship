@@ -38,12 +38,15 @@ useless here — desert gear is its own shopping trip.
 
 The current party's races weren't built for Athas, so translate each one on
 its own physiology rather than reaching for the Athasian race list wholesale.
-Water weight capacity below is standard carrying-capacity math (Strength
-score × 15 lb, doubled for a Large frame), converted at ~2.2 lb per ring —
-treat it as the ceiling if water were the *only* thing in the pack, not a
-realistic loadout once weapons and armor are on.
+The last column is **not a suggested loadout** — it's each character's entire
+D&D 5e carrying capacity (Strength score × 15 lb, doubled for a Large frame)
+converted straight into rings at ~2.2 lb apiece, i.e. what they could lift if
+water were the *only* thing they carried and their armor, weapons, and every
+other piece of gear stayed home. Real water-hauling numbers are far lower;
+use this only to sanity-check whether extra buffer days are even physically
+possible before other gear gets weighed in.
 
-| Character | Race | Water ring modifier | Max water weight |
+| Character | Race | Water ring modifier | Max lift, all water (ceiling) |
 | :--- | :--- | :-: | :-: |
 | Beyond-Ce | Human | none | 82 rings (~180 lb) |
 | Eustace Thunderbeak | Aarakocra | −2 rings/day while flying; normal on the ground | 89 rings (~195 lb) |
@@ -64,52 +67,54 @@ each player only has their own numbers on the page.
 #### Beyond-Ce (Human)
 
 No water ring modifier — Beyond-Ce's Human physiology is the baseline the
-zone table above already assumes, so just read rings/day straight off it. At
-Strength 12, he can lift about 180 lb, which is roughly 82 rings if water
-were the only thing in his pack; in practice his gear eats into that fast, so
-plan on carrying a few days' buffer rather than the theoretical max.
+zone table above already assumes, so just read rings/day straight off it.
+His full carrying capacity at Strength 12 is 180 lb, about 82 rings — but
+that's the ceiling with nothing else in the pack, not a real loadout. Plan
+water buffer days around what's left after armor, weapons, and gear, not
+around this number.
 
 #### Eustace Thunderbeak (Aarakocra)
 
 Flying keeps Eustace off the radiant heat coming up off sand and rock, so
 while airborne his water rings cost drops by 2/day; on the ground, with his
 hollow bones doing nothing for him on the Sea of Silt, he pays the normal
-rate. At Strength 13, his lift is about 195 lb — roughly 89 rings of water if
-that's all he's carrying, though flight itself makes hauling a heavy personal
-reserve impractical.
+rate. His full carrying capacity at Strength 13 is 195 lb, about 89 rings as
+a ceiling with no other gear — but flight itself makes hauling a heavy
+personal reserve impractical long before Strength is the limiting factor.
 
 #### Gobbledegook (Goblin, Small)
 
 As a Small creature, Gobbledegook uses the same size-based ration halving
 that applies to food — round up, so his daily water rings are half the zone
-rate. At Strength 10 his lift caps around 150 lb, about 68 rings of water at
-the extreme; between the halved need and that capacity, he's the easiest
-member of the party to keep hydrated.
+rate. His full carrying capacity at Strength 10 is 150 lb, about 68 rings as
+a ceiling with no other gear; between the halved need and that theoretical
+capacity, he's the easiest member of the party to keep hydrated in practice.
 
 #### Musty-Jo Mustang (Centaur, Large, quadruped)
 
 Horse physiology means Musty-Jo drinks for two travelers — real horses put
 away 5 to 10 gallons a day, so his water rings run +4/day over the zone rate.
 His hooves also sink in loose dune sand, the same mobility tax he gets in the
-ship's corridors, just inverted. The upside: at Strength 18 and Large size,
-his lift is roughly 540 lb, about 245 rings — he can physically carry enough
-water to cover his own higher rate plus a healthy reserve for the rest of the
-party.
+ship's corridors, just inverted. His full carrying capacity at Strength 18
+and Large size is 540 lb, about 245 rings as a ceiling with no other gear —
+comfortably the highest in the party, so of everyone he's the one who can
+realistically carry a meaningful water reserve on top of his own higher
+rate, even once armor and gear are accounted for.
 
 #### Shhhmeowmeow (Tabaxi)
 
 Feline kidneys built for low water intake mean Shhhmeowmeow's daily ring cost
 drops by 1, but that same fur retains heat hard — she saves at disadvantage
-on Heatstroke checks unless she's groomed or kept shaded. At Strength 16 her
-lift is about 240 lb, roughly 109 rings of water at the theoretical max: cheap
-to keep hydrated, but don't skip the shade.
+on Heatstroke checks unless she's groomed or kept shaded. Her full carrying
+capacity at Strength 16 is 240 lb, about 109 rings as a ceiling with no other
+gear: cheap to keep hydrated, but don't skip the shade.
 
 #### Robin Wood (Variant Human)
 
 No water ring modifier — like Beyond-Ce, her Variant Human physiology is the
 baseline the zone table already assumes, with no species quirk to account
-for. At Strength 10 her lift caps around 150 lb, about 68 rings if water were
-all she carried. As the party's cleric she can prepare *create water*, which
+for. Her full carrying capacity at Strength 10 is 150 lb, about 68 rings as a
+ceiling with no other gear. As the party's cleric she can prepare *create water*, which
 per the Mitigation note above can auto-succeed or lower the group's
 Heatstroke DC when she has a slot to spare — worth more to the party's water
 budget than anything she could physically haul.
