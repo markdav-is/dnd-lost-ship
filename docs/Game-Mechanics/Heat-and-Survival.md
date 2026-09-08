@@ -8,9 +8,9 @@ Rules for desert travel across Aerun's deserts — the heat-side mirror of
 ## Water rings
 
 Each player holds a box of small blue beads — **water rings**. One ring
-represents about a liter of water (a real gallon is ~3.8 L; round it to 4
-rings and don't sweat the math). Rings are spent daily per traveler based on
-terrain, and refilled at wells, oases, or water merchants.
+represents about a liter of water — don't sweat the math past that. Rings
+are spent daily per traveler based on terrain, and refilled at wells, oases,
+or water merchants.
 
 | Zone | Rings/person/day | Examples |
 | :--- | :-: | :--- |
@@ -86,7 +86,7 @@ so nobody needs to flip back to the tables above.
 
 #### Musty-Jo Mustang (Centaur, Large, quadruped)
 
-**Daily water rings:** Shaded/oasis 6 · Normal desert 8 · Hot exposure 12 · Extreme 16 — zone rate +4/day. Horse physiology: a real horse drinks 5–10 gallons a day, so treat him as drinking for two travelers. His hooves also sink in loose dune sand, the same mobility tax he gets in the ship's corridors, just inverted.
+**Daily water rings:** Shaded/oasis 6 · Normal desert 8 · Hot exposure 12 · Extreme 16 — zone rate +4/day. Horse physiology: a real horse drinks 20–40 liters a day, so treat him as drinking for two travelers. His hooves also sink in loose dune sand, the same mobility tax he gets in the ship's corridors, just inverted.
 
 **Water budget:** his Equine Build trait counts him as one size larger for carrying capacity, so even with 276.5 lb of gear already on his sheet against a 540 lb threshold, he still has 263.5 lb of headroom — about **119 rings**. He's comfortably the one who can carry a shared water reserve for the rest of the party on top of his own higher rate.
 
