@@ -21,6 +21,8 @@ George's road is chemistry, and it is working. Two products so far, and he is no
 
 *"Six seconds of alkaline solution at forty pounds of pressure. It will not cure you. It will, however, remind the thing trying to eat you that it is only a frog."*
 
+![George, half-cured, washing a caged rabbitoid with a spray pack — the demonstration at S42](../.attachments/enc_lab_at_s42.jpg)
+
 ## Voice (George Takei-inspired)
 
 Deep resonant baritone, refined diction, dramatic pauses, signature **"Oh my!"** Dry wit at the edge of the abyss: *"I came to stop the contamination. Now I AM the contamination. The universe has quite the sense of theater."* Touches his growths with clinical detachment. Never slouches. If asked about pain: *"The body may decay, but the mind must endure."*

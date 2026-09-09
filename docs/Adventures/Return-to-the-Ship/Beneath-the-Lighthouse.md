@@ -4,6 +4,8 @@
 
 *Return to the Ship, the turn — the island, the hatch, the lab fifty feet under the lake, the infected froghemoth at the glass, and the two asks that send the party to Aerun.*
 
+![Erleena's lab under the lake — the traces, the portholes, the eyes](../../.attachments/enc_beneath_the_lighthouse.jpg)
+
 ## Read-aloud — the island
 
 > *However you crossed, you are across. The island gives under your boots — this is not ground, it is the mold, skinned over old concrete — and the tower stands over you: white once, now wrapped seam and root in pale cords that glow where they knot. High up, the halo turns around the lantern room, gold-white, slow, deliberate. The beam swings out over the black water and every spore in the air leans after it.*
@@ -70,6 +72,8 @@ George has told her all of it, daily and at length: the doses, the half-cure, th
 | **Kill it.** | Full [Froghemoth](../../Bestiary/Ship-Creatures.md) block: CR 10, AC 16/14/12 (tentacles/body/tongue), **HP 184**. Four 20-ft tentacles (DC 18 grapple), 30-ft tongue drag, swallow whole (3d6 acid/turn; 20+ damage from inside forces a regurgitation save). A real fight for five level-11s and Harah — the tentacles grab, the tongue drags, the swallow is the scare. | **Immune to fire and lightning.** Say it plainly at the table: lightning bolts and fireballs do nothing to it. Lasers are radiant and land fine. Periscope eyes read as floating vegetation until they don't. |
 | **Wash it.** | Huge: **three blasts within one minute** ([The Counteragent](../../Game-Mechanics/The-Counteragent.md)). Three wielders with it in their cones do it in **one round**; one wielder needs three consecutive rounds within 15 ft of a thing that dives. It has to be **surfaced and inside the 15-ft cone** — and its own attacks put it there. A tentacle grab or tongue drag pulls the wielder to the beast; that is the opportunity, not the disaster. | Washed, the bond breaks for 24 hours: no direction, no interest in the glass. It is a very large, very hungry animal again — most likely it dives and is gone. DM's call if it stays hungry and has someone in reach. It is still infected; this is a leash cut, not a cure. |
 
+![Kill it or wash it — three packs on the froghemoth at the bridge](../../.attachments/enc_froghemoth_wash.jpg)
+
 **Where it happens.**
 
 - **Go up and meet it.** Back up the stair to the island shore and the bridge; the froghemoth follows the party up, because the party is what it was sent for. Open water, full tentacle reach, plenty of room to be dragged — and the beam still sweeping overhead. Don't stand in it.
@@ -82,6 +86,8 @@ Either way, when it's over the lab is quiet, the water is still, and Harah has b
 Harah has waited a sea crossing and a mountain range for this room, and she does not waste it. She tells Erleena the two things she came to tell her, the way she says everything — once, flat, as fact. First: there is a **second source**. Rajaat, in the deep desert of Aerun, under a thousand years of quarantine — the news she gave the council, which Erleena, comms-dead, has never heard. Second, the thing she would *not* say at the council: **how the desert was made**. Defiler magic. Her ancestors killed the land to hold the bloom, and the Order of the Sere keeps that failsafe still. She states it; she does not argue for it. Press her past it and she gives the only answer she gives anyone: *"It is managed."*
 
 > *"Your mold is not the first one." Harah does not sit. "There is an older one, across the sea, in the middle of my desert. We call it Rajaat. It has been held for a thousand years." She lets the number stand. "You will want to know how it is held. I did not say this at your council. My people's ancestors killed the land around it — killed it with magic, on purpose, so nothing living would carry the bloom outward. There is an Order that keeps that magic still. The Sere. That is how the desert was made. That is all of it I will say. It is managed."*
+
+![Harah speaks; Erleena listens — the turn](../../.attachments/enc_the_turn.jpg)
 
 Erleena's first reaction is not the two asks. It is the scientist's check — she taps the black spike on the nearest trace and asks whether the thing in Harah's desert is *the same kind of thing*: is there something behind Rajaat, or is it only a very old mold? Harah gives it the desert's answer. *"I do not know what is behind it. It is managed."*
 

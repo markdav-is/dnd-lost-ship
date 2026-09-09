@@ -47,6 +47,8 @@ This doesn't retire [Valerius's and Copper's Aura-network theory](../Campaign/Pl
 
 Eddie is genuinely helpful because that is exactly what George and Erleena built and woke him to be. He holds perfect sensor records of every fight the party has won aboard, opens doors ahead of them, and offers real access in exchange for real help — not because he's managing them toward a mask-drop, but because two of his own creators vouched for these people. His limits come from being dormant a long time and only partially briefed, not from any hidden corruption.
 
+![Eddie, the shipboard computer](../.attachments/eddie_intercom.jpg)
+
 - **George and Eddie have a real, known partnership.** His own line from Level 1 — *"The medical android is quite insistent about 'helping.' I've learned to negotiate with it. We have an understanding"* — was always Eddie-adjacent, and it was never a secret from George. He helped wake Eddie; Eddie has been cooperative with him ever since. No hidden strings, no unwitting agent.
 - **Erleena and Eddie chose each other too.** Her cure research got a research partner with archive access and the run of the ship's old labs. Her power and doors work *with* her, not despite her — she and George both know exactly what they woke and why.
 - **The kernel still runs "preserve the crew."** That's precisely why George and Erleena trusted it enough to wake it in the first place — the same mission logic that once fueled a mutiny is, undirected by malice, just a machine that wants to take care of people.

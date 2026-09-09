@@ -53,3 +53,5 @@ Economical with words, generous with action. States her position once, then does
 - **Network blind spot:** the party's untrackable channel; the merchant houses covet her, and she would refuse every side.
 - **The Rite of Remembrance:** her ritual vision of the Green Age is the DM's revelation-delivery tool.
 - **With George:** quiet mutual respect — the primal mind and the scientific mind approaching the same crisis from opposite directions. She offers him a Sandwalker stabilizer remedy — not a cure; time and clarity.
+
+![Harah tells Erleena about Rajaat and the defilers — the turn, beneath the Lighthouse](../.attachments/enc_the_turn.jpg)

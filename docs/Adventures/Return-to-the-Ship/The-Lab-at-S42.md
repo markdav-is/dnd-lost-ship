@@ -4,6 +4,8 @@
 
 *Return to the Ship, reunion — the lit walk across Level 1, the north drop tube, and George at S42. A breather that ends on a decision.*
 
+![George demonstrates the spray packs at S42](../../.attachments/enc_lab_at_s42.jpg)
+
 ## Read-aloud — the lit walk
 
 > *The airlock seals behind you and the war outside becomes a hum in the hull. Ahead, the corridor lights run north, section by section, and keep running well past where you can see.*

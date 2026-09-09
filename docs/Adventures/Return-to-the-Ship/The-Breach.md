@@ -4,6 +4,8 @@
 
 *Return to the Ship, arrival set-piece — the ship under siege, then first contact with Eddie.*
 
+![The convoy crests the ridge — the ship under siege](../../.attachments/enc_the_breach.jpg)
+
 ## Read-aloud
 
 > *The blizzard breaks all at once as the convoy crests the ridge, and the ship is there — and it is not quiet.*
@@ -50,6 +52,8 @@ A fast, dramatic push: spot the door, run for it — if they go now, they just m
 
 **Covering fire.** Each leg of the dash across the gap, red turret lines rake the horde on either side of the party's path. Everyone makes a **Dexterity saving throw, DC 13**, to stay on the line Eddie is calling (*"keep to the left, friends! no — my left!"*). Call it the *focus* save at the table if you like — it's about keeping your head down and your feet on the path while the world explodes.
 
+![The run for the door under Eddie's covering fire](../../.attachments/enc_covering_fire.jpg)
+
 - **Failure:** clipped by friendly fire — **2d6 radiant** — and **Eddie apologizes immediately over the hull speakers**, brightly and at length, while continuing to shoot. Pick one:
   - *"Oh! Oh, sorry — that one was mine. Nearly had it, though! Keep going, you're doing wonderfully."*
   - *"Apologies, apologies — a touch left of where I wanted it. Still, we got the wolf behind it, so I'm calling that a team effort."*
@@ -61,6 +65,8 @@ A fast, dramatic push: spot the door, run for it — if they go now, they just m
 Keep this loud, fast, and cinematic — turret fire lighting the fog, a robot going down under a pile of infected wolves ten feet from the party, the open door a hundred yards up the hill while something screams closer. Nobody is trying to kill the party specifically; that's what makes it survivable and what makes it terrifying. This is the doorway scene, not the dungeon — once the door cycles shut, cut hard to the quiet inside.
 
 ## First contact: Eddie
+
+![Eddie — the shipboard computer, as the party will see him: a speaker, a waveform, and eleven amber lights](../../.attachments/eddie_intercom.jpg)
 
 > *The airlock door seals behind you, and the chaos outside drops to a dull hum through the hull. The corridor lights come up warm, section by section, tracking your steps like they're glad to see you.*
 

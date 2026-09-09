@@ -122,6 +122,17 @@ See the [Dark Sun Library](Dark-Sun-Library.md) for the complete published-canon
 | [enc_frostwatch_arrival.jpg](../../assets/enc_frostwatch_arrival.jpg) | [Arrival at Frostwatch](../Adventures/Return-to-Frostwatch/Arrival-at-Frostwatch.md) |
 | [enc_copper_warning.jpg](../../assets/enc_copper_warning.jpg) | [Arrival — Copper's warning](../Adventures/Return-to-Frostwatch/Arrival-at-Frostwatch.md) |
 
+## Encounter art (Return to the Ship)
+
+| File | Encounter |
+| :--- | :--- |
+| [enc_the_breach.jpg](../../assets/enc_the_breach.jpg) | [The Breach](../Adventures/Return-to-the-Ship/The-Breach.md) |
+| [enc_covering_fire.jpg](../../assets/enc_covering_fire.jpg) | [The Breach — covering fire](../Adventures/Return-to-the-Ship/The-Breach.md) |
+| [enc_lab_at_s42.jpg](../../assets/enc_lab_at_s42.jpg) | [The Lab at S42](../Adventures/Return-to-the-Ship/The-Lab-at-S42.md) — George demonstrates the spray packs (also on [George Decay](../NPCs/George-Decay.md)) |
+| [enc_beneath_the_lighthouse.jpg](../../assets/enc_beneath_the_lighthouse.jpg) | [Beneath the Lighthouse](../Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md) — Erleena's lab under the lake (also on [Erleena Riser](../NPCs/Erleena-Riser.md)) |
+| [enc_froghemoth_wash.jpg](../../assets/enc_froghemoth_wash.jpg) | [Beneath the Lighthouse — the froghemoth](../Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md) — kill it or wash it |
+| [enc_the_turn.jpg](../../assets/enc_the_turn.jpg) | [Beneath the Lighthouse — the turn](../Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md) — Harah and Erleena (also on [Harah Tabr](../NPCs/Harah-Tabr.md)) |
+
 ## Portraits & council art
 
 NPC art status: **every named principal now has page art except [Rico](../NPCs/Rico.md) and [Tomas Vel-Maret](../NPCs/Tomas-Vel-Maret.md)** (see Wishlist). Erleena's is a scene image (the hatch struggle) rather than a headshot.
@@ -137,6 +148,7 @@ NPC art status: **every named principal now has page art except [Rico](../NPCs/R
 | [mcready_portrait.webp](../../assets/mcready_portrait.webp) | McReady portrait | [McReady](../NPCs/McReady.md) |
 | [copper_portrait.png](../../assets/copper_portrait.png) (+ [website png](../../assets/copper_portrait_website.png) / [webp](../../assets/copper_portrait_website.webp)) | Copper portrait | [Copper](../NPCs/Copper-the-Surgeon.md) |
 | [nova_in_pod_v3.png](../../assets/nova_in_pod_v3.png) | Nova in her stasis pod | [Nova](../NPCs/Nova.md) |
+| [eddie_intercom.jpg](../../assets/eddie_intercom.jpg) | Eddie, the shipboard computer — the intercom-panel "portrait" shown at first contact | [The Breach](../Adventures/Return-to-the-Ship/The-Breach.md) + [Return to the Ship](../Adventures/Return-to-the-Ship.md) |
 | *(from [`assets/extracted/`](../../assets/extracted), placed in `.attachments/`)* | George Decay, Jak (throne), Korrin, Erleena (hatch scene), Bjorn, Sigrid, Erik | [George](../NPCs/George-Decay.md), [Jak](../NPCs/Jak-Bjornsson.md), [Korrin](../NPCs/Korrin.md), [Erleena](../NPCs/Erleena-Riser.md), [Chapter 2](../Adventures/Chapter-2-Gronnfjord-Shops.md) |
 
 ## Ship art (lower deck)

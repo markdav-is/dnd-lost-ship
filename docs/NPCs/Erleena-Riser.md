@@ -38,6 +38,8 @@ She's close, and she knows it — which is exactly the kind of sentence that get
 
 Real progress, all the same: an approach that holds up against her own drifted-strain samples, not just theory. *"I stopped it from replicating. In a petri dish. A very small, very controlled, very not-a-person petri dish. Don't get excited yet."* What's still missing is what she's always asked for — a purer First Source sample to check her results against the source strain, or, failing that, just time: uninterrupted lab time, which the Lighthouse has apparently decided she isn't allowed to have anymore. And one question she has no instrument for — the one she will put to Harah the moment Rajaat is named: is the thing in the desert *the same kind of thing*, or just a very old mold?
 
+![Erleena at the bench — the black spike on every trace, the froghemoth's eyes at the glass](../.attachments/enc_beneath_the_lighthouse.jpg)
+
 ## The Pivot (when she learns of Rajaat and the defilers)
 
 The moment the party finds her and tells her about the First Source and defiling magic, the scientist changes the experiment — two asks, and they are the two asks that send the party to Aerun ([The Three Roads](../Adventures/The-Three-Roads.md); [Return to the Ship](../Adventures/Return-to-the-Ship.md)):
