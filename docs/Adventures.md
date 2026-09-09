@@ -1,3 +1,5 @@
+[Home](Home.md) / Adventures <!-- wikidown:breadcrumb -->
+
 # Adventures
 
 The campaign's **modules**, in play order. Each module page is the overview — structure, tables, appendices — and its **encounters live as subpages** of the module: at-the-table pages with read-alouds, mechanics, and art. Structure: `module → encounter`.
@@ -11,12 +13,16 @@ The campaign's **modules**, in play order. Each module page is the overview — 
 | 5 | [Frostwatch Horror](Adventures/Frostwatch-Horror.md) | Survival-horror module | Played ✔ |
 | — | Ship survey (Levels 1–Lower) | Dungeon crawl | Played ✔ — see [The Lost Ship](The-Lost-Ship.md) |
 | 6 | [Return to Frostwatch](Adventures/Return-to-Frostwatch.md) | Journey + council | Played ✔ (2 sessions) — 8 encounter subpages ⚡ |
-| 7 | [Return to the Ship](Adventures/Return-to-the-Ship.md) | Ship expedition | **Next up** — the spore-woken Aphelion; party committed to the Cure |
+| 7 | [Return to the Ship](Adventures/Return-to-the-Ship.md) | Ship expedition | **Next up** — Eddie, deliberately woken by George and Erleena; party committed to the Cure — 4 encounter subpages ⚡ |
 | — | [The Three Roads](Adventures/The-Three-Roads.md) | Path planning | All three crisis answers designed in detail — fire, ash-and-green, cure — plus the Erleena Pivot |
 
 ## Return to Frostwatch — encounters
 
 [The Spore-Choked Ravine](Adventures/Return-to-Frostwatch/The-Spore-Choked-Ravine.md) · [The Watching Herd](Adventures/Return-to-Frostwatch/The-Watching-Herd.md) · [Alien Echoes](Adventures/Return-to-Frostwatch/Alien-Echoes.md) · [The Fungal Avalanche](Adventures/Return-to-Frostwatch/The-Fungal-Avalanche.md) · [The Sky Hunters](Adventures/Return-to-Frostwatch/The-Sky-Hunters.md) · [The Frozen Pilgrims](Adventures/Return-to-Frostwatch/The-Frozen-Pilgrims.md) · [Arrival at Frostwatch](Adventures/Return-to-Frostwatch/Arrival-at-Frostwatch.md) · [The Council of Frostwatch](Adventures/Return-to-Frostwatch/The-Council-of-Frostwatch.md)
+
+## Return to the Ship — encounters
+
+[The Whiteout](Adventures/Return-to-the-Ship/The-Whiteout.md) · [The Breach](Adventures/Return-to-the-Ship/The-Breach.md) · [The Lab at S42](Adventures/Return-to-the-Ship/The-Lab-at-S42.md) · [Beneath the Lighthouse](Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md)
 
 ## Building new modules
 

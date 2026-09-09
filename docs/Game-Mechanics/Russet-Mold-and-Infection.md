@@ -1,4 +1,4 @@
-[Game Mechanics](../Game-Mechanics.md) / Russet Mold and Infection <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [Game Mechanics](../Game-Mechanics.md) / Russet Mold and Infection <!-- wikidown:breadcrumb -->
 
 # Russet Mold & Infection
 
@@ -26,7 +26,8 @@ The campaign's signature hazard. Golden-brown/rust-red mold broadcast from the [
 - *Lesser restoration* — halts progression, does not reverse.
 - *Greater restoration* — reverses one stage.
 - **Full cure** — requires materials from the ship's medical labs (undiscovered; Erleena's research goal).
-- **Stopgaps:** George's anti-fungal stimulant (expires in days), MED-1's injections, Harah's Sandwalker stabilizer (slows progression, eases pain).
+- **Stopgaps:** George's anti-fungal treatment — refined with Eddie's computational help and proven on himself; halts progression the same way *lesser restoration* does, doesn't reverse it, but he now has real doses to share, not just a stimulant that keeps him personally functional. MED-1's injections, Harah's Sandwalker stabilizer (slows progression, eases pain).
+- **Spore-blaster (George):** strips the active spore coat off an infected creature and breaks the Lighthouse's control for 24 hours — no Hive Awareness, no Spore Link, no direction. It does **not** halt or reverse infection; pair it with a dose. Stats on [The Counteragent](The-Counteragent.md).
 
 ## Horror-mode extras (Frostwatch rules)
 
@@ -37,3 +38,5 @@ The campaign's signature hazard. Golden-brown/rust-red mold broadcast from the [
 ## The bigger picture
 
 The mold **networks**: spore-linked creatures share senses; herds act as scouts; and the behavioral changes begin *before* any visible growth — the mechanical seed of [The Invisible Infection](../Campaign/Plot-Threads/The-Invisible-Infection.md). Destroying the Lighthouse ends the *broadcast*; what it does to the already-infected is the DM's call and the heart of the [dilemma](../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).
+
+*DM only:* the mold networks because it is not really a mold — it is the physical manifestation of the **Black Salient**'s negative-energy bleed — a protrusion from the Far Realm, anchored to the Lighthouse (see [The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md)). Hive Awareness and Spore Link scale with the Salient's influence: the further the bleed spreads, the more the infected act as one thing with one goal. George's anti-fungals and spore-blaster don't touch the Salient itself; they deny it footholds, one host at a time — which is exactly why it is fighting back.

@@ -1,3 +1,5 @@
+[Home](Home.md) / The Lost Ship <!-- wikidown:breadcrumb -->
+
 # The Lost Ship
 
 The alien vessel buried in the Barrier Peaks — centuries crashed, still active, and the void at the center of the campaign. Based on *S3: Expedition to the Barrier Peaks*, converted to 5e.
@@ -11,18 +13,19 @@ The alien vessel buried in the Barrier Peaks — centuries crashed, still active
 - [The Lighthouse](The-Lost-Ship/The-Lighthouse.md) — the mold's broadcast source; Erleena's lab beneath
 - [The Lower Deck](The-Lost-Ship/The-Lower-Deck.md) — reactor core and cargo exit; explored ✔ (exit route)
 
-**QftIS deck mapping (the maps in play):** the remaster (`assets/quests-from-the-infinite-staircase.pdf`, ch. 7) has **four levels** — **1: main deck** (quarters, offices, recreation, the **medical clinic S23**, computer room S30) · **2: observation deck** (athletics, cargo, the theater — and George's lab) · **3: the garden** (the biosphere, the island, the Lighthouse; Erleena's lab beneath it) · **4: service deck** ("the brain from which the ship's core functions derive" — server core, stasis chamber S64/Nova). Medicine is *shallow* (Level 1); the deep knowledge (Aphelion's archive, the stasis labs) is on Level 4 — a cure hunt runs the ship's whole height.
+**QftIS deck mapping (the maps in play):** the remaster (`assets/quests-from-the-infinite-staircase.pdf`, ch. 7) has **four levels** — **1: main deck** (quarters, offices, recreation, the **medical clinic S23**, computer room S30) · **2: observation deck** (athletics, cargo, the theater — and George's lab) · **3: the garden** (the biosphere, the island, the Lighthouse; Erleena's lab beneath it) · **4: service deck** ("the brain from which the ship's core functions derive" — server core, stasis chamber S64/Nova). Medicine is *shallow* (Level 1); the deep knowledge (the ship's archive, the stasis labs) is on Level 4 — a cure hunt runs the ship's whole height.
 
 **Numbering note:** the source documents use inconsistent level numbers (the garden is "Level 3," "Level IV," and "Level 4" in different files; the reactor deck is also "Level 4"). This wiki names decks by function. The bulk of the original S3 ship (weapons levels, command deck, remaining S3 Levels II–VI content) remains unexplored and unconverted — room to grow.
 
 ## Ship-wide properties
 
-- **Hyper-dimensional force fields:** no teleportation, ethereal, or astral travel anywhere aboard; the entire vessel is invisible to scrying and the Aura network. *There is no bypassing this.* This is Jak's "void."
+- **Hyper-dimensional force fields:** no teleportation, ethereal, or astral travel anywhere aboard; the entire vessel is invisible to scrying and the Aura network; and the fields filter RF — no radio in or out of the hull, though the ship's own internal comms work everywhere inside it. *There is no bypassing this.* This is Jak's "void."
 - **[Key card system](Game-Mechanics/Key-Card-System.md):** color-coded doors and robot responses.
-- **Drop tubes:** vertical shafts between decks — anti-grav (float freely), gravity-only (grab a handle *before* stepping in or fall), or dead (pitch-black climb). Hidden 'tween-deck doors require brown cards.
+- **Drop tubes:** vertical shafts between decks — anti-grav (float freely), gravity-only (grab a handle *before* stepping in or fall), or dead (pitch-black climb); they sit at the four compass points of each deck and stack deck to deck (QftIS Maps 7.1–7.3), while the Level 2 "lifts" are cargo lifts down to the garden, not tubes. Hidden 'tween-deck doors require brown cards.
 - **Light cycle** (garden and some decks): 14 hours on, 7 off, no warning.
 - **The ship is alive:** robots patrol, alarms summon police, computers malfunction spectacularly (a random console press can release a bulette from cargo or trigger a full ship alert with sleep gas). The automated systems classify the mold as a **Class 4 Bio-Hazard** and run their own cleanup.
-- **Aphelion:** the ship's AI, shut down centuries ago by [Nova](NPCs/Nova.md), is **waking up** — see [The Ship's Purpose](Campaign/Plot-Threads/The-Ships-Purpose.md).
+- **The ship is lit now — selectively.** Since [Eddie](Adventures/Return-to-the-Ship.md) came online, the routes he uses are lit and busy — robots moving with purpose, doors opening on approach. Everything off those routes is as dark and fouled as before. Lit means Eddie is looking; dark means he isn't.
+- **Eddie:** the ship's newly-awake voice — the AI [Nova](NPCs/Nova.md) shut down centuries ago, under a name it isn't using anymore — see [The Ship's Purpose](Campaign/Plot-Threads/The-Ships-Purpose.md).
 
 ## History
 

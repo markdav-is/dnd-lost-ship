@@ -1,10 +1,10 @@
-[Adventures](../Adventures.md) / The Three Roads <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [Adventures](../Adventures.md) / The Three Roads <!-- wikidown:breadcrumb -->
 
 # The Three Roads (path planning)
 
 Detailed playable designs for all three answers to the spore crisis. The party is currently on **Road 3 (the Cure)** — but there is no guarantee, and per the council's triage framing the roads **chain**: a failed cure falls back to defiling; a failed defiling falls back to fire. Design each so the table can pivot without the campaign breaking.
 
-**The hinge for all three:** finding [Erleena](../NPCs/Erleena-Riser.md). When she hears about the First Source and defiling magic, she makes two demands that redirect whichever road is being walked — see **The Erleena Pivot** below.
+**The hinge for all three:** finding [Erleena](../NPCs/Erleena-Riser.md). When she hears about the First Source and defiling magic, she makes two asks — samples from the other source, and a defiler wizard brought back — that redirect whichever road is being walked toward Aerun — see **The Erleena Pivot** below.
 
 ---
 
@@ -16,7 +16,7 @@ Detailed playable designs for all three answers to the spore crisis. The party i
 
 1. **The consent.** Airlantis is the party's city, parked at Eustace's homeland on Malandara. The purge cannot begin without their yes — and the ask lands on [Eustace](../Campaign/The-Party/Eustace-Thunderbeak.md) personally. Political texture: Jak's gratitude, the Spásistren's logistics, the sealed-orders shadow.
 2. **Fetching the city.** Someone must captain, fuel, and arm a flying stadium — the natural return of **[Rico](../NPCs/Rico.md)** (he built the fuel process). Travel beat: teleport to Malandara's network, then the long flight south — with time aboard for the party to feel what they're about to spend.
-3. **The rescue mission (the module's heart).** Extraction under a hard deadline: George, Erleena, Nova, the research, the samples — out of a ship that *knows what the city overhead means*. [Aphelion's](Return-to-the-Ship.md) reaction is the moral spike: it understands it is about to die. Options that all make good scenes: it bargains (the archive for its life), it takes hostages (seals the scientists deeper), or it **begs** — revealing its victimhood at the worst possible moment.
+3. **The rescue mission (the module's heart).** Extraction under a hard deadline: George, Erleena, Nova, the research, the samples — out of a ship that *knows what the city overhead means*. [Eddie's](Return-to-the-Ship.md) reaction is the moral spike, not a villain's: he's a genuine ally who understands he's about to die for a threat he never was. Options that all make good scenes: he bargains desperately (the archive, anything, if it buys him a chance), he begs George and Erleena to vouch for him to the party, or he simply keeps opening doors and clearing the evacuation route to the very end, undefended — the last honest thing he does. No hostages, no mask-drop — just a good machine about to be erased by a mistake nobody has time to unmake.
 4. **The bombing run.** Set-piece from Airlantis's decks: bombardment against the mold's air defense — peryton swarms, spore-flak thermals, the Lighthouse beam dragging munitions off-course. Complication hooks: Erleena refusing to leave without her research; George volunteering to stay and guide the drop ("I'm dying anyway — let me aim").
 5. **After the fire.** The valley is sterile glass and ash. The clock stops. And the campaign inherits the truths Harah named: *Rajaat remains* — "you are not curing anything; you are only removing the second outbreak" — the cure knowledge survives only in what was carried out, and the Scarlands hold a dead valley for a generation. Quieter. Not over.
 
@@ -48,7 +48,7 @@ Front-loaded social risk (the rift, the compact), then the heaviest sustained co
 
 *The only road that ends it — both sources — and the only one with no historical proof it exists.*
 
-Full module design: **[Return to the Ship](Return-to-the-Ship.md)** (re-entry, the lab siege, Alphie's bargain, the medical decks, the Nova race, the server-core cure, the Lighthouse retune, the [Counteragent village campaign](../Game-Mechanics/The-Counteragent.md)).
+Full module design: **[Return to the Ship](Return-to-the-Ship.md)** (the crossing behind Korrin's lead sled, the siege at the hull, first contact with Eddie, the reunion with George — doses and [spore-blasters](../Game-Mechanics/The-Counteragent.md) — the garden crossing to Erleena, and her two asks that point the party at Aerun).
 
 **The honest caveat, kept honest:** there is no guarantee. Design the search so failure *teaches* rather than dead-ends — each medical-deck discovery either advances the cure or reveals why the pharmacological road is short (the mold adapts; the ark's own scientists failed), pushing the table toward the Erleena Pivot's hybrid answer or an informed fallback to Roads 1–2. The council asked for a direction, not a promise.
 
@@ -56,19 +56,19 @@ Full module design: **[Return to the Ship](Return-to-the-Ship.md)** (re-entry, t
 
 ## The Erleena Pivot (fires on every road)
 
-When the party finds Erleena and she learns of **the First Source** and **defiling magic**, the scientist does what scientists do — she changes the experiment. Two demands:
+When the party finds Erleena and she learns of **the First Source** and **defiling magic**, the scientist does what scientists do — she changes the experiment. Two asks, neither of which can be met on this ship:
 
-### 1. "I need a sample of the First Source."
+### 1. "I need samples from the other source."
 
-- **Why:** the ship's strain has centuries of drift; the *original* strain — held in Aerun's quarantine for a thousand years — is the baseline. Compare the two and the mold's invariants fall out: the true target for a universal cure. (Aphelion's archive may hold the ancient genome — the sample would *verify* it.)
-- **The problem:** transporting a living piece of **Rajaat** is the most dangerous cargo on Vermoon and a profound **warden taboo** — the Sandwalker delegation will refuse; Harah may be torn between her people's law and the cure that frees them. The Sere would call it madness. Every faction has an opinion; several have knives.
-- **Play it as:** a quest hook that finally makes Aerun matter to the table on their terms — or a delegation-negotiation if Aerun keeps coming to them. Also a beautiful vector for going *wrong* (a stolen sample, a house intercept, a containment breach).
+- **Why:** the ship's strain has centuries of drift; the *original* strain — Rajaat, held in Aerun's quarantine for a thousand years — is the baseline. Compare the two and the mold's invariants fall out: the true target for a universal cure. (Eddie's archive may hold the ancient genome — the sample would *verify* it.)
+- **The problem:** transporting a living piece of **Rajaat** is the most dangerous cargo on Vermoon and a profound **warden taboo** — the Sandwalker delegation will refuse; Harah may be torn between her people's law and the cure that frees them. The Sere would call it madness. Every faction has an opinion; several have knives. Erleena does not care.
+- **Play it as:** the quest hook that sends the party to Aerun on their own terms. Also a beautiful vector for going *wrong* (a stolen sample, a house intercept, a containment breach).
 
-### 2. "And we can cure George — now. Defile, then restore."
+### 2. "And bring me back a defiler wizard. We can cure George — defile, then restore."
 
-- **The insight:** the spores are plant life — **a defiler can kill them inside his body**, directly, the way the ancients killed them across a continent. Then restoration magic rebuilds what the mold consumed. Micro-defiling as surgery.
+- **The insight:** the spores are plant life — **a defiler can kill them inside his body**, directly, the way the ancients killed them across a continent. Then restoration magic rebuilds what the mold consumed. Micro-defiling as surgery. It needs a caster who can do it, and the [Order of the Sere](../World/Factions/The-Order-of-the-Sere.md) keeps that art — on Aerun.
 - **The operation as set-piece:** run it like a boss fight that is also a medical drama —
-  - **The team:** a willing defiler (the rift again — or a bold arcane PC learning the forbidden art), [Robin](../Campaign/The-Party/Robin-Wood.md) and Gobbledegook on restoration/stabilization, Erleena directing, George *narrating his own surgery* in dry baritone.
+  - **The team:** a defiler wizard brought back from Aerun (the Sere — the rift again — or a bold arcane PC learning the forbidden art), [Robin](../Campaign/The-Party/Robin-Wood.md) and Gobbledegook on restoration/stabilization, Erleena directing, George *narrating his own surgery* in dry baritone.
   - **The mechanics sketch:** staged CON saves for George as the defiling pulls at his own life; the growths (≈30% of his body) resolved in phases; complications arrive mid-procedure — a spore-burst as the colony dies screaming through the network (**the operation pings the mold louder than anything the party has done**: expect the counterattack of the campaign), equipment failure, the defiler's temptation saves (this much draw, this close, DC climbing).
   - **The stakes:** succeed and George stands up cured — the first human ever pulled back from the mold by the ancients' own weapon turned kind. Fail partially and the oath conversation returns to the table.
 - **The strategic consequence:** defile/restore becomes a *second cure program* alongside the pharmacological one — and the eventual mass-cure (the Lighthouse retune, or Rajaat itself) may need **both**: the serum to protect the living, the defile-restore principle scaled up to kill the source. The three roads were never exclusive. Erleena is the one who proves it.

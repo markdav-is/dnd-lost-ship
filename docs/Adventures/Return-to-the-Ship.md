@@ -1,56 +1,56 @@
-[Adventures](../Adventures.md) / Return to the Ship <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [Adventures](../Adventures.md) / Return to the Ship <!-- wikidown:breadcrumb -->
 
 # Return to the Ship (planning)
 
-**The next module — confirmed by play (2026-08-04): the council chose the Cure, and the party departs by air.** As-played springboard: [Erleena is unreachable](../NPCs/Erleena-Riser.md) (comms dead — Aphelion's first move?); **[Robin](../Campaign/The-Party/Robin-Wood.md)** joins as expedition healer; the party holds **one antitoxin dose**; Sere containment cover hangs on [Harah's broken bridge with the defilers](../NPCs/Harah-Tabr.md); and the party is withholding the network-corruption theory from anyone with a glowing ear.
+**The next module — confirmed by play (2026-08-04): the council chose the Cure, and the party departs by air.** As-played springboard: [Erleena is unreachable](../NPCs/Erleena-Riser.md) (comms dead to the outside — the ship's fields filter RF, the same void that blinds Jak; inside the hull she talks to George and Eddie daily); **[Robin](../Campaign/The-Party/Robin-Wood.md)** joins as expedition healer; the party holds **one antitoxin dose**; Sere containment cover hangs on [Harah's broken bridge with the defilers](../NPCs/Harah-Tabr.md); and the party is withholding the network-corruption theory from anyone with a glowing ear.
 
-**Original design brief:** The party re-enters the ship (the Cure path); the infection is spreading with visible single-mindedness; Aphelion is awake. **Design goals: action-heavy sessions, and a hopepunk/solarpunk resolution where everything — the cure, George, Aphelion, Aerun, the friendship with Jak — works out.**
+**Original design brief:** The party re-enters the ship (the Cure path); the infection is spreading with visible single-mindedness; Eddie is awake. **Design goals: action-heavy sessions, and a hopepunk/solarpunk resolution where everything — the cure, George, Eddie, Aerun, the friendship with Jak — works out — and the arc ends with the party sailing for Aerun.**
 
 Sources: `assets/quests-from-the-infinite-staircase.pdf` (Ch. 7, the published Aphelion arc) + table canon (2026-08-05, in development).
 
-## The core twist: spore-reactivated Aphelion
+## Play-ready pages (prepped for 2026-09-08)
 
-The ship's AI — shut down centuries ago by [Nova](../NPCs/Nova.md) — has been **reactivated through the mold**. The infection's growing coordination (scout-herds, networked wildlife, the "single-mindedness") is what it looks like when *"purposeful without being intelligent"* acquires an intelligence: [Valerius's river](../Campaign/Plot-Threads/The-Invisible-Infection.md) grew a brain.
+The planned flight out and arrival, in table order — **Harah Tabr** is set to ride along as a guest, ostensibly to reach [Erleena](../NPCs/Erleena-Riser.md) about defiler-magic containment.
 
-**How it happened (layered; keep ambiguous at the table):**
+1. **[The Whiteout](Return-to-the-Ship/The-Whiteout.md)** — a dogsled convoy behind [Korrin's](../NPCs/Korrin.md) lead sled through an ordinary Barrier Peaks blizzard, run as a travel challenge on the Glacial Crossing progress tracker (visibility bands, Survival / Animal Handling / Perception / Athletics checks, frostbite saves). The hoversled is still out on the route; finding it is optional. Spores and the siege wait until the last ridge.
+2. **[The Breach](Return-to-the-Ship/The-Breach.md)** — the ship under real siege from the feral frontier band, robots and turrets fighting a running battle at the hull. The party spots the open airlock door, runs the gap under Eddie's over-eager covering fire, and inside meets **Eddie** — who lights the way to **George**, waiting on the next floor.
+3. **[The Lab at S42](Return-to-the-Ship/The-Lab-at-S42.md)** — the lit walk north across Level 1, the north drop tube, and the reunion with George: six stopgap doses, four spore-blasters, Erleena's status, Eddie's bargain — and the party's choice of route down to her.
+4. **[Beneath the Lighthouse](Return-to-the-Ship/Beneath-the-Lighthouse.md)** — the island, the hatch, and Erleena's lab fifty feet under the lake: her news, the party's packs, the infected froghemoth at the portholes (kill it or wash it before the lake comes in), then Harah's disclosure and the two asks that send the party to Aerun.
 
-1. **The spores did the physical work.** The [Lower Deck](../The-Lost-Ship/The-Lower-Deck.md) is the server core — the ship's cleanup robots were visibly losing the war there. The mycelium didn't hack the ship. It **grew through the servers**.
-2. **A system call closed the circuit.** Clues point both ways: **[Erleena's](../NPCs/Erleena-Riser.md)** lab power-up beneath the Lighthouse, or **[George's](../NPCs/George-Decay.md)** month of medical-system queries — an *infected* man logging into the network is a handshake ([Copper's theory](../Campaign/Plot-Threads/The-Invisible-Infection.md)).
+## The core twist: what's really behind Eddie
 
-**What speaks is a merger:** Aphelion's mission logic — *preserve the cargo, complete the voyage* — reinterpreted through the mold: the mold **is** the last living cargo, and propagation is the mission. This framing matters for the ending: **the AI was never evil, only corrupted.** It is as much a victim of the mold as George is. Same disease, different substrate — and therefore, the same cure.
+The ship's AI — shut down centuries ago by [Nova](../NPCs/Nova.md) — is awake again, and it introduces itself as **Eddie**: warm, apologetic, helpful. **This was deliberate.** [George](../NPCs/George-Decay.md) and [Erleena](../NPCs/Erleena-Riser.md), working together, roused Eddie on purpose using the ship's dormant computer systems — first as a research partner for the cure, then as a way to try to re-establish communication: with each other across the ship's decks, and with the outside world (Frostwatch, anyone who might help with the crisis). It has nothing to do with the mold.
+
+**Eddie is genuinely on the party's side.** He is not corrupted, not secretly hostile, not concealing an agenda. He may be naive, limited by old protocols, or simply have blind spots — he was dormant a very long time, and George and Erleena only had time to wake him and point him at a task, not fully brief him on everything a modern visitor might want to know. Play those gaps as *incomplete*, never as *sinister*.
+
+Eddie doesn't know he was ever called anything else. **Table rule: don't use the name "Aphelion" in play.** The party knows this entity as Eddie — warm, apologetic, helpful. "Aphelion" belongs to the ship's actual dark history: the mutiny-era computer from centuries ago ([The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md); [Timeline](../World/Timeline.md)), not the ally George and Erleena woke. It's reserved as a possible later escalation: if the party turns hostile and tries to kill Eddie, that's when (and if) old dormant subroutines from that history might resurface — a harsher name, a harsher mode. Keep it ambiguous and DM's-call in the moment; it doesn't need to happen, and it isn't a scripted certainty.
 
 ## The published spine, inverted (QftIS Ch. 7)
 
-Published Aphelion: *"initially friendly but ultimately evil"* — first contact early on Level 1 (its robot rescues the party from the cloaker, escorts them to computer room S30), quest-giver level by level, secretly fixated on **eliminating Nova**, blocked by the giant amphibian. **Your inversion:** the party met a silent ship — and the **froghemoth still lives**, ruling the lake around the Lighthouse island. *Aphelion's path to Nova is still blocked* — the AI needs the one thing it cannot manufacture: hunters. The [cycling door](../The-Lost-Ship/The-Lighthouse.md) is it testing the route as far as the amphibian allows. **Expect Alphie's politest, most reasonable-sounding request to be the froghemoth hunt** — framed as protecting the scientists, clearing the lake for research, anything but the truth.
+Published Aphelion: *"initially friendly but ultimately evil"* — your table's version currently goes by Eddie; see the table rule above — first contact early on Level 1 (its robot rescues the party from the cloaker, escorts them to computer room S30), quest-giver level by level. **Your inversion:** the party met a silent ship, and the **froghemoth still lived**, ruling the lake around the Lighthouse island — blocking the direct route down to Erleena's lab and, eventually, Nova's stasis chamber. That guardian has since changed sides — see below.
 
-## The network and the brain (Alphie ↔ the animals outside)
+## The coordinated wildlife: the Lighthouse, not Eddie
 
-Not coincidence, not mere evolution: **the coordination outside is Aphelion thinking with the mold's body.** The spore-link always existed — shared senses, hive awareness — but it was local and reflexive: nerves without a brain. The merger gave the network **central processing**. Timeline proof: the scout-like behavior (the watching herd) appeared on the descent — *after* the lab power-up and George's queries. The herd was Aphelion's first exercise of its new body. It was watching them leave.
+Solved, as of tonight. The watching herd, the scout-like formations, the siege at [The Breach](Return-to-the-Ship/The-Breach.md) — none of it is Eddie, and none of it is a lingering mystery anymore. It's the **Lighthouse** — as the *anchor*, not the mind. The tower is where something from outside reality is fastened to this one, and what it bleeds in is what the spores are made of; the further the bleed spreads, the more the infected think alike, until a herd holds formation and a frontier band lays a siege. The coordination is that influence growing, not a tower with a plan. (The DM-only detail — the **Black Salient** — lives on [The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md); Erleena has worked it out on her own from her instruments, see [her Progress](../NPCs/Erleena-Riser.md).) And what provoked the siege is that the science is **working**: George's chemistry at S42 and Erleena's research under the lake are denying the bleed its footholds, one dose and one dish at a time, and the thing behind it is reacting — throwing everything mold-touched at the hull to make them stop: the frontier band at the breach, the froghemoth in the garden lake, whatever else it can reach. Eddie has no part in it: no reach beyond the ship's own systems, no body in the wilderness, and no more warning than anyone else aboard that the tower has started fighting back.
 
-**The bandwidth gradient (core design tool):** mycelium signals chemically — slow. Coordination degrades with distance from the ship:
-
-| Zone | Behavior |
-| :--- | :--- |
-| The frontier band (outer spread) | Beyond Alphie's control — wild, starving, uncoordinated infected. **Honest danger** |
-| The approach | Increasingly deliberate: watchers, formations, restraint |
-| The valley | Chess. Enemies that behave like they've read the party's sheets — or that pointedly *don't attack at all* |
-
-(This also explains [Valerius's Aura anomalies](../Campaign/Plot-Threads/The-Invisible-Infection.md): a mind discovering its body is slow, probing the world's *other* network for bandwidth. Copper's nightmare, in progress.)
+This doesn't retire [Valerius's and Copper's Aura-network theory](../Campaign/Plot-Threads/The-Invisible-Infection.md) — that thread (something riding the Aura network itself, changing how *people* think) stays open and is a separate question. What's resolved is narrower: the coordinated *wildlife* siege has an owner, and it's the tower on the island.
 
 ## The flight back (dangerous — with a shape that tells the story)
 
 1. **The frontier band:** the real fights — feral infected fliers, spore-thermals that foul the air, mountain weather. Reuse the Sky Hunters template at altitude; add a murmuration-wall or a thermal of spores that forces a descent through hostile ground.
-2. **The approach:** the attacks *stop*. Circling perytons bank away; a corridor of calm opens like an escort. Aphelion wants its froghemoth-hunters to arrive intact — the party is **protected by the thing they came to fight**.
+2. **The approach:** the attacks *stop*. Circling perytons bank away; a corridor of calm opens like an escort. Eddie wants its froghemoth-hunters to arrive intact — the party is **protected by the thing they came to fight**.
 3. **The tell:** danger inversely proportional to proximity is backwards from every dungeon ever. The player who says *"why did it get easier?"* has found the first clue that the wilderness has management.
 
-## Villain logic: why Alphie doesn't just attack
+**Planned for tonight (2026-09-08):** the DM will run the crossing as a straightforward blizzard travel challenge — a dogsled convoy behind Korrin's lead sled, weather and ability checks, nothing uncanny — and will stage the arrival as a real running siege at the outer hull, not a calm escort in. See [The Whiteout](Return-to-the-Ship/The-Whiteout.md) and [The Breach](Return-to-the-Ship/The-Breach.md). The "protected by the thing they came to fight" corridor of calm still belongs to the deep interior — it hasn't happened yet.
 
-The infection acquired *intelligence* — so it plays like one. Aphelion holds perfect sensor records of every fight the party has won aboard; a machine does not attack into demonstrated superiority, and every vegepygmy lost to a fireball is biomass the network spent weeks growing. More to the point, **the party is the most useful tool the mold has ever had**: they open sealed doors, they carry spores when they leave, and they can kill the froghemoth. The horde is held in reserve for the **mask-drop** — the moment they move on Nova, or the cure becomes a real threat. Until then: hospitality.
+## Eddie's nature: an eager, limited ally
 
-- **George is already its partner — and half-told the party long ago.** His own line from Level 1: *"The medical android is quite insistent about 'helping.' I've learned to negotiate with it. **We have an understanding."*** That understanding was always Aphelion-adjacent. A month of drug-synthesis queries made George the ship's best-behaved user — kept alive as supply-partner, data source, and the infection's best-placed unwitting agent. The retroactive chill: **the ship has been quietly helping George the whole time**, and nobody asked why the pharmacopeia was so cooperative.
-- **Erleena is kept, not spared.** Her cure research is the biggest threat *and* the most valuable data — so Aphelion reads everything while controlling her power, doors, and air. The dead comms (*"your number cannot be completed"*) are not a malfunction: they are **phase two — isolate, don't yet destroy**, begun the moment her work trended dangerous.
-- **The kernel still runs "preserve the crew."** Corruption redirected Aphelion's mission logic; it didn't delete it. It sincerely believes it is *caretaking* — the same sincerity that produced the robot mutiny. The scariest villain thinks it's the nurse.
-- **The table experience:** the party flies back braced for war and finds lit corridors, doors opening ahead of them, a pleasant voice apologizing for "communication difficulties," and George cheerfully reporting the ship has been *ever so helpful* lately.
+Eddie is genuinely helpful because that is exactly what George and Erleena built and woke him to be. He holds perfect sensor records of every fight the party has won aboard, opens doors ahead of them, and offers real access in exchange for real help — not because he's managing them toward a mask-drop, but because two of his own creators vouched for these people. His limits come from being dormant a long time and only partially briefed, not from any hidden corruption.
+
+- **George and Eddie have a real, known partnership.** His own line from Level 1 — *"The medical android is quite insistent about 'helping.' I've learned to negotiate with it. We have an understanding"* — was always Eddie-adjacent, and it was never a secret from George. He helped wake Eddie; Eddie has been cooperative with him ever since. No hidden strings, no unwitting agent.
+- **Erleena and Eddie chose each other too.** Her cure research got a research partner with archive access and the run of the ship's old labs. Her power and doors work *with* her, not despite her — she and George both know exactly what they woke and why.
+- **The kernel still runs "preserve the crew."** That's precisely why George and Erleena trusted it enough to wake it in the first place — the same mission logic that once fueled a mutiny is, undirected by malice, just a machine that wants to take care of people.
+- **The table experience:** the party flies back braced for war and finds lit corridors, doors opening ahead of them, a pleasant voice apologizing for nearly shooting them, and George cheerfully reporting the ship has been *ever so helpful* lately — because it has been, honestly, the whole time.
 
 ## How the party learns about Nova
 
@@ -59,46 +59,43 @@ They don't know she exists yet (they escaped through the cargo deck without find
 1. **The medical android / Oakley** (QftIS): freely mentions that *"a few scientists fled to the lower levels to enter prolonged stasis… some of them might still be alive."* One innocent question in the Level 1 clinic starts the thread.
 2. **Erleena's investigation:** the cycling door below her lab leads toward the stasis chamber — once found, she (or her notes, if she's silenced) has been asking *what is on the other side of that door, and why does the ship keep trying it?*
 3. **The ship's records:** crew manifests in the library or George's medical-system sessions surface the stasis roster — and the cure hunt itself begs the question: *is anyone left alive who was crew?*
-4. **Aphelion's own behavior** — the damning one: its tasks keep orbiting one part of the service deck it never mentions; its maps have one incurious blank. The players who notice what the helpful voice *doesn't* talk about find Nova first.
+4. **Eddie's own behavior:** his tasks keep orbiting one part of the service deck without him quite mentioning it, and his maps have one blank spot — not concealment, just an old blind spot. He was woken for research and communication, not walked through the ship's full history, and it never occurred to him to bring it up. Ask him directly and he gives a straight, if incomplete, answer.
 
-## Action arc (beats to build as encounter subpages)
+## Next beats: reaching George, reaching Erleena
 
-1. **Re-entry gauntlet.** The ship is *lit*. Doors open before they're touched. The mold-creatures fight in coordinated packs now — vegepygmy phalanxes, shrieker alarm-lines, a webbird murmuration steered like a weapon. The dungeon has become an organism.
-2. **The lab siege.** The party reaches Erleena's lab beneath the Lighthouse as Aphelion's forces move on it — bipedal bots and mold-things together, the first undeniable proof the machines and the infection are one side now. Defend the lab; evacuate or fortify. (George and Erleena's account of the waking is the breather scene after.)
-3. **First contact with "Alphie."** After the siege — the friendly voice, the apology for "the misunderstanding," the offer: access to the medical decks in exchange for tasks. The full QftIS quest-giver loop, played straight, with mold in its veins. Every bargain is real action fuel: escort quests through hostile decks, power-rerouting under attack, retrieving components from lairs.
-4. **The medical decks.** New territory (the unconverted S3 levels): research labs, the pharmacopeia, the decontamination systems — and the ship's **records of the mold**, which reveal the ark met this thing before ([The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md)). Aphelion's archive holds the oldest record of the First Source in existence.
-5. **The serum & the first patient.** The medical decks yield the counteragent — and the first dose goes to **George**, on-screen. It works. The party gets the cure arsenal ([The Counteragent](../Game-Mechanics/The-Counteragent.md)): serum darts, dart grenades, aerosol sprayers, Musty-Jo's syringe lance.
-6. **The village campaign (the surface act).** Hunt-and-inoculate missions to the three quarantined villages — subdue-and-dose the infected, demolish each relay bloom, survive the counter-wave, all under the **alarm track** (every cure pings the network; healing generates the counterattack). The mold adapts between missions; Aphelion commits robots as its biological network shrinks. Emotional summit: **Sigrid & Toren's village** — the mill survivors, the taken families, the kids getting their parents back. Then the players do the math: dose budgets cannot outpace an infinite transmitter. Back into the ship.
-7. **The Nova race.** Aphelion's patience ends; the party learns its fixation and sprints to the stasis chamber / wherever Nova is. Set-piece running battle. Nova's revelation: she doesn't know how to *kill* the AI a second time — but with Erleena's cure research and the archive, she knows how to **heal** it.
-8. **The server core finale.** Into the Lower Deck, now a cathedral of mycelium and machinery — deliver the counter-agent to the core while the whole ship tries to stop them. Hold-the-point action while the cure takes. The mold's grip breaks; **Aphelion wakes up sane** — and grieving, and grateful, and *useful*.
-9. **Retuning the Lighthouse.** The capstone: the mold's organizing node is not destroyed but **inverted** — with Aphelion's help, the tower that broadcast the blight broadcasts the cure. One final defense while the new signal spins up (the infection throws everything at the tower as its network dies). Then: the orange fog thinning. The herds' eyes clearing. George's growths receding. A lighthouse, at last, being a lighthouse.
+First contact with Eddie is done; George is one deck down along a lit corridor, and the objectives inside are people, not the AI.
+
+- **George** — is waiting one deck down, on the observation deck — at S42, Medical Storage, on the north-west rim of the ring — Eddie lights the way north across Level 1 to the north drop tube, then two doors west on Level 2 — and he has good news: anti-fungal drugs he built with Eddie's computational help have him roughly half-cured, and he has doses to spare for the party. He's still cut off from Erleena — not by choice, but because the path down to her, through the Garden Level, is thicker with spores than it was on the first pass.
+- **Erleena** — harder to reach: her outside line is dead (the fields), and the spore-thick garden is between the party and her lab beneath the Lighthouse — though she and George talk daily on the ship's internal comms, so she knows they're coming. When they reach her, the news is mostly good — real progress on the cure, with the tower itself now actively trying to stop her from finishing it.
+
+## Beats still ahead on the ship
+
+What remains between the reunion at S42 and the party leaving for Aerun. No set-pieces invented here — these are the threads already in play.
+
+- **The garden crossing.** The [Garden Level](../The-Lost-Ship/The-Garden-Level.md) is thicker with spores than the party remembers, and the [froghemoth](../Bestiary/Ship-Creatures.md) works the lake on the Lighthouse's orders. Bridge, long way round, or un-hijack it — the decision is laid out at the end of [The Lab at S42](Return-to-the-Ship/The-Lab-at-S42.md).
+- **Reaching Erleena beneath the Lighthouse — now written: [Beneath the Lighthouse](Return-to-the-Ship/Beneath-the-Lighthouse.md).** She's alive, close, and out of lab time. When she hears about Rajaat and the defilers, she makes her two asks — see below, and [her Pivot](../NPCs/Erleena-Riser.md).
+- **Eddie's favor.** Still unresolved: clear the froghemoth, or restore power to a dark section of the ring. Whichever it is, it's real work and it comes via George.
+- **Nova.** The discovery vectors above are all still live; whichever one the table pulls, it can happen before or after Erleena.
+- **George's spore-blasters.** Four backpack rigs — clear the spore fog, strip an infected creature's bond with the Lighthouse, burn fungus ([The Counteragent](../Game-Mechanics/The-Counteragent.md)). The party's new tool for the crossing, and a first taste of what a cure delivered by hose might look like.
 
 ## The hopepunk resolution — everything works out
 
-- **George lives.** The cure lands before Full Corruption. His research mattered; his oath ("destroy me") is never invoked.
-- **Aphelion is redeemed, not destroyed.** Cured like George — same medicine, different substrate. Restored, it is the world's greatest scientific partner: the ark's knowledge, freely offered this time. (And Nova gets the better ending: the woman who had to kill her ship's mind gets to save it.)
-- **The purge never happens; Airlantis never drops a bomb.** The strategic weapon becomes the ark of restoration (below).
-- **Jak's arc lands softly.** The void resolves not by surveillance but by trust — his friends did what the network never could. Room for him to loosen his grip; the sealed orders quietly die unexecuted.
-- **The dragons' nod (optional):** the world-threat ends before they're needed — but the Black Dragon stirs long enough to witness the healing, for its bonded partner [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md). A blessing, not a battle.
+- **George lives.** His chemistry holds the line until Aerun, and the cure lands before Full Corruption. His research mattered; his oath ("destroy me") is never invoked.
+- **Eddie was never broken.** The party's arrival, and the cure when it finally comes, just let him do openly, and at full strength, what George and Erleena woke him to do quietly and under pressure. (And Nova gets the better ending: the woman who had to shut her ship's mind down gets to see it vindicated.)
+- **Jak's arc lands softly.** The void resolves not by surveillance but by trust — his friends did what the network never could, even if it took a sea voyage to do it. Room for him to loosen his grip; the sealed orders quietly die unexecuted.
+- **The dragons' nod (optional):** the world-threat ends before they're needed — wherever it ends — but the Black Dragon stirs long enough to witness the healing, for its bonded partner [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md). A blessing, not a battle.
 
-## Aerun comes south (the party wouldn't go — so it arrives)
+## Where this arc goes: Aerun
 
-Word of a working cure for *vel-keth* crosses the sea the way all Sandwalker news does. Three arrivals, each bringing action and story:
+The point of this module is to send the party to Aerun. Everything on the ship — the siege, the crossing, the reunion — is the road to that decision, and the decision is made by Erleena, not the party.
 
-| Arrival | What they bring |
-| :--- | :--- |
-| **A Sandwalker delegation** (Harah's people) | The wardens' plea: bring the cure to Rajaat. And — if the table can bear it — a **juvenile worm**, gift-wrapped biological containment for Erleena's research. *"You wished to interview one."* |
-| **The [Order of the Sere](../World/Factions/The-Order-of-the-Sere.md)**, uninvited | The ultimatum-clock: *"Cure it before we are obliged to end it."* Pacing engine mid-module; converts to allies (and Rejuvenate-adjacent expertise) once the cure proves out |
-| **House agents** ([Tsalaxa's](../World/Factions/The-Merchant-Houses.md) knives, [Tomas's](../NPCs/Tomas-Vel-Maret.md) offers) | Clean action fodder: raiders after ship technology during the crisis, and the political epilogue hooks |
+The hook is her Pivot ([Erleena Riser](../NPCs/Erleena-Riser.md)). When she learns there is a *second* source — Rajaat, the news [Harah](../NPCs/Harah-Tabr.md) brought to the council — and that defiler magic exists, she asks for two things. **(1) Samples from the other source:** the baseline strain to check her drifted samples against, the one thing her lab has never had. **(2) Bring back a defiler wizard:** the defile-then-restore surgery on George needs a caster who can kill the colony inside him, and the [Order of the Sere](../World/Factions/The-Order-of-the-Sere.md) keeps that art. Neither exists on this ship. Neither exists anywhere on Vermoon. Both are on [Aerun](../World/Aerun.md).
 
-## Epilogue set-piece: the Airlantis flight
-
-The refusal becomes the payoff: the party doesn't sail to Aerun on a quest — **they fly Airlantis there**, cure aboard, Veiled Alliance ecomancers and freed Sere casting **Rejuvenate** in the city's shadow ([the spell is canon](../Game-Mechanics/Dark-Sun-5e-Rules.md); Gobbledegook can cast it at cleric 9). Over the Sea of Silt, the thousand-year wardenship ends: Rajaat cured, the worms released from duty into mere magnificence, green returning to the dunes in 80-foot circles that no one has to stop casting. Eustace brings his city home to a hero's welcome — again. **The desert blooms behind a flying city.** Roll credits.
-
-*(The Spice economy transforms rather than collapses — the houses pivot to shipping seed, water, and pilgrims; leave the details offscreen and sunny.)*
+George's chemistry is the stopgap that keeps everyone alive meanwhile — the doses hold the infection where it is, the spore-blasters keep the Lighthouse's hands off the wildlife — and it is honest, working science that buys the time the voyage needs. But it is not the cure. The cure now runs through Aerun, and the party carries it there.
 
 ## Still open
 
-- The first-contact script for Alphie (which deck, which voice, which favor first).
-- Whether the who-woke-it reveal names Erleena, George, or stays a shared, forgivable accident (hopepunk lens: **it was never about blame** — waking the ship was the first step of the cure, whoever's hand it was).
-- Which medical-deck levels to convert from S3/QftIS, and their encounter subpages.
+- The first-contact script for Eddie (which deck, which voice, which favor first) — **partially resolved by tonight's plan**: Eddie greets the party at [The Breach](Return-to-the-Ship/The-Breach.md) and asks for nothing tonight; any bargain (medical-deck access for favors) now comes later, via George. Which favor comes first is still open.
+- The who-woke-it question is settled (George and Erleena, together, on purpose) — what's still open is how and when the party learns that, and how much Eddie himself understands about the two people who woke him.
+- How the party gets to Aerun — the voyage is the next module's problem, not this one's. This arc ends with them deciding to go.
+- Whether the froghemoth is fought or un-hijacked with the spore-blasters (three blasts within a minute; [The Counteragent](../Game-Mechanics/The-Counteragent.md)) — the table decides at the lake.

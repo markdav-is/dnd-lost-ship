@@ -1,4 +1,4 @@
-[Game Mechanics](../Game-Mechanics.md) / Alien Technology <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [Game Mechanics](../Game-Mechanics.md) / Alien Technology <!-- wikidown:breadcrumb -->
 
 # Alien Technology
 
@@ -39,8 +39,8 @@ All are martial ranged weapons with the ammunition and reload properties; energy
 
 ## Powered armor & control devices (QftIS Appendix A)
 
-- **Powered armor:** functions as plate even unpowered; 24 charges per cell, 1 hour per charge. While active: advantage on STR checks + double carry, sealed atmosphere (immune to gases, contact/inhaled poisons, extreme temperatures), **Force Field** (reaction, 1 charge: reduce incoming damage by 3d10), **Propulsion** (bonus action, 1 charge: fly at walking speed for 1 minute). Suits exist in S27 (depleted) and S28 (charged); Aphelion gifts one for three completed errands.
-- **Robot controller:** handheld touchscreen, 3 charges per cell. **Control** (1 charge): one Construct within 60 ft, DC 15 WIS or charmed 1 min — obeys verbal commands, repeat save when damaged. **Disrupt** (1 charge): Constructs within 30 ft, DC 15 WIS or incapacitated 1 min. *The single most dangerous item on the ship for the [Return to the Ship](../Adventures/Return-to-the-Ship.md) arc — Aphelion knows it exists.*
+- **Powered armor:** functions as plate even unpowered; 24 charges per cell, 1 hour per charge. While active: advantage on STR checks + double carry, sealed atmosphere (immune to gases, contact/inhaled poisons, extreme temperatures), **Force Field** (reaction, 1 charge: reduce incoming damage by 3d10), **Propulsion** (bonus action, 1 charge: fly at walking speed for 1 minute). Suits exist in S27 (depleted) and S28 (charged); Eddie gifts one for three completed errands.
+- **Robot controller:** handheld touchscreen, 3 charges per cell. **Control** (1 charge): one Construct within 60 ft, DC 15 WIS or charmed 1 min — obeys verbal commands, repeat save when damaged. **Disrupt** (1 charge): Constructs within 30 ft, DC 15 WIS or incapacitated 1 min. *The single most dangerous item on the ship for the [Return to the Ship](../Adventures/Return-to-the-Ship.md) arc — Eddie knows it exists.*
 
 ## Mobility & utility
 

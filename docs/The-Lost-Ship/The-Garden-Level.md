@@ -1,10 +1,10 @@
-[The Lost Ship](../The-Lost-Ship.md) / The Garden Level <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [The Lost Ship](../The-Lost-Ship.md) / The Garden Level <!-- wikidown:breadcrumb -->
 
 # The Garden Level
 
 ![The garden under its dome](../.attachments/garden_dome.jpg)
 
-The ship's biosphere — a botanical garden gone wild for centuries. ~80 feet tall, ~500 feet across, tiered like a hillside with streams, a swamp, a central lake, and an island where the [Lighthouse](The-Lighthouse.md) stands. Alien flora and fauna from a dozen worlds. **Status: explored.**
+The ship's biosphere — a botanical garden gone wild for centuries. ~80 feet tall, ~500 feet across, tiered like a hillside with streams, a swamp, a central lake, and an island where the [Lighthouse](The-Lighthouse.md) stands. Alien flora and fauna from a dozen worlds. **Status: explored — and heavier on the return trip.** Spore density has climbed sharply since the party's first pass, especially around the lake and island; what was ambient fog before is a wall now, and it's the Lighthouse's doing.
 
 Sources: `assets/Level_3_Garden_DM_Reference.docx` (scene read-alouds), `assets/S3_Level4_Complete_5e_Conversion.docx` (full stat blocks), `assets/Level 3 with George.docx` (George's briefing).
 
@@ -15,7 +15,7 @@ Sources: `assets/Level_3_Garden_DM_Reference.docx` (scene read-alouds), `assets/
 | Entrance balcony | Heat, humidity, alien floral smell | Distant shimmer only |
 | Outer Garden (S56) | Lush, aggressive living jungle; iridescent ferns, four-winged birds | Absent — thin orange mist at the ankles |
 | Inner Garden (S57) | Teal gloom, shelf-fungi, mineral rot; fused animal/machine remains | Active; knee-deep orange fog |
-| The Lake (S59) | Still black water, crushed robots on the shore; something enormous below | Heavy; fog reacts to the lighthouse beam |
+| The Lake (S59) | Still black water, crushed robots on the shore; something enormous below | Heavy, and heavier now — fog reacts to the lighthouse beam |
 | Island (S60) | Fleshy ground that yields underfoot — then a *deceptively idyllic* bunny clearing | Total — the mold **is** the landscape |
 
 - **Environment:** 14-hour light / 7-hour dark cycle, no warning. Sonic screen isolates the noise from upper decks. Overgrown pathways (get lost without flagstone-clearing landmarks); 5-ft terraces, burrows, streams, pools (gem glints on the lakebed — 51–100 gems, 100 gp base), swamp.
@@ -38,7 +38,7 @@ Sources: `assets/Level_3_Garden_DM_Reference.docx` (scene read-alouds), `assets/
 
 ## The fauna
 
-Mostly harmless oddities (rabbitoids, four-winged birds, six-eyed toads — d12 wandering table, 1-in-4/10 min). The dangerous ones: **lizardoids** (pouncing ambushers, 90% undetected), **aurumvorax** (AC 20 lockjaw horror), **squealer** (mimics distress calls, drops from trees), **baboonoids** (grenade-throwing, 20% parley; become scouts if the shambling mounds die), **shambling mounds** (nest: 2 power discs + 5,200 gp ring), **umber hulk** (near the drop tube; blaster rifle + anti-grav belt), **leechoids**, poison-spined **scintillating fish** (DC 15 or die — but 55–100 gem scales each), quipper swarms, black pudding, and the **[Froghemoth](../Bestiary/Ship-Creatures.md)** in the lake — CR 10, four tentacles, lightning-immune, swallow-whole. The party fought past it to reach the island — **it lives**, and still rules the water around the Lighthouse.
+Mostly harmless oddities (rabbitoids, four-winged birds, six-eyed toads — d12 wandering table, 1-in-4/10 min). The dangerous ones: **lizardoids** (pouncing ambushers, 90% undetected), **aurumvorax** (AC 20 lockjaw horror), **squealer** (mimics distress calls, drops from trees), **baboonoids** (grenade-throwing, 20% parley; become scouts if the shambling mounds die), **shambling mounds** (nest: 2 power discs + 5,200 gp ring), **umber hulk** (near the drop tube; blaster rifle + anti-grav belt), **leechoids**, poison-spined **scintillating fish** (DC 15 or die — but 55–100 gem scales each), quipper swarms, black pudding, and the **[Froghemoth](../Bestiary/Ship-Creatures.md)** in the lake — CR 10, four tentacles, lightning-immune, swallow-whole. The party fought past it to reach the island once; it's still there, but it isn't the same animal anymore — **infected now, and directed by the Lighthouse**. What used to be pure territoriality is purpose: it works the water around the island on the tower's behalf.
 
 ## Progression
 

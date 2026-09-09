@@ -1,4 +1,4 @@
-[Reference](../Reference.md) / Asset Index <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [Reference](../Reference.md) / Asset Index <!-- wikidown:breadcrumb -->
 
 # Asset Index
 
@@ -41,6 +41,8 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 | File | Content | Wiki page |
 | :--- | :--- | :--- |
 | [Dark Sun Players Guide - Athascon V2.1.pdf](../../assets/Dark%20Sun%20Players%20Guide%20-%20Athascon%20V2.1.pdf) ⭐ (+ [text extraction](../../assets/DarkSun_Players_Guide_Athascon_V2.1.md)) | Player-facing 5e option set: races, Psion, Arcane Defilement, wild talents, spells | [Dark Sun 5e Rules](../Game-Mechanics/Dark-Sun-5e-Rules.md) |
+| [UA2025-Psion-Update.pdf](../../assets/UA2025-Psion-Update.pdf) | UA 2025 Psion Update — current source for Metamorph, Psykinetic, Telepath (Psi Warper unchanged from the earlier doc) | [Psionics and the Great Schools](../Game-Mechanics/Psionics-and-the-Great-Schools.md) |
+| [UA2025-ApocalypticSubclasses.pdf](../../assets/UA2025-ApocalypticSubclasses.pdf) | UA 2025 Apocalyptic Subclasses — Circle of Preservation (Druid), Gladiator (Fighter), Defiled Sorcery (Sorcerer), Sorcerer-King Patron (Warlock); only the first two are adopted so far | [Dark Sun 5e Rules](../Game-Mechanics/Dark-Sun-5e-Rules.md) |
 | [DarkSun_5e_Campaign_Guide_v1.9.pdf](../../assets/DarkSun_5e_Campaign_Guide_v1.9.pdf) ⭐ | DM-side rules chassis *(image-based — no text layer)* | [Sourcebooks](Sourcebooks-and-Inspiration.md) |
 | [DarkSun_5e_Terrors_of_the_Desert_v1.0.pdf](../../assets/DarkSun_5e_Terrors_of_the_Desert_v1.0.pdf) ⭐ | 5e monster manual for the desert *(image-based — no text layer)* | [Sourcebooks](Sourcebooks-and-Inspiration.md) |
 

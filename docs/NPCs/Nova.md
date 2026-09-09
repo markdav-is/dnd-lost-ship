@@ -1,4 +1,4 @@
-[NPCs](../NPCs.md) / Nova <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [NPCs](../NPCs.md) / Nova <!-- wikidown:breadcrumb -->
 
 # Nova
 
@@ -32,5 +32,5 @@ The lone crew member who **shut down Aphelion** — the ship's murderous compute
 ## DM notes
 
 - Freeing her: DC 12 Intelligence (Investigation) on the pod.
-- She does not yet know **Aphelion is waking up** — and per the published spine adopted in [Return to the Ship](../Adventures/Return-to-the-Ship.md), the AI's fixation is **eliminating her**: she is the one person who knows the shutdown. The froghemoth that blocks its path **still lives** in the lake — which is why Aphelion needs someone else's hands. Expect its politest request to be exactly that hunt. Her knowledge of how to shut it down *again* is the keystone of the next expedition.
+- She does not yet know **Eddie is awake** — and it isn't personal: George and Erleena woke him deliberately for cure research and communication, and Eddie has no fixation on eliminating her. If anything, learning she's alive and aboard is good news to him — she's the one person who remembers how the ship's systems actually worked, and her shutdown expertise (turned toward healing rather than killing this time) is a genuine asset to the cure effort. The froghemoth **still lives** in the lake, but it isn't unrelated anymore — infected and Lighthouse-directed now, one more thing the tower has turned against anyone threatening it, including the route to her chamber and to Erleena's lab below the Lighthouse.
 - She may recognize the mold. Whether it boarded as cargo, stowaway, or weapon is a revelation the DM controls through her recovering memory.

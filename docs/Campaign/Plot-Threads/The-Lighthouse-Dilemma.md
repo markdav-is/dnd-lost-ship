@@ -1,4 +1,4 @@
-[Campaign](../../Campaign.md) / [Plot Threads](../Plot-Threads.md) / The Lighthouse Dilemma <!-- wikidown:breadcrumb -->
+[Home](../../Home.md) / [Campaign](../../Campaign.md) / [Plot Threads](../Plot-Threads.md) / The Lighthouse Dilemma <!-- wikidown:breadcrumb -->
 
 # The Lighthouse Dilemma
 
@@ -10,7 +10,7 @@ The central question of the campaign: the [Lighthouse](../../The-Lost-Ship/The-L
 | :--- | :--- | :--- |
 | **Containment — Seal the Ship.** Avalanche charges close seven passes; a team re-enters the ship and *seals it from within* (hull breaches closed, bulkheads locked) | Valerius (broker); McReady will "carry the charges in myself" if it buys cure time | Buys weeks-to-months, not a solution; seals in the mountain folk who don't know; a door can rot — and Harah's ancestors' walls held eleven years before the bloom came through the groundwater |
 | **The Purge.** **Airlantis** — the party's own flying city — is brought south, loaded with incendiaries, and bombards the valley sterile | Copper ("Do it. Do it now, before we talk ourselves out of it.") | Irreversible; ship technology lost; the valley dead a generation; must be certain nothing spread beyond the radius — and **it does not address Rajaat**. "You are not curing anything. You are only removing the second outbreak." |
-| **The Cure.** Go deeper — medical/research levels; synthesize a cure or system-wide decontamination. **If it works here, it may work on Rajaat itself** | Erleena; Harah (if pressed); McReady: "This is about the whole world" | Slowest, most dangerous; the infection spreads while they search; no guarantee a cure exists; Aphelion is waking below |
+| **The Cure.** Go deeper — medical/research levels; synthesize a cure or system-wide decontamination. **If it works here, it may work on Rajaat itself** | Erleena; Harah (if pressed); McReady: "This is about the whole world" | Slowest, most dangerous; the infection spreads while they search; no guarantee a cure exists; Eddie is awake below |
 
 **Triage, not a vote (DM note from source):** the paths are **not mutually exclusive** — seal now and then pursue the cure; attempt the cure with the purge as fallback. The council asks for a *direction*, not a final answer. **Each road is now fully designed as a playable branch: [The Three Roads](../../Adventures/The-Three-Roads.md)** — including the defile-*then-restore* upgrade to the Sere path and the Erleena Pivot that braids all three.
 

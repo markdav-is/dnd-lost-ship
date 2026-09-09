@@ -16,6 +16,8 @@ The published works in `/assets`, what each contributes, and how it maps into Ve
 | Book | File | Notes |
 | :--- | :--- | :--- |
 | **Dark Sun Player's Guide — AthasCon 5E V2.1** | `Dark Sun Players Guide - Athascon V2.1.pdf` | ⭐ **The player-facing option set**: Athasian races, Psion class, elemental clerics, Arcane Defilement, wild talents, Athasian equipment & spells. Text-searchable; extraction: `DarkSun_Players_Guide_Athascon_V2.1.md`. Rules summary: [Dark Sun 5e Rules](../Game-Mechanics/Dark-Sun-5e-Rules.md) |
+| UA 2025 Psion Update | `UA2025-Psion-Update.pdf` | Supersedes `UA2025-ThePsion.pdf` for Metamorph/Psykinetic/Telepath — see [Psionics and the Great Schools](../Game-Mechanics/Psionics-and-the-Great-Schools.md) |
+| UA 2025 Apocalyptic Subclasses | `UA2025-ApocalypticSubclasses.pdf` | Circle of Preservation (Druid) and Gladiator (Fighter) adopted as official swaps/additions — see [Dark Sun 5e Rules](../Game-Mechanics/Dark-Sun-5e-Rules.md). Defiled Sorcery and Sorcerer-King Patron were reviewed but NOT adopted (the latter conflicts with the "no god-kings, Champions instead" lore lock without a heavier reskin) |
 | **Dark Sun 5e Campaign Guide v1.9** (fan conversion) | `DarkSun_5e_Campaign_Guide_v1.9.pdf` | ⭐ The DM-side rules chassis for Aerun: defiler/preserver casting, psionics, survival rules. *Image-based PDF — not text-searchable* |
 | **Terrors of the Desert v1.0** (fan 5e monster manual) | `DarkSun_5e_Terrors_of_the_Desert_v1.0.pdf` | ⭐ Ready 5e stat blocks for the Tablelands and Sea of Silt bestiary. *Image-based PDF — not text-searchable* |
 | Dark Sun Campaign Setting (4e) | `DD4_DarksunCampaign.pdf` (+ map: `DD4_Darksun_map.pdf`) | Lore backbone; the map is the visual reference for the Tablelands |

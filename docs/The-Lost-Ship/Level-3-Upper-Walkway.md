@@ -1,8 +1,10 @@
-[The Lost Ship](../The-Lost-Ship.md) / Level 3 Upper Walkway <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [The Lost Ship](../The-Lost-Ship.md) / Level 3 Upper Walkway <!-- wikidown:breadcrumb -->
 
 # Level 3 — Upper Walkway
 
 A curving elevated walkway and lounge ring suspended above the garden biosphere, ~60 feet up behind a sonic screen. A gauntlet of light-hungry killer plants, ropers, and one relentlessly hospitable robot.
+
+**Where this is on the map.** This walkway is the inner rail (the S34 viewers ring) and lounge entrances of QftIS Level 2, the observation deck — the same deck as the [theater](Level-2-The-Theater.md) and [George's](../NPCs/George-Decay.md) lab at S42 (QftIS Map 7.2, p.177); the numbering differs by source (see the note on [The Lost Ship](../The-Lost-Ship.md)). The party traversed it during the survey for the dining servo's violet cards; treat the ropers and vines as still in place unless the DM rules they were cleared. Since Eddie came online, the lit route to George — down the north drop tube, then two doors west — bypasses the rail entirely; the plants (S38b/S38c on the map) now serve as the walls of George's pocket.
 
 Full conversion: `assets/S3_Level3_Complete_5e_Conversion.docx`.
 
@@ -17,10 +19,13 @@ A gauntlet blending horror, tension, and dark comedy. The deck is built around *
 | Threat | Core mechanics |
 | :--- | :--- |
 | **Ropers (3)** | One "fishes" over the walkway rail (80% identical to a support pillar); two hide in the dark lounge entrance. Tendrils reach 50 ft, grapple + weakness, Reel 25 ft. Vines restrain → ropers reel; ropers weaken → vines finish |
+| **Razorvine** (hazard — DMG) | Hedges ~10 ft tall, 5 ft thick, block line of sight. First contact on a turn: **DC 12 DEX save or 1d10 slashing**. It's the outer skin of every vine growth on this deck — you cut through razorvine to reach the strangle and vampire vines behind it. **Clearing:** a 5-ft section takes an action with a slashing weapon or is burned away by fire (table rule); slashing into it draws the strangle vines toward the noise |
 | **Strangle vines** | Creep toward the brightest light (a *continual flame* is a homing beacon). Constrict + 10%/round strangulation; cut sections regrow next round; **lightning doubles their speed** |
 | **Vampire thorn vines** | 7-ft tendrils drain **25% max HP per hit**; death in 4 rounds unless the tendril is severed; **lightning heals them** |
 | **Dining servo robot** | Malfunctioning hospitality: seats "diners," force-feeds poisoned mold food (DC 13 CON → madness → death). STR 20 grapple. Pursues but never leaves the level. Punishes short rests in the lounge |
 | **Webbirds, green slime, police/worker robots** | See [Level 1](Level-1-Crew-Quarters.md) |
+
+*Razorvine source: DMG, Wilderness Hazards. The strangle and vampire vines are custom, from the S3 conversion.*
 
 ## Treasure
 
@@ -28,6 +33,7 @@ Roper gullets: 2d12 gems each (10 gp), 2 dud grenades, fire extinguisher, platin
 
 ## Environmental triggers cheat sheet
 
+- **Pushing through a hedge** → razorvine save (DC 12 DEX, 1d10 slashing) before anything else gets a turn.
 - **Bright light** → vines creep in at 5–10 ft/round.
 - **Electrical damage** → strangle vines accelerate; vampire vines heal.
 - **Noise** → ropers, the dining servo ("hospitality protocol violation detected"), worker robots.

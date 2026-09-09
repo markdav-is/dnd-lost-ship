@@ -1,4 +1,4 @@
-[Campaign](../Campaign.md) / Current Status <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [Campaign](../Campaign.md) / Current Status <!-- wikidown:breadcrumb -->
 
 # Current Status
 
@@ -7,8 +7,8 @@ Snapshot of the campaign state for session prep. **Last updated after the two pl
 ## Where things stand
 
 - The **Council of Frostwatch has happened as played**: Valerius severed her implant, revealed the true spread, and [Harah](../NPCs/Harah-Tabr.md) **named Rajaat** — the thousand-year quarantine, the second source, planetary triage.
-- **The party chose the Cure path.** Plan: a small team **flies back to the ship** (spore-choked ravines have made ground travel impossible) to find the medical/research levels and a true cure. Departure is imminent — the flight itself has not yet been played.
-- **Erleena has gone silent.** Comm attempts fail — *"No signal. I'm sorry, your number cannot be completed."* Infrastructure failure, or something worse ([Aphelion is waking](../Adventures/Return-to-the-Ship.md)). George and Erleena are still aboard.
+- **The party chose the Cure path.** Plan: a small team travels back to the ship **by dogsled convoy on the glacier route behind [Korrin's](../NPCs/Korrin.md) lead sled** (the spore-choked ravines are still impassable — the sledmaster's route avoids them) to find the medical/research levels and a true cure. Departure is imminent — the crossing itself has not yet been played.
+- **Erleena has gone silent — to the outside.** Comm attempts fail — *"No signal. I'm sorry, your number cannot be completed."* The ship's hyper-dimensional fields filter RF — the same void that blinds Jak's network — so nothing reaches her sealed levels from outside the hull; not [Eddie](../Adventures/Return-to-the-Ship.md), not the spores. Inside the hull she is in daily contact with George and Eddie on the ship's own comms. George and Erleena are still aboard.
 - **Defiler containment is in motion — through Harah, uneasily.** The council wants the [Order of the Sere](../World/Factions/The-Order-of-the-Sere.md) to keep the spread tamped down during the mission. But reaching them means travel, and **they will not talk to Harah**: *"They wouldn't necessarily trust me… It's a long story. Meet me at the bar later."*
 - **Robin recruited** — the occupation's infirmary medic ([her page](The-Party/Robin-Wood.md)) joins the expedition — now a full **PC** (new player).
 - **The party is withholding the network-corruption theory.** After Copper's warning and the infected-wildlife descent, they deliberately kept the invisible-infection details out of official channels — *"the people we're talking to will have a glowing ear"* — and debated reaching Jak directly with information for him alone.
@@ -17,7 +17,7 @@ Snapshot of the campaign state for session prep. **Last updated after the two pl
 
 ## The question on the table
 
-The direction is chosen — now it has to survive contact: find the cure before the spread outruns everyone, with [Aphelion awake](../Adventures/Return-to-the-Ship.md) and Erleena unreachable. The council framing stands as triage, not a vote: seal/purge remain the fallbacks if the cure fails ([The Lighthouse Dilemma](Plot-Threads/The-Lighthouse-Dilemma.md)).
+The direction is chosen — now it has to survive contact: find the cure before the spread outruns everyone, with [Eddie awake](../Adventures/Return-to-the-Ship.md) and Erleena unreachable. The council framing stands as triage, not a vote: seal/purge remain the fallbacks if the cure fails ([The Lighthouse Dilemma](Plot-Threads/The-Lighthouse-Dilemma.md)).
 
 ## Party inventory highlights
 
@@ -34,12 +34,12 @@ The direction is chosen — now it has to survive contact: find the cure before 
 | Power discs | ×2 (full) | Shambling mound nest, Garden Level |
 | Blaster rifle | 3 charges | Umber hulk, Garden Level |
 | Anti-grav belt | 1 charge (fails after 30 ft or 2nd use) | Umber hulk |
-| Hoversled | — | Ship; used for the descent to Frostwatch |
+| **Hoversled** | **not in hand** | Damaged during the ship-to-Frostwatch descent; left powered down somewhere on the mountain route. Recoverable if the party goes back for it — otherwise the party crosses by dogsled behind Korrin's lead sled (see [The Whiteout](../Adventures/Return-to-the-Ship/The-Whiteout.md)) |
 
 ## Clocks the DM is running
 
 - **Infection spread** — faster than official awareness; one town gone, two quarantined; wildlife networking; ravines impassable on foot.
 - **Erleena's silence** — every hour unanswered makes the scenario beneath the Lighthouse worse.
-- **George's decline** — his stimulant supply is finite; Harah's Sandwalker remedy buys time.
+- **George's cure** — half-cured on his Eddie-assisted anti-fungals ([his page](../NPCs/George-Decay.md)); the doses hold the line but don't finish the job, and the Lighthouse is now actively fighting the research that would.
 - **The Sere negotiation** — containment cover for the mission depends on a reconciliation nobody has explained yet.
 - **Political pressure** — the sealed orders exist; the [merchant alliance](Plot-Threads/The-Merchant-Alliance.md) circles; the party is already managing information around Jak's own apparatus.

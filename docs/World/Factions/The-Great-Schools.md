@@ -8,7 +8,7 @@ The psionic academies of the seven cities — five Schools, modeled on the Great
 
 **Design rule (locked 2026-08-21):** we play on D&D Beyond, so the Schools use the **UA Psion exactly as written — spell slots + Psionic Energy Dice — and each School is one published subclass.** Three Schools map to UA Psion subclasses unchanged; the two fighting Schools use the 2024 PHB's psionic subclasses — Reckoning is the **Psi Warrior (Fighter)**, Kenaz is the **Soulknife (Rogue)**. Nothing is homebrewed.
 
-**Sources used:** UA 2025 *The Psion* (`assets/UA2025-ThePsion.pdf`) · *The Will and the Way* (2e, `assets/2E Adventure Dark Sun The Will and the Way.pdf`) · Dark Sun Players Guide (AthasCon 5e, `assets/DarkSun_Players_Guide_Athascon_V2.1.md`) · Tasha's psionic subclasses (`sci-classes.md`: Psi Warrior, Soulknife, Aberrant Sorcery, Great Old One) · Dune Awakening skill trees (fextralife wiki). Design draft: `assets/Aerun_GreatSchools.md`.
+**Sources used:** UA 2025 *The Psion* (`assets/UA2025-ThePsion.pdf`) · *The Will and the Way* (2e, `assets/2E Adventure Dark Sun The Will and the Way.pdf`) · Dark Sun Players Guide (AthasCon 5e, `assets/DarkSun_Players_Guide_Athascon_V2.1.md`) · Tasha's psionic subclasses (`sci-classes.md`: Psi Warrior, Soulknife, Aberrant Sorcery, Great Old One) · Dune Awakening skill trees (fextralife wiki) · UA 2025 *Psion Update* (`assets/UA2025-Psion-Update.pdf`) — current source for Metamorph, Psykinetic, and Telepath; Psi Warper is unchanged from the earlier doc · UA 2025 *Apocalyptic Subclasses* (`assets/UA2025-ApocalypticSubclasses.pdf`). Design draft: `assets/Aerun_GreatSchools.md`.
 
 ## Premise
 
@@ -56,20 +56,20 @@ Metal is a bummer on Aerun — too heavy and too hot at 120°, and the Players G
 
 **Entrance:** anyone the Stillwaters judge can hold still — man, woman, mul, kreen; the School has never cared what a student was before they were still. There is one rank worth having and it is the name itself: you leave the hall *a Stillwater*, or you leave it nothing. Tested talent: **Empath** (Charm Person, Calm Emotions, advantage on Influence) or **Mind Whisperer** (Mind Sliver, Dissonant Whispers, limited telepathy).
 
-**Psion subclass: Telepath.** Telepathic Hub; Mind Infiltrator (Detect Thoughts with no components, no Concentration, and the target doesn't know) — *that is the truthtrance*; Empowered Defense Mode shared with everyone you're linked to — *that is the Litany*; Scramble Minds at 14.
+**Psion subclass: Telepath.** Mind Infiltrator (Detect Thoughts with no components, no Concentration, and the target doesn't know) — *that is the truthtrance*; Telepathic Distraction (reaction: roll an Energy Die to try to turn a hit into a miss on anyone within your telepathy range) is the Voice turned to defense; Bulwark Mind at 6 (resistance to psychic damage, an Energy Die added to your own INT/WIS/CHA saves) is *the Litany* — note it now strengthens the Stillwater alone, not the whole link; Potent Thoughts (also lvl 6: 60-ft telepathy, INT mod added to cantrip damage) widens the Voice's reach; Scramble Minds at 14.
 
 ### Skill tree (Dune Awakening → 5e)
 
 | Tree | Dune skill | Aerun name | 5e implementation |
 | :--- | :--- | :--- | :--- |
 | **The Voice** | Compel / Stop / Ignore | *the Voice* | **Command** (lvl 1; "approach" / "halt"), **Hold Person** (2), **Suggestion** (2), **Compulsion** (4, Telepath always-prepared), **Mass Suggestion** (6), **Power Word Stun** (8). *Ignore* = **Invisibility** (2) / Telepath's telepathy-range tricks |
-| | Voice Training / Rapid Register | *the Register* | Discipline **Devilish Tongue** (energy die on Influence); Telepathic Hub contacts many minds at once |
+| | Voice Training / Rapid Register | *the Register* | Discipline **Devilish Tongue** (energy die on Influence); Potent Thoughts (lvl 6) widens the Voice's range to 60 ft |
 | | Screech | *the Shout* | **Tasha's Mind Whip** (2), **Synaptic Static** (5) |
 | **Truthsay** | — | *truthtrance* | **Detect Thoughts** + Mind Infiltrator (lvl 3); **Zone of Truth** (2); Insight proficiency; Discipline **Expanded Awareness** |
 | | — | *the Other Memory* | **Legend Lore** (5), **Modify Memory** (5, always-prepared at 9), **Rary's Telepathic Bond** (5) |
 | **Prana-bindu** | Bindu Sprint / Bindu Dodge | *nerve-knowing* | **Longstrider** (1), **Enhance Ability** (2), **Freedom of Movement** (4); Discipline **Psionic Guards** (immune to charm/fright this turn) |
 | | Metabolize Poison / Poison Tolerance / Sun Tolerance | *the inner chemistry* | **Lesser Restoration** (elective — learned at the Menders' annex); Con save proficiency via Resilient feat at Stillwater's expense |
-| | Litany Against Fear | *the Litany* | Telepath lvl 6 Empowered Defense Mode (+1d4 saves, shared across telepathic links); **Calm Emotions**, **Intellect Fortress** (3) |
+| | Litany Against Fear | *the Litany* | Telepath lvl 6 Bulwark Mind (psychic resistance, +1d4 on your own INT/WIS/CHA saves); **Calm Emotions**, **Intellect Fortress** (3) |
 | | Prana-Bindu Strikes / Manipulate Instability | *the Weirding Way* | cantrip **Mind Sliver** + Discipline **Inerrant Aim**; **Telekinetic Propel** for the nerve-strike shove. *(The full fighting art is Kenaz's — a Stillwater who wants it studies there for a year, and Kenaz has never refused one.)* |
 | | Weirding Step | *the Step* | **Stillwater's signature.** Voice + motion, not a teleport: **Command** ("approach" / "halt" / "drop") or **Telekinetic Propel** to *pull* the target past you as a Bonus Action, then **Longstrider / Jump** (lvl 1) or the **Psykineticist** talent's +10 ft Dash to be behind them before they finish obeying. At 7, **Dimension Door** is the Step as the old Stillwaters do it. Discipline **Ego Whip** punishes anyone who tries to follow |
 | **Stillwater** | Self-Healing / Recovery / Vitality | *body-ledger* | Discipline **Biofeedback** (temp HP on Transmutation/Necromancy casts) |
@@ -161,15 +161,15 @@ Metal is a bummer on Aerun — too heavy and too hot at 120°, and the Players G
 
 **The Conditioning — the Mender's Oath.** Graduates wear **the Seam**: a single blue line tattooed straight across the forehead, stitched like a closed wound — the mark of a thing mended, worn by the one who mends. It is *dye*-blue, not Spice-blue, and everyone knows the difference. It is the mark of total loyalty — to the Oath and the Hall, never to a House — and it is the first thing anyone sees. A Mender under the Oath cannot willingly deal damage to a creature that has not dealt damage to them this encounter — their *Inflict Wounds* and *Contagion* are reserved for "the sickness that walks on two legs" and the Hall decides what that is. Breaking the Oath costs the Seam — cut out, not inked over — and every House's door. (Mechanically: a Mender who breaks it loses Metamorph features until Atonement — the Hall's own ritual, a month of service.) *Dune's unbreakable Conditioning was a lie that one man broke for his family; Aerun's is a* reputation, *which is stronger and more fragile.*
 
-**Psion subclass: Metamorph.** Cure Wounds, Lesser Restoration, Aura of Vitality, Mass Cure Wounds, Polymorph, Stoneskin — it is the 5e cleric wearing a Psion's robe. Quickened Healing at 6 (bonus-action *Cure Wounds* with an Energy Die on top) is the battlefield medic; Life-Bending Weapons at 14 heals everyone in 10 ft off a single strike.
+**Psion subclass: Metamorph.** Cure Wounds, Lesser Restoration, Aura of Vitality, Mass Cure Wounds, Polymorph, Stoneskin — it is the 5e cleric wearing a Psion's robe. Extra Attack at 6 makes the Mender a real melee medic (can swap an attack for a cantrip); Flesh Weaver, also lvl 6 (active only with Mutable Form up), adds +2 AC and lets an Energy Die boost any spell-slot healing. Life-Bending Weapons at 14 heals everyone in a 30-ft emanation off a single strike.
 
 ### Skill tree
 
 | Tree | Dune skill (Planetologist tree) | Aerun name | 5e implementation |
 | :--- | :--- | :--- | :--- |
-| **Physic** | — | *the laying-on* | **Cure Wounds, Lesser Restoration** (3); **Aura of Vitality** (5); **Mass Cure Wounds** (9); Quickened Healing |
+| **Physic** | — | *the laying-on* | **Cure Wounds, Lesser Restoration** (3); **Aura of Vitality** (5); **Mass Cure Wounds** (9); Extra Attack / Flesh Weaver |
 | | — | *the unmaking* | **Inflict Wounds** (3), **Contagion** (9) — under Oath |
-| | — | *the sculpted body* | **Alter Self** (3); **Polymorph, Stoneskin** (7); **Extend Limbs** / **Mutable Form** (lvl 10: Stony Epidermis, Superior Stride, Unnatural Flexibility) |
+| | — | *the sculpted body* | **Alter Self** (3); **Polymorph, Stoneskin** (7); **Mutable Form** (lvl 3, formerly *Extend Limbs*: +5 reach, +5 speed, 10-ft touch-spell range, temp HP); **Improved Mutable Form** (lvl 10: choose Stony Epidermis, Superior Stride, or Unnatural Flexibility) |
 | | — | *the bone-tool* | **Organic Weapons** (lvl 3) — **kept.** The Bone Blade is the Mender's own forearm bone, the continent's native weapon material; the Viscera Launcher is a syringe-dart. No metal, no equipment, nothing to confiscate |
 | **Planetology** | Dew Gathering / Stillsuit Seals | *water-craft* | Survival proficiency; **Locate Animals or Plants** (2); the Hall's *stillcloak* (equipment: halves water need) |
 | | Scanner Mastery / Deep Analysis / Spice Surveyor | *reading the land* | **Detect Magic** re-skinned (*Detect Defilement*), **Identify**, **Locate Object**; Discipline **Expanded Awareness** |
@@ -232,9 +232,10 @@ The Schools are Psion subclasses first. For players who want a School's flavor o
 | **Aberrant Sorcery** (Sorcerer) | **Spice-burnt** — a wild talent that grew without a School. Too much Spice, no Way; the tentacles and the black eyes are what the Hall warns about. Houses fear them more than wizards |
 | **Great Old One** (Warlock) | **Champion-bound** — a mind that has touched an *ascended* Champion (Hamanu, the Oba, the Shadow Knight) and come back with a piece of it. The Thought Shield is the dragon's gift; *Create Thrall* is its price |
 | **Psykinetic** (UA Psion) | **Unclaimed.** No School teaches pure force — the cities find it too much like magic. A Psykinetic PC learned it from a wandering master or the desert; Urik's Kenaz annex is rumored to be quietly building a curriculum for Stel's legions (hook) |
+| **Circle of Preservation** (Druid, UA 2025 *Apocalyptic Subclasses*) | **Preservers** — the official chassis for anyone who draws only what the land can give and never defiles. Not School-taught: preservation is a desert-shamanic tradition outside the city curriculum, [Harah Tabr's](../../NPCs/Harah-Tabr.md) path among the Sandwalkers |
 | **Psionic Study** feat (Players Guide — *not on DDB*) | "Went to the School, didn't stay." Prefer the UA **Wild Talent feats** (DDB-enterable) for this; keep Psionic Study for NPCs |
 
-**A caster Mentat?** Reckoning and Kenaz have no Psion track, and the Psykinetic is unclaimed. If a player wants a *caster* Mentat, the nearest fit is Telepath with a Clairsentience wild talent and a divination-heavy prepared list — not a new subclass.
+**A caster Mentat?** Reckoning and Kenaz have no Psion track, and the Psykinetic is unclaimed. If a player wants a *caster* Mentat, the nearest fit is Telepath with a Clairsentience wild talent and a divination-heavy prepared list — not a new subclass. **Preservers** sit outside the five-School system entirely — see [Harah Tabr](../../NPCs/Harah-Tabr.md) for the subclass in play.
 
 ## Using at the table
 

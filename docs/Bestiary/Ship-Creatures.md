@@ -1,4 +1,4 @@
-[Bestiary](../Bestiary.md) / Ship Creatures <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [Bestiary](../Bestiary.md) / Ship Creatures <!-- wikidown:breadcrumb -->
 
 # Ship Creatures
 
@@ -10,16 +10,16 @@ The ark's menagerie and its stowaways — alien fauna, killer flora, and the abe
 
 | Creature | CR | Core stats | Signature |
 | :--- | :-: | :--- | :--- |
-| **Froghemoth** (alive — rules the lake) | 10 | AC 16/14/12 (tentacles/body/tongue), HP 184 | Four 20-ft tentacles (DC 18 grapple), 30-ft tongue drag, swallow whole (3d6 acid/turn; 20+ damage inside forces regurgitation save); immune fire & lightning; periscope eyes read as floating vegetation |
+| **Froghemoth** (infected — directed by the Lighthouse) | 10 | AC 16/14/12 (tentacles/body/tongue), HP 184 | Four 20-ft tentacles (DC 18 grapple), 30-ft tongue drag, swallow whole (3d6 acid/turn; 20+ damage inside forces regurgitation save); immune fire & lightning; periscope eyes read as floating vegetation; no longer merely territorial — hunts the lake on the Lighthouse's orders. Three spore-blasts within a minute break the Lighthouse's hold — see [The Counteragent](../Game-Mechanics/The-Counteragent.md). |
 | **Mind Flayers ×2** (slain) | 7 | MM stats | Were studying the ship's tech to plan planetary conquest; theater lair |
 | **Aurumvorax** | 9 | AC 20, HP 136 | Small but 500 lbs; lockjaw bite + **eight** claw rakes per turn on the grappled; immune to fire/poison/lightning/nonmagical weapons |
 | **Umber Hulk** (slain) | 5 | MM stats | Guarded the garden drop tube; source of the party's blaster rifle and anti-grav belt |
 | **Squealer** | 6 | AC 14, HP 110 | Mimics animal distress calls (DC 13 Insight); drop-attacks from trees; lair holds the orange card |
-| **Lurker Above / Cloaker** | 8 | AC 14, HP 78 | Ceiling ambush (surprise 4-in-6), smother, fear moan; **one escaped into the mountains** and is adapting to cold |
+| **Lurker Above / Cloaker** | 8 | AC 14, HP 78 | Ceiling ambush (surprise 4-in-6), smother, fear moan; **one escaped into the mountains** and is adapting to cold — now spore-touched and flying for the Lighthouse at the hull siege; see [The Breach](../Adventures/Return-to-the-Ship/The-Breach.md) |
 
 ## The menagerie in stasis
 
-The lower deck's containment holds specimens the ark carried alive — including things with teeth. Whether Aphelion opens the tanks is a question worth keeping loaded.
+The lower deck's containment holds specimens the ark carried alive — including things with teeth. Whether Eddie opens the tanks is a question worth keeping loaded.
 
 ![A specimen in its containment tank](../.attachments/dino_containment.png)
 ![When the tank opens](../.attachments/dino_fight.png)
