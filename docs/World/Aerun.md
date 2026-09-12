@@ -38,7 +38,7 @@ Going clockwise from the north (per the revised map): **Draj** → **Blackguard*
 
 Rulers, feuds, the Guild's law, and the Merchant's Code: **[the Glossary](Dark-Sun/Glossary.md)** — including the **[map-builder's geography table](Dark-Sun/Glossary.md)**: terrain, siting, populations, and landmarks per city, from the Wanderer's Journal.
 
-**The lesser towns** (no family seats — client settlements, each a story hook): **Blackguard** (grim north-coast waypoint), **Osgaker** and **Hollowstorm** (west-coast fishing and salvage towns), **Amber Valley** (south-coast caravanserai on the Ring Road), **Eldorado** (the rim town — last provision stop before the silt, all rumors and gold-fever; the classic jumping-off point for a silt-sea expedition).
+**The lesser towns** (no family seats — client settlements, each a story hook): **Blackguard** (grim north-coast waypoint), **Osgaker** and **Hollowstorm** (west-coast fishing and salvage towns), **Amber Valley** (south-coast caravanserai on the Ring Road), **Eldorado** (the rim town — last provision stop before the silt, all rumors and gold-fever; the classic jumping-off point for a silt-sea expedition — and, DM-only, the town sitting on top of the buried **fire city**: see below).
 
 ### 2. The Rim Wall — the ring of walls and mountains
 
@@ -66,6 +66,12 @@ Behind the wall, the interior is the **Sea of Silt**: the bed of the Green Age's
 
 Full systems reference — heights, weather, the spore-worm-Spice cycle, portage mechanics: **[Ecology of the Silt Sea](Dark-Sun/The-Silt-Sea.md)**.
 
+## The fire city under Eldorado
+
+One of Vermoon's buried elemental cities ([The Elemental Cities](The-Elemental-Cities.md)) lies under the rim pass at **Eldorado** — the **fire city**, with a **Titan** at its heart like all of them ([The Titans](The-Titans.md)). The salvage the prospectors have brought down out of the high country for centuries comes from it; Eldorado has never asked where. [Erleena Riser](../NPCs/Erleena-Riser.md), an archaeologist before she was Jak's scientist, has dug there and knows the way in.
+
+**This has nothing to do with the infection.** The fire city is a backstory hook for [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md) — the reason the tabaxi wants to go to Aerun — and the wiki keeps it separate from Rajaat, the Lighthouse, and the cure. It is not the same place as the deep-desert Titan of Sandwalker tradition; the fire city is under the rim, not under the silt.
+
 ## Magic: preservers and defilers
 
 Arcane magic on Aerun draws on the life force of the land. **Preservers** take only what the flora can recover from, and organize in secret cells — the **Veiled Alliance** — working quietly toward restoring Aerun's green. **Defilers** rip life out wholesale, turning soil to sterile ash; **the ascended Champions are the defiling art's apex** — the Dragon state is the defiler-psion metamorphosis walked to its end, and the ascended's centuries of feeding helped scour the Tablelands. Arcane magic is feared and often illegal in the cities — punishable by death or enslavement. See [The Order of the Sere](Factions/The-Order-of-the-Sere.md) for how this connects to the Green Age containment and the Scarlands crisis; deep source: *Defilers and Preservers* ([library](Dark-Sun.md)).
@@ -88,7 +94,7 @@ The Sea of Silt is the **scar of a cure**. During the Green Age the **[First Sou
 
 ## Why it matters now
 
-Three months ago Aerun's primal spirits began going **silent** — the Defiling Silence. [Harah Tabr](../NPCs/Harah-Tabr.md) followed it south to the Scarlands and recognized the Barrier Peaks infection at once: a **second source**, in a land with no worms and no silt to drown it. The party is unknowingly fighting the war Aerun has fought for millennia.
+Three months ago Aerun's primal spirits began going **silent** — the Defiling Silence. [Harah Tabr](../NPCs/Harah-Tabr.md) followed it south to the Scarlands and recognized the Barrier Peaks infection at once: a **second source**, in a land with no worms and no silt to drown it. The party is unknowingly fighting the war Aerun has fought for millennia. And now [Erleena](../NPCs/Erleena-Riser.md) is coming to Aerun for the two things her cure needs — a baseline sample from Rajaat, and a defiler wizard — with the party carrying her there ([Return to the Ship](../Adventures/Return-to-the-Ship.md)).
 
 ## Player-facing material
 
@@ -98,13 +104,13 @@ Everything player-safe about Aerun lives in its own top-level section, built to 
 - **[A Traveler's Gazetteer of Aerun](../Aerun-Players-Guide/Gazetteer.md)** — every labeled point on the atlas as a spoiler-free visitor's-guide entry.
 - **[The Great Schools of Aerun — A Traveler's Primer](../Aerun-Players-Guide/The-Great-Schools.md)** — the five psionic academies; the DM version is [The Great Schools](Factions/The-Great-Schools.md).
 
-Nothing in that section spoils the Champions' true nature, the Veil, the Spice, or the First Source.
+Nothing in that section spoils the Champions' true nature, the Veil, the Spice, the First Source, or the fire city.
 
 ## Using Aerun at the table
 
 - **Source shelf:** the **[Dark Sun section](Dark-Sun.md)** — conversion rules, the 2e library (Wanderer's Journal, Defilers and Preservers, The Will and the Way, Gladiator's Handbook), and the [Glossary](Dark-Sun/Glossary.md) of families, cities, dragons, and the Guild.
 - Rules: the **[Dark Sun 5e Rules](../Game-Mechanics/Dark-Sun-5e-Rules.md)** page summarizes the player-facing Players Guide (races, Psion, Arcane Defilement, wild talents); DM chassis: **`assets/DarkSun_5e_Campaign_Guide_v1.9.pdf`** and **`assets/DarkSun_5e_Terrors_of_the_Desert_v1.0.pdf`** — plus the 4e books and Dune 2d20 line ([Sourcebooks & Inspiration](../Reference/Sourcebooks-and-Inspiration.md)).
-- The party has been here before — by flight and teleporter, never by sea. The [teleport network](The-Elemental-Cities.md) nominally reaches the coastal ring. (The interview's elemental **fire city** should be mapped onto one of the seven — [ANDY LORE].)
+- The party has been here before — by flight and teleporter, never by sea. The [teleport network](The-Elemental-Cities.md) nominally reaches the coastal ring. The elemental **fire city** is settled: buried under Eldorado, not one of the seven.
 - Tone: **ecological grief** on the silt, **political vertigo** on the coast, **arena blood** in between.
 
 ## Design notebook

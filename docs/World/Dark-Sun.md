@@ -36,7 +36,7 @@ The reference shelf for everything [Aerun](Aerun.md) borrows — and it borrows 
 | Dark Sun / Dune | This campaign |
 | :--- | :--- |
 | Athas, the dying world | **Aerun** — one continent's worth of the same story, as Vermoon's warning |
-| Rajaat, the First Sorcerer (inventor of defiling) | **Rajaat, the First Source** — the name migrated from the man to the thing his art was used against; the weapon and the disease share a name |
+| Rajaat, the First Sorcerer (inventor of defiling) | **The same Rajaat.** His Champions sent him into the Hollow, inside the Black, and the sending tore a hole into our world that never healed — the [First Source](../Campaign/Plot-Threads/The-First-Source.md) pours from it, and the Sandwalkers gave the place his name. *"It started with Rajaat."* Kept as the sorcerer on purpose, so more Dark Sun lore can come in cleanly |
 | The Cleansing Wars' scoured wastes | **The Green Age defiling** — the working that unmade the interior into the Sea of Silt |
 | The Emperor (Dune) | **Jak** — the one king, far to the north; his temples are embassies |
 | The Landsraad / the merchant dynasties | **[The seven families](Factions/The-Merchant-Houses.md)** — Wavir, Tsalaxa, Inika, Shom, M'ke, Vordon, Stel — **ruling their cities outright** |

@@ -29,7 +29,7 @@ This is why the wardens' Spice-fed psionic strength is not a luxury: **sight con
 
 | Term | Meaning |
 | :--- | :--- |
-| **Rajaat** | The First Source — the place where it began; the name is not written on any coastal map |
+| **Rajaat** | The sorcerer sent into the Hollow at the end of the Green Age; the sending tore the hole the First Source pours from, and the place carries his name. *"It started with Rajaat."* Not written on any coastal map |
 | *vel-keth* | "The hunger that eats the world" — the infection, in both its outbreaks |
 | The Defiling Silence | The primal spirits going quiet as living energy drains faster than it regenerates |
 | The Green Age | Aerun before the outbreak and its cure — see [The Green Age](../../Campaign/Plot-Threads/The-Green-Age.md) |

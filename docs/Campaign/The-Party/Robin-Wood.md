@@ -56,11 +56,13 @@ Thieves' tools, a **forgery kit**, and **Thieves' Cant**. The kind, competent me
 
 ## Personality (from the sheet)
 
+- **Appearance:** average height; brown skin, brown eyes, brown hair. **Faith:** devoted to **Chauntea** — the grain goddess, which suits a medic whose heart is in rural communities.
 - **Trait:** keeps multiple holy symbols on her and invokes whatever deity might be useful in the moment — flattery is her preferred trick.
 - **Ideal:** Charity — she distributes what she acquires to the people who really need it. (Good)
 - **Bond:** rural communities are where her heart lives; no one should die of treatable causes just because they don't have the money.
 - **Flaw:** weary of anyone who comes from money — will stop to help anyone, even at risk to herself.
 - **Note on the sheet:** *"Steal from med bay B4 you leave."* Read literally, that's a standing player intention — Robin means to loot the ship's medical stores before the party's done there, in character with the Charity ideal above.
+- **Backstory field:** empty on the sheet. Everything below is from play.
 
 ## What's known (from the played sessions)
 
@@ -73,4 +75,4 @@ Thieves' tools, a **forgery kit**, and **Thieves' Cant**. The kind, competent me
 - The party recruited her *while actively suspicious of everyone at Frostwatch* — she passed their sniff test when almost nobody else did. That trust is now a stake on the table.
 - The natural [Counteragent](../../Game-Mechanics/The-Counteragent.md) medic for [Return to the Ship](../../Adventures/Return-to-the-Ship.md): Medicine +12 turns dose triage into her spotlight, and Steady Aim makes her deadly with serum-tipped bolts.
 - Background threads deliberately open for the new player: why the forgery kit, why "of sorts," why no implant when everyone around her wears one.
-- **The med bay note is a hook, not just flavor.** If the party lets her raid the ship's infirmary before departure, that's Charity in action and free Restorative Ointment/healing stock for the road; if the party or ship security stops her, that's the Flaw (resentment of the well-off/well-stocked) landing on-screen.
+- **The med bay note is a hook, not just flavor.** If the party lets her raid the ship's infirmary before departure, that's Charity in action and free Restorative Ointment/healing stock for the road; if the party or ship security stops her, that's the Flaw (resentment of the well-off/well-stocked) landing on-screen. With George staying behind to run S42 as a soap factory, the medical stores are now *his* — which makes the theft a conversation.

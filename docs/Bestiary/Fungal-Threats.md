@@ -4,7 +4,7 @@
 
 ![Infected dire wolf](../.attachments/fungal_wolf.png)
 
-The russet mold's servants, symbionts, and victims. Common threads: cold/poison resistance, poison-condition immunity, spore bursts, and fire as the reliable answer. Infection rules: [Russet Mold & Infection](../Game-Mechanics/Russet-Mold-and-Infection.md). *DM only: these are the [Black Salient's](../Campaign/Plot-Threads/The-Ships-Purpose.md) manifestation in flesh — and the Salient is a Far Realm protrusion, which is why the Fungal Horror is a Far Realm entity rather than a plant.*
+The russet mold's servants, symbionts, and victims. Common threads: cold/poison resistance, poison-condition immunity, spore bursts, and fire as the reliable answer. Infection rules: [Russet Mold & Infection](../Game-Mechanics/Russet-Mold-and-Infection.md). *DM only: these are the [Black Salient's](../Campaign/Plot-Threads/The-Ships-Purpose.md) manifestation in flesh — and the Salient is a protrusion of the Black, the Dark Sun realm Rajaat was sent to, which is why the Fungal Horror is an aberration rather than a plant.*
 
 Full stat blocks: `assets/Frostwatch_Horror.docx`, `assets/Think of the Children.docx`, `assets/Return_to_Frostwatch_Final.md`, `assets/S3_Level1_Complete_5e_Conversion.docx`.
 
@@ -23,7 +23,7 @@ Full stat blocks: `assets/Frostwatch_Horror.docx`, `assets/Think of the Children
 
 | Creature | CR | Core stats | Signature |
 | :--- | :-: | :--- | :--- |
-| **Fungal Horror** (Far Realm entity) | 10 | AC 16, HP 180 | Multiattack bite (4d8+5 +4d6 necrotic, DC 16 CON infect) + slam; 15-ft spore burst; regenerates unless burned; speaks in absorbed voices, mimics loved ones; spreads slick fungal terrain |
+| **Fungal Horror** (aberration — a thing of the Black) | 10 | AC 16, HP 180 | Multiattack bite (4d8+5 +4d6 necrotic, DC 16 CON infect) + slam; 15-ft spore burst; regenerates unless burned; speaks in absorbed voices, mimics loved ones; spreads slick fungal terrain |
 | **Mycelial Frost Giant Skeleton** | 9 | AC 15, HP 168 | Arrives inside a rolling spiked ice ball; greatclub 3d8+6, rock throw 4d10+6; Spore Infestation (30-ft, DC 16 CON, 6d8 necrotic + infection → spore servant); Cosmic Echoes fear hum |
 | **Thorny Hunter** | 5 | AC 14, HP 85 | 10-ft thorn lashes ×2; spore burst; **Spore Link** — shares senses with all spore-connected creatures within 120 ft |
 | **Spore-Touched Snowy Owlbear** | 5 | AC 13, HP 105 | Hallucinogenic spore cone (d6 hallucination table); explodes in spores on death (4d6 + blind) |

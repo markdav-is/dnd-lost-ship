@@ -17,7 +17,7 @@ Creatures of the campaign, grouped by origin. Entries give the DM-essential summ
 | Creature | CR | Where |
 | :--- | :-: | :--- |
 | Froghemoth | 10 | Garden lake — **infected**, now directed by the Lighthouse rather than merely territorial |
-| Fungal Horror | 10 | Frostwatch (2 slain); Far Realm entity |
+| Fungal Horror | 10 | Frostwatch (2 slain); aberration — a thing of the Black |
 | Mycelial Frost Giant Skeleton | 9 | Barrier Peaks approach (slain) |
 | Aurumvorax | 9 | Garden burrows |
 | Lurker Above (cloaker) | 8 | Levels 1/3; one escaped into the wild — now spore-touched, over the hull |

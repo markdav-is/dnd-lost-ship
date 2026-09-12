@@ -24,7 +24,7 @@ The [Lighthouse](../../The-Lost-Ship/The-Lighthouse.md) is throwing everything m
 - **The ship's defense:** [Bipedal Security Bots and Combat Robots](../../Bestiary/Ship-Constructs.md) on the ground, aerial drones overhead, and fixed laser turrets on the hull. They are fighting the horde, not the party — and the turrets are *deliberately* covering the party. Eddie knows exactly who they are (George told him); he is simply over-eager and not a very good shot. The ground bots will still grapple anything that gets underfoot.
 - **The party:** the horde's next meal and the ship's honored guests, at the same time, in the same fifty feet. The job is to thread between a tide that wants them dead and a defense that wants them alive but keeps missing, spot the open airlock door up the hillside, and run for it before either side changes its mind.
 
-**If [Harah](../../NPCs/Harah-Tabr.md) is along:** her **Primal Attunement** senses russet mold within 60 ft and means she can't be surprised by infected creatures, and her **Sandsense** means she can't be surprised at all. Put her on point. She's the one who calls out the gap in the horde before it closes.
+**Point.** Someone has to call the gap in the horde before it closes. Shhhmeowmeow's passive Perception 16 and Eustace's 20 from the air are the party's eyes; put whoever the table picks on point and let them make the Perception call below for everyone.
 
 ## In the air
 
@@ -38,7 +38,7 @@ The Lighthouse has put its flyers over the hull. Eddie's aerial drones are tangl
 
 - **Covering fire reaches the sky.** Flyers make the same **DEX 13** save each leg as the ground party — turret lines rake the air too — with the same 2d6 radiant on a failure and the same instant apology from Eddie, aimed upward this time.
 - **Two lanes.** Sky: faster to the door, but the griffons and cloaker single out whoever's alone. Ground: slower, crowded, but the robots are wading through it beside you. Split parties are the fun version.
-- **Harah still calls the gap** (Primal Attunement / Sandsense) — and can't be surprised by the cloaker's drop.
+- **The cloaker's drop** is the one surprise on the field — Eustace's passive 20 is the best chance of seeing it coming.
 
 ## Getting in
 
@@ -82,4 +82,4 @@ Keep it short. Eddie is warm, bumbling, and genuinely trying to help. The sessio
 
 ---
 
-*Deeper knowledge:* [Return to the Ship](../Return-to-the-Ship.md) · [Bestiary — Ship Constructs](../../Bestiary/Ship-Constructs.md) · [Bestiary — Fungal Threats](../../Bestiary/Fungal-Threats.md) · [Russet Mold & Infection](../../Game-Mechanics/Russet-Mold-and-Infection.md) · [Harah Tabr](../../NPCs/Harah-Tabr.md) · [Erleena Riser](../../NPCs/Erleena-Riser.md) · [George Decay](../../NPCs/George-Decay.md)
+*Deeper knowledge:* [Return to the Ship](../Return-to-the-Ship.md) · [Bestiary — Ship Constructs](../../Bestiary/Ship-Constructs.md) · [Bestiary — Fungal Threats](../../Bestiary/Fungal-Threats.md) · [Russet Mold & Infection](../../Game-Mechanics/Russet-Mold-and-Infection.md) · [Erleena Riser](../../NPCs/Erleena-Riser.md) · [George Decay](../../NPCs/George-Decay.md)

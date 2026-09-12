@@ -39,11 +39,23 @@ Deep resonant baritone, refined diction, dramatic pauses, signature **"Oh my!"**
 - **Stimulant cocktail** 3/day: advantage on INT checks and saves 10 min, then 1 exhaustion.
 - **Alchemical vials:** acid, alkaline mold-killer (2d10 to fungal creatures, no save), flash powder.
 - **Infected — improving:** DC 15 CON per untreated 24h or lose 1d6 max HP; at 0 → vegepygmy in 1d4+20 hours. His anti-fungal treatment currently holds that line rather than losing it. He fights anyway.
-- **Gear:** medical bag (2 healing sprays 2d12), notebook of ship observations, atmosphere analyzer, gray key card, a working stock of his anti-fungal treatment — **six doses, as of the reunion at S42** ([The Lab at S42](../Adventures/Return-to-the-Ship/The-Lab-at-S42.md)), to share with the party as a stopgap (halts progression, doesn't reverse; see [Russet Mold & Infection](../Game-Mechanics/Russet-Mold-and-Infection.md)) — and **four spore-blaster rigs**, also as of the reunion at S42 (stats on [The Counteragent](../Game-Mechanics/The-Counteragent.md)).
+- **Gear:** medical bag (2 healing sprays 2d12), notebook of ship observations, atmosphere analyzer, gray key card, a working stock of his anti-fungal treatment — **six doses, as of the reunion at S42**: five for the party and the sixth for Erleena ([The Lab at S42](../Adventures/Return-to-the-Ship/The-Lab-at-S42.md)); a dose halts progression, doesn't reverse it (see [Russet Mold & Infection](../Game-Mechanics/Russet-Mold-and-Infection.md)) — and **four spore-blaster rigs**, also as of the reunion at S42 (stats on [The Counteragent](../Game-Mechanics/The-Counteragent.md)).
 
 ## His lab
 
 **George's own lab is S42, Medical Storage, on the observation deck's north-west rim — two doors west of the north drop tube (S31), past the S32 robot station (QftIS Map 7.2, p.177)** — separate from Erleena's beneath the Lighthouse; see [Level 2 — The Theater](../The-Lost-Ship/Level-2-The-Theater.md) for the rest of the deck. It grew out of his old base in the garden crew room (S50): workbenches of ship instruments, his drug-synthesis rig fed by the medical systems, a month of notes on the mold. He picked the room for what was already in it — shelves of the ship's medical stock to feed the rig, and a yellow-tier door that stays shut to anything without a card — and he has held it for a month by learning the ring around it: the killer-plant growths at S38b (north-east, along the rail) and S38c (south-west, past the pool) wall his pocket off from the rest of the ring in both directions, so nothing walks to his door along the rail; his early warning is Eddie's sensors and the lit run from the north tube, and there are doors on this ring he has learned never to open, starting with the whirlpools next door and the pool beyond them. His standing advice to visitors, delivered without looking up from the bench: *"From the tube, follow the lights and stop where they stop. The doors past that point are not locked. That is rather the problem."* (This lab's network sessions were part of George and Erleena's deliberate, joint effort to wake Eddie for cure research and communication — see [Return to the Ship](../Adventures/Return-to-the-Ship.md).) He and Erleena stay apart not by choice: the Lighthouse is still producing spores, and the Garden Level between his deck and her lab is thicker with them now than it was on the party's first pass — a hazard, not a rift.
+
+## Staying behind — the holding action
+
+When Erleena decides the cure is on Aerun and that she is going to get it ([Beneath the Lighthouse](../Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md)), George stays. Spore air is the one thing his treatment can't handle; a sea crossing and a desert would finish him. He has known this since before the party arrived, and he and Erleena settled it on the comm before she ever said it out loud to anyone else. *"Someone has to mind the shop. I am, regrettably, the only one of us the shop is currently eating."*
+
+What he does while they are gone — simple, and said plainly at S42 on the party's way out:
+
+- **More soap.** With Eddie running the search space and the ship's medical stock feeding the rig, George scales up: more anti-fungal doses for himself, more alkaline mold-killer, refilled tanks at every fire-suppression station Eddie can reach.
+- **The robots carry it.** Worker robots can carry tanks and hoses; combat robots can escort them. Deck by deck, Eddie's robots wash the mold back and hold what they clear. Slow, unglamorous, and real — a holding action, not a cure.
+- **Keep the thing looking at the ship.** The tower turned inward because the science is working. As long as it is fighting George, it isn't spreading. Every day the Lighthouse spends throwing infected things at the hull is a day it isn't bleeding out into the valley. *"I intend to be extremely annoying to it. I have a gift."* This is what buys the voyage its time — **for now.** Nobody, George least of all, thinks it holds forever.
+
+He is, in short, the reason the party can leave. Play the goodbye at S42 warm and brief; he will not permit it to be anything else.
 
 ## Knowledge & limits
 
@@ -55,8 +67,8 @@ Knows: the card system, the mold's lifecycle (21–24h transformation; burn or d
 
 ## Arcs available
 
-- **The surgery (Erleena's Pivot):** defile-then-restore as medicine — a willing defiler kills the spore colony inside him; Robin, Gobbledegook, and restoration magic rebuild what it consumed; Erleena directs; George narrates his own operation in dry baritone. The colony's death screams through the spore network — expect the counterattack of the campaign mid-procedure. Full design: [The Three Roads](../Adventures/The-Three-Roads.md).
+- **The surgery (Erleena's Pivot):** defile-then-restore as medicine — a willing defiler, brought back from Aerun, kills the spore colony inside him; Robin and restoration magic rebuild what it consumed; Erleena directs; George narrates his own operation in dry baritone. The colony's death screams through the spore network — expect the counterattack of the campaign mid-procedure. Full design: [The Three Roads](../Adventures/The-Three-Roads.md).
 
-- **Saved:** a cure (Erleena's lab, engineering decontamination) makes him a permanent ally and ship-tech interpreter.
+- **Saved:** a cure (Erleena's baseline work on Aerun, the surgery on the ship) makes him a permanent ally and ship-tech interpreter.
 - **Transformation:** the party fights what he became — a vegepygmy retaining nothing.
 - **Heroic sacrifice:** seal a contaminated section, hold a horde, trigger the decontamination system that kills him. His research must reach Jak; Erleena must be told he completed the mission.

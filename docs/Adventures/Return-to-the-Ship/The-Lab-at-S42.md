@@ -44,7 +44,7 @@ Then give the party the floor. Let them look at him, count heads, say what they 
 
 | | What | The fine print |
 | :--- | :--- | :--- |
-| **The doses** | His anti-fungal treatment, proven on himself — **six doses**, one per member of the expedition, Harah included. | **Stopgap tier** ([Russet Mold & Infection](../../Game-Mechanics/Russet-Mold-and-Infection.md)): a dose halts progression for 24 hours; it does not reverse a stage. He says so before anyone can ask: *"This is not the cure. This is the thing that keeps you alive long enough to be cured."* |
+| **The doses** | His anti-fungal treatment, proven on himself — **six doses**: five for the party, one each, and **the sixth for Erleena**. He says her name when he counts it out, and he means for it to reach her. | **Stopgap tier** ([Russet Mold & Infection](../../Game-Mechanics/Russet-Mold-and-Infection.md)): a dose halts progression for 24 hours; it does not reverse a stage. He says so before anyone can ask: *"This is not the cure. This is the thing that keeps you alive long enough to be cured."* |
 | **The spore-blasters** | **Four backpack rigs** — the ship's old fire extinguishers refilled with his alkaline mold-killer. He would rather show than tell: see *The demonstration* below. | Stats on [The Counteragent](../../Game-Mechanics/The-Counteragent.md). |
 | **The state of Erleena** | Alive, close, and further along than anyone hoped — she stopped the strain replicating in a dish ([her Progress](../../NPCs/Erleena-Riser.md)), and she thinks she knows what the source *is*. George won't spoil it: *"She'll want to tell you herself. She has slides."* George talks to her every day on the ship's internal comms — he told her the moment the party reached S42, and she has heard all about the doses and the packs (she has asked for one). It is the *outside* line that is dead: the ship's fields let no signal in or out of the hull ([Ship-wide properties](../../The-Lost-Ship.md)). What keeps the two of them apart is the garden. And the Lighthouse is fighting back now — the siege outside is aimed at *her*, and at him: it started when the soap started working, and he does not think that is a coincidence. | The [Garden Level](../../The-Lost-Ship/The-Garden-Level.md) between here and her lab is thicker with spores than the party remembers. George can't go — spore air is still the one thing his treatment can't handle. *"I would last an hour. Perhaps two. I have done the arithmetic and I do not care for it."* |
 | **The bargain** | Eddie will open the medical decks below — the labs, the pharmacopeia, the cure materials — but he wants *"a small favor or two"* first. George translates: *"It wants things done. It's a computer. It does not know what 'small' means."* | Which favor comes first is the DM's call; don't resolve it on this page. Let Eddie float it from the ceiling and George raise an eyebrow. |
@@ -71,9 +71,9 @@ George's fungicide spray packs — the spore-blasters, if you ask Eddie — get 
 
 Full rules — cone, blasts, refills, what a wash does to fungus and to the Lighthouse's hold — on [The Counteragent](../../Game-Mechanics/The-Counteragent.md).
 
-## Harah and George
+## What the party brings
 
-The primal mind and the scientific mind on one problem, from opposite ends, and they take to each other fast. She offers him the **Sandwalker stabilizer** — not a cure; time and clarity — and he accepts it with the interest of a man who has been his own only test subject for a month. Then her real errand: she means to put **defiler magic** to Erleena — a willing defiler kills the colony inside George, restoration rebuilds what it ate (the surgery Erleena's [Pivot](../../NPCs/Erleena-Riser.md) already sketches). George, intrigued and appalled in the same breath: *"So the treatment is to murder a garden that happens to be me, and then replant. Oh my. — No, don't stop. I'm listening."*
+George has a month of ship news and none from outside. He will ask — about Frostwatch, the council, who came — but he asks quickly and moves on, because he has a bench to get back to and because he knows who really needs to hear it. *"Tell Erleena. All of it. She's had nothing but me for a month, and I am, I'm told, a limited diet."* If the party mentions Rajaat or the defilers here, he listens hard and says little; the surgery idea is Erleena's to have ([her Pivot](../../NPCs/Erleena-Riser.md)). If it comes up, his reaction: *"So the treatment is to murder a garden that happens to be me, and then replant. Oh my. — No, don't stop. I'm listening."*
 
 ## The decision — the way down
 
@@ -90,6 +90,10 @@ The party leaves George at S42 and goes to Erleena. Both ways down from George's
 
 End here. The players choose; the page doesn't.
 
+## On the way back — George stays
+
+When the party comes back through S42 with Erleena ([Beneath the Lighthouse](Beneath-the-Lighthouse.md)), this room is the goodbye. George and Erleena in one place for the first time in a month; the plan said out loud with all three sides present; the last refills on the tanks. George's part is the holding action: he stays, he and Eddie make more soap, the robots carry it deck by deck, and as long as the tower is fighting him it isn't spreading — *for now* ([George Decay](../../NPCs/George-Decay.md)). Play it warm and brief. He will not permit it to be anything else.
+
 ## Optional trouble (one-liners)
 
 Only if the table wants a jolt.
@@ -104,4 +108,4 @@ Warm. Let George be funny and let Eddie be a nuisance in the nicest possible way
 
 ---
 
-*Deeper knowledge:* [George Decay](../../NPCs/George-Decay.md) · [Erleena Riser](../../NPCs/Erleena-Riser.md) · [Harah Tabr](../../NPCs/Harah-Tabr.md) · [Level 2 — The Theater](../../The-Lost-Ship/Level-2-The-Theater.md) · [The Garden Level](../../The-Lost-Ship/The-Garden-Level.md) · [Russet Mold & Infection](../../Game-Mechanics/Russet-Mold-and-Infection.md) · [The Counteragent](../../Game-Mechanics/The-Counteragent.md) · module: [Return to the Ship](../Return-to-the-Ship.md)
+*Deeper knowledge:* [George Decay](../../NPCs/George-Decay.md) · [Erleena Riser](../../NPCs/Erleena-Riser.md) · [Level 2 — The Theater](../../The-Lost-Ship/Level-2-The-Theater.md) · [The Garden Level](../../The-Lost-Ship/The-Garden-Level.md) · [Russet Mold & Infection](../../Game-Mechanics/Russet-Mold-and-Infection.md) · [The Counteragent](../../Game-Mechanics/The-Counteragent.md) · module: [Return to the Ship](../Return-to-the-Ship.md)

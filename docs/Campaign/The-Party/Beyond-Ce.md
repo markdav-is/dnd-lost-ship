@@ -13,6 +13,7 @@ Human Sorcerer 11 (Faction Agent). Player: natnerd15 (**Andy**). Sheet: `assets/
 - **Saves:** CON +6, CHA +7 proficient; **advantage on concentration saves when damaged**.
 - **Senses:** Darkvision 120 ft. Passive Perception 10 — the party's least perceptive member; ambushes land on Beyond-Ce.
 - **Key skills:** Persuasion +7, Intimidation +7, Deception/History/Performance +3, Insight +4.
+- **Languages:** Common, Common Sign Language, Elvish, Goblin, Orc. **Tools:** herbalism kit.
 
 ## Combat
 
@@ -41,9 +42,13 @@ Human Sorcerer 11 (Faction Agent). Player: natnerd15 (**Andy**). Sheet: `assets/
 | Robot Controller | 0 | — |
 | Tent | 1 | 20 lb |
 
+## From the sheet
+
+The export carries **no backstory, appearance, personality, ideals, bonds, or flaws** — every one of those fields is blank. What the sheet does say: Faction Agent background; a **Collar of the Beast** with no owner named; Goblin and Orc among the languages; and a sorcerer who took Common Sign Language. Andy is the world's creator and knows exactly who Beyond-Ce is; the page waits for him.
+
 ## DM hooks
 
 - **Took heavy psychic damage and was briefly dominated** in the mind flayer theater fight — psychic scars available for callbacks.
-- Faction Agent background: the natural hook for [Tomas Vel-Maret and the merchant alliance](../Plot-Threads/The-Merchant-Alliance.md) to make contact through.
+- Faction Agent background: the natural hook for [Tomas Vel-Maret and the merchant alliance](../Plot-Threads/The-Merchant-Alliance.md) to make contact through. Which faction is the blank on the sheet.
 - Player Andy is the world's creator-DM and keeper of Aerun deep lore — the remaining **[ANDY LORE]** insertion points in [The Green Age](../Plot-Threads/The-Green-Age.md) are his to define, in or out of character.
 - A sorcerer watching wizards defile: if any arc tempts a player character toward the [Arcane Defilement](../../Game-Mechanics/Dark-Sun-5e-Rules.md) rules, the party's arcanist has a front-row seat — and Andy knows exactly what it costs.

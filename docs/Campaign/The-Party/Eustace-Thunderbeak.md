@@ -74,12 +74,28 @@ Aarakocra Bard 11 (Pirate). Player: Ben. Sheet: `assets/Eustace (Eu) Thunderbeak
 | Sealing Wax | 1 | — |
 | Soap | 1 | — |
 
+## Backstory (from the sheet)
+
+The fullest backstory in the party, in the player's words on the sheet:
+
+- **Heronopia.** From a small town built on an estuary, mostly fishers and traders. He worked as a fisher growing up, hearing stories of far-off places and hidden treasures.
+- **Eight years looking for Airlantis.** He spent the last eight years in and out of ports, most often at sea, searching for *"Airlantis, the city that floated away into the sky,"* which he had heard about as a hatchling. He heard it might be on mountaintops, above whirlpools, or crashed back to the ground destroyed. He kept hoping, and worked as a pirate and mercenary to make a living meanwhile. **He found it** — the previous campaign ended with Airlantis under the party's control and Eustace landing it at his homeland ([The Elemental Cities](../../World/The-Elemental-Cities.md)). The hatchling's story came true. Play him as someone who knows exactly how lucky that is.
+- **Heimwater harbor.** When he left his love behind in Heimwater harbor, she pulled a feather from her own plumage and cast a spell on it, turning it into a ring imbued with feather falling, *"so her love might always keep the air light under his wings."* That is the **Ring of Feather Falling** in his pack. It is not for sale.
+- **Also on the sheet:** *"I have one magic bean."* (Musty-Jo carries the Bag of Beans; whose bean this is, and where the rest went, is unrecorded.) And a note reading *"Panic: +2."*
+
+**Appearance:** male, 13 (aarakocra come of age fast), 5′2″, 90 lb; golden-yellow eyes, light brown plumage. Neutral Good.
+
+**Personality.** *I never pass up a friendly wager. I like a job well done, especially if I can convince someone else to do it.* **Ideal:** People — committed to his crewmates, not to ideals (Neutral). **Bond:** *In a harbor town, I have a paramour whose eyes nearly stole me from the sea.* **Flaw:** *My pride will probably lead to my destruction.*
+
+**Allies listed:** Musty Joe, Gobbledygook, Shhhmeowmeow, **Jackamar Börnson** (Jak, in the player's spelling), **Essos, the Black Dragon**, and **Undaloth, the Green Dragon** — with the note *"2,500 in gems for thhhhhh."* Undaloth is not one of the four prophecy dragons on [The Dragons](../../World/The-Dragons.md); who that is and what the gems were for is a previous-campaign thread waiting for its owner. **Organization:** *"gee force"* — the G-Force Medallion in his equipment is presumably its badge.
+
 ## Airlantis
 
-At the end of the previous campaign Eustace landed **[Airlantis](../../World/The-Elemental-Cities.md)** — the flying city the party controls — **at his homeland, to a hero's welcome**. It rests there still, fueled and flyable thanks to [Rico's](../../NPCs/Rico.md) synthesis process. Eustace is, in effect, the keeper of the party's greatest strategic asset.
+At the end of the previous campaign Eustace landed **[Airlantis](../../World/The-Elemental-Cities.md)** — the flying city the party controls — **at his homeland, to a hero's welcome**. It rests there still, fueled and flyable thanks to [Rico's](../../NPCs/Rico.md) synthesis process. Eustace is, in effect, the keeper of the party's greatest strategic asset — and the boy who spent eight years looking for it.
 
 ## DM hooks
 
 - Native flight changed several set-piece fights (Sky Hunters, froghemoth) — the source modules assume aerial party members and punish landing.
-- Pirate background ties to Grønnfjord's harbor world: Captain Olaf, the southern sea routes, and any future voyage to Aerun.
+- Pirate background ties to Grønnfjord's harbor world: Captain Olaf, the southern sea routes, and the coming voyage to Aerun. Heimwater harbor — and the paramour — is a port waiting to be put on a map.
 - **The purge path runs through Eustace.** Airlantis is the council's designated strike platform for the fire road ([The Three Roads](../../Adventures/The-Three-Roads.md)) — so the world's most terrible option requires his yes, and his people live next to the runway. No pressure.
+- **Undaloth and the gems.** A green dragon owed (or owing) 2,500 in gems is a debt nobody at the table has cashed. Ask Ben.

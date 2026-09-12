@@ -12,6 +12,7 @@ Centaur Fighter 6 / Paladin 5 (Outlander). Player: yourthighness69. Sheet: `asse
 
 - **Immunities: disease** (paladin) — and **critical hits** (listed defense). Disease immunity matters enormously against russet mold infection; the DM should rule explicitly whether the mold counts as disease.
 - **Key skills:** Athletics +8, Perception +6 (passive 16), Survival +6, Intimidation +5.
+- **Languages:** Common, Elvish, Sylvan. **Tools:** cartographer's tools, flute.
 
 ## Combat
 
@@ -69,9 +70,21 @@ Centaur Fighter 6 / Paladin 5 (Outlander). Player: yourthighness69. Sheet: `asse
 | Shart | 13 | — |
 | Catnip | 1 | — |
 
+## From the sheet
+
+- **Appearance:** male, 23, 7 ft, 1,200 lb; tan skin, brown eyes, blond hair. Neutral Good.
+- **Personality:** *Means well but not that smart. Very sweet and gentle except when those close to him are at risk. Then he go cray.*
+- **Ideal:** *Old traditions, new traditions — basically believes whatever people tell him.*
+- **Bond:** *Family, community; OK with people he trusts riding him.*
+- **Flaw:** *Oblivious, trusting, gullible.*
+- **Backstory field:** empty on the sheet. Outlander background; the rest is the player's to tell.
+
+The **Silver Dragon Ball** in his pack is one of the dragon orbs from the previous campaign — which may make Musty-Jo the unconfirmed partner of the Silver/White Dragon that lives at Airlantis ([The Dragons](../../World/The-Dragons.md)). Worth confirming at the table.
+
 ## DM hooks
 
 - Was **grappled, stunned, and dominated repeatedly** by the mind flayers in the Level 2 theater — a grudge worth invoking.
 - A centaur in ship corridors and drop tubes: mobility complications are a recurring (and fun) constraint — the wheely sleds and hoversled are his friends.
 - The [Counteragent](../../Game-Mechanics/The-Counteragent.md) syringe-lance build was written for him: Charge, pin, auto-dose. The party's cavalry is also its ambulance.
 - **A Juicer, a Blender, and an Android Gizmo** are riding in his pack with no explanation yet — scavenged ship tech nobody's asked him about.
+- **"Believes whatever people tell him."** On Aerun, where every merchant house and Guild factor lies for a living, that ideal is a hook with a barb on it. Also: the catnip is for someone specific.

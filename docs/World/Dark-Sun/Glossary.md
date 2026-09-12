@@ -18,7 +18,7 @@ The balance: Jak's network moves *words* instantly but cannot move *goods*; the 
 
 ## The Champions (the former god-kings)
 
-The beings the old world worshiped as god-kings **kept their names and lost their thrones** — because on Aerun the role was never really *king*. It was **Champion**: each family's sovereign weapon, the single being who fights in the family's name. The title is a thousand years old and heavier than any crown: the first **Champions of Rajaat** were the Green Age heroes who led the great defiling that stopped the [First Source](../../Campaign/Plot-Threads/The-First-Source.md) — they saved the world by unmaking the continent's heart, and their successors have carried the name, the power, and the stain ever since.
+The beings the old world worshiped as god-kings **kept their names and lost their thrones** — because on Aerun the role was never really *king*. It was **Champion**: each family's sovereign weapon, the single being who fights in the family's name. The title is a thousand years old and heavier than any crown: the first **Champions of Rajaat** were his own generals — who turned on him, sent him into the Hollow, and then led the great defiling that stopped what poured out of the hole his sending left ([First Source](../../Campaign/Plot-Threads/The-First-Source.md)). They saved the world by unmaking the continent's heart, and their successors have carried the name, the power, and the stain ever since.
 
 ### The War of Champions
 

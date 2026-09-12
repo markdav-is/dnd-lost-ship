@@ -6,7 +6,7 @@
 
 The source. A white tower at the center of the garden island, consumed by russet mold mycelium, broadcasting spores through the ship and out into the Barrier Peaks. The campaign's central dilemma stands here.
 
-*DM only: the tower is the **anchor** of the Black Salient — an interdimensional protrusion from the Far Realm bleeding negative energy into our reality. The mold is that bleed made physical. See [The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md).*
+*DM only: the tower is the **anchor** of the Black Salient — a protrusion of the Black — the Dark Sun realm Rajaat was sent to — bleeding negative energy into our reality. The mold is that bleed made physical. See [The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md).*
 
 > *The original white concrete is barely visible beneath a skin of interlocked mushroom caps and ropy cords of pale mycelium, infiltrating every seam and crack of the structure with a faint, steady bioluminescent glow… High above, a blinding halo of churning golden-white spores swirls in slow, deliberate orbit around the lantern room.*
 
@@ -23,12 +23,12 @@ The source. A white tower at the center of the garden island, consumed by russet
 
 **[Erleena Riser](../NPCs/Erleena-Riser.md)** — alive, suit intact, found straining at the hatch wheel. *"Well. I'll be damned. You're a long way from home."*
 
-## Below the Lighthouse: Erleena's Lab, then the Observatory
+## Below the Lighthouse: Erleena's Lab, then the stair down
 
 Fifty feet beneath the lake surface: a 30-ft circular chamber, 10-ft ceiling, cold stale air, blue-green emergency light. Concave porthole windows look into the murk (AC 13, 10 HP each; a broken window floods the chamber at 1 ft/round) — the lake's small infected fauna batter the glass around the clock, and it holds; a froghemoth is another matter. If the froghemoth lives, three glowing eyes watch from the dark.
 
-- **Erleena's lab sits in the sealed levels directly beneath the Lighthouse** — intact seals, the lake as a natural spore shield: the perfect control environment, directly beneath the heaviest spore concentration. She is synthesizing a cure here: for George, and for everyone infected. (George's own lab is separate — up on the observation deck; see [his page](../NPCs/George-Decay.md).)
-- **Her physics problem:** the stairwell continues down; the access door at the bottom is supposed to be sealed but **has been cycling open and closed for two days** — something is overriding the lock. She asked the party to make it stay shut. *(It didn't entirely work — the door still cycles, unexplained, and it leads further down toward the stasis chamber; see [The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md).)*
+- **Erleena's lab sits in the sealed levels directly beneath the Lighthouse** — intact seals, the lake as a natural spore shield: the perfect control environment, directly beneath the heaviest spore concentration. She is synthesizing a cure here: for George, and for everyone infected — and she lives here, in the old crew quarters off the lab, in a lab coat; the suit only goes on for the stair ([her page](../NPCs/Erleena-Riser.md)). (George's own lab is separate — up on the observation deck; see [his page](../NPCs/George-Decay.md).)
+- **The cycling door:** the stairwell continues down; the access door at the bottom is supposed to be sealed but **has been cycling open and closed** since before the party's first visit — she asked them to make it stay shut, and it didn't work. The reason is mechanical: the door's **control station is on the lower-deck side, and its override is jammed at LOCAL** — Eddie can see the fault and can't clear it from his end. Someone has to go down and push the lever. Side quest: [The Jammed Override](../Adventures/Return-to-the-Ship/The-Jammed-Override.md). The stair comes out at the **southern edge of the [Lower Deck](The-Lower-Deck.md)** — a door the DM added off the published map, and one the party already knows — on the same deck as the stasis chamber ([The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md)).
 
 ## Stakes cheat sheet
 

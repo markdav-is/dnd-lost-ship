@@ -1,4 +1,4 @@
-[World](../World.md) / The Titans <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [World](../World.md) / The Titans <!-- wikidown:breadcrumb -->
 
 # The Titans
 
@@ -9,7 +9,7 @@ Source: Andy's world-building interview, `assets/Vermoon World-Building Session_
 ## What they are
 
 - Vast elemental colossi with a **cosmic quality** — so big and so different they are not really relatable; inexplicable, powerful, *"don't get too close"* dangerous. Each takes the character of its element: the Earth Titan golem-esque, stone and shifting earth; the Water Titan aqueous and amorphous; wind and fire likewise. (Exact forms are deliberately open — Andy left size and shape to interpretation, from mountain-sized to "a teeny, tiny, super-powerful elemental.")
-- The ancient cities **used the Titans as power sources**, each under a city's control — the engine behind the elemental city-themes ([The Elemental Cities](The-Elemental-Cities.md)).
+- The ancient cities **used the Titans as power sources**, each under a city's control — the engine behind the elemental city-themes ([The Elemental Cities](The-Elemental-Cities.md)). **Each buried elemental city still has its Titan at its heart** — the fire city under Eldorado on Aerun among them.
 - The **dragons were meant to protect the Titans** — a duty entangled with the Red Dragon's apocalypse ([The Dragons](The-Dragons.md), [Timeline](Timeline.md)).
 - The party has directly seen only the **Earth Titan** in the previous campaign; the others are known through their cities' use of them.
 
@@ -23,6 +23,7 @@ This is the belief that drove the **Blue Dragon** off-world: *"I don't think I'm
 
 ## Hooks into the current campaign
 
-- **Aerun's Titan:** Sandwalker tradition speaks of the Titan ("the Work") slumbering in the deep desert — cause of the devastation, or the last attempt to stop it ([The Green Age](../Campaign/Plot-Threads/The-Green-Age.md)). If the ship's energy drain spreads, does it wake — or corrupt — what sleeps there?
+- **The fire city's Titan, under Eldorado:** the Titan the party is likeliest to reach next — because [Shhhmeowmeow's](../Campaign/The-Party/Shhhmeowmeow.md) backstory points there, and [Erleena](../NPCs/Erleena-Riser.md) knows the way in. **Keep it separate from the infection plot**: the fire city has nothing to do with Rajaat or the Lighthouse. It is a place the party wants to go for its own reasons.
+- **Aerun's Titan:** Sandwalker tradition speaks of the Titan ("the Work") slumbering in the deep desert — cause of the devastation, or the last attempt to stop it ([The Green Age](../Campaign/Plot-Threads/The-Green-Age.md)). If the ship's energy drain spreads, does it wake — or corrupt — what sleeps there? Whether that deep-desert Titan and the fire city's Titan are the same is open; the fire city is under the rim, not under the silt.
 - **The Lighthouse question at Titan scale:** the ship drains the land's living energy the way the cities once drew on the Titans. Harah's *vel-keth* may be the same hunger wearing different machinery.
 - **Revelation delivery:** Harah's Primal Rite of Remembrance or Nova's recovering memory can each confirm — or complicate — the captor theory when the campaign is ready to answer it.

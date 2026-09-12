@@ -8,6 +8,10 @@ Dune Strider of the [Sandwalkers](../World/Factions/The-Sandwalkers.md) — deep
 
 Full writeup: `assets/desert_continent_expansion.md`; deep desert context: `assets/Aerun_TheDesertContinent.md`; her council scenes: `assets/Return_to_Frostwatch_v3.md`.
 
+## Where she is now
+
+**She did not go to the ship.** The party left Frostwatch for the Barrier Peaks without her ([Return to the Ship](../Adventures/Return-to-the-Ship.md)); she stayed behind with the council and the Sere problem. What she told the room about Rajaat and the desert travels with the party in their own words, and it is the party — not Harah — who carries it down to [Erleena](Erleena-Riser.md) beneath the Lighthouse. When the party comes back out with Erleena and a destination, Harah is the obvious first stop: the way to Aerun runs through the Sandwalkers, and so does the broken bridge to the Order of the Sere.
+
 ## How she arrived
 
 Three months tracking the Silence across the sea and over the mountains on foot; found at Frostwatch's gate at dawn, sitting cross-legged in the snow, *waiting to be noticed* — which unsettled the Spásistren more than aggression would have. Carries no implant, no trackable technology: to the network she is a **ghost**. Valerius, at the council's end: *"Then you are invisible to the network. I may need that. Before this is over."*
@@ -49,9 +53,9 @@ Economical with words, generous with action. States her position once, then does
 - **Ecological memory:** introduces the [Green Age](../Campaign/Plot-Threads/The-Green-Age.md) through observation, never exposition — she answers history, doesn't volunteer it.
 - **Warden of Rajaat:** the cure path is now *personal* — success frees her people from a thousand-year duty they never chose. She wants the party to succeed more than she will ever say.
 - **Keeper of ringed secrets:** what she tells, what she yields under pressure, and what she never says — the gaps are where her best scenes live.
-- **Gateway to the Sere — with a broken bridge (as played):** the council wants the defilers' containment help, and reaching them runs through Harah. But *"the defilers won't talk to me… They wouldn't necessarily trust me. It's a long story. Meet me at the bar later."* Her past rift with the Order is real, unexplained, and now load-bearing: someone has to make that meeting happen — and hear the story.
+- **Gateway to the Sere — with a broken bridge (as played):** the council wants the defilers' containment help, and reaching them runs through Harah. But *"the defilers won't talk to me… They wouldn't necessarily trust me. It's a long story. Meet me at the bar later."* Her past rift with the Order is real, unexplained, and now load-bearing: someone has to make that meeting happen — and hear the story. Erleena's second ask — a defiler wizard brought back to the ship — makes it unavoidable.
 - **Network blind spot:** the party's untrackable channel; the merchant houses covet her, and she would refuse every side.
 - **The Rite of Remembrance:** her ritual vision of the Green Age is the DM's revelation-delivery tool.
-- **With George:** quiet mutual respect — the primal mind and the scientific mind approaching the same crisis from opposite directions. She offers him a Sandwalker stabilizer remedy — not a cure; time and clarity.
+- **With George:** quiet mutual respect, so far only by reputation — she has not met him. If they ever share a room: the primal mind and the scientific mind approaching the same crisis from opposite directions. She has a Sandwalker stabilizer remedy to offer him — not a cure; time and clarity.
 
-![Harah tells Erleena about Rajaat and the defilers — the turn, beneath the Lighthouse](../.attachments/enc_the_turn.jpg)
+![Harah tells Erleena about Rajaat and the defilers — an earlier draft of the turn beneath the Lighthouse; as played, the party carries the news instead](../.attachments/enc_the_turn.jpg)

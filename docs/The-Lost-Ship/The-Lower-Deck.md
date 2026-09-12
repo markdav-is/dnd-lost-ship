@@ -1,4 +1,4 @@
-[The Lost Ship](../The-Lost-Ship.md) / The Lower Deck <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [The Lost Ship](../The-Lost-Ship.md) / The Lower Deck <!-- wikidown:breadcrumb -->
 
 # The Lower Deck
 
@@ -17,6 +17,7 @@ Octagonal chamber beneath the garden lake: transparent ceiling panels with the d
 - **S62 Disposal corridor:** George — "If we can initiate a manual purge cycle, we can ride the garbage chute to freedom!" Also: the **ship commander's bones** — laser pistol (10 shots) and a **platinum key card**.
 - **S63 Decon corridors:** three **wheely sleds** (speed 30/60/90; DC 13/16 to corner; crash 1d6 per 10 ft). Two are piled with mold-infested debris (DC 13 CON to clear). Driving triggers encounter rolls.
 - **S64 Robot control center:** override puzzle (3 × DC 14 INT) unlocks the cargo path; green key card + diagnostic datapad (500 gp).
+- **The southern door and its control station** *(DM addition, not on Map 7.3)*: at the deck's southern edge, the stair from the sealed levels beneath the [Lighthouse](The-Lighthouse.md) lets out through a door that has been cycling open and shut for a month. The party saw it on the first survey and knows it's the one that keeps opening. Its **door control station** is a wall panel on this side of it, override jammed at LOCAL — mold in the mechanism, a corroded relay — which is why Eddie can see the fault and can't clear it. Side quest: [The Jammed Override](../Adventures/Return-to-the-Ship/The-Jammed-Override.md).
 - **S64b Stasis chamber (green):** twenty pods, mostly skeletons — and one survivor: **[Nova](../NPCs/Nova.md)**, the scientist who shut down Aphelion (DC 12 INT to release).
 - **S65/S66 Cargo holds:** compressed mold cubes; slithering tracker ambush; dead technician with a *ring of protection*.
 

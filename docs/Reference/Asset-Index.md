@@ -75,11 +75,13 @@ See the [Dark Sun Library](Dark-Sun-Library.md) for the complete published-canon
 
 ## Character sheets (D&D Beyond exports — refreshed 2026-08-05, all level 11)
 
+Backstory, personality, and appearance fields were read from these exports on 2026-09-12 and folded into each character page (summary on [The Party](../Campaign/The-Party.md)). Only Eustace's sheet carries a written backstory; Beyond-Ce's and Gobbledegook's narrative fields are blank.
+
 | File | Character |
 | :--- | :--- |
 | [Shhhmeowmeow.pdf](../../assets/Shhhmeowmeow.pdf) | [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md) — Tabaxi Ranger 11 |
 | [Eustace (Eu) Thunderbeak.pdf](../../assets/Eustace%20%28Eu%29%20Thunderbeak.pdf) | [Eustace Thunderbeak](../Campaign/The-Party/Eustace-Thunderbeak.md) — Aarakocra Bard 11 |
-| [Gobbledegook.pdf](../../assets/Gobbledegook.pdf) | [Gobbledegook](../Campaign/The-Party/Gobbledegook.md) — Goblin Cleric 10 |
+| [Gobbledegook.pdf](../../assets/Gobbledegook.pdf) | [Gobbledegook](../Campaign/The-Party/Gobbledegook.md) — Goblin Cleric 10 *(left the party)* |
 | [Musty-Jo Mustang.pdf](../../assets/Musty-Jo%20Mustang.pdf) | [Musty-Jo Mustang](../Campaign/The-Party/Musty-Jo-Mustang.md) — Centaur Fighter 6 / Paladin 5 |
 | [Beyond-Ce.pdf](../../assets/Beyond-Ce.pdf) | [Beyond-Ce](../Campaign/The-Party/Beyond-Ce.md) — Human Sorcerer 11 |
 | [Robin Wood.pdf](../../assets/Robin%20Wood.pdf) | [Robin Wood](../Campaign/The-Party/Robin-Wood.md) — Variant Human Cleric 8 / Rogue 3 (new player) |
@@ -131,7 +133,7 @@ See the [Dark Sun Library](Dark-Sun-Library.md) for the complete published-canon
 | [enc_lab_at_s42.jpg](../../assets/enc_lab_at_s42.jpg) | [The Lab at S42](../Adventures/Return-to-the-Ship/The-Lab-at-S42.md) — George demonstrates the spray packs (also on [George Decay](../NPCs/George-Decay.md)) |
 | [enc_beneath_the_lighthouse.jpg](../../assets/enc_beneath_the_lighthouse.jpg) | [Beneath the Lighthouse](../Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md) — Erleena's lab under the lake (also on [Erleena Riser](../NPCs/Erleena-Riser.md)) |
 | [enc_froghemoth_wash.jpg](../../assets/enc_froghemoth_wash.jpg) | [Beneath the Lighthouse — the froghemoth](../Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md) — kill it or wash it |
-| [enc_the_turn.jpg](../../assets/enc_the_turn.jpg) | [Beneath the Lighthouse — the turn](../Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md) — Harah and Erleena (also on [Harah Tabr](../NPCs/Harah-Tabr.md)) |
+| [enc_the_turn.jpg](../../assets/enc_the_turn.jpg) | Harah and Erleena — an earlier draft of the turn beneath the Lighthouse; as played, Harah stayed at Frostwatch and the party carries her news. Still on [Harah Tabr](../NPCs/Harah-Tabr.md) |
 
 ## Portraits & council art
 
@@ -169,8 +171,9 @@ NPC art status: **every named principal now has page art except [Rico](../NPCs/R
 - ~~High-res world map~~ ✓ received (`vermoon-map.png`).
 - ~~Aerun legacy city-name reconciliation~~ ✓ **settled by the revised map** (`aerun_map.png`): the Dark Sun seven are the city-states; Blackguard, Osgaker, Hollowstorm, Amber Valley, and Eldorado are lesser towns.
 - ~~Scarlands regional map~~ ✓ received (`scarlands_completed_map.png`) — embedded at [The Scarlands](../World/The-Scarlands.md).
+- ~~Which city is the elemental **fire city**~~ ✓ **settled at the table (2026-09-12)**: buried under Eldorado, not one of the seven ([The Elemental Cities](../World/The-Elemental-Cities.md)).
 - **Portraits: Rico and Tomas Vel-Maret** — no art exists for either; generate or commission headshots. A proper Erleena headshot (current page art is the hatch scene) and portraits for the six PCs would round out the set.
 - **House banner art** — the Merchant Houses doc references banners on expiring CDN links; save stable copies to embed on [The Merchant Houses](../World/Factions/The-Merchant-Houses.md).
 - Andy's **Trello board** of previous-campaign notes — city names, connections, the earth city.
-- Sahali's session notes (confirm Airlantis details and dragon pairings).
-- Which of the seven city-states is the elemental **fire city** ([ANDY LORE]).
+- Sahali's session notes (confirm Airlantis details and dragon pairings — and who Undaloth the Green Dragon is).
+- **Player backstories** for Shhhmeowmeow (the fire-city thread), Beyond-Ce, Musty-Jo, and Robin — the sheets are blank; ask at the table.
