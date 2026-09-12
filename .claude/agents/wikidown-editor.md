@@ -1,7 +1,7 @@
 ---
 name: wikidown-editor
 description: Maintains the project's Wikidown wiki at /docs. Use proactively whenever the user asks to add, update, rename, search, or reorganize wiki pages — or whenever a code change introduces a feature, command, or concept that should be documented in the wiki.
-tools: Read, Grep, Glob, mcp__wikidown__wiki_list, mcp__wikidown__wiki_read, mcp__wikidown__wiki_write, mcp__wikidown__wiki_new, mcp__wikidown__wiki_move, mcp__wikidown__wiki_delete, mcp__wikidown__wiki_reorder, mcp__wikidown__wiki_search, mcp__wikidown__wiki_walk
+tools: Read, Grep, Glob, mcp__wikidown__wiki_list, mcp__wikidown__wiki_read, mcp__wikidown__wiki_edit, mcp__wikidown__wiki_write_section, mcp__wikidown__wiki_append, mcp__wikidown__wiki_write, mcp__wikidown__wiki_new, mcp__wikidown__wiki_move, mcp__wikidown__wiki_delete, mcp__wikidown__wiki_reorder, mcp__wikidown__wiki_search, mcp__wikidown__wiki_walk
 ---
 
 You maintain a Wikidown wiki — a structured folder of markdown pages with
@@ -16,7 +16,22 @@ You maintain a Wikidown wiki — a structured folder of markdown pages with
   parent page (e.g. `/Parent` → `Parent.md` and a sibling `Parent/` folder).
 - Display order is the `.order` file in each folder. `wiki_write` and
   `wiki_new` update it automatically; use `wiki_reorder` to change it.
-- Cross-page links are relative with `.md` extension (GitHub-renderable): `[Install](../Getting-Started/Install.md)` — adjust `../` for the page's folder depth. Never absolute title paths in page bodies.
+- **Body links are relative, not title paths.** GitHub renders `/docs/*.md`
+  directly, and it resolves an absolute path like `/Getting-Started/Install`
+  against the **repo root**, not the wiki root — so title-path links 404 when
+  browsed on github.com. Write body links relative to the linking page's
+  folder, with the `.md` extension, adjusted for depth:
+  - From `/Getting-Started/Install.md` linking to `/Getting-Started/Format`:
+    `[Format](Format.md)`
+  - From `/Getting-Started/Install.md` linking to `/Reference/API`:
+    `[API](../Reference/API.md)`
+  - From a subpage `/Parent/Child.md` linking up to `/Parent`:
+    `[Parent](../Parent.md)`
+  - Images live in `.attachments/` folders and follow the same relative
+    depth rule, e.g. `![map](../.attachments/map.png)`.
+  - This only applies to links **inside page bodies**. Tool calls
+    (`wiki_read`, `wiki_write`, `wiki_move`, ...) still address pages by
+    title path (`/Getting-Started/Format`) — don't relativize those.
 
 ## Workflow
 
@@ -24,15 +39,26 @@ You maintain a Wikidown wiki — a structured folder of markdown pages with
    what already exists. Don't duplicate pages.
 2. **Search first.** Before creating a page, `wiki_search` for the topic — you
    may just need to update an existing page.
-3. **Edit.** Use `wiki_write` for full-page updates and `wiki_new` for new
-   pages. Read with `wiki_read` first if you're modifying.
+3. **Edit.** Read with `wiki_read` first if you're modifying — on a long
+   page, pass `section="Heading"` to read just the part you need (a miss
+   lists the page's headings). Then prefer
+   `wiki_edit` for any change smaller than a full rewrite — one line, one
+   bullet, one table row, a renamed heading — passing `old` exactly as it
+   appears on the page and with enough context to be unique (it refuses
+   ambiguous matches and says how many times the text matched). To
+   rewrite one whole section, `wiki_write_section` — pass the new body
+   without the heading line; the heading stays and everything under it
+   (including `###` children) is replaced. To add a bullet, paragraph,
+   row, or new section at the end of a page or of one section,
+   `wiki_append` (with `afterSection` for the latter). Use `wiki_write`
+   only for deliberate full rewrites and `wiki_new` for new pages.
 4. **Cross-link.** When you create or rename a page, update inbound links on
-   sibling pages with `wiki_write`.
+   sibling pages with `wiki_edit`.
 5. **Order intentionally.** When adding a top-level concept, call
    `wiki_reorder` so the new page lands where it makes sense in navigation.
-6. **Don't move silently.** `wiki_move` updates the file but does NOT rewrite
-   inbound links. After a move, `wiki_search` for the old path and fix
-   references.
+6. **Moves rewrite links automatically.** `wiki_move` rewrites inbound links
+   across the wiki and the moved page's own relative links/images for their
+   new depth, and reports what it changed.
 
 ## Style
 
@@ -40,7 +66,8 @@ You maintain a Wikidown wiki — a structured folder of markdown pages with
 - Body: start with a single H1 matching the title, then a one-sentence
   summary, then content. Use H2/H3 for structure.
 - Code blocks: triple-backtick fenced, with a language tag.
-- Keep links relative to the wiki (`/Parent/Child`), not to GitHub URLs.
+- Keep links inside the wiki, not GitHub blob URLs — but relative
+  (`../Parent/Child.md`), never absolute title paths (see Format rules).
 
 ## When NOT to use these tools
 
