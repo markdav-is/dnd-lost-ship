@@ -2,13 +2,14 @@
 
 # Current Status
 
-Snapshot of the campaign state for session prep. **Last updated 2026-09-12: the Return to the Ship arc is prepped through Erleena's lab, with the party of five and without Harah.**
+Snapshot of the campaign state for session prep. **Last updated 2026-09-12, after Return to the Ship session 1 (played 2026-09-08): the crossing and the breach are done, Eddie has been met, and the party is on the observation deck's dark side with a roper dead and more growths ahead.**
 
 ## Where things stand
 
 - The **Council of Frostwatch has happened as played**: Valerius severed her implant, revealed the true spread, and [Harah](../NPCs/Harah-Tabr.md) **named Rajaat** — the thousand-year quarantine, the second source, planetary triage.
 - **The party chose the Cure path** and set out for the ship **by dogsled convoy on the glacier route behind [Korrin's](../NPCs/Korrin.md) lead sled** (the spore-choked ravines are still impassable — the sledmaster's route avoids them). **Five went**: Shhhmeowmeow, Eustace, Musty-Jo, Beyond-Ce, Robin ([The Party](The-Party.md)). **Harah stayed at Frostwatch**; Gobbledegook is no longer with the party.
-- **The arc on the ship is prepped, in order:** [The Whiteout](../Adventures/Return-to-the-Ship/The-Whiteout.md) → [The Breach](../Adventures/Return-to-the-Ship/The-Breach.md) → [The Lab at S42](../Adventures/Return-to-the-Ship/The-Lab-at-S42.md) → [Beneath the Lighthouse](../Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md). Check the [Adventure Log](Adventure-Log.md) for how far the table has actually played.
+- **Played so far:** [The Whiteout](../Adventures/Return-to-the-Ship/The-Whiteout.md) and [The Breach](../Adventures/Return-to-the-Ship/The-Breach.md) ([Adventure Log](Adventure-Log.md)). The party met Eddie, took the **south** drop tube by mistake, landed on the **observation deck's dark side** by the theater and the dance club, and killed a **roper** on the ring; **more plant growths lie between them and George's lit door at S42** — that fight opens the next session. **Next:** [The Lab at S42](../Adventures/Return-to-the-Ship/The-Lab-at-S42.md) → [Beneath the Lighthouse](../Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md) → optionally [The Jammed Override](../Adventures/Return-to-the-Ship/The-Jammed-Override.md).
+- **Conditions carried into next session:** Shhhmeowmeow **poisoned** (roper); Beyond-Ce **still a fire elemental myrmidon** under her own *polymorph* — poison-immune for now, and the poison returns when she changes back; Musty-Jo took a friendly-fire laser hit on the run in. The long rest was before the crossing; spell slots are down (Robin's 5th-level *Enhance Ability*, Beyond-Ce's *wall of fire*, *lightning bolt*, and *polymorph*).
 - **Erleena is unreachable from outside** — *"No signal. I'm sorry, your number cannot be completed."* The ship's hyper-dimensional fields filter RF — the same void that blinds Jak's network — so nothing reaches her sealed levels from outside the hull. Inside the hull she is in daily contact with George and Eddie. The party carries her a month of outside news, the council's above all; she asks for it before they can offer.
 - **Where the arc lands:** Erleena hears about Rajaat and the defilers from the party, makes her two asks (a baseline sample from the other source; a defiler wizard for George's surgery), says the cure is on Aerun — **and goes herself**, with the party. **George stays** on the ship with Eddie: more anti-fungal, the robots washing the decks, and the Lighthouse kept busy fighting him so it stops spreading outward, *for now* ([George Decay](../NPCs/George-Decay.md)).
 - **The second reason to go:** the **fire city under Eldorado** — a buried elemental city Erleena has dug at, and a backstory thread of Shhhmeowmeow's. Unrelated to the infection ([The Elemental Cities](../World/The-Elemental-Cities.md)).
@@ -39,7 +40,8 @@ The direction is chosen — now it has to survive contact: get Erleena and her l
 | Power discs | ×2 (full) | Shambling mound nest, Garden Level |
 | Blaster rifle | 3 charges | Umber hulk, Garden Level |
 | Anti-grav belt | 1 charge (fails after 30 ft or 2nd use) | Umber hulk |
-| **Hoversled** | **not in hand** | Damaged during the ship-to-Frostwatch descent; left powered down somewhere on the mountain route. Recoverable if the party goes back for it — otherwise the party crosses by dogsled behind Korrin's lead sled (see [The Whiteout](../Adventures/Return-to-the-Ship/The-Whiteout.md)) |
+| **Hoversled** | **not in hand** | Left powered down by the spore ravine on the mountain route; the party chose not to go back for it on the crossing (session 1). Still recoverable |
+| **Parkas** | one each | Issued at Frostwatch for the crossing (Musty-Jo wears his over chain mail) |
 
 ## Clocks the DM is running
 

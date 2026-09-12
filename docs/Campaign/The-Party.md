@@ -12,7 +12,7 @@ The **Wayward Friends** — the adventurers who restored order to the realm a ye
 | [Eustace (Eu) Thunderbeak](The-Party/Eustace-Thunderbeak.md) | Ben | Aarakocra Bard 11 | 16 | 69 | Flight 50 ft, d10 Inspiration, Cutting Words; keeper of **Airlantis** — the city he spent eight years looking for |
 | [Musty-Jo Mustang](The-Party/Musty-Jo-Mustang.md) | yourthighness69 | Centaur Fighter 6 / Paladin 5 | 16 | 81 | Flail of Tiamat, flame tongue, **laser rifle**, Lay on Hands 25; carries the Silver Dragon Ball |
 | [Beyond-Ce](The-Party/Beyond-Ce.md) | natnerd15 (Andy) | Human Sorcerer 11 | 15 | 68 | Darkvision 120 ft, war-caster style concentration, laser pistol |
-| [Robin Wood](The-Party/Robin-Wood.md) | markdav_is | Variant Human Cleric 8 / Rogue 3 | 18 | 102 | Blessed Healer, Medicine +12, Staff of Healing — and a rogue's toolkit |
+| [Robin Wood](The-Party/Robin-Wood.md) | Bella | Variant Human Cleric 8 / Rogue 3 | 18 | 102 | Blessed Healer, Medicine +12, Staff of Healing — and a rogue's toolkit |
 | [Gobbledegook](The-Party/Gobbledegook.md) *(left)* | Theonezerg | Goblin Cleric 10 | 17 | 73 | Trickery domain, **Divine Intervention**; the only Rejuvenate caster — gone with him |
 
 **Roster note:** [Robin Wood](The-Party/Robin-Wood.md) — recruited in-fiction at Frostwatch — is a **new player's PC**, joining the table for the Return to the Ship arc. The recruitment scene the party played *was* her introduction.

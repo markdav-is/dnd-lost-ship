@@ -2,7 +2,7 @@
 
 # Robin Wood
 
-**Variant Human Cleric 8 (Life Domain) / Rogue 3 (Arcane Trickster)** (Custom background), Neutral Good. Player: markdav_is. Joined for the Return to the Ship arc. Sheet: `assets/Robin Wood.pdf` (2026-08-05).
+**Variant Human Cleric 8 (Life Domain) / Rogue 3 (Arcane Trickster)** (Custom background), Neutral Good. Player: **Bella** (sheet exported from the markdav_is D&D Beyond account). Joined for the Return to the Ship arc; first session at the table was the Whiteout and the Breach. Sheet: `assets/Robin Wood.pdf` (2026-08-05).
 
 The occupation's infirmary medic at Frostwatch — a healer-cleric who arrived "a few days ago with everybody" (the Spásistren deployment), ran the hold's very well-stocked infirmary, and got recruited by the party on the spot. *"You want to save the world?" "Sure, I guess. It's an adventure."* That recruitment scene was the new player's introduction to the table.
 

@@ -1,0 +1,77 @@
+Blizzard Traverse & Ship Assault: Returning to the Sieged Hull and Engaging the Roper
+=====================================================================================
+
+Overview
+--------
+The group travels from Frostwatch back to their vessel through a severe winter storm. Upon arrival, they find the ship encircled by a maelstrom of infected creatures and active automated defenses. The session covers the perilous overland trek, the tactical infiltration of the besieged hull, navigation through interior decks, and a coordinated combat encounter against a large flora-based entity.
+Party members including Eustace, Musty Joe, Robin, Heather, Andy, and others. NPC entities referenced include Corin (sled handler), Eddie (shipboard AI), George, Arlena Riser, High Sister, and Copper Hare McCready. Game Master/Narrator role present. $1
+Not specified (relative to ongoing campaign timeline)
+Tabletop Roleplaying Session (D&D 5th Edition style)
+Approximately 2 hours (estimated based on check cycles, spell durations, and scene pacing)
+
+Executive Summary
+-----------------
+The party successfully traverses a hazardous blizzard using guided dog sleds, overcoming environmental stressors through coordinated skill checks and buff spells. Upon reaching their ship, they bypass intense external siege conditions by deploying a magical illusion decoy to divert hostile attention and secured access through an upper airlock. Once aboard, they navigate past the ship's cheerful AI interface and enter the Observation Deck, where they engage a formidable Roper plant creature. Through strategic spell sequencing, terrain control, and tactical repositioning, the party neutralizes the threat and secures the immediate interior path forward.
+
+Key Phases of the Session
+-------------------------
+
+The journey back to the ship requires enduring harsh weather conditions. The group utilizes dog-led sleds piloted by Corin, maintaining formation across a multi-hour crossing. Environmental difficulty increases progressively, requiring repeated ability checks and concentration maintenance.
+- Primary skills tracked: Survival, Animal Handling, and Perception
+  - Buff spells deployed early: $1 (Wisdom focus) and $1 to secure early success thresholds
+  - Weather progression: Clear → Obscured → Whiteout; failure risk escalates if checks drop
+  - Cold exposure triggers Constitution saving throws; accumulated failures risk exhaustion or frostbite
+  - Spatial coordination required due to flying gear limitations and spore-filled ravines left behind
+Previously abandoned a hover sled near a spore-heavy ravine; opted to fly over contaminants rather than retrieve equipment. Storm severity was emphasized as both a mechanical challenge and atmospheric tension builder.
+
+The ship is actively defending itself against waves of infected wildlife using laser turrets, ground drones, and aerial units. Direct approach risks heavy damage. The group devises a distraction tactic to reach the upper airlock safely.
+- Enemy composition: Infected fauna (wolves, birds, altered deer), autonomous defense drones, fixed hull turrets
+  - Tactical workaround: $1 cantrip creates a 5x5 ft moving decoy to draw aggro away from the party
+  - Reconnaissance confirms an open upper airlock with a relatively unobstructed ground path
+  - Friendly fire incident occurs when ship lasers target advancing party members; successful Dexterity saves mitigate casualties
+  - Boarding executed via sprint toward exposed airlock followed by manual security code entry
+Previous expedition notes indicate high-stakes decision points regarding fungal containment strategies (cure vs. nuclear/containment options). The current objective remains retrieving a cure developed by Arlena and George.
+
+After sealing the airlock and interacting with the ship's AI interface, the party proceeds to the Observation Deck. A dormant Roper plant awakens upon detection, initiating surprise combat. Coordinated action economy and spell zoning prove decisive.
+- Initial surprise avoided via pre-equipped $1; initiative advantage maintained
+  - Roper utilizes tentacle grapples and poison application on affected targets
+  - Defensive zoning established via ring-shaped $1 (opaque, 5d8 damage on entry/turn completion)
+  - Offensive synergy: $1, $1, ranged weapons, and polymorphic transformation
+  - One participant temporarily immobilized; resolved via Athletics/Acrobatics escape check (DC 14)
+  - Sustained magical damage culminates in entity termination after three full combat rounds
+Ropers are known藤蔓/climbing predators with extended reach (~60ft). Their presence indicates ecological adaptation or fungal influence within the ship's bio-integrated architecture.
+
+Strategic Mechanics & Resource Management
+-----------------------------------------
+$1 managed carefully due to hour-long duration and concentration requirement. $1 optimized during active storm conditions per rules clarification (anchored to ground point, not caster position). $1 utilized strategically to gain fire immunity and lighting traits without breaking concentration prematurely.
+Clarified interactions between opaque spell zones ($1) and targeting visibility. Confirmed that line of sight isn't strictly required for many elemental/ranged effects when targeting known coordinates.
+Bonus action escape maneuvers separated from primary actions to maintain mobility. Movement phases coordinated around hazard boundaries to minimize damage taken during transitions.
+
+Outcomes & Narrative Continuity
+-------------------------------
+Party fully inside the vessel with lower-deck access secured. Internal environmental hazards partially mapped but unexplored sectors remain unknown. Fungal contamination spread status still uncertain beyond desert regions.
+At least one participant retains poison effect pending resolution. Equipment status (chainmail removal, thermal gear distribution) noted for future inventory tracking.
+George awaits upstairs; research progress on antifungal treatments tied to this location. High Sister's warning regarding destructive "defiling magic" remains relevant to potential ship overrides or biological countermeasures.
+Success demonstrates strong tactical adaptability under pressure. Continued reliance on illusion/diversion tactics suggests escalating threat complexity ahead. Interior exploration may trigger secondary ecological or automated system responses.
+
+Preparations for the Next Session
+---------------------------------
+[ ] Verify remaining consumables, recheck spell slot allocation, and assess long-rest readiness before proceeding deeper
+  - All participants
+  - Before next gathering
+  - Accurate inventory/logs updated; concentration limits reviewed
+[ ] Coordinate marching order and perimeter scanning protocols for unexplored lower decks
+  - Lead scout/navigation designated
+  - Start of next session
+  - Clear routing path established; hazard avoidance strategies documented
+[ ] Cross-reference High Sister's defiling magic warning with potential ship override procedures
+  - Lore/knowledge specialists
+  - Within first 15 minutes of next session
+  - Access to archived ship logs or Arlena/George briefing materials
+
+Meta-Observations & Table Talk
+------------------------------
+Highly collaborative problem-solving evident during storm traversal and infiltration planning. Mechanical rule clarifications handled efficiently with minimal downtime. Combat phase showed strong turn-order awareness and spatial reasoning.
+Maintained balanced pace—tense during survival checks and turret exposure, humorous during pet anecdotes and birthday acknowledgments, focused during combat execution. Overall engagement remained high.
+Effective use of digital tools (map scaling, condition tracking, dice tray visuals). Rule queries (spell radius, opacity interactions, grapple escapes) addressed promptly, preserving momentum. OOC social bonding interspersed naturally without disrupting narrative flow.
+Real-world references included discussion of Chihuahua/Poodle named Poppy, anxiety behaviors in cats, shared dessert preferences (crisp salad, non-alcoholic hazy IPA), and appreciation for weighted tungsten dice trays. Birthday wishes directed toward participant Chris acknowledged organically.

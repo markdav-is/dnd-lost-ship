@@ -121,11 +121,13 @@ Erleena knows Aerun. Before Jak's service she was an **archaeologist** — the a
 
 **And then the part the whole arc has been walking toward: she is going.**
 
-> *"I'm not sending you across a sea with a sample jar and a shopping list. This lab is finished — not the work, the room. The tower knows I'm here. Every day I stay, something else comes for the glass, and one day it'll be something you're not standing next to. So the work leaves." She starts packing the slides as she talks. "I'll take the notes, the dish, and the traces. I'll take my own readings at the source, with my own instruments, next to something that has been managed for a thousand years by people who know what they're doing. And I'll come back with a defiler and a baseline, and George gets his surgery." A pause. "I've already told him. He said 'oh my.' That's a yes."*
+> *"I'm not sending you across a sea with a sample jar and a shopping list. This lab is finished — not the work, the room. The tower knows I'm here. Every day I stay, something else comes for the glass, and one day it'll be something you're not standing next to. So the work leaves." She starts packing the slides as she talks. "I'll take the notes, the dish, and the traces. I'll take my own readings at the source, with my own instruments, next to something that has been managed for a thousand years by people who know what they're doing. And I'll come back with a defiler and a second sample, and George gets his surgery."*
+>
+> *Then she reaches over and keys the wall speaker. "S42. George. You've been listening." He has, of course — Eddie narrates. She tells him in four sentences. The party hears the pause come down the line, and then the baritone, very quiet: "Oh my." A longer pause. "Yes. Go." She lets go of the key. "That's a yes."*
 
 ## George stays
 
-She has talked this through with George on the comm, and the party will hear his side of it again at S42 on the way out. The shape of it is simple, and she lays it out because it is the reason the plan works:
+She and George settle it on the comm, right there, with the party listening — and they will hear his side of it again at S42 on the way out. The shape of it is simple, and she lays it out because it is the reason the plan works:
 
 - **George can't go.** Spore air is the one thing his treatment can't handle, and the garden is the least of it — a sea crossing and a desert would finish him. He stays in his pocket at S42, on his own doses.
 - **George and Eddie make more soap.** The synthesis rig at S42, fed by the ship's medical stock, with Eddie running the search space: more anti-fungal, more alkaline mold-killer, refilled tanks. Eddie already knows where every fire-suppression station on the ship is.
