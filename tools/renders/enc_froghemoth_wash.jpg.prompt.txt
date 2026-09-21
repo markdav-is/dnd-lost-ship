@@ -1,0 +1,11 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 3:2
+size: 2K
+refs: -
+
+Painterly cinematic fantasy illustration, night, inside a vast domed garden biosphere aboard a crashed starship: a black lake, a narrow stone-and-metal bridge, jungle vegetation choked with pale fungal cords, spore haze in the air, and behind it all a white lighthouse tower wrapped in glowing fungal growth, its lantern beam sweeping the water.
+
+The monster is a FROGHEMOTH from Dungeons & Dragons — match the classic design exactly: a huge, squat, frog-like amphibian the size of an elephant, mottled green and yellow-brown slimy skin, a wide toad mouth full of small teeth and a long lashing tongue, thick frog hind legs half out of the water, and FOUR long muscular tentacles rising from its shoulders instead of arms. Its three eyes sit together on a single thick stalk rising from the top of its head. Russet-gold fungal growth patches its back. It is NOT an octopus, kraken or squid — a frog body with tentacles.
+
+Three adventurers on the bridge in worn travelling leathers and furs — a black-furred cat-person, a hawk-headed birdfolk, and a centaur — each wearing a red fire-extinguisher tank on their back, spraying jets of pale foaming liquid from brass wands into the beast's face; the tentacles rear back through the spray. No lettering, no text, no watermark.

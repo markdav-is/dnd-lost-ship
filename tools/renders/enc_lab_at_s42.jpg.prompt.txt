@@ -1,0 +1,10 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 3:2
+size: 2K
+refs: docs/.attachments/george_decay.png, docs/.attachments/erleena_portrait.jpg
+
+Lit interior of the Lost Ship since Eddie woke — Space: 1999 / Moonbase Alpha look.
+Style: painterly cinematic illustration, 1970s British sci-fi television production design. Cream and white modular wall panels in a clean grid, rounded doorframes with sliding doors, a flat luminous ceiling giving even shadowless light, orange and tan accent stripes at waist height, low sleek consoles with square backlit buttons and small screens, brushed pale metal, a potted plant where a plant has no business being. Everything clean and tidy because worker robots keep it so. Warm neutral palette: cream, white, orange, tan, pale grey. No grime, no rust, no dripping pipes, no dark corners, no horror atmosphere. Physically grounded, no text, no captions, no watermark.
+
+George Decay's lab, S42 Medical Storage, aboard the ship. Painterly cinematic illustration, same rendering as the reference portrait. A tall dignified East Asian man in his sixties with swept-back grey-black hair — match the reference face — in a plain cream ship jumpsuit, stands at a low white console wearing a backpack tank rig made from a ship fire extinguisher: red-stencilled tank on his back, hose to a brass-tipped wand in his hand. Russet-gold fungal growths cover one side of his face, his neck and one forearm, but neatly, like a healing wound. He is spraying a fine pale mist into a small wire cage on the console; inside, a white rabbit-like creature with clouded eyes flinches. On the console: a synthesis rig of clear tubing with a small screen, and a stack of battered handwritten notebooks — the one untidy thing in the room. Behind him, tidy medical storage racks; three more spray-pack rigs standing in a neat row by the sliding door; a worker robot wiping a bench. Warm even white light, cream panels, orange trim. No lettering anywhere — no labels, no badges, no text on clothing.

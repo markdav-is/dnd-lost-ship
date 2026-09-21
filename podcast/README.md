@@ -34,6 +34,19 @@ python master.py ep001-the-long-reach                 # stitch + radio filter ->
 - `[radio]` scenes get the far-speaker bandpass; `[dry]` scenes are the
   Wanderer close on the mic. Script format is documented at the top of
   `episodes/ep001-the-long-reach.md`.
+- **SFX that can actually be heard.** The sound-generation API puts transients (a
+  switch clunk) at full scale and ambience (hum, static, room tone) 40+ dB down, and
+  prompts containing "soft" / "faint" / "quiet" come back near-silent. So: write SFX
+  prompts LOUD and close-miked, and let `master.py` level them - it measures every SFX
+  clip, lifts the quiet tail, and sets it a few dB under the voice. SFX in `[radio]`
+  scenes skip the 280 Hz high-pass, which used to delete hum outright. An optional
+  third field sets prompt adherence: `SFX: description | seconds | 0.6`.
+- **`BED: description | seconds | 0.6`** (anywhere in the script, once) generates a
+  seamless looping ambience and mixes it under the whole episode at -36 dB.
+  `python master.py <slug> --bed-db -32` makes it louder; `--no-bed` writes
+  `<slug>-nobed.mp3` without it.
+- Final loudness is a measured constant gain to -16 LUFS plus a limiter, not
+  single-pass `loudnorm` (which rides the gain up on whatever opens the file).
 - Dialogue uses **Eleven v3 text-to-dialogue** (multi-speaker, audio tags like
   `[whispers]`); SFX lines use the sound-generation endpoint.
 

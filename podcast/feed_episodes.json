@@ -62,5 +62,14 @@
     "pubdate": "Fri, 14 Aug 2026 17:00:00 GMT",
     "bytes": 9544364,
     "duration": "9:56"
+  },
+  {
+    "slug": "bonus01-the-ladder",
+    "title": "Bonus: The Ladder",
+    "summary": "The Wanderer is still gone. The intern who minds his set opens channel forty-three for one night and sends a letter from the edge: an honest word on the five Great Schools, what a life looks like after each of them, and what it feels like to live at the hub of a world you have never seen. One voice, one radio, one night only.",
+    "pubdate": "Thu, 17 Sep 2026 21:00:00 GMT",
+    "bytes": 9437561,
+    "duration": "9:49",
+    "type": "bonus"
   }
 ]

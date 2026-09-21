@@ -19,6 +19,16 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Bonus: The Ladder</title>
+      <description>The Wanderer is still gone. The intern who minds his set opens channel forty-three for one night and sends a letter from the edge: an honest word on the five Great Schools, what a life looks like after each of them, and what it feels like to live at the hub of a world you have never seen. One voice, one radio, one night only.</description>
+      <pubDate>Thu, 17 Sep 2026 21:00:00 GMT</pubDate>
+      <enclosure url="https://archive.org/download/wandering-aerun/bonus01-the-ladder.mp3" length="9437561" type="audio/mpeg"/>
+      <guid isPermaLink="false">wandering-aerun-bonus01-the-ladder</guid>
+      <itunes:duration>9:49</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Blank</title>
       <description>Season finale, live from Midreach waystation: the audit is settled, the beacon lesson is taught, a letter is waiting where no letter should be — and at dawn, the Wanderer goes north past the last marker. Keep listening to this frequency. This episode brought to you by the Menders' Hall, the Open Market of Tyr, and the Navigation Academy, which has no comment.</description>
       <pubDate>Fri, 14 Aug 2026 17:00:00 GMT</pubDate>

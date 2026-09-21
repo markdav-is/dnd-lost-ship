@@ -1,0 +1,10 @@
+backend: gemini
+model: gemini-3.1-flash-image
+aspect: 3:2
+size: 2K
+refs: docs/.attachments/erleena_portrait.jpg
+
+Erleena's lab beneath the Lighthouse — a starship sickbay in the Space: 1999 / Moonbase Alpha idiom.
+Style: painterly cinematic illustration, 1970s British sci-fi television production design. A 30-foot circular chamber with pale curved wall panels, a flat luminous ceiling giving even shadowless white light, warm filtered air. Three biobeds along the curve with readout panels above them, a diagnostic table in the middle, wall displays scrolling instrument traces, sample dishes in a lit glass case. Cream, white, pale blue-grey and orange accents. The only wrongness: round concave portholes looking out into black lake water, pale shapes pressed against the glass. Clean and tidy. Physically grounded, no text, no captions, no watermark.
+
+Erleena alone in her sickbay lab fifty feet under a lake. She stands at a wall display, one hand raised to a row of instrument traces on the screen — each trace a jagged line with the same tall black spike. She is in the cream medical uniform with the orange sleeve stripe, sleeves pushed up, tired and intent. Behind her, three biobeds along the curved wall, a diagnostic table in the middle of the room, an open sliding door showing an empty corridor. In a round concave porthole on the far wall, three large glowing eyes on stalks hang in black water, watching her; smaller pale fish shapes press against the other portholes. Nobody else in the room. Bright even white light inside, black water outside.

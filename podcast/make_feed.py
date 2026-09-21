@@ -15,6 +15,7 @@ feed_episodes.json is the list of PUBLISHED episodes (newest additions appended)
     "duration": "6:12"
   }
 ]
+Add "type": "bonus" to an entry for an off-schedule extra (no episode number).
 Audio URL is derived as https://archive.org/download/<archive_item>/<slug>.mp3.
 Upload the mp3, cover.jpg, and the generated feed.xml to the archive.org item.
 """
@@ -35,8 +36,20 @@ def main():
 
     base = f"https://archive.org/download/{show['archive_item']}"
     items = []
-    for i, ep in enumerate(reversed(episodes)):  # newest first in feed
+    # Optional "type": "bonus" marks an off-schedule extra: it is tagged
+    # itunes:episodeType=bonus and takes no episode number, so the numbered
+    # run (1, 2, 3...) is never disturbed by a bonus landing between episodes.
+    number, numbers = 0, {}
+    for ep in episodes:
+        if ep.get("type", "full") == "full":
+            number += 1
+            numbers[ep["slug"]] = number
+    for ep in reversed(episodes):  # newest first in feed
         url = f"{base}/{ep['slug']}.mp3"
+        if ep["slug"] in numbers:
+            numbering = f"<itunes:episode>{numbers[ep['slug']]}</itunes:episode>"
+        else:
+            numbering = f"<itunes:episodeType>{escape(ep['type'])}</itunes:episodeType>"
         items.append(f"""    <item>
       <title>{escape(ep['title'])}</title>
       <description>{escape(ep['summary'])}</description>
@@ -44,7 +57,7 @@ def main():
       <enclosure url="{url}" length="{ep['bytes']}" type="audio/mpeg"/>
       <guid isPermaLink="false">{show['archive_item']}-{escape(ep['slug'])}</guid>
       <itunes:duration>{ep['duration']}</itunes:duration>
-      <itunes:episode>{len(episodes) - i}</itunes:episode>
+      {numbering}
       <itunes:explicit>false</itunes:explicit>
     </item>""")
 

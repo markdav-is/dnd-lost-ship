@@ -78,9 +78,14 @@ def parse_script(path):
             continue
         if scene is None or line.startswith("#"):
             continue
-        m = re.match(r"^SFX:\s*(.+?)\s*\|\s*([\d.]+)$", line)
+        if line.startswith("BED:"):
+            continue  # episode-wide ambience, handled by parse_bed()
+        # Optional third field = prompt_influence (0-1). Left out of the payload
+        # when absent, so existing cached clips keep their hashes.
+        m = re.match(r"^SFX:\s*(.+?)\s*\|\s*([\d.]+)(?:\s*\|\s*([\d.]+))?$", line)
         if m:
-            scene["items"].append(("sfx", m.group(1), float(m.group(2))))
+            infl = float(m.group(3)) if m.group(3) else None
+            scene["items"].append(("sfx", m.group(1), float(m.group(2)), infl))
             continue
         m = re.match(r"^MUSIC:\s*(.+?)\s*\|\s*([\d.]+)$", line)
         if m:
@@ -97,6 +102,19 @@ def parse_script(path):
             else:
                 scene["items"].append(("dialogue", [(m.group(1), m.group(2))]))
     return slug, scenes
+
+
+def parse_bed(path):
+    """Return (desc, secs, influence|None) for an optional episode-wide ambience line:
+        BED: description | seconds [| prompt_influence]
+    The bed is generated as a seamless loop and mixed UNDER the whole episode by
+    master.py. It may appear anywhere in the script (top of file is conventional)."""
+    with open(path, encoding="utf-8") as f:
+        text = re.sub(r"<!--.*?-->", "", f.read(), flags=re.S)
+    m = re.search(r"^BED:\s*(.+?)\s*\|\s*([\d.]+)(?:\s*\|\s*([\d.]+))?\s*$", text, flags=re.M)
+    if not m:
+        return None
+    return m.group(1), float(m.group(2)), (float(m.group(3)) if m.group(3) else None)
 
 
 def chunk_dialogue(lines):
@@ -154,6 +172,16 @@ def main():
     os.makedirs(build, exist_ok=True)
 
     manifest = []  # ordered [{scene, mode, file|pause}]
+    bed = parse_bed(args.script)
+    if bed:
+        payload = {"text": bed[0], "duration_seconds": min(bed[1], 22), "loop": True}
+        if bed[2] is not None:
+            payload["prompt_influence"] = bed[2]
+        out = cache_path(clips_dir, "bed", payload)
+        if args.scene is None and not have(out):
+            print(f"[bed]      {bed[0][:60]}")
+            save(out, call("/sound-generation", payload, "POST"))
+        manifest.append({"scene": "_bed", "mode": "radio", "kind": "bed", "file": out})
     for si, scene in enumerate(scenes):
         wanted = args.scene is None or args.scene == scene["name"]
         ci = 0
@@ -173,6 +201,8 @@ def main():
                 continue
             if item[0] == "sfx":
                 payload = {"text": item[1], "duration_seconds": min(item[2], 22)}
+                if len(item) > 3 and item[3] is not None:
+                    payload["prompt_influence"] = item[3]
                 out = cache_path(clips_dir, prefix + "-sfx", payload)
                 if wanted and not have(out):
                     print(f"[sfx]      {prefix}: {item[1][:60]}")
