@@ -35,7 +35,7 @@ Andy's standing instruction to himself for Aura questions he hadn't planned for:
 
 **Aura is not a conscious AI.** She is a *voice interface for the infrastructure* — bound by her code and a strict **permission hierarchy**. She helps whoever addresses her ("I'm here to help you do whatever you need to do") up to the limits of their access; a higher permission holder can order her to withhold information, and she complies. She has no plan, no bias, no agenda — she does what she is told. *(Andy explicitly left room to change this later; if the [invisible infection](../Campaign/Plot-Threads/The-Invisible-Infection.md) rides the network, "what Aura has been told, and by what" becomes a very sharp question.)*
 
-Once the party restored power in the previous campaign, Aura's reach grew — including the **telephones** that let people contact each other across the network.
+Once the party restored power in the previous campaign, Aura's reach grew — including the **telephones** that let people contact each other across the network. **The phones are network devices, not radios:** every call goes through Aura. They do not talk phone-to-phone, and with no network — inside the ship's fields, beyond the Rim Wall — a phone is a paperweight.
 
 ## Capabilities
 
@@ -47,7 +47,7 @@ Once the party restored power in the previous campaign, Aura's reach grew — in
 
 ## Limits (DM-critical)
 
-- **The void.** The ship's hyper-dimensional properties render it completely invisible: no scrying, no network perception, no teleport/ethereal/astral inside. This is why Jak needed the party.
+- **The void.** The ship's hyper-dimensional properties render it completely invisible: no scrying, no network perception, no teleport/ethereal/astral inside. This is why Jak needed the party. *(If the party mounts Eddie's dish — [The Antenna](../Adventures/Return-to-the-Ship/The-Antenna.md) — the ship gains a voice on the network through an external hard-wired antenna aimed at the Temple of Nord: Eddie joins as a user, the phones work from aboard, and Jak can talk in. The network still cannot see, scry, or teleport inside.)*
 - **The Rim Wall.** Beyond Aerun's Rim Wall the network **fails completely** — the entire Sea of Silt is off the grid. Jak is blind to a third of the central continent and does not know what that blindness hides ([The First Source](../Campaign/Plot-Threads/The-First-Source.md)).
 - **Bulk transport.** Teleporters cannot move bulk goods — the merchant houses' Ring Road and shipping monopoly lives in this gap.
 - **Blind spots.** Unimplanted people carrying no technology are ghosts — this is Harah's strategic value, and where the [merchant alliance](../Campaign/Plot-Threads/The-Merchant-Alliance.md) meets.

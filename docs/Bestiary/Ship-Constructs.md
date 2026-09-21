@@ -6,6 +6,8 @@
 
 The ship's robots and androids — some functional, some malfunctioning, none aware the voyage ended centuries ago. Common traits: poison/psychic immunity, darkvision, ship-language, **lightning vulnerability** (1% per point of lightning damage to shut down permanently; androids also short out in water).
 
+**They are autonomous, not puppets.** Eddie does not remote-control the robots — he gives them **tasks**, and they go and carry them out largely on their own judgment. That is how they can operate outside the hull, where Eddie's voice and systems don't reach, and why they are literal-minded about the job they were given ([The Lost Ship](../The-Lost-Ship.md), ship-wide properties).
+
 Full stat blocks: `assets/S3_Level1_Complete_5e_Conversion.docx`, `assets/S3_Level1_DM_Helper.docx`, `assets/Final-Level4_Complete_DM_Reference2.docx`.
 
 ## Security
