@@ -12,7 +12,7 @@ A walled caravan fort on the southern Ring Road between Balic and Amber Valley. 
 
 ## What a visitor sees
 
-A blunt square of wall with a single gate, a yard big enough to hold two caravans, cisterns, a smithy, and a drinking hall that never quite closes. Nothing decorative anywhere. The commander is a preserver of some reputation, which is unusual enough that people mention it.
+A blunt square of wall with a single gate, a yard big enough to hold two caravans, cisterns, a smithy, and a drinking hall that never quite closes. Nothing decorative anywhere. The commander is a preserver of some reputation — a **Gleaner**, which on Aerun is the same thing — which is unusual enough that people mention it. There is a **G4CE office** inside the gate: two desks, a contract board, and a bunk for anyone carrying the medallion.
 
 ## Traveler's notes
 

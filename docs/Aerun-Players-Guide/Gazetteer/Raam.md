@@ -15,7 +15,7 @@ Northeast, wedged into the cliff where the highland meets the ocean. Everything 
 
 ## What a visitor sees
 
-Concentric quarters spilling downhill from the walled **Queen's Hill** — the Ivory Palace, the Hall of Conquest — through the Temple and Official Quarters into the **Low Quarter**, which has no walls, no watch, and no end. Shrines to Badna stand at every third corner. So do the mansabdars, who are the law in the sense that they collect from it.
+Concentric quarters spilling downhill from the walled **Queen's Hill** — the Ivory Palace, the Hall of Conquest — through the **Gleaners' Quarter** — seed-houses and teaching plots — and the Official Quarter into the **Low Quarter**, which has no walls, no watch, and no end. Shrines to Badna stand at every third corner. So do the mansabdars, who are the law in the sense that they collect from it.
 
 ## Traveler's notes
 

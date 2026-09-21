@@ -51,7 +51,7 @@ Roll **Intelligence (History)** for the trade, **Intelligence (Arcana)** for wha
 | 20 | The Guild consumes more Spice than any House sells to it on the books. Where the difference comes from is the politest unasked question on the continent — the Guild's Navigators are steeped in it, and nobody audits the Guild. | History |
 | 20 | Rain-years — the rare seasons when it truly rains on the gray — are always followed by a bumper harvest. The families celebrate. Nobody asks why. | Survival |
 | 20 | The [Schools](The-Great-Schools.md) teach that heavy Spice use lets a mind "burn the Will" further than discipline alone can — and that the price is paid in the body, later, with interest. The Menders are the only people who open the bodies of the Spice-dead, and they have never published. | Arcana |
-| 20 | Jak's temples log Spice like any cargo and tax it like any luxury — and the southern empire has never developed a taste for it. The factors find this stranger than the coast does: everything else the world wants, the world takes. | History |
+| 20 | Jak's Spáhuses log Spice like any cargo and tax it like any luxury — and the southern empire has never developed a taste for it. The factors find this stranger than the coast does: everything else the world wants, the world takes. | History |
 
 ### DC 25 — rumors
 

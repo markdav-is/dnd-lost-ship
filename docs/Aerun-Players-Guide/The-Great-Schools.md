@@ -8,7 +8,7 @@
 
 ## What everyone knows (no check)
 
-Common knowledge across Vermoon. A Scarlands fisher, a Taldean factor, and a clerk in one of Jak's temples would all have heard this much:
+Common knowledge across Vermoon. A Scarlands fisher, a Taldean factor, and a clerk in one of Jak's Spáhuses would all have heard this much:
 
 - Aerun has no gods and no priests, and it is proud of it. *"Where other lands raise temples, Aerun raises schools."*
 - Nearly everyone born on Aerun has some small trick of the mind — a wild talent. Do not gamble against an Aerunite until you have watched him play.

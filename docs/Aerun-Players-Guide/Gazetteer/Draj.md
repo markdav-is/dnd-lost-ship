@@ -15,7 +15,7 @@ On the north coast, on a broad brown mudflat at the foot of the cliffs, reachabl
 
 ## What a visitor sees
 
-A dense grid of clan compounds under a pall of cook-smoke, and at the center the walled **Two Moon City** precinct: the great stepped **Palace of Glorious Conquest**, the arena beneath it, and the temples. Festival days are frequent, spectacular, and involve the arena. Attend if invited; do not volunteer.
+A dense grid of clan compounds under a pall of cook-smoke, and at the center the walled **Two Moon City** precinct: the great stepped **Palace of Glorious Conquest**, the arena beneath it, the moon priests' **Moon Houses**, and the Gleaners' **Seed Hall**, which keeps the grain stock for the Fields of Plenty. Festival days are frequent, spectacular, and involve the arena. Attend if invited; do not volunteer.
 
 ## Traveler's notes
 

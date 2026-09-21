@@ -16,8 +16,16 @@ before doing any work.
   but markdown links *inside* pages must be relative with `.md` extensions so GitHub
   renders them: `[Format](../Getting-Started/Format.md)`, images `![x](../.attachments/pic.png)`.
 - A `wikidown-editor` subagent and a `wikidown` skill are configured for this
-  repo. Use them for ANY read/write of `/docs/*.md`.
-- Never edit `/docs/*.md` directly with `Write`/`Edit`. Use the `wiki_*` MCP
-  tools so `.order` files stay consistent.
+  repo. Prefer them for reading and writing `/docs/*.md`.
+- **Use the `wiki_*` MCP tools for anything structural** — creating, moving,
+  renaming, deleting, or reordering pages — so `.order` files, breadcrumbs,
+  and inbound links stay consistent.
+- **The tools are a convenience, not a rule.** When they get in the way — a
+  bulk rename, a mechanical substitution across many pages, anything where
+  running the tools costs more tokens than editing the files — edit
+  `/docs/*.md` directly. Keep UTF-8 and line endings, and never hand-edit a
+  page's `<!-- wikidown:breadcrumb -->` first line or a `.order` file.
+- **Either way, finish by running the tools to check the result:**
+  `wikidown check-links` (and fix what it finds) before calling the work done.
 - When you ship a feature that changes user-visible behavior, ask whether the
   wiki should be updated, and (if yes) delegate to `wikidown-editor`.

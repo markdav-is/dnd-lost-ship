@@ -36,7 +36,7 @@ Economical with words, generous with action. States her position once, then does
 
 ## Stats — Athasian Druid 12, Circle of Preservation (Dune Strider)
 
-*Built on the [Dark Sun 5e](../Game-Mechanics/Dark-Sun-5e-Rules.md) chassis: wild talent, preserver casting, desert-forged. Party-parity CR 10.*
+*Built on the [Dark Sun 5e](../Game-Mechanics/Dark-Sun-5e-Rules.md) chassis: wild talent, preserver casting, desert-forged. Party-parity CR 10.* *(The Circle of Preservation is the [Gleaners'](../World/Aerun.md) craft in the cities; the Sandwalkers keep the same art without the guild, the offices, or the paperwork. Harah is a preserver and not a Gleaner.)*
 
 **AC** 16 (bone-and-hide + *barkskin* reflex) · **HP** 112 (15d8+45) · **Speed** 35 ft · STR 12, DEX 14, **CON 16**, INT 12, **WIS 20**, CHA 14 · **Saves** WIS +9, INT +5 · **Skills** Survival +13, Nature +9, Medicine +9, Perception +9 · **Resists** poison, fire · Darkvision 60 ft · Common, Primordial (desert), Sandwalker sign
 

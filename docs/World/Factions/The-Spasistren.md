@@ -11,7 +11,8 @@ Jak's elite all-female guard: warrior monks bound to the Administrator through A
 ## Who they are
 
 - An all-female force that views Jak not just as a ruler but as **the central node of a new reality**. They do not fight for pay; they fight because they believe.
-- Recruited (in part) through temple ceremonies; initiates return "different." Families both revere and fear the calling.
+- **They live in the Spáhus.** Outside Grønnfjord, the sisters' house in any town is a **Spáhus** — *spá*, foresight, as in their own name: the "seeing-house." It is a guard house, a barracks, the Administrator's embassy, and the place the [Aura network](../The-Aura-Network.md) comes into town. **It is not a temple**: nothing is worshipped there and no god is named. (Plural **Spáhuses**; outsiders mostly say *Jak's watch-house*.) The Spáhuses are Jak's **outposts in the world**. The one true temple in the order's life is the **Temple of Nord** in Grønnfjord, which is a real temple to a real god and happens to be where Jak sits.
+- Recruited (in part) through inductions at the Spáhus — and, in Grønnfjord, through ceremonies at the Temple of Nord; initiates return "different." Families both revere and fear the calling.
 - They carry simple quarterstaffs and need nothing else — witnesses describe one dropping three brawling sailors by touching pressure points.
 - They move with eerie, synchronized grace, guided by the constant data stream of the [Aura network](../The-Aura-Network.md). They do not show fear, anger, or frustration — the terrifying calm of zealots who know their god is watching through the blue light behind their ears.
 

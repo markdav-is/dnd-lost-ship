@@ -10,7 +10,7 @@ Canonical source: `assets/Aerun_TheMerchantHouses.md`.
 
 | | **Jak** (the Emperor) | **The Families** | **The Caravan Guild** |
 | :--- | :--- | :--- | :--- |
-| **Controls** | The [Aura network](../The-Aura-Network.md): teleportation and instant global communication; temples in every city | The **cities themselves**, the wells, the arenas, the **Spice** | All bulk transport: the mekillot argosies of the Ring Road, the silt-crawlers of the interior |
+| **Controls** | The [Aura network](../The-Aura-Network.md): teleportation and instant global communication; a Spáhus (Spásistren watch-house) in every city | The **cities themselves**, the wells, the arenas, the **Spice** | All bulk transport: the mekillot argosies of the Ring Road, the silt-crawlers of the interior |
 | **Blind spot** | Bulk goods can't teleport; the network fails beyond the Rim Wall | No counter to the Spásistren; can't move an army without Guild hulls | Makes nothing, grows nothing, rules nothing |
 | **Dependency** | Needs Aerun *trading*, not obedient — the hub of world commerce is worth more wild than governed | They need the network's speed and the Guild's hulls | Fed and paid by everyone; steeped in Spice |
 

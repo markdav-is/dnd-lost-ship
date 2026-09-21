@@ -14,4 +14,4 @@ A salvage port on the northwest coast, in the rain-shadow-free green where the R
 
 - One of the few places on Aerun where fresh water is unremarkable and fish is cheap. Travelers coming off the interior routes tend to overeat here and regret it.
 - Passage can be bought to the northern continents from Osgaker's quays, but the captains are choosy and the season is short.
-- The salvage yards are worth an hour: half the odd metalwork on the west coast passes through them, and the yardmasters know what everything is.
+- The salvage yards are worth an hour: half the odd metalwork on the west coast passes through them, and the yardmasters know what everything is. Most of them are **Tinkers** — the Tinkerers of Thingamajigs keep their main Aerun shop here — and for a fee they will tell you what your find does, or at least what it used to do.

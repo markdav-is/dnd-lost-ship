@@ -22,7 +22,7 @@ The reference shelf for everything [Aerun](Aerun.md) borrows — and it borrows 
 | **Dark Sun Boxed Set — The Wanderer's Journal** ⭐ | `assets/DDDS_DarkSun_V.pdf` | **The land guide** — city-states, Tablelands, silt sea, tribes, ecology; the primary lore mine for Aerun |
 | **"A Little Knowledge"** (boxed-set adventure, 3 parts) | `assets/DDDS_DarkSun_I.pdf` – `III.pdf` | The introductory adventure beneath the dark sun — structure and tone reference |
 | **Boxed-set poster maps** | `assets/DDDS_DarkSun_VI.pdf` | The Tyr Region map, the DM hex map, and the City of Tyr — extracted and embedded in the [Glossary](Dark-Sun/Glossary.md) |
-| **Defilers and Preservers: The Wizards of Athas** | `assets/DDDS_DefilersPreservers.pdf` | Deep lore for the [Order of the Sere](Factions/The-Order-of-the-Sere.md) and the Veiled Alliance — kits, oaths, the cost of the art |
+| **Defilers and Preservers: The Wizards of Athas** | `assets/DDDS_DefilersPreservers.pdf` | Deep lore for the [Order of the Sere](Factions/The-Order-of-the-Sere.md) and the Veiled Alliance (on Aerun: the Gleaners) — kits, oaths, the cost of the art |
 | **The Will and the Way: Psionicists of Athas** (2431) | `assets/DDDS_TheWilltheWay.pdf` | The psionics deep-dive — disciplines, academies, the trained mind; source for Spice-talent escalation and the [avatar road](../Campaign/Plot-Threads/Spicy-Jak.md) |
 | **The Complete Gladiator's Handbook** (CGR2) | `assets/2419_CGR2_Complete_Gladiators_Handbook.pdf` | Arena culture — the only ladder up from slavery; gladiator kits for arena arcs in the cities |
 | Dark Sun Campaign Setting + Creature Catalog (4e) | `assets/DD4_DarksunCampaign.pdf`, `assets/Dark_Sun_Creature_Catalog_(4e).pdf` | Modern presentation of the same lore; monster conversion shortcuts |
@@ -38,12 +38,12 @@ The reference shelf for everything [Aerun](Aerun.md) borrows — and it borrows 
 | Athas, the dying world | **Aerun** — one continent's worth of the same story, as Vermoon's warning |
 | Rajaat, the First Sorcerer (inventor of defiling) | **The same Rajaat.** His Champions sent him into the Hollow, inside the Black, and the sending tore a hole into our world that never healed — the [First Source](../Campaign/Plot-Threads/The-First-Source.md) pours from it, and the Sandwalkers gave the place his name. *"It started with Rajaat."* Kept as the sorcerer on purpose, so more Dark Sun lore can come in cleanly |
 | The Cleansing Wars' scoured wastes | **The Green Age defiling** — the working that unmade the interior into the Sea of Silt |
-| The Emperor (Dune) | **Jak** — the one king, far to the north; his temples are embassies |
+| The Emperor (Dune) | **Jak** — the one king, far to the north; his **Spáhuses** (the Spásistren's watch-houses — outposts, not temples) are embassies |
 | The Landsraad / the merchant dynasties | **[The seven families](Factions/The-Merchant-Houses.md)** — Wavir, Tsalaxa, Inika, Shom, M'ke, Vordon, Stel — **ruling their cities outright** |
 | The Spacing Guild | **The Caravan Guild** — mekillot argosies and silt-crawlers; all transport, perfect neutrality |
 | The sorcerer-kings (the Champions of Rajaat) | **The house Champions** — names kept, thrones gone: each family's sovereign weapon; the greatest ascended to Dragon/Avangion states as pure deterrent |
 | The War of Assassins (kanly) | **The War of Champions** — house disputes settled by refereed champion-duels in the arenas; Guild-notarized stakes; armies too expensive to march |
-| The Veiled Alliance | The same, quietly working toward Aerun's restoration |
+| The Veiled Alliance | **The Gleaners** — Vermoon's own Gleaners Guild, whose Aerun chapter *are* the preservers (Circle of Preservation). Played as **Dune's planetologists**, not as an underground: unhunted, teaching the Ring Road to farm, with an open vision of a new Green Age |
 | Universal psionics | **The Spice** — psionics as ecology, not birthright |
 | The Dragon / the Avangion metamorphoses | The ascension roads behind the dragons themselves and [Spicy Jak's](../Campaign/Plot-Threads/Spicy-Jak.md) third path, the Psionic Avatar |
 | Silt horrors, thri-kreen, muls, elven runners | Imported wholesale — see Terrors of the Desert for stat blocks |

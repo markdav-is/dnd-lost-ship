@@ -14,4 +14,5 @@ Out on the western promontory, where the coast juts into deep water and the weat
 
 - Hollowstorm eats better than any city on the ring and knows it. Ask for the smoked catch.
 - The town is the wettest, greenest spot on the continent — everything the westerly winds carry falls here and on the mountains behind. A traveler from the interior may find the damp genuinely unpleasant after a lifetime of dust.
+- The **Gleaners** keep nursery gardens on the wet seaward slopes above the town — rain-fed beds where seedlings can be raised without a water ration — and a one-room **G4CE post** on the quay, mostly to see the seed safely onto the road.
 - Ships put in for water and repairs, not cargo; the Guild has no yard here, and small independent captains like it that way.

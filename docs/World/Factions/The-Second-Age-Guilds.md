@@ -53,6 +53,16 @@ This is the **second age** — "an age of utopian ideals and working together, w
 - **Home port: Drytide** (on Taldea) — mixed-use streets, shop below and home above, inventors building from salvage or from nothing. Home of the **Great Race** and of **[Rico](../../NPCs/Rico.md)**.
 - **In play:** below the Shelf in Shimmerhill, repairing mining machines and working found artifacts. After the party restored power, Drytide's tinkerers found their scavenged Antari **phones and tablets** suddenly responsive — they were trading working ones within days.
 
+## On Aerun
+
+Three of the four keep a footing on the desert continent; the full table is on [Aerun](../Aerun.md).
+
+- **The Gleaners are Aerun's preservers.** What the Dark Sun books call the Veiled Alliance is, on Aerun, simply the Gleaners Guild: *take what is needed and no more* practiced as a magical discipline — the **Circle of Preservation** — and aimed, over generations, at a green Aerun. They are the equivalent of **Dune's planetologists**: not hunted by the Houses, working in the open, **educating the Ring Road in the growing of crops**, with a vision of transforming Aerun back to a Green Age. Chapter hall in **Balic**; one of theirs commands **Altaruk**; nurseries at **Hollowstorm**.
+- **G4CE has offices there** — Balic, Altaruk, a post at Hollowstorm — and **the party's medallions are good at all of them.**
+- **The Tinkers** work the salvage: the yards at **Osgaker** and the trinket tables of **Eldorado**.
+- **The Academy has a full campus in Balic** — the one chartered school of arcane magic on Aerun, licensed because a creed of *fettered* magic is the only kind the continent will tolerate. Locally it is called **the Fettered Mind** ("the Academy" on Aerun means the Navigation Academy). It is **[Erleena Riser's](../../NPCs/Erleena-Riser.md) foothold on Aerun**: colleagues, a library, a bench, a bed. The psionic Great Schools otherwise hold the place the Academy holds elsewhere.
+- **The Devout Coalition is absent.** No gods on Aerun, so nothing for it to oversee.
+
 ## After Jak
 
 Nothing on the board says what became of the Board when [Jak](../../NPCs/Jak-Bjornsson.md) took the Administrator's seat and ruled in the open. Four guild-factions that governed by consensus now share a world with one man who sees through every implant — how each has taken that is unwritten, and is the current DM's to decide.

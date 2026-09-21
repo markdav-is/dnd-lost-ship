@@ -6,7 +6,7 @@ The keepers of the most reviled magic on Vermoon. *Sere* — the old word for wi
 
 ## Defiler magic
 
-Arcane magic that fuels itself by **draining the life from plants and soil**, turning fertile ground to sterile ash in a visible radius (full tradition rules: `assets/DarkSun_5e_Campaign_Guide_v1.9.pdf`). Its counterpart is **preserving** — drawing only what the land can recover from. On Aerun the split is a living institution: **sorcerer-kings are defilers of the highest order**, arcane magic is feared and often illegal in the city-states, and preservers hide in the secret cells of the **Veiled Alliance**, working toward the restoration of Aerun's green.
+Arcane magic that fuels itself by **draining the life from plants and soil**, turning fertile ground to sterile ash in a visible radius (full tradition rules: `assets/DarkSun_5e_Campaign_Guide_v1.9.pdf`). Its counterpart is **preserving** — drawing only what the land can recover from. On Aerun the split is a living institution: **sorcerer-kings are defilers of the highest order**, arcane magic is feared and often illegal in the city-states, and the preservers are the **[Gleaners](The-Second-Age-Guilds.md)** — Vermoon's Gleaners Guild, whose Aerun chapter practices preserving as its craft and works toward the restoration of Aerun's green.
 
 Beyond Aerun, defiling is anathema everywhere: the peoples of Vermoon remember what it costs, because an entire continent paid it.
 
@@ -30,7 +30,7 @@ For the Barrier Peaks this is a real, horrifying option — a magical scorched-e
 - **Relationship to the sorcerer-kings:** rivals? apostates? the kings prove the knowledge never needed an order to survive — so what does the Order believe its oath *is*?
 - **Who knows it exists?** The Council of Frostwatch does, now — and wants their *containment* help while the cure mission runs. But contact requires travel to them, and **the Order will not talk to Harah**: an old, unexplained rift (*"It's a long story"*). The party may have to broker a reconciliation nobody understands yet — and whoever reaches the Sere first still gains the most terrible lever in the [Lighthouse Dilemma](../../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).
 - **What do they want?** Failsafe-keepers wait for a purpose. After a thousand years, do they *want* to be needed?
-- **The preserver counterweight:** the **Veiled Alliance** exists ([Aerun](../Aerun.md)) — natural opponents of ever invoking the Sere, and natural allies for any party seeking a gentler answer.
+- **The preserver counterweight:** the **Gleaners** ([Aerun](../Aerun.md)) — natural opponents of ever invoking the Sere, and natural allies for any party seeking a gentler answer.
 
 ## Using them at the table
 

@@ -12,7 +12,7 @@ Inland behind Tyr, at a high pass where the road climbs toward the cliff country
 
 ## What a visitor sees
 
-One long street of outfitters and drink-houses, a chapel, a water-master's office, and a great deal of gear for sale second-hand — which is to say, sold by people who returned, and by the families of people who didn't. The wind off the heights carries fine gray dust that gets into food, eyes, and lungs; locals wear veils without thinking about it.
+One long street of outfitters and drink-houses, a **Tinkers'** assay bench, a water-master's office, and a great deal of gear for sale second-hand — which is to say, sold by people who returned, and by the families of people who didn't. The wind off the heights carries fine gray dust that gets into food, eyes, and lungs; locals wear veils without thinking about it.
 
 **And the tables.** Between the outfitters, and down every side alley, Eldorado is one long swap meet. Trestles and blankets heaped with small things: bent glass, buttons of a metal nobody can name, little engine-bones, charms, tokens, a lens, a key to no door — some of it ancient, dug out of the dark, and some of it knocked together last tenday by a local with clever hands and a straight face. Nobody labels which is which. Most of it is junk. People cross a continent for the rest.
 
