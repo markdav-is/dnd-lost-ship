@@ -12,7 +12,15 @@
 
 ## The season, and how it ended
 
-Eight broadcasts, and then a goodbye. On the final one the Wanderer announced, in the same unhurried voice he used for gate procedure, that he was traveling **north past First Mark and then west into the unstaked blank** — the gray no lane has ever crossed. That last broadcast came not from his hidden relay but from **Midreach's own tower**; his words on the matter were that *"a courtesy was extended,"* and he said no more about it. Since then, channel forty-three has been silent. The Guild has no comment — which, on Aerun, is how everyone knows it matters.
+Eight broadcasts, and then a goodbye. On the final one the Wanderer announced, in the same unhurried voice he used for gate procedure, that he was traveling **north past First Mark and then west into the unstaked blank** — the gray no lane has ever crossed. That last broadcast came not from his hidden relay but from **Midreach's own tower**; his words on the matter were that *"a courtesy was extended,"* and he said no more about it. The Wanderer has not been heard from since. Channel forty-three stayed silent until a single night about a month later — and the voice that came on was not his (see the intern's letter, below). The Guild has no comment — which, on Aerun, is how everyone knows it matters.
+
+## The intern's letter
+
+About a month after the finale, channel forty-three came on for a single night. The voice was not the Wanderer's. It belonged to the young person who minds his set — his **"intern,"** he calls them, a northern word that near as anyone can tell means apprentice minus the wages. Nineteen, unnamed, raised in a port town they would not name. They said it plainly: the Wanderer is not back, and they have not heard from him.
+
+They called it a letter rather than a show: no music, just the set switched on. It answered the question half the show's unread mail asks — *which School?* — with an honest account of what is good about each of the five [Great Schools](The-Great-Schools.md), what the catch is, and what a life looks like afterward.
+
+It ended on a reflection: Aerun is the hub every chart in the world runs to, yet almost nobody born there ever leaves along a spoke — and, speaking from beyond the [Rim Wall](Gazetteer/The-Rim-Wall.md), the intern no longer trusts the coastal proverb that the world ends there, in either direction. They closed by borrowing only the Wanderer's fourth rule — *stop for nothing that hails you from the gray* — and signed off: *"I was never here."*
 
 ## The night at the Cochlea
 
@@ -38,5 +46,6 @@ People who spoke on the air, and are now mildly famous for it:
 | **Harl** | A drover — the trade's plainest spokesman, and proud of it |
 | **Vess** | Of **Saltbone** [waystation](Gazetteer/The-Waystations.md) |
 | **Madame Ossia** | Of [Salt View](Gazetteer/Salt-View.md) — voice of the Principal Troupe |
+| **The intern** | Minds the Wanderer's set; nineteen, unnamed, and heard on the air exactly once |
 
 Caravan crews within reach of a far-speaker marked the broadcast hours the way they mark the beacon schedule. The Houses would very much like to know where the Wanderer's relay stands. So far the silt is keeping it — and now it is keeping him.

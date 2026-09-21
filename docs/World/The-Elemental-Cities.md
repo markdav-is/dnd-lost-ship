@@ -8,12 +8,52 @@ Source: Andy's world-building interview, `assets/Vermoon World-Building Session_
 
 ## Known cities
 
-| City | Element | Notes |
+Built by **[the Antari](The-Antari.md)**, each on the stolen power of one Primordial Titan. Names and interiors from Andy's 2023 board (`assets/2023-dnd-campaign.json`); prep notes, not a transcript.
+
+| City | Element · Titan · Dragon | Notes |
 | :--- | :--- | :--- |
-| **Airlantis** | Air | Flying city the size of a sports stadium — see below |
-| **Oceana** | Water | Underwater city off the coast of Caria (marked on the world map); the party's visit there prompted opening the teleport network |
-| **The fire city** | Fire | On [Aerun](Aerun.md), **buried under the rim town of Eldorado** — the high pass behind Tyr. The salvage the prospectors have been bringing down out of the high country for centuries comes from it; nobody in Eldorado asks where. Erleena has dug there and knows the way in. A Titan at its heart, like the others. **This is a backstory hook for [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md), not part of the infection story** — it has nothing to do with Rajaat or the Lighthouse |
-| **The earth city** | Earth | Site of the party's encounter with the Earth Titan *(name to confirm from Andy's Trello notes)* |
+| **Airlantis** | Air · Ermir · Claire (Silver) | Flying city the size of a sports stadium — see below |
+| **Oceana** | Water · Dwyn · Dildro (Blue) | Underwater research city 5,000 ft down off the far coast of [Caria](Caria.md), near the Triple Isles — see below |
+| **Eldorado** | Fire · Savita · Thimva (Red) | The fire city, on [Aerun](Aerun.md), **buried under the rim town of Eldorado** — the high pass behind Tyr. The salvage the prospectors have been bringing down out of the high country for centuries comes from it; nobody in Eldorado asks where. Erleena has dug there and knows the way in. **This is a backstory hook for [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md), not part of the infection story** — it has nothing to do with Rajaat or the Lighthouse. See below |
+| **Dirtroit** | Earth · Kaia · Essos (Black) | Buried under the Bolt Mountains of [Taldea](Taldea.md); site of the party's encounter with the Earth Titan. *(Name confirmed from Andy's Trello notes.)* |
+| **Eros Station** | — | The orbital station; not a Titan city, but on the same portal ring. *(The name comes from Aura's system list — "Eros Station operations" — and is taken here to be the space station; the board otherwise just says "the space station.")* |
+
+Legend in the Second Age had them as the four **mythical lost cities** — Eustace spent eight years looking for one, Shhhmeowmeow is still looking for another. The map room at Lost Rock showed all four on the world as it was before the calamity.
+
+## Oceana
+
+- **Getting in:** the currents off western Caria spiral to a churning center — the pull of the city's great intake pipe. A submerged deck lies just under the surface there (the **Staff of Whirlpool** bares it); an elevator goes down for a very long time. There is also a retractable pier for ships, docks for underwater vessels, and an emergency passage to one of the Triple Isles.
+- **Layout:** a great **glass dome** with metal buildings at the center and **five glass arms** leading to five lab domes, numbered clockwise from the north:
+
+| Lab | Work | Power color (the puzzle) | As found |
+| :-: | :--- | :--- | :--- |
+| 1 | Horticulture — food, bioengineered life | Green (blue + yellow) | Holed and flooded; beyond repair |
+| 2 | Constructs and bio-weapons — mechanized enhancement, built life | Purple (red + blue) | Dark |
+| 3 | Location traversal — land, sea, air, *instantaneous* | Brown (green + red) | Lit, constructs at work; where Burl was trapped, and where the **portal** is |
+| 4 | Materials research and processing | Grey (black + white) | Lit and slowly flooding |
+| 5 | Communications — intelligence storage, power and operations for the city | Pink (red + white) | Lit, several floors |
+
+  *(An earlier prep note listed the labs as Horticultural, Incorporeal Research, Bio-Mechanical, Aero Space, Alchemical; the list above is the one that reached the table.)*
+- **What it was doing to the world:** Oceana commands smaller stations laid across the ocean floor that can **redirect natural currents**. Someone had set them to *manual* — hence the wrong-way tides, failing fisheries, and maddened sea creatures of the previous campaign. Erleena shut them down from here. She inferred the same kind of controls at the other cities explained the heat out of the Amber Valley (Eldorado) and the fast dark storm clouds (Airlantis) — and that Dirtroit's were destroyed with the city.
+- **Who's there now:** the rebuilt Green Dragon **Undaloth**, in rehabilitation ([The Dragons](The-Dragons.md)). Constructs still work the halls; most ignore visitors. **Deep Scions** in the Antari's service were noted operating out of Oceana.
+
+## Dirtroit
+
+An Antari surface city dropped under a mountain range. From the [Titan Fighters'](Factions/The-Titan-Fighters.md) base the party followed great power cables down a chasm edge to intact, lit streets: buildings to search, a library where Jak read the city's name, and beds where survivors of the calamity sheltered — some still in them. Beyond, **Kaia** herself ([The Titans](The-Titans.md)). At Lost Rock, Dirtroit's was the one power orb still seated and the one city showing green. Its **portal room is a ruin with no way out**; an Antari emblem and a touchy laser pistol lay in the rubble.
+
+## Eldorado — what the notes say is down there
+
+*For whenever Shhhmeowmeow's thread is played. Never visited in the previous campaign; everything here is Andy's unplayed prep.*
+
+- **What the library in Yorrem says:** "the lost city," the **Fallen's city**, where the smelting of many metals took place — known for its **gold buildings and many riches**, and home of the great ***Troilos Lugos***, the machine that powered its smelters.
+- **What it is:** a **foundry city built below the surface**, powered by the Fire Titan. Andy pictured the country above it like Iceland — geothermal activity breaking the surface — and, underneath, **the body of the now-dead Titan Savita and her still-active core**, spewing fire and lava, with the city built around it. At Lost Rock its keywords were *Flames, Forges, Coals, Steam*.
+- **Its portal room:** hot. Several doors, none of which open; the party's key card gets a buzz and a red light. Screens show red warning lights and **lava bubbling up and overflowing large areas**.
+- **Its reach:** the great heat and drought reported out of the **Amber Valley** in the previous campaign was attributed to Eldorado's controls running unattended.
+- **One more thing:** in Andy's notes on where the Blue Dragon might go, Eldorado *"could"* have **a launch site for a spaceship** — topside, to be dug out by the Titan Fighters. A question mark, not a fact.
+
+## Eros Station
+
+Reached only by portal. **South:** habitation — room after room with belongings neat on the shelves, photographs of smiling people, books, games. **West:** the **stasis pods**, upright against the wall, most occupied, vital signs on a screen at the foot of each. **East:** offices and labs — the mapping of Vermoon, the first landers' journals, the Titans' routes, the plan ([The Antari](The-Antari.md)). **Between:** galleys and lounges. **North:** the control room, and the Administrator. What state any of it is in now is unrecorded.
 
 ## Airlantis
 
@@ -23,9 +63,32 @@ Source: Andy's world-building interview, `assets/Vermoon World-Building Session_
 - Home of the **Silver (or White) Dragon** ([The Dragons](The-Dragons.md)).
 - **DM note:** Airlantis is the party's dormant super-asset — and, per the revised council canon, **the designated delivery platform for the Purge path**: the world's only strategic air power, the one thing that can carry enough incendiaries to sterilize the valley. The ship's no-teleport field doesn't ground *aircraft*, and the Spásistren certainly haven't forgotten Airlantis exists. This means the purge cannot happen without the party's consent — or without Jak attempting to commandeer their city. Either way, bringing it south is a campaign-scale escalation with political consequences.
 
+**As the party found it (2023 board):**
+
+- The legend: *the city was too powerful, so they floated it away to protect it from those who would do it ill.* At Lost Rock its keywords were *Wind, Sky, Travel, View*. From the ground it was the patch of dark storm cloud moving too fast against the rest of the sky — Essos called it one of "those humans' horrible flying machines."
+- **Abandoned**, apparently after continual dragon attacks, out of fuel and **on the verge of falling**. Landing it safely meant fixing two faults: an **electrical** one and a **gravity/balance** one.
+- **The electrical room:** a tall round chamber, three raised walkways to a central charger holding five color-coded batteries (white 10, blue 15, red 15, green 20, yellow 25) and a bank of six receptacles; total charge decides which doors open, and overloading dumps the lot. Behind the last doors: the **Silver Dragon Ball**, 200 platinum, and serpent, dragon, and adamantine armor — and a switch to stop the power discharge.
+- **The research decks:** climate research and weather tracking — walls of instruments, global weather maps updating live, dates circled in colored ink. Upstairs, a hole torn in the hull and **Claire's** nest ([The Dragons](The-Dragons.md)).
+- **The engines** are close cousins of the one [Rico](../NPCs/Rico.md) built with Burl's prompting. Rico's fuel is a magical feed for the **elementals** that do the actual work; it needs **fossilarium** from Shimmerhill, lasts a long time, and needs only small top-ups.
+- Andy's plan for it if kept aloft: slow travel around the world, improvable as a base, room to **house the dragons**, and a place for Erleena and others to join. Landed, it would still be a portal destination.
+
 ## The teleport network
 
 - Ancient infrastructure connecting the cities, restored during the previous campaign (introduced, candidly, to solve travel fatigue — the party was "bebopping around worldwide" by the end).
 - Runs on the same ancient power grid as [Aura](The-Aura-Network.md); it functions where the network functions — which means **people and messages, not bulk cargo** (Aerun's Ring Road lives in that gap), and nothing beyond the Rim Wall.
 - **The void exception:** nothing teleports into, out of, or within [the ship](../The-Lost-Ship.md) — the Barrier Peaks remain reachable only the hard way. This is why the current campaign travels by longship, dogsled, and hoversled.
 - **DM lever:** which teleporters the Administration controls, monitors, or has quietly shut down is undefined — a ready-made tension point between Jak, the merchant houses, and a party that remembers when the network was theirs.
+
+### How the portals work (2023 board)
+
+A freestanding circular frame, its rim ringed with symbols. Hold an **Antari emblem** (the party's medallions) against a symbol until it lights and the ring fills with **shimmering silver liquid**. The party first saw a dead one in the basement of Lost Rock — a doorway attached to nothing but the floor, edged in flashing red — and first used the one in Oceana's Lab 3, after watching Burl leave through it.
+
+| Symbol | Destination |
+| :--- | :--- |
+| Dual triangles | Dirtroit |
+| Dual squares | Eldorado |
+| Square above a squiggle | Airlantis |
+| Circle inside another circle | Oceana |
+| Circle *with* another circle | Eros Station |
+
+The emblem reaches all the city locations; what more the station needed was a question Andy left himself. Holding the emblem to the symbol of the portal you are standing at does nothing.

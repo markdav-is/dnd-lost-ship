@@ -16,6 +16,7 @@ DM reference wiki for **The Lost Ship**, a D&D 5e campaign built on *S3: Expedit
 - **[Game Mechanics](Game-Mechanics.md)** — russet mold infection rules, key cards, and alien technology.
 - **[Adventures](Adventures.md)** — the scenario modules. Each module contains its ⚡ **encounter subpages**: at-the-table pages with read-alouds, mechanics, and art, built for flipping to mid-session.
 - **[Reference](Reference.md)** — source material, published-book inspiration, and the asset index.
+- **[Gallery](Gallery.md)** — every image in the wiki as thumbnails, grouped by subject, each linking to its page.
 
 ## Quick answers
 
@@ -29,3 +30,4 @@ DM reference wiki for **The Lost Ship**, a D&D 5e campaign built on *S3: Expedit
 | What is Rajaat? | [The First Source](Campaign/Plot-Threads/The-First-Source.md) |
 | Who is the woman from the desert? | [Harah Tabr](NPCs/Harah-Tabr.md) |
 | What can I hand to players about Aerun? | [Aerun Players Guide](Aerun-Players-Guide.md) |
+| I need a picture to put on the table | [Gallery](Gallery.md) |

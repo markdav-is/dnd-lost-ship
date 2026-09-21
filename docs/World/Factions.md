@@ -11,6 +11,8 @@ The powers moving through the campaign, each with a legitimate grievance and a d
 - [The Sandwalkers](Factions/The-Sandwalkers.md) — Aerun's deep desert witnesses; Harah's people.
 - [The Great Schools](Factions/The-Great-Schools.md) — the five psionic academies of the seven cities: Stillwater, Reckoning, Kenaz, the Menders, the Navigation Academy (DM-facing; secrets inside).
 - [The Order of the Sere](Factions/The-Order-of-the-Sere.md) — keepers of the shunned magic that stopped the First Source.
+- [The Second-Age Guilds](Factions/The-Second-Age-Guilds.md) — the Academy of the Fettered Mind, the Devout Coalition, the Gleaners Guild, the Tinkerers of Thingamajigs: the Board that ran Vermoon before Jak.
+- [The Titan Fighters](Factions/The-Titan-Fighters.md) — the bandana'd "bandits" sworn to the Titans, founded in secret by the Blue Dragon.
 
 ## Alignment map
 

@@ -36,7 +36,7 @@ One line of texture: the next door south along the west rim is **S43, the whirlp
 
 ## Read-aloud — the reveal
 
-> *The yellow door slides open on a working lab. Medical shelving to the ceiling, half of it emptied into a synthesis rig that clicks and drips on the bench. Notebooks — a month of them — stacked in an order only their author understands. And in the middle of it, on his feet, walking to meet you under his own power: George. The growths are half what you remember. The baritone isn't.*
+> *The yellow door slides open on light. Cream wall panels, a flat white ceiling that lights the whole room at once with no shadows anywhere, an orange stripe running the walls at waist height. Medical storage racks stand in tidy rows, half their stock decanted into a synthesis rig on a low white console — clear tubing, square buttons, a small screen ticking through numbers. A worker robot is wiping down a bench that does not need it. A month of notebooks sits on the console in an order only their author understands — the one untidy thing in the room. And in the middle of it, on his feet, walking to meet you under his own power: George. The growths are half what you remember. The baritone isn't.*
 >
 > *"Oh my."* A pause exactly as long as it needs to be. *"You came back. Through* that*. I heard the whole thing — Eddie narrates. Do sit down. No — not there. That is the mold sample."*
 
@@ -96,11 +96,13 @@ End here. The players choose; the page doesn't.
 
 When the party comes back through S42 with Erleena ([Beneath the Lighthouse](Beneath-the-Lighthouse.md)), this room is the goodbye. George and Erleena in one place for the first time in a month; the plan said out loud with all three sides present; the last refills on the tanks. George's part is the holding action: he stays, he and Eddie make more soap, the robots carry it deck by deck, and as long as the tower is fighting him it isn't spreading — *for now* ([George Decay](../../NPCs/George-Decay.md)). Play it warm and brief. He will not permit it to be anything else.
 
+**The closing scene has its own page: [The Send-Off](The-Send-Off.md)** — Erleena's chart of Aerun, the five *what you know about Aerun* player handouts, and the round-robin. Run it here, while George does the last refills.
+
 **He already knows.** Erleena keyed the lab's speaker and told him before she packed; he said *"oh my"* and *"go"* with the party listening. So by the time they walk back in he has had a garden crossing's worth of time to think, and he meets them with a list, not a question: what the rig can make in a week, which fire-suppression stations Eddie can reach, which robots he wants and which he doesn't trust with a hose. *"I have been doing sums. I do not care for all of them. I care for enough of them."*
 
 **The bargain, cashed.** If the froghemoth was killed or washed — it was, or they wouldn't be standing here — Eddie's favor is done, and he says so from the ceiling: the **medical decks open**. That is the point of the bargain now. The pharmacopeia and the labs below are the stock George's synthesis rig runs on; with them, the soap factory has months, not weeks. If for some reason no favor got done, George negotiates it himself after the party leaves — it is not a gate on their departure, and Eddie was never going to hold a deck hostage from the man who woke him.
 
-**Two beats to let land.** George's *"ensure she doesn't make the same mistake I did"* — the suit, the seal, the four hours of air — answered to his face, however Erleena answers it. And [Robin's](../../Campaign/The-Party/Robin-Wood.md) sheet note about the med bay: the ship's medical stores are George's supply now, so a raid is a conversation, and George is the kind of man who will hand over a crate and ask for a receipt.
+**Two beats to let land.** George's *"ensure she doesn't make the same mistake I did"* — she has just crossed the garden in a medical uniform with a hose on her back — answered to his face, however Erleena answers it. And [Robin's](../../Campaign/The-Party/Robin-Wood.md) sheet note about the med bay: the ship's medical stores are George's supply now, so a raid is a conversation, and George is the kind of man who will hand over a crate and ask for a receipt.
 
 ## Optional trouble (one-liners)
 

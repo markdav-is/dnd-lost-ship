@@ -39,7 +39,7 @@ The moment control passes, Eddie **seals the door** — Erleena's month-old ask,
 
 ## What it opens
 
-This is the quiet payoff. With the door under Eddie's control, the stair from Erleena's lab is a **clean, held route between the Lighthouse levels and the lower deck** — and the lower deck is where **S64b, the stasis chamber**, is: twenty pods, nineteen skeletons, and [Nova](../../NPCs/Nova.md). The party still doesn't know she exists. The door was never the mystery; what's a few doors past it is. Don't point at it. Let Eddie, who has one blank spot on his map and never thought to mention it, open the door and light the corridor and say *"I don't go down that way much."*
+This is the quiet payoff. With the door under Eddie's control, the stair from Erleena's lab is a **clean, held route between the Lighthouse levels and the lower deck** — and the lower deck is where **S64b, the stasis chamber**, is: twenty pods, nineteen skeletons, and [Nova](../../NPCs/Nova.md). The party still doesn't know she exists. The door was never the mystery; what's a few doors past it is. Don't point at it. Let Eddie — whose map shows S64b as nothing but machinery, because Nova wiped the computer core on her way into the tank and he has no idea she is there — open the door and light the corridor and say *"I don't go down that way much."* He isn't hiding anything. There is nothing down there that he knows of.
 
 ## Rewards
 

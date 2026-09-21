@@ -87,7 +87,18 @@ The fullest backstory in the party, in the player's words on the sheet:
 
 **Personality.** *I never pass up a friendly wager. I like a job well done, especially if I can convince someone else to do it.* **Ideal:** People — committed to his crewmates, not to ideals (Neutral). **Bond:** *In a harbor town, I have a paramour whose eyes nearly stole me from the sea.* **Flaw:** *My pride will probably lead to my destruction.*
 
-**Allies listed:** Musty Joe, Gobbledygook, Shhhmeowmeow, **Jackamar Börnson** (Jak, in the player's spelling), **Essos, the Black Dragon**, and **Undaloth, the Green Dragon** — with the note *"2,500 in gems for thhhhhh."* Undaloth is not one of the four prophecy dragons on [The Dragons](../../World/The-Dragons.md); who that is and what the gems were for is a previous-campaign thread waiting for its owner. **Organization:** *"gee force"* — the G-Force Medallion in his equipment is presumably its badge.
+**Allies listed:** Musty Joe, Gobbledygook, Shhhmeowmeow, **Jackamar Börnson** (Jak, in the player's spelling), **Essos, the Black Dragon**, and **Undaloth, the Green Dragon** — with the note *"2,500 in gems for thhhhhh."* Undaloth is Eustace's own dragon — see below; what the gems were for is still unexplained. **Organization:** *"gee force"* — **G4CE**, the Gleaners Guild's guard, said aloud as "G-Force." Captain Elmor Kimem of Yorrem put the party on contract after the festival raid, and the **G-Force Medallion** is the badge that gets work (and a wave through the gate) at any G4CE office ([The Second-Age Guilds](../../World/Factions/The-Second-Age-Guilds.md)).
+
+## In the previous campaign (2023 board)
+
+From Andy's prep, `assets/2023-dnd-campaign.json` — see [The Red Dragon Campaign](../The-Red-Dragon-Campaign.md). The board knows him as **Eustace Beeblebrox**; *Thunderbeak* is the sheet's name.
+
+- **The pitch:** an aarakocra pirate on a ship traveling the world, doing all kinds of things, while looking for the lost city of Airlantis. It was this character's quest that made Andy ask himself, in December 2023, whether each Titan had a city devoted to it — which is where Airlantis, Eldorado, Oceana, and **Dirtroit** as a matched set come from.
+- **Joined late, in Oldspire** — met Shhhmeowmeow on the way back from the G4CE office. So he is the one hero who **never had the red dragon dream**. Essos's remark on that: *"there is always one more added."*
+- **The Green Ball and the green dragon.** Eustace came to carry the **green orb**, and with it came dreams: first a nameless voice in the dark, friendly and full of questions about where he was and what the world was like now (a failed Wisdom check and he would have trusted it completely); later a vision of a green dragon dying under machines and men, its orb lifted away by human hands, its body on a table under the sea, its eyes opening red. Essos told him the ball was *"a very important thing… more valuable than any gold or weapon."* The dragon was **Undaloth**; the party fought his rebuilt body in Oceana while Erleena put his soul back ([The Dragons](../../World/The-Dragons.md)). He is alive in Oceana, mechanized, on the phone network, with Aura in his head.
+- **The Staff of Whirlpool** in his pack is the key to Oceana's front door: cast over the center of the spiral currents (Arcana 17+), it bares the submerged deck.
+- **Pirate connections** were Andy's planned way to get the party a ship to Drytide.
+- When the group flew blind over the Lost Rock swamp, Eustace was the one who could climb through the cloud deck to spot the spire's tip.
 
 ## Airlantis
 
@@ -98,4 +109,4 @@ At the end of the previous campaign Eustace landed **[Airlantis](../../World/The
 - Native flight changed several set-piece fights (Sky Hunters, froghemoth) — the source modules assume aerial party members and punish landing.
 - Pirate background ties to Grønnfjord's harbor world: Captain Olaf, the southern sea routes, and the coming voyage to Aerun. Heimwater harbor — and the paramour — is a port waiting to be put on a map.
 - **The purge path runs through Eustace.** Airlantis is the council's designated strike platform for the fire road ([The Three Roads](../../Adventures/The-Three-Roads.md)) — so the world's most terrible option requires his yes, and his people live next to the runway. No pressure.
-- **Undaloth and the gems.** A green dragon owed (or owing) 2,500 in gems is a debt nobody at the table has cashed. Ask Ben.
+- **Undaloth and the gems.** Undaloth is Eustace's paired dragon, alive and mechanized in Oceana — but 2,500 in gems owed (or owing) is still a debt nobody at the table has cashed. Ask Ben.

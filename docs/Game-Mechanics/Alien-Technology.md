@@ -4,6 +4,8 @@
 
 Ship equipment rules, consolidated from the QftIS Appendix A ("Magic Items and Technology"), the DMG futuristic-firearms entries it points to, and the homebrew conversion documents. Most powered items run on **energy cells / power discs**.
 
+**DM only:** "alien" is the table's word. The ship is an [Antari](../World/The-Antari.md) terraforming ark, older than the refugee ship and the cities — so all of this is an **earlier generation** of the ancients' technology: ancestor to the laser pistol in Dirtroit, the chipped cards that opened the Void and Lost Rock, and the stasis pods on Eros Station ([The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md)). Related, not interchangeable: nothing says a Void card opens a ship door.
+
 ## The party arsenal (one of each, identified)
 
 ![The futuristic arsenal](../.attachments/alien_weapons_spread.png)

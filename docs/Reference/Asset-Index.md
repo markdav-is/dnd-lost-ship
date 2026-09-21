@@ -4,7 +4,7 @@
 
 Every file in [`/assets`](../../assets), linked and grouped by type. (Published PDFs get fuller treatment in [Sourcebooks & Inspiration](Sourcebooks-and-Inspiration.md).)
 
-**Extracted art:** all 102 images embedded inside the .docx files are unpacked to [`assets/extracted/`](../../assets/extracted) for browsing, named by source document (`Frostwatch_Horror__image4.png`). The ~44 used on wiki pages live in `docs/.attachments/` with descriptive names.
+**Extracted art:** all 102 images embedded inside the .docx files are unpacked to [`assets/extracted/`](../../assets/extracted) for browsing, named by source document (`Frostwatch_Horror__image4.png`). The ~44 used on wiki pages live in `docs/.attachments/` with descriptive names. **To browse by picture, use the [Gallery](../Gallery.md)** — thumbnails of every wiki image, grouped by subject, rebuilt with `py tools/make_gallery.py --write`.
 
 ## Homebrew scenario documents
 
@@ -25,6 +25,7 @@ Every file in [`/assets`](../../assets), linked and grouped by type. (Published 
 | [Aerun_Worldbuilding.md](../../assets/Aerun_Worldbuilding.md) (older) | Earlier Aerun draft — superseded on city names; still canonical for the political-monopoly framing | [Aerun](../World/Aerun.md) |
 | [Dune_DarkSun_Connections.md](../../assets/Dune_DarkSun_Connections.md) | "The Sands of Two Worlds" — thematic analysis of the two source settings | [Sourcebooks](Sourcebooks-and-Inspiration.md) |
 | [Vermoon interview transcript](../../assets/Vermoon%20World-Building%20Session_%20Dragon%20Lore%2C%20Continent%20Design%2C%20and%20Titan%20Technology%20Discussion_transcript.txt) (+ [summary](../../assets/Vermoon%20World-Building%20Session_%20Dragon%20Lore%2C%20Continent%20Design%2C%20and%20Titan%20Technology%20Discussion_summary.txt)) | **Andy interview**: dragon lore, Titans, elemental cities, Aura, previous-campaign canon | [The Dragons](../World/The-Dragons.md), [The Titans](../World/The-Titans.md), [Elemental Cities](../World/The-Elemental-Cities.md), [Timeline](../World/Timeline.md) |
+| [2023-dnd-campaign.json](../../assets/2023-dnd-campaign.json) ⭐ | **Andy's Trello board for the previous campaign** (Oct 2023 – Aug 2025), raw Trello JSON export: 11 lists, 71 cards — the Vermoon world notes and four guild-factions, Titan/dragon/Antari lore, the original PC cards (incl. Jak as a PC and the shelved Throg'Mar), and session prep from Yorrem through Taldea, Oceana, Airlantis and the space station. Most of the lore is in card *comments* (`actions[]` of type `commentCard`), not descriptions. **Prep notes, not a played record.** Card images are Trello-hosted links, not in the repo | [The Red Dragon Campaign](../Campaign/The-Red-Dragon-Campaign.md), [The Antari](../World/The-Antari.md), [Caria](../World/Caria.md), [Taldea](../World/Taldea.md), [The Second-Age Guilds](../World/Factions/The-Second-Age-Guilds.md), [The Titan Fighters](../World/Factions/The-Titan-Fighters.md), [The Dragons](../World/The-Dragons.md), [The Titans](../World/The-Titans.md), [Elemental Cities](../World/The-Elemental-Cities.md), [Aura](../World/The-Aura-Network.md), [The Party](../Campaign/The-Party.md) |
 | [Session record: Frost Watch Military Takeover…](../../assets/D%26D%20Campaign%20Session_%20Frost%20Watch%20Military%20Takeover%20and%20Spore%20Network%20Crisis%20After%20Ship%20Mission_transcript.txt) (+ [summary](../../assets/D%26D%20Campaign%20Session_%20Frost%20Watch%20Military%20Takeover%20and%20Spore%20Network%20Crisis%20After%20Ship%20Mission_summary.txt)) | **Played session 2026-08-04 #1**: descent aftermath, occupied Frostwatch, Robin recruited, info-withholding pact | [Adventure Log](../Campaign/Adventure-Log.md) |
 | [Session record: Frostwatch Council…](../../assets/D%26D%20Session_%20Frostwatch%20Councils%20Containment%20and%20Cure%20Strategy%20for%20Fungal%20Infection%20Crisis_transcript.txt) (+ [summary](../../assets/D%26D%20Session_%20Frostwatch%20Councils%20Containment%20and%20Cure%20Strategy%20for%20Fungal%20Infection%20Crisis_summary.txt)) | **Played session 2026-08-04 #2**: the council, Rajaat named, **Cure path chosen**, Harah-defiler rift surfaced | [Adventure Log](../Campaign/Adventure-Log.md) |
 | [Session record: Blizzard Traverse & Ship Assault…](../../assets/Blizzard%20Traverse%20%26%20Ship%20Assault_%20Returning%20to%20the%20Sieged%20Hull%20and%20Engaging%20the%20Roper_transcript.txt) (+ [summary](../../assets/Blizzard%20Traverse%20%26%20Ship%20Assault_%20Returning%20to%20the%20Sieged%20Hull%20and%20Engaging%20the%20Roper_summary.txt)) | **Played session 2026-09-08**: the Whiteout crossing, the Breach and Eddie's greeting, the south-tube detour onto the observation deck, and the roper fight. *(The summary's spell names were scrubbed to `$1` by the transcriber; the transcript has them.)* | [Adventure Log](../Campaign/Adventure-Log.md) |
@@ -73,6 +74,7 @@ See the [Dark Sun Library](Dark-Sun-Library.md) for the complete published-canon
 | [Power and Pawns](../../assets/DUNE_Power_And_Pawns_Emperors_Court_Sourcebook_Printer_Friendly_v010LW.pdf) | Dune 2d20: The Emperor's Court |
 | [Houses of the Landsraad](../../assets/Dune__Houses_Of_The_Landsraad_Digital_Standard.pdf) (+ [printer-friendly](../../assets/Dune__Houses_Of_The_Landsraad_Digital_Printer_Friendly.pdf)) | Dune 2d20: Houses of the Landsraad |
 | [masters_of_dune_digital_edition_pf_18-04-23.pdf](../../assets/masters_of_dune_digital_edition_pf_18-04-23.pdf) | Dune 2d20: Masters of Dune |
+| [ShadowSun Revised - Player Quickstart v1.1.pdf](../../assets/ShadowSun%20Revised%20-%20Player%20Quickstart%20v1.1.pdf) · [GM Quickstart v1.1.pdf](../../assets/ShadowSun%20Revised%20-%20GM%20Quickstart%20v1.1.pdf) | **ShadowSun Revised** — a Dark Sun-flavored supplement for the *Shadowdark* RPG, not 5e. Mined for ideas, not rules-as-written: the hydro/deprivation track, vitality-based hex travel, the tiered psionic power list with mishaps, the d20 wild-talent table, terrain-hazard tables, monster mutations. *Naming clash: its "the Black" is the silt sea, not the plane* |
 
 ## Character sheets (D&D Beyond exports — refreshed 2026-08-05, all level 11)
 
@@ -131,14 +133,14 @@ Backstory, personality, and appearance fields were read from these exports on 20
 | :--- | :--- |
 | [enc_the_breach.jpg](../../assets/enc_the_breach.jpg) | [The Breach](../Adventures/Return-to-the-Ship/The-Breach.md) |
 | [enc_covering_fire.jpg](../../assets/enc_covering_fire.jpg) | [The Breach — covering fire](../Adventures/Return-to-the-Ship/The-Breach.md) |
-| [enc_lab_at_s42.jpg](../../assets/enc_lab_at_s42.jpg) | [The Lab at S42](../Adventures/Return-to-the-Ship/The-Lab-at-S42.md) — George demonstrates the spray packs (also on [George Decay](../NPCs/George-Decay.md)) |
-| [enc_beneath_the_lighthouse.jpg](../../assets/enc_beneath_the_lighthouse.jpg) | [Beneath the Lighthouse](../Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md) — Erleena's lab under the lake (also on [Erleena Riser](../NPCs/Erleena-Riser.md)) |
-| [enc_froghemoth_wash.jpg](../../assets/enc_froghemoth_wash.jpg) | [Beneath the Lighthouse — the froghemoth](../Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md) — kill it or wash it |
+| [enc_lab_at_s42.jpg](../../assets/enc_lab_at_s42.jpg) | [The Lab at S42](../Adventures/Return-to-the-Ship/The-Lab-at-S42.md) — George demonstrates the spray packs (also on [George Decay](../NPCs/George-Decay.md)). **Regenerated 2026-09-17** in the *Space: 1999* look (`tools/gen_image.py`, prompt in `tools/prompts/`) |
+| [enc_beneath_the_lighthouse.jpg](../../assets/enc_beneath_the_lighthouse.jpg) | [Beneath the Lighthouse](../Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md) — Erleena's sickbay under the lake (also on [Erleena Riser](../NPCs/Erleena-Riser.md)). **Regenerated 2026-09-17** — bright sickbay, medical uniform, no suit |
+| [enc_froghemoth_wash.jpg](../../assets/enc_froghemoth_wash.jpg) | [Beneath the Lighthouse — the froghemoth](../Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md) — kill it or wash it. **Regenerated 2026-09-17** to match the D&D froghemoth (frog body, four tentacles, eye-stalk) — the earlier render was a kraken |
 | [enc_the_turn.jpg](../../assets/enc_the_turn.jpg) | Harah and Erleena — an earlier draft of the turn beneath the Lighthouse; as played, Harah stayed at Frostwatch and the party carries her news. Still on [Harah Tabr](../NPCs/Harah-Tabr.md) |
 
 ## Portraits & council art
 
-NPC art status: **every named principal now has page art except [Rico](../NPCs/Rico.md) and [Tomas Vel-Maret](../NPCs/Tomas-Vel-Maret.md)** (see Wishlist). Erleena's is a scene image (the hatch struggle) rather than a headshot.
+NPC art status: **every named principal now has page art except [Rico](../NPCs/Rico.md) and [Tomas Vel-Maret](../NPCs/Tomas-Vel-Maret.md)** (see Wishlist).
 
 | File | Subject | Embedded at |
 | :--- | :--- | :--- |
@@ -151,6 +153,7 @@ NPC art status: **every named principal now has page art except [Rico](../NPCs/R
 | [mcready_portrait.webp](../../assets/mcready_portrait.webp) | McReady portrait | [McReady](../NPCs/McReady.md) |
 | [copper_portrait.png](../../assets/copper_portrait.png) (+ [website png](../../assets/copper_portrait_website.png) / [webp](../../assets/copper_portrait_website.webp)) | Copper portrait | [Copper](../NPCs/Copper-the-Surgeon.md) |
 | [nova_in_pod_v3.png](../../assets/nova_in_pod_v3.png) | Nova in her stasis pod | [Nova](../NPCs/Nova.md) |
+| [erleena_portrait.jpg](../../assets/erleena_portrait.jpg) | Erleena in her sickbay doorway, in the ship-made medical uniform (Gemini, 2026-09-17; prompt in `tools/prompts/`) | [Erleena](../NPCs/Erleena-Riser.md) |
 | [eddie_intercom.jpg](../../assets/eddie_intercom.jpg) | Eddie, the shipboard computer — the intercom-panel "portrait" shown at first contact | [The Breach](../Adventures/Return-to-the-Ship/The-Breach.md) + [Return to the Ship](../Adventures/Return-to-the-Ship.md) |
 | *(from [`assets/extracted/`](../../assets/extracted), placed in `.attachments/`)* | George Decay, Jak (throne), Korrin, Erleena (hatch scene), Bjorn, Sigrid, Erik | [George](../NPCs/George-Decay.md), [Jak](../NPCs/Jak-Bjornsson.md), [Korrin](../NPCs/Korrin.md), [Erleena](../NPCs/Erleena-Riser.md), [Chapter 2](../Adventures/Chapter-2-Gronnfjord-Shops.md) |
 
@@ -173,7 +176,7 @@ NPC art status: **every named principal now has page art except [Rico](../NPCs/R
 - ~~Aerun legacy city-name reconciliation~~ ✓ **settled by the revised map** (`aerun_map.png`): the Dark Sun seven are the city-states; Blackguard, Osgaker, Hollowstorm, Amber Valley, and Eldorado are lesser towns.
 - ~~Scarlands regional map~~ ✓ received (`scarlands_completed_map.png`) — embedded at [The Scarlands](../World/The-Scarlands.md).
 - ~~Which city is the elemental **fire city**~~ ✓ **settled at the table (2026-09-12)**: buried under Eldorado, not one of the seven ([The Elemental Cities](../World/The-Elemental-Cities.md)).
-- **Portraits: Rico and Tomas Vel-Maret** — no art exists for either; generate or commission headshots. A proper Erleena headshot (current page art is the hatch scene) and portraits for the six PCs would round out the set.
+- **Portraits: Rico and Tomas Vel-Maret** — no art exists for either; generate or commission headshots. Portraits for the six PCs would round out the set. ~~A proper Erleena headshot~~ ✓ (`erleena_portrait.jpg`, 2026-09-17).
 - **House banner art** — the Merchant Houses doc references banners on expiring CDN links; save stable copies to embed on [The Merchant Houses](../World/Factions/The-Merchant-Houses.md).
 - Andy's **Trello board** of previous-campaign notes — city names, connections, the earth city.
 - Sahali's session notes (confirm Airlantis details and dragon pairings — and who Undaloth the Green Dragon is).

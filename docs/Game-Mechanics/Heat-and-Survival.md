@@ -34,6 +34,58 @@ reduced risk; magic (*create water*, *goodberry*) or a *Rejuvenate*d oasis →
 automatic success or lower DC. Standard Grønnfjord cold-weather kit is
 useless here — desert gear is its own shopping trip.
 
+## Deprivation (going dry)
+
+*Borrowed from ShadowSun Revised and converted; Mark's numbers to adjust.* Heatstroke is what the heat does to you. Deprivation is what the **lack of water** does, and it is the one thing in this chapter that magic can't fix.
+
+- **A day short of rings costs 1 point of Constitution.** Apply it at the day's end, after the heatstroke save. It lowers the score itself (and so max HP and CON saves), not a pool of hit points.
+- **Magic does not heal it.** *Lesser* and *greater restoration*, *heal*, potions — none of them touch deprivation damage. Only **a full day's rings and a long rest** do, at **1 point per day**.
+- **While deprived**, any further heatstroke trigger that would call for a save instead forces **DC 15 Constitution** or another point of Constitution lost. The heatstroke disadvantage still applies on top.
+- **At Constitution 0 the character dies.** No death saves. Say it at the table the first time someone goes dry; the desert does not roll dice.
+
+Why it's here: the rings are a budget, and a budget alone never scares anyone. Deprivation makes the count a body. Harah's Desert Endurance ignores heatstroke and forced-march exhaustion; it does **not** ignore deprivation — the Sandwalkers carry water like everyone else.
+
+## Vitality — the desert travel pool
+
+*Also from ShadowSun, converted; the desert twin of the Glacial Crossing tracker on [The Whiteout](../Adventures/Return-to-the-Ship/The-Whiteout.md). Distances are legs of about 18 miles, roughly half a day — read them off the [Mileage Chart](../Aerun-Players-Guide/Gazetteer/The-Mileage-Chart.md) and the Atlas.*
+
+**Each morning the party has a shared pool of vitality**, spent as the day goes:
+
+| | Vitality |
+| :--- | :-: |
+| Base, per day | **4** |
+| Travel at least 8 hours at night | +1 |
+| Every member spends **one extra ring** that day | +1 |
+| Mounts for some of the party | +1 |
+| Mounts for everyone | +2 |
+| Two or more mounts each (a Guild string, a kank train) | +4 |
+
+Mount bonuses don't stack; they assume the animals are watered and cared for.
+
+**Each leg costs vitality by terrain:**
+
+| Terrain (Aerun) | Cost | Navigation (INT / Survival) | Forage for water (WIS / Survival) | Time |
+| :--- | :-: | :--- | :--- | :--- |
+| Coastal ring, scrub plain, the Ring Road | 1 | DC 9 | DC 12 | ~2 h |
+| Stony barrens, the Black Crown's caldera | 2 | DC 9 | DC 15 | ~3 h |
+| Crescent Forest, scrub forest | 2 | DC 12 | DC 12 | ~3 h |
+| Badlands, rocky hills, rim benches | 3 | DC 12 | DC 18 | ~3 h |
+| Salt flats, sand sea, silt shoals on foot | 4 | DC 15 | DC 18 | ~4 h |
+| Dust sinks, the Ringing Mountains, the Eldorado pass | 5 | DC 15 | DC 15 | ~6 h |
+
+**The leg, in order:**
+
+1. **Direction and cost.** Pay the terrain's vitality.
+2. **Navigation.** The DM rolls the leader's Intelligence (Survival) against the DC in secret. On a failure, roll d6: on a 1 they went where they meant to; otherwise the DM describes where they actually are and lets the players work out that they've drifted. A natural 20 finds whatever the leg was hiding.
+3. **Forage (optional, 1 vitality).** Everyone rolls Wisdom (Survival) against the forage DC; each success finds **2 rings** — a seep, a cactus, a dew trap. Adds an hour.
+4. **Encounter check.** d6; a 1 is an encounter (Aerun's tables, or the DM's).
+5. **Time passes** per the table.
+6. **Push on at zero?** They can. **Below zero, each character either spends one extra ring now or makes a Constitution save, DC 10 + the leg's cost; failure is 1 point of Deprivation damage** (above).
+
+**Camp.** A rest in the wild needs one person preparing the site (two if the day ran past 12 hours), one on the animals if there are any, and a fire at night to recover hit dice and spell slots at all — no fire in a sandstorm, so no recovery in a sandstorm. Anyone idle can make **DC 12 Charisma** to give another character **inspiration** over the meal. A settlement or caravanserai costs a copper or nothing and gives **+1 vitality** the next morning. Any vitality left over at day's end means a **vigilant watch**: the camp can't be surprised, and a night encounter starts at long range.
+
+Why it's here: it turns "do we push on to Eldorado tonight" into a decision with a number on it, and it gives the water rings something to buy besides survival.
+
 ## Race-by-race: how the party's bodies handle it
 
 The current party's races weren't built for Aerun, so translate each one on

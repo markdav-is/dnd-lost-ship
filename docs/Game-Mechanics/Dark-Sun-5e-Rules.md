@@ -57,6 +57,25 @@ The table has adopted two subclasses from `assets/UA2025-ApocalypticSubclasses.p
 
 How a wild talent escalates into *trained* psionics — the Tested and Schooled layers, the UA Psion chassis, and one published subclass per School — is on **[Psionics and the Great Schools](Psionics-and-the-Great-Schools.md)**.
 
+### Quick talents for NPCs and hirelings (d10)
+
+*Borrowed from ShadowSun Revised's d20 wild-talent list and cut down to the ten that translate cleanly to 5e. For PCs, use the Players Guide table above — it's fuller. For a guide, a caravan hand, a gate-keeper, or a Sandwalker met on the shoals, roll here so every Aerun native has a small gift without slowing the table.*
+
+| d10 | Talent | In play |
+| :-: | :--- | :--- |
+| 1 | **Affinity** | Domesticated animals and mounts are steady around them; Animal Handling rolls are treated as at least 10. |
+| 2 | **Auras** | They can tell a spellcaster or psionic from a mundane person by looking (no check; no detail). |
+| 3 | **Danger** | They can't be surprised. |
+| 4 | **Direction** | Advantage on Survival checks to navigate. |
+| 5 | **Empath** | Advantage on Insight against humanoids. |
+| 6 | **Message** | Once per round, one word telepathically to a creature within 60 ft they can see. |
+| 7 | **Purity** | Advantage on saves against poison and disease. |
+| 8 | **Sensory** | Blindsight 10 ft. |
+| 9 | **Transfer** | As an action, touch a creature: it regains 1 HP and they lose 1. |
+| 10 | **Twitch** | *Mage hand*, but only to nudge something weighing a pound or less. |
+
+Danger, Direction, and Purity are the three worth handing to a named guide; the rest are texture.
+
 ## New spells worth knowing (Ch. 7)
 
 - **Rejuvenate** (5th level, permanent): restores defiled/desolate ground — an 80-ft radius of enriched, moistened soil where grass grows again. **Casters:** Athasian clerics and druids (added lists), rangers (added list; 5th-level slots only at level 17), and **Ecomancer** wizards (9th level, paired with *greater restoration*). Table notes: **[Gobbledegook](../Campaign/The-Party/Gobbledegook.md) is cleric 10 now — he can prepare it today**; Harah's druid chassis could prepare it too, which raises its own questions. *This is the Veiled Alliance's dream in spell form* — and the first canonical proof that sere-made land can be healed at all. At world-scale it's a teaspoon against the Sea of Silt, but as a symbol (and a post-cure restoration tool for the Scarlands) it's enormous.

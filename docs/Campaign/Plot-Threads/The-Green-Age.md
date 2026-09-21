@@ -28,7 +28,7 @@ Most of Vermoon does not know the truth; these contested versions circulate as f
 | Theory | Cause | Reality |
 | :--- | :--- | :--- |
 | **The Defiling Wars** | Sorcerer-kings' life-draining magic in a catastrophic war | Closest to true — there *was* mass defiling; the "war" was against the spores |
-| **The Fallen Star** | A crashed vessel impacted Aerun long ago | Possibly literally true — is Rajaat the wreck of an earlier ark? |
+| **The Fallen Star** | A crashed vessel impacted Aerun long ago | Possibly literally true — is Rajaat the wreck of an earlier ark? *(Not either Antari ship: the terraforming ark is the one in the Barrier Peaks, and the refugee ship landed safely — [The Ship's Purpose](The-Ships-Purpose.md).)* |
 | **The Titan's Fall** | The Titan ("the Work") caused the devastation — or died trying to stop it | Sandwalker tradition; how Aerun's Titan relates to Rajaat is open |
 | **The Sorcerer-King's Bargain** | One ruler traded the land's vitality for immortality | Cautionary myth that now reads as prophecy about Jak and the network |
 

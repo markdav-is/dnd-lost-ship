@@ -25,11 +25,14 @@ The alien vessel buried in the Barrier Peaks — centuries crashed, still active
 - **Light cycle** (garden and some decks): 14 hours on, 7 off, no warning.
 - **The ship is alive:** robots patrol, alarms summon police, computers malfunction spectacularly (a random console press can release a bulette from cargo or trigger a full ship alert with sleep gas). The automated systems classify the mold as a **Class 4 Bio-Hazard** and run their own cleanup.
 - **The ship is lit now — selectively.** Since [Eddie](Adventures/Return-to-the-Ship.md) came online, the routes he uses are lit and busy — robots moving with purpose, doors opening on approach. Everything off those routes is as dark and fouled as before. Lit means Eddie is looking; dark means he isn't.
+- **The look (table style, since Eddie woke): *Space: 1999*.** Wherever the lights are on and the bots have been through, the ship is **Moonbase Alpha**: cream and white wall panels in a clean modular grid, rounded doorframes with sliding doors, flat even ceiling light with no shadows, orange and tan accents, low sleek consoles with square buttons and small screens, a potted plant where a plant has no business being. Tidy, because something is keeping it tidy. Describe lit rooms and corridors that way — and art for them should be generated that way. The **dark** side is the ship the party remembers: mold, grime, and the *Alien*-corridor gloom of the earlier art. The two looks meeting at a bulkhead is the picture of what Eddie is doing.
 - **Eddie:** the ship's newly-awake voice — the AI [Nova](NPCs/Nova.md) shut down centuries ago, under a name it isn't using anymore — see [The Ship's Purpose](Campaign/Plot-Threads/The-Ships-Purpose.md).
 
 ## History
 
-See [The Ship's Purpose](Campaign/Plot-Threads/The-Ships-Purpose.md) for the full DM-only background (the ark, the mutiny, the mold, the crash, and what wakes now).
+**DM only:** the ship is not alien to Vermoon's history. It is the **first of the two [Antari](World/The-Antari.md) ships** — a **terraforming ark** that crashed in the Barrier Peaks long before the refugee ship landed and the ancients' cities were built. Its "alien" technology is an older generation of the ancients' technology, [Nova](NPCs/Nova.md) is Antari, and neither she nor Eddie has ever heard of the second ship or anything its people did. To the table it is still "the alien ship" until someone says otherwise.
+
+See [The Ship's Purpose](Campaign/Plot-Threads/The-Ships-Purpose.md) for the full DM-only background (the two ships, the mutiny, the mold, the crash, and what wakes now).
 
 ## Entrances
 

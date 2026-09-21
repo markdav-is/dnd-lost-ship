@@ -52,13 +52,34 @@ Three layers, from least to most trained:
 
 Canon says the Will is a tool used *on* other minds, and that disciplined minds muddy one another ([Dark Sun conversion rules](../World/Dark-Sun.md)). Rule: when a psionic effect with a saving throw targets a creature that has a Psion level or a Wild Talent feat, **the target may expend one Psionic Energy Die (a Wild Talent feat holder: one use of its feat's per-rest benefit) to add 1d6 to its save.** Two trained minds, dice against dice — the [Veil](../Campaign/Plot-Threads/The-First-Source.md), at the smallest scale.
 
+## Psionic mishaps *(optional table rule)*
+
+*Borrowed from ShadowSun Revised and converted to 5e terms. Purely a table rule — the UA Psion stays as written.* The Will is not safe to use. **When a character with a Psion level or a Wild Talent feat rolls a natural 1 on a psionic spell attack, or a target rolls a natural 20 on the save against a psionic effect, the caster rolls d12 below.** (Optional harder version: also on a natural 1 on any Psionic Energy Die roll.)
+
+| d12 | Mishap |
+| :-: | :--- |
+| 1 | **Mind Cascade.** Roll twice more and take both. If either is another 1, take 1d6 psychic damage instead of rolling again. |
+| 2 | **Mind Spike.** 2d6 psychic damage and **stunned** until the end of your next turn. |
+| 3 | **Reflection.** The effect happens, but swapped: a power meant for allies lands on the nearest enemies, a power meant for enemies lands on you. |
+| 4 | **Confusion.** The effect happens on a **random creature** in range (DM rolls among everyone, allies included). |
+| 5 | **Mind Fog.** That spell or discipline is gone for **seven days**. |
+| 6 | **Dissolution.** One random **nonmagical item** you carry warps and is ruined — a waterskin is the classic. |
+| 7 | **Feedback Loop.** Until you succeed on a **DC 12 Intelligence save** at the start of a turn, you can't use psionics at all. |
+| 8 | **Mind Wipe.** One psionic spell or discipline (DM's pick) is unavailable until your next long rest. |
+| 9 | **Shadow Void.** Every **nonmagical light** within 30 ft goes out for 5 rounds. Magical light is untouched. Under the desert night, this is total dark. |
+| 10 | **Mind Leak.** For 5 rounds your surface thoughts are **broadcast to every mind within 120 ft**, and every hostile in that radius knows exactly where you are. On Aerun, add: every warden, Master, and Spice-strong mind in earshot heard that. |
+| 11 | **Mind Sludge.** Melee attacks against you have **advantage** for 2d4 rounds. |
+| 12 | **Distraction.** Until your next long rest, your psionic attack rolls have disadvantage and targets save against your psionics with advantage. |
+
+Why it's here: on a continent held together by a massed psionic working, an untrained mind that leaks is a real danger, and Mind Leak in particular is a scene waiting to happen. It also gives Spice dependency a mechanical shadow — the DM may rule that a heavy user who goes a day without Spice rolls on this table the first time they reach for the Will.
+
 ## Character creation summary (for the table)
 
 1. **Native?** Roll a wild talent (3d6, Players Guide p. 112). Visitors roll after a season or on Spice.
 2. **Tested?** Take a **Wild Talent feat** (UA) in place of your Origin feat — choose from your School's favored two.
 3. **Schooled?** Psion class (UA, as written) → the School's subclass at 3 — or **Fighter → Psi Warrior** for Reckoning, **Rogue → Soulknife** for Kenaz. Need Con 13 and Int 13 either way.
 4. **Another class?** Pick the re-skinned published subclass ([Other classes at the Schools](../World/Factions/The-Great-Schools.md) — Aberrant Sorcery = Spice-burnt, Great Old One = Champion-bound, Psykinetic = unclaimed; the Way of the Unseen Mind is the [Avatar road](../Campaign/Plot-Threads/Spicy-Jak.md), NPC-only unless entered as homebrew) and a Wild Talent feat.
-5. *(Optional table rules)* **The Will:** burn Hit Dice for Energy Dice, Con mod times per long rest; heavy Spice: +2 to Con for that purpose, blue eyes, dependency. **Sight contests sight:** trained minds may spend an Energy Die on a save against another trained mind.
+5. *(Optional table rules)* **The Will:** burn Hit Dice for Energy Dice, Con mod times per long rest; heavy Spice: +2 to Con for that purpose, blue eyes, dependency. **Sight contests sight:** trained minds may spend an Energy Die on a save against another trained mind. **Mishaps:** a natural 1 on a psionic attack (or a natural 20 on a save against you) rolls d12 on the mishap table.
 
 **D&D Beyond setup:** enable the UA Psion; the Schools are published subclasses renamed in the character's notes — Telepath = Stillwater, Metamorph = Mender, Psi Warper = Navigation Academy, **Psi Warrior (Fighter) = Reckoner**, **Soulknife (Rogue) = Kenaz-sworn**. Wild Talent feats are UA feats. Nothing homebrew.
 

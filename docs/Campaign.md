@@ -8,6 +8,7 @@ The running state of the Lost Ship campaign: where the party is, what has happen
 - [Adventure Log](Campaign/Adventure-Log.md) — everything that has happened, chapter by chapter.
 - [Plot Threads](Campaign/Plot-Threads.md) — active mysteries and the levers behind them.
 - [The Party](Campaign/The-Party.md) — the five player characters.
+- [The Red Dragon Campaign](Campaign/The-Red-Dragon-Campaign.md) — the previous campaign, arc by arc, from Andy's 2023 board.
 
 ## The campaign in one paragraph
 

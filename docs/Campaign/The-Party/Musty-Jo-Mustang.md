@@ -79,6 +79,18 @@ Centaur Fighter 6 / Paladin 5 (Outlander). Player: yourthighness69. Sheet: `asse
 - **Flaw:** *Oblivious, trusting, gullible.*
 - **Backstory field:** empty on the sheet. Outlander background; the rest is the player's to tell.
 
+## In the previous campaign (2023 board)
+
+From Andy's prep, `assets/2023-dnd-campaign.json` — see [The Red Dragon Campaign](../The-Red-Dragon-Campaign.md). Player at that table: Sahalee, who per Andy's note "really enjoys the temple solving, dungeon delving — more mystery and potential spooky."
+
+- **The card, in full:** *Well intentioned, kind, gentle, trusting, but dumb, easy to trust, and gullible. Very loyal and protective to his friends and people he cares about.* Centaur, male, fighter, longsword. Andy pegged him as "probably a part of the nature faction" — the [Gleaners Guild](../../World/Factions/The-Second-Age-Guilds.md).
+- **Home is on Malandara.** Mid-campaign Musty-Jo **dreamed of his tribe and trouble brewing back home**. It never got played: *"Musty Jo's feeling of needing to go home — what is that and what does that mean"* was still on Andy's loose-ends list at the end.
+- **The Shrine of Skerrit.** On the Drytide–Shimmerhill road stands a shrine to **Skerrit**, god of centaurs, fauns, and satyrs, and his champion the Forest Walker — with a broken, oak-marked bow left among the offerings and a note: *"Skerrit, I rebuke thee, take back your gifts I have no further need for them."* Andy's list calls the thread *"the Fallen Paladin of Skerrit — Venat?"* ([Taldea](../../World/Taldea.md)). Never resolved. (Musty-Jo was a straight fighter then; the five paladin levels came later, and the board does not connect them to the shrine.)
+- **The Bag of Beans** (one of the possible finds in the ruins on the Oldspire road) has been used like a siege weapon: a bean planted on a troll raised a gleaming stepped **pyramid** on a Taldean hillside (traps, a gynosphinx, a pharaoh's tomb), and a second bean raised a smaller, shabbier one *inside Oceana* — the tomb of a **centaur pharaoh**, its pillars carved with a centaur king's deeds, its mummy guarding the **Flail of Tiamat** he now carries.
+- **The Immovable Rod** came from the Seventh Son dungeon; the **Folding Boat** from a collapsed tunnel under the Bolt Mountains.
+- **The Silver Dragon Ball** was found behind the last doors of Airlantis's electrical room, free to "anyone who hasn't already taken a dragon ball." Communing with it reached not Claire but **Dildro**.
+- The board's final entry leaves him **frightened** in the middle of the last fight.
+
 The **Silver Dragon Ball** in his pack is one of the dragon orbs from the previous campaign — which may make Musty-Jo the unconfirmed partner of the Silver/White Dragon that lives at Airlantis ([The Dragons](../../World/The-Dragons.md)). Worth confirming at the table.
 
 ## DM hooks

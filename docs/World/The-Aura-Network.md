@@ -8,6 +8,29 @@ The world-spanning technological network through which Jak Bjornsson — the Adm
 
 Inherited infrastructure of the ancients — buried in the Red Dragon's apocalypse and revived when the previous campaign's heroes restored the power grid ([Timeline](Timeline.md)). Formerly run in secret by the elvish First Administrator from the orbital station; Jak, implanted after the last campaign, runs it openly from the Temple of Nord. Connection is physical: a **metal implant behind the left ear that pulses blue** when receiving. Implanted individuals include Jak himself, every [Spásistren](Factions/The-Spasistren.md), and a growing class of officials.
 
+### How it woke (2023 board)
+
+From Andy's previous-campaign prep, `assets/2023-dnd-campaign.json` — see [The Red Dragon Campaign](../Campaign/The-Red-Dragon-Campaign.md).
+
+- **The Void.** Aura's server banks sit in an [Antari](The-Antari.md) facility at the foot of the Eroded Tips on [Caria](Caria.md). A dais, a headband on a cord, darkness, and then: *"Unknown user recognized… please identify user… I am Aura, your helpful system operator… Low power… error, no system administrators active. Initiating system code 433.11.2455A, setting up new system administrator… It seems my data banks have not been accessed in **721 years**."* She had two maintenance issues: no local power, and no contact with any secondary system anywhere in the world.
+- **Jak was that new administrator.** His implant dates from here, as does his ability to read the Antari language. When [Erleena](../NPCs/Erleena-Riser.md) first connected, Aura asked *Jak* what to grant her. The tiers: **Administrator** — can change system parameters, grant access to others, and use the system; **User** — can access the system and its information.
+- **The towers.** Communications ran through towers, one per continent. Caria's was the fallen spire that **Oldspire** is built in; Erleena, Aura, and the guilds raised a replacement. Taldea's is **Lost Rock** — the horn of the Earth Titan ([Taldea](Taldea.md)). Once the grid was back, Jak could reach Aura anywhere power was established, the Scarlands included.
+- **The power room at Lost Rock.** Each city feeds the grid through a colored **orb** seated in a wall socket, matched to the city by color and output. Dirtroit's tan orb (output 20) was still seated; red (30), purple (25), and light blue (25) lay on the floor. Seating the right orb for Eldorado, Oceana, and Airlantis turned every city on the map room's monitor green and brought power back to every continent.
+- **What came back, in order** — and Aura asked Jak whether to restore these herself or leave it to him:
+
+| Tier | Systems |
+| :--- | :--- |
+| **Primary** | The Aura program and basic processing · communications · data and memory banks · primary (basic city and station) power |
+| **Secondary** | Basic city operations · city **repair drones** · **defense protocols** · secondary power operations |
+| **Tertiary** | **Intercity travel** (the portals) · **Eros Station** operations · secondary city operations |
+
+- **The side effects.** Dead Antari phones and tablets in Drytide woke up. Machines in the ruins powered on; small repair drones appeared and set to work on the bigger ones. The mechanical beasts of western Caria started moving.
+- **The lockout.** On the night of the Drytide race Aura told Jak the power controls had been changed from user-specified to automatic by someone with higher permissions than his. Asked who: ***"The Administrator."*** Jak's access shrank; Erleena was locked out entirely. Restoring power had woken a sleeper on Eros Station, who thereafter used the cities' controls — currents, weather, heat — to begin taking the planet back. After 700 idle years the systems were chaotic; every repair the drones finished handed her more control.
+
+> **Squares awkwardly with the line above.** "Formerly run in secret by the elvish First Administrator" is from Andy's interview. His 2023 prep has the network *dark* for 721 years and the Administrator an Antari sleeper who woke only when the party turned the lights on. See the flag on [The Antari](The-Antari.md).
+
+Andy's standing instruction to himself for Aura questions he hadn't planned for: *the data is damaged and unknown at this point.* It still works.
+
 ## Aura herself (DM canon from Andy)
 
 **Aura is not a conscious AI.** She is a *voice interface for the infrastructure* — bound by her code and a strict **permission hierarchy**. She helps whoever addresses her ("I'm here to help you do whatever you need to do") up to the limits of their access; a higher permission holder can order her to withhold information, and she complies. She has no plan, no bias, no agenda — she does what she is told. *(Andy explicitly left room to change this later; if the [invisible infection](../Campaign/Plot-Threads/The-Invisible-Infection.md) rides the network, "what Aura has been told, and by what" becomes a very sharp question.)*

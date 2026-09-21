@@ -10,6 +10,21 @@ The Administrator. Once a simple monk and wanderer from Grønnfjord — the part
 
 A boy from Grønnfjord on the southern continent who traveled with the Wayward Friends and helped defeat the **First Administrator** aboard the orbital station. Chosen to fill the role, Jak refused the predecessor's shadows: he took the implant, descended, and set his throne of black stone in the **Temple of Nord**, blending religious authority with political power. His all-female guard, the [Spásistren](../World/Factions/The-Spasistren.md), extends his reach; his implant extends his sight to every connected corner of Vermoon.
 
+### Before the crown — Jak as a player character
+
+In the previous campaign **Jakamarr "Jak" Bjornsson** was a PC (Mark's). From his card on Andy's 2023 board (`assets/2023-dnd-campaign.json`; see [The Red Dragon Campaign](../Campaign/The-Red-Dragon-Campaign.md)):
+
+- **Aasimar monk, Chaotic Good.** Fought with a quarterstaff and his fists. Carried his **mother's Ring of Water Walking**, his **uncle's Quarterstaff of Charming**, and a grey **"Six Demon Bag"** of tricks (Andy's margin note: *what is this and what does it do?*).
+- **Born under a lucky star,** or so his mother always told him (Andy: *USE THIS IN SOMETHING!!!*). **The seventh son of a seventh son**, and the most handsome of them — golden hair, blue eyes "like the ice and snow of his homeland," a **green peninsula on the southern frozen continent** where only the hardiest folk survive.
+- **His father** taught him the sea and the wind, as a devout follower of **Njørd**, god of sailors and fishermen. Jak felt a special connection to Njørd and prayed to him often. **His uncle**, a monk who had traveled the world and come home with tales of exotic lands, taught him to fight with fists and feet. (Andy's open questions: is the uncle still alive, still adventuring? How often do Jak and Njørd actually talk?)
+- **The call.** Torn between wanderlust and loyalty to his people, he got his sign: a storm unlike any other swept the peninsula, wrecking crops and homes and threatening the whole village, and in the middle of it Jak saw **a vision of Njørd calling him to a great adventure**. He packed, said goodbye to his family, and boarded a ship leaving the harbor.
+- **The Seventh Son door.** On the road from Yorrem to Oldspire stands a door marked *SEVENDE SONN SEVENDE* under a seven-pointed star. It opens for no one but Jak ([Caria](../World/Caria.md)). The library's gloss: the seventh son of a seventh son has healing powers.
+- **Aura's first administrator.** In the Void it was Jak who put on the headband. The implant, the ability to read the Antari tongue, and the habit of hearing a helpful voice nobody else can hear all date from there — two years before he had a throne ([The Aura Network](../World/The-Aura-Network.md)). It was Jak who granted Erleena her access, Jak who read out the name *Dirtroit*, and Jak whom Aura asked whether she should bring the world's systems back on her own judgment.
+- **A Titan Fighter in good standing.** He turned down a place with the [Titan Fighters](../World/Factions/The-Titan-Fighters.md) on Taldea and was given their sigil with a leader's insignia anyway.
+- **No dragon.** Every other hero got one. "Dragons for Gobbeldy and Jak — who are they, where are they?" was still unanswered on Andy's loose-ends list at the end.
+
+The man on the black throne praying at the **Temple of Nord** is the boy who followed Njørd out of a storm. Andy's spelling moves between *Njørd* and *Nord*; they are the same god.
+
 ## What he wants
 
 - The **void** in the southern peaks understood and the threat it releases stopped — it terrifies him, personally and politically. His scouts return changed; his best dis-trans bat came back trembling.

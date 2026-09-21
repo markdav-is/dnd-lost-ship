@@ -19,7 +19,7 @@ Goblin Cleric 10 — Trickery Domain (Urchin). Player: Theonezerg. Sheet: `asset
 ## Combat & support
 
 - **Channel Divinity 2/short rest: Invoke Duplicity** (illusory double, movable as a bonus action) and **Destroy Undead** — notably useful against spore servants.
-- **Divine Intervention** (1/long rest, d% ≤ 10): the deity's-aid lever now exists at the table — worth pre-deciding what Gobbledegook's god does about a planet-eating mold.
+- **Divine Intervention** (1/long rest, d% ≤ 10): the deity's-aid lever now exists at the table — worth pre-deciding what Gobbledegook's god (**Maglubiyet**, see below) does about a planet-eating mold.
 - **Nimble Escape:** Disengage or Hide as a bonus action every turn.
 - Attacks: **Lightbringer** (+5, 1d6+1, sap), mace, sling (+8).
 
@@ -58,7 +58,22 @@ Goblin Cleric 10 — Trickery Domain (Urchin). Player: Theonezerg. Sheet: `asset
 
 ## From the sheet
 
-The export carries **no backstory, appearance, personality, ideals, bonds, or flaws** — all blank. Urchin background, a disguise kit, and *books in the ancient tongue* are the only character notes the sheet offers.
+The export carries **no backstory, appearance, personality, ideals, bonds, or flaws** — all blank. Urchin background, a disguise kit, and *books in the ancient tongue* are the only character notes the sheet offers. Andy's 2023 board fills the gap.
+
+## Backstory (2023 board)
+
+From `assets/2023-dnd-campaign.json`, card *Gobbledegook* and the session cards — see [The Red Dragon Campaign](../The-Red-Dragon-Campaign.md).
+
+- **Goblin cleric of Maglubiyet — "Mags."** Chaotic Good, Trickery domain.
+- **Escaped an orc enslavement** after his deity gave him powers — and has been very obedient to Mags ever since.
+- **The commission:** *topple authority* ("good chaos") wherever he goes, and help the poor and the weak.
+- **How Mags talks:** by natural means — twigs, smells, and the like.
+- **Loves anything shiny,** treasure especially.
+- **Method:** *disguise self*, to move among the factions and work outside them.
+- **The errand that started it all:** Mags sent him to Yorrem's harvest festival to get **a key** — something of importance, sold at a festival stall. The [Titan Fighters'](../../World/Factions/The-Titan-Fighters.md) raid that night was after the same vendor.
+- **The barghests.** Hunted through Yorrem by barghests whose corpses never reverted to goblin form. They devour souls, goblinoid souls above all, for the **General of Gehenna** — with whom Maglubiyet **backed out of a deal**. The General's vendetta is against any and all goblins; a cleric of Mags is simply a better prize.
+- **The temple under Shimmerhill.** In the caves beneath the Bolt Mountains the party found a forgotten goblin camp and a makeshift temple to Mags — blood sacrifices, the axe symbol — and, after the fight, the **broken head of a double-headed axe**, apparently ordinary. "Gobbeldy's weapon" is the one item Andy's to-do list has checked off.
+- **The Blue Dragon's orb.** At the end, Dildro offered his ball to Gobbledegook, "who can do with it what he pleases" ([The Dragons](../../World/The-Dragons.md)). Whether he took it is *ask the table*.
 
 ## Rejuvenate — castable now
 

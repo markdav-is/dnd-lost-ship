@@ -19,20 +19,32 @@ The **Wayward Friends** — the adventurers who restored order to the realm a ye
 
 ## Backstories (what the sheets actually say)
 
-Read from the D&D Beyond exports on 2026-09-12. Each character page has the detail.
+Read from the D&D Beyond exports on 2026-09-12, then filled in from **Andy's 2023 campaign board** (`assets/2023-dnd-campaign.json`) — his character cards and session prep for [the previous campaign](The-Red-Dragon-Campaign.md). Each character page has the detail.
 
-| Character | On the sheet | Open |
-| :--- | :--- | :--- |
-| **Shhhmeowmeow** | Appearance, faith (Nula, Guardian of Animals, jaguar), a mouse familiar named Mac McSqueekers. Backstory field blank. | The **fire city under Eldorado** — the player's stated thread, unrelated to the infection. Ask before Aerun. |
-| **Eustace** | The only full backstory: Heronopia, eight years hunting Airlantis, the paramour in Heimwater harbor who made his Ring of Feather Falling, personality/ideal/bond/flaw, an allies list naming **Essos the Black Dragon** and **Undaloth the Green Dragon**. | Undaloth and the 2,500 in gems; Heimwater harbor. |
-| **Musty-Jo** | Appearance and personality/ideal/bond/flaw ("believes whatever people tell him"). Backstory blank. | Whether the Silver Dragon Ball makes him the Silver Dragon's partner. |
-| **Beyond-Ce** | Nothing — every narrative field blank. | All of it; Andy's to fill. |
-| **Robin** | Faith (Chauntea), personality/ideal/bond/flaw, and the med-bay note. Backstory blank. | Origins, the forgery kit, "of sorts." |
-| **Gobbledegook** | Nothing — every narrative field blank. | Moot unless he returns. |
+| Character | On the sheet | From the 2023 board | Still open |
+| :--- | :--- | :--- | :--- |
+| **Shhhmeowmeow** | Appearance, faith (Nula, Guardian of Animals, jaguar), a mouse familiar named Mac McSqueekers. Backstory field blank. | *Looking for Eldorado; motivated by gold; hates dragons.* Home village **Nepeta** on Taldea destroyed by a dragon — who turned out to be **Essos**, the dragon Shhhmeowmeow then bonded. Survivors camped at 3-Way. | The **fire city under Eldorado** — never reached last campaign, unrelated to the infection. Ask before Aerun. |
+| **Eustace** | The only full backstory: Heronopia, eight years hunting Airlantis, the paramour in Heimwater harbor who made his Ring of Feather Falling, personality/ideal/bond/flaw, an allies list naming **Essos the Black Dragon** and **Undaloth the Green Dragon**. | Joined late at Oldspire, so never had the prophecy dream. Carried the **Green Ball**, dreamed of **Undaloth**, helped restore him in Oceana. "Gee force" = **G4CE**, the Gleaners' guard. | The 2,500 in gems; Heimwater harbor. |
+| **Musty-Jo** | Appearance and personality/ideal/bond/flaw ("believes whatever people tell him"). Backstory blank. | Tribe on **Malandara**; a dream of **trouble at home** that was never played. The **Shrine of Skerrit** and its "fallen paladin" thread. Bean pyramids; the Flail of Tiamat from a centaur pharaoh's tomb. | Going home. Whether the Silver Dragon Ball makes him Claire's partner. |
+| **Beyond-Ce** | Nothing — every narrative field blank. | Not on the board — Andy was the DM. | All of it; Andy's to fill. |
+| **Robin** | Faith (Chauntea), personality/ideal/bond/flaw, and the med-bay note. Backstory blank. | Not on the board — new this campaign. | Origins, the forgery kit, "of sorts." |
+| **Gobbledegook** | Nothing — every narrative field blank. | Cleric of **Maglubiyet**: escaped orc slavery, charged to *topple authority* and help the weak; hunted by the General of Gehenna's barghests; offered the **Blue Dragon's orb**. | Moot unless he returns. |
+
+**Not in the party any more:** **[Jak Bjornsson](../NPCs/Jak-Bjornsson.md)** was a PC last campaign — aasimar monk, seventh son of a seventh son, Aura's first new administrator; his backstory is on his NPC page. **Throg'Mar**, a half-orc zealot barbarian with a maul named Shatterskull, was written up before session one and shelved ([The Red Dragon Campaign](The-Red-Dragon-Campaign.md)).
 
 ## The dragon legacy
 
-In the previous campaign each hero was paired with one of the great dragons under the Prophecy of the Red Dragon ([The Dragons](../World/The-Dragons.md)). The pairings **mix past and present heroes**: Shhhmeowmeow bonded the Black Dragon (**Essos**, per Eustace's sheet); the Blue Dragon belonged to **Tarn**, a former-campaign hero no longer in play; the Silver/White Dragon's partner is unconfirmed — Musty-Jo carries the Silver Dragon Ball, which is a strong hint. The dragons sleep now, and they only wake for a world-scale crisis — but the bonds are not gone, and the party also retains control of **[Airlantis](../World/The-Elemental-Cities.md)**, parked at Eustace's homeland.
+In the previous campaign each hero was paired with one of the great dragons under the Prophecy of the Red Dragon ([The Dragons](../World/The-Dragons.md)). Per Andy's 2023 board:
+
+| Hero | Dragon | Basis |
+| :--- | :--- | :--- |
+| Shhhmeowmeow | **Essos** (Black) — protector of the Earth Titan, destroyer of Shhhmeowmeow's village | Established |
+| Eustace | **Undaloth** (Green) — dead, rebuilt by the Antari, restored in Oceana | He found the Green Ball and had the dreams |
+| Musty-Jo | **Claire** (Silver), who nests on Airlantis | Unconfirmed — he carries the Silver Dragon Ball |
+| Gobbledegook | **Dildro** (Blue) — "Burl," who stayed on the station | Dildro offered him the orb. The interview's "Tarn" is probably Gobbledegook's *player* — confirm |
+| Jak | none | An open item on Andy's list to the end |
+
+The Red Dragon pairs with no one; she is the prophecy. The dragons sleep now, and they only wake for a world-scale crisis — but the bonds are not gone, and the party also retains control of **[Airlantis](../World/The-Elemental-Cities.md)**, parked at Eustace's homeland.
 
 ## Party-level DM notes
 
