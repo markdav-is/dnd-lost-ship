@@ -126,6 +126,26 @@ Roll a d8 **every round**, all four acts. The birds are [Fungal Perytons](../../
 | 7 | **Eddie wants to chat.** Is now a good time? He's been meaning to ask what snow is *like*. Next check by whoever's nearest the box is at disadvantage — unless someone tells him to be quiet, in which case he is, completely, including for the next instruction they need. |
 | 8 | **A bird steals something**: the hammer, a spike, the cutters, Eustace's hat. It doesn't want it. It drops it somewhere inconvenient. |
 
+### The birds, at the table
+
+**Fungal Peryton** — *Medium monstrosity, CR 2 (450 XP)*
+
+| AC | HP | Speed | STR | DEX | CON | INT | WIS | CHA |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 13 | 33 (6d8+6) | 20 ft, **fly 60 ft** | 16 (+3) | 12 (+1) | 13 (+1) | 9 (−1) | 12 (+1) | 10 (+0) |
+
+- **Skills** Perception +5 (passive 15) · **Resist** bludgeoning, piercing, slashing from nonmagical attacks · **Senses** keen sight and smell (advantage on Perception using them)
+- **Flyby.** No opportunity attacks when it flies out of reach — it hits and keeps going, which is why it is so annoying.
+- **Dive Attack.** If it dives at least 30 ft straight at a target and hits with its gore, **+2d8 damage** (9).
+- **Spore Release** *(fungal)*. When it takes piercing or slashing damage, a 10-ft cloud of spores bursts out: **DC 13 CON** or poisoned for 1 minute (repeat the save at the end of each turn).
+- **Multiattack:** one gore, one talons.
+  - **Gore** +5 to hit, reach 5 ft: **1d8+3** piercing (7).
+  - **Talons** +5 to hit, reach 5 ft: **2d4+3** piercing (8).
+
+*In this scene:* keep 3–4 in the air, replace them as they drop, and let them go for the **cable, the hammer, and hats** before they go for throats. A level-11 party kills one a round without trying; the trouble is that everyone's hands are full.
+
+**Spore-Touched Griffon** — *Large monstrosity, CR 3*: AC 12 · HP 59 · fly 80 ft · Beak +6 (1d8+4) · Claws +6 (2d6+4) **and the target is grappled** (escape DC 14) · **Drag-down:** hauls a grappled creature 30 ft a turn · 5-ft **spore aura**, DC 13 CON at the start of your turn in it or poisoned until the end of that turn. (Full notes on [The Breach](The-Breach.md).)
+
 **The griffon** goes for whoever is holding the dish; its grapple-and-drag pulls them off the crown and down the slope. The dish has **AC 13, 20 HP**; at 0 it's scrap, and Eddie has exactly one spare and a much more sheepish voice.
 
 The birds break off when the lamps go green and the turrets no longer have to shoot around the party.
