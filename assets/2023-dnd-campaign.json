@@ -1,0 +1,1439 @@
+{
+ "board": "2023 DND Campaign",
+ "note": "Sanitized Trello export: content only. Ids, member records, Trello URLs and email-to-board addresses removed by tools/sanitize_trello.py.",
+ "lists": [
+  {
+   "name": "Vermoon",
+   "archived": false,
+   "cards": [
+    {
+     "name": "Description of the World",
+     "archived": false,
+     "desc": "This is the second age, an age of utopian ideals and working together, well at least mostly. After the fall of the great civilization, life struggled and floundered for a long time, but out of the ashes of that great cataclysmic event we have built this ideal society, and the factions which keep each other in balance. \n\nThe World of Vermoon is mainly ruled by these factions and their elected leaders, but as with anything there are those that live outside either along the edges cast out or shunned, or are those that do not want to be a part of such a society, they are tolerated, but not accepted amongst the greater society and thus do not get to enjoy the benefits as such. \n\nMysteries of the fall of the great civilization, their technology, and what is still left behind are a source of great intrigue, whispers often blow around of a new cache of information or technology found will send adventuring minded persons running to see what new things can be found, harvested and sold for money and notoriety, even walking around the land its common to still see their ruins speckled through out the landscape, but who knows how far they went, what they did, and if following in their footsteps will lead us to glory or ruin again.\n\n",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": []
+    },
+    {
+     "name": "Things to figure out/plan",
+     "archived": false,
+     "desc": "For use of world building and planning the adventure with the players",
+     "labels": [],
+     "checklists": [
+      {
+       "name": "Checklist",
+       "items": [
+        {
+         "name": "How do people of this world react to Orc's or those that are of mixed race?",
+         "done": false
+        },
+        {
+         "name": "Who are the main factions in this world?",
+         "done": true
+        },
+        {
+         "name": "What is the main source of travel from continent?",
+         "done": true
+        },
+        {
+         "name": "What type of fantasy world do we inhabit? High magic, or low?",
+         "done": false
+        },
+        {
+         "name": "What resources are abundant",
+         "done": false
+        },
+        {
+         "name": "What resources are scarce",
+         "done": false
+        },
+        {
+         "name": "What subfactions run under the main ones to help or undermine.",
+         "done": false
+        },
+        {
+         "name": "The Fallen Paladin of Skerritt - Venat?",
+         "done": false
+        },
+        {
+         "name": "How are each of the Titans being used to fuel these cities?",
+         "done": false
+        },
+        {
+         "name": "How did the Titan Fighters Come to be?",
+         "done": false
+        },
+        {
+         "name": "Does the Factions of the world not really know about the Titans and thier predicament?",
+         "done": false
+        }
+       ]
+      }
+     ],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-10-31",
+       "text": "This world has forged a path of mostly peace, from a long time ending of the world type of catastrophe, much of the landscape habitable, with the sometimes dots of long forgotten buildings, or states to unknown people littering the landscape. Sometimes word of a vault or newly found location with spoils will drift in the wind and excitement and wonder will sweep the land. The land is now made up of many different faction types, none hold power over the land all together, but use it for each of their own needs and willfully trade and help each other, some more than others. Those based in nature and the magics that come from nature will produce food and materials that can be sold, those versed in the arcane will aid in research or adventuring. Those more mechanically inclined create modes on transportation and the maintenance of those vehicles, each faction assists other’s as needed but specialize in what they do. Most get along well enough but some think of themselves as bigger than others, such as the holy faction who will often try and tell the others what they can and cannot do. All work together because of the incident that occurred so long ago and will each of their leaders are a part of the “board” that ultimately governs the land and sets the standards and practices that each socially inclined person lives under. \n\nThere are those that live outside of these laws and they are mostly left to there own devices, often these people may work with a faction here or there on their own, while some live together completely subservient only to themselves."
+      }
+     ]
+    },
+    {
+     "name": "Factions of the World",
+     "archived": false,
+     "desc": "List of Different governing factions of this world. \n\nNeed to come up with 5-6 different factions, that rule these lands. What are they how do they interact, Peaceful, hated, etc. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-10-31",
+       "text": "World is set up in peaceful/mutual respect factions each with their own focus for work/research. \n\nSuch as Arcane, Science, Mechanics/Engineering, Nature, Spirituality, …..anything else? \n\nThey are not set up like typical governing areas with country lines, many have cities that are strategically set up to do what they need, typically each faction will have a main city with the Heads of said faction will lead and “assign” what is needed from the smaller arms of each one."
+      }
+     ]
+    },
+    {
+     "name": "The Academy of the Fettered Mind",
+     "archived": false,
+     "desc": "The Academy of the Chained Mind (Can I use better wording?)\n\nConsists of their main city and many smaller cities located various parts of the world to educate the citizens in each of the arcane practices for which once mastered they will forge a link of a said material to denote their mastery as well as their practice to not use this power for the ill of man. \n\nWill need to figure out what type of metal will relate to each school of magic. \n\n",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-10-31",
+       "text": "AFM comprises of many different types of schools of magic, where they teach each of the schools of magic, as well as the strict control of said magics. As magic is something that is too easily used to solve problems and since that was part of the undoing of the world before a more strict practice and rules of when you are “allowed” to use magic. Of course  if no one is around to see you use magic improperly then who is to know?"
+      }
+     ]
+    },
+    {
+     "name": "The Devout Coalition",
+     "archived": false,
+     "desc": "These Religious devotees are the most inclined of all, and know best when it comes to their gods and what they want, all gods are welcome and are allowed and are represented here, though not every city will have a temple to said gods, their main city which called The Galare, is where each of the lead priests of each temple travels to for any kind of council of the Standard Bearers.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-10-31",
+       "text": "The DC as its Commonly known as is the religious sect that oversees all religious temples and practices, that they can, and tries to ensure all practices are on parr and that no one god or gods tries to over take or rule too much of the population."
+      },
+      {
+       "date": "2023-11-01",
+       "text": "The Capital city of Galare is situated in the mountains of the many, and can be quite difficult to access by unknown means."
+      }
+     ]
+    },
+    {
+     "name": "Gleaners Guild",
+     "archived": false,
+     "desc": "The Gleaners Guild is in charge of the natural resources, the proper use, care and creation or harvesting of anything natural or coming from the earth. Their mission is to strike a balance between what is needed to keep everything going and working and not over working, or consuming more than what is needed.\n\nTheir main city is in Yorrem, where offices to oversee production across the world of various resources. The GG works very closely with each of the factions as they all need things for various works they are doing and implementing, and while they are able to keep a good rapport with each of them, they are also one of the most overworked and requested factions to work with, and if needed the GG will with hold goods to factions who do not play nicely.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": []
+    },
+    {
+     "name": "The Tinkerers of Thingamajigs",
+     "archived": false,
+     "desc": "A faction that is comprised of electrical engineers and mechanics, using science and mathematics to create, restore, repair new contraptions for the factions to use.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": []
+    }
+   ]
+  },
+  {
+   "name": "Story",
+   "archived": false,
+   "cards": [
+    {
+     "name": "How to tell a story",
+     "archived": false,
+     "desc": "[https://www.reddit.com/r/DnD/comments/1znujo/how_to_get_better_at_story_telling/?rdt=38882](https://www.reddit.com/r/DnD/comments/1znujo/how_to_get_better_at_story_telling/?rdt=38882 \"smartCard-inline\")",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": []
+    },
+    {
+     "name": "Adventure Arc.",
+     "archived": false,
+     "desc": "What is the overall arc that each adventurer will be going on?",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-10-04",
+       "text": "Take on many small adventures and become local heroes"
+      },
+      {
+       "date": "2023-10-04",
+       "text": "Save the world but still be unknown"
+      },
+      {
+       "date": "2023-10-04",
+       "text": "Save the World and become heroes"
+      }
+     ]
+    },
+    {
+     "name": "Titans",
+     "archived": false,
+     "desc": "The Primordial Titans were what created this land and shaped and created the earth and were the ruling beneficial gods. Revered for their love of their creations and how well they took care of them, until other gods came and began to take hold of the humanoids of this land and while at first they came in peace and worked with the titans, but as other gods visited this planet other creatures were brought and things began to get out of hand and eventually the primordial titans were enslaved and used for other purposes.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-12-12",
+       "text": "Primordial Titan Cities:\n\nEarth Titan - Kaia - Dirtroit - Black Dragon - Essos\n\nFire Titan - Savita - Eldorado - Red Dragon - Thimva\n\nAir Titan - Ermir - Airlantis - Silver Dragon - Claire\n\nWater Titan - Dwyn - Oceana - Blue Dragon - Dildro\n\n????? - ?????? - ?????? - Green Dragon - Undaloth"
+      }
+     ]
+    },
+    {
+     "name": "Airlantis",
+     "archived": false,
+     "desc": "Some say that the city was too powerful and so to protect it they floated it away to protect it from those that could do it ill will. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": []
+    },
+    {
+     "name": "Eldarado",
+     "archived": false,
+     "desc": "Is in a location much like Iceland, much of the landscape has geothermal activity at the top of the ground, once under they can find the body of the now dead Titan and its still active core, which is spewing out fire and lava that was built around it, northern area of the map? \n",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": []
+    },
+    {
+     "name": "Fire Titan - SAVITA",
+     "archived": false,
+     "desc": "Known as the furnace of Eldorado, after the corruption and capture of the Titans She was used to keep the forges of Eldorado going night and day, by the use of her flaming body, and her heart of molten hot lava. \n",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-03-06",
+       "text": "Red Dragon - THIMVA\n\nHer protector and guide was a red Dragon named THIMVA, before she was completely captured THIMVA had been tasked with finding those that would be able to free the titans,"
+      }
+     ]
+    },
+    {
+     "name": "Dragon Lore",
+     "archived": false,
+     "desc": "List of Dragons and their background and work with Titans:",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-05-22",
+       "text": "The Titans created Vermoon and its inhabitants, First they created dragons, to help keep the peace and be protectors of the world. As the Titans created more beings to inhabit the world, the dragons would keep the peace, which was easy to do, until the day where humans came to the world.\n\nThey arrived one day on a ship of the stars, and barely made it to Vermoon safely, but needing a place to stay the Titans and Dragons allowed them to stay, but not knowing what they brought with them to this world, some things were good, science, medicine, and an ability to work with others. But they had their own gods, ambitions and needs beyond what others needed creating scarcity, and demand, which then brought up problems with land access and use.\n\nThe titans and dragons stepped in to put things right, but their mentality and drive was like a plague that started to inhabit the other races of the world, some drove it out and maintained their cultures, but others drawn to bigger ambitions and needs followed in the footsteps of the Humans. Which lead to the Humans en-slaving the Titans and subduing the Ancient Dragons.\n\nRealizing they can use the Titans power to make things and power the cities they were building, they soon started a plan to enslave the Titans. Starting with Satva, they were able to enslave her, and hold her hostage from being retaliated against, and soon were able to enslave each of the Titans, using their science to pull power from them, but not kill them, which had a unexpected result to the dragons, who's power were tied to the Titans.\n\nWith the power of the titans on thier side, the humans were able to build large cities of metal, across the land, in the sky, and in deep waters. Seeing where things were going and how this was going to end, the Red Dragon, Ardor hatched up a plan to stop the humans and those in league with them, but it would take destruction throughout the land. Using the power of the other Chromatic Dragons, she was able to place them in colored Orbs that were placed strategically around the world, and used to create catastrophic explosions of magic, which depended upon the type of magic in the orb."
+      }
+     ]
+    },
+    {
+     "name": "Ancients/Antari",
+     "archived": false,
+     "desc": "The Ancients were a civilization of humans called the Antari that came to this planet on a broken down spaceship looking for refuge on the planet of Vermoon. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-06-19",
+       "text": "The Antari came to Vermoon on a broken down spaceship, the kindness of the Titans allowing them to land on Vermoon and stay allowed all the Antari to survive what would have been their death if they stayed any longer out in space. \n\nThe Antari are a group of noble people from thier world, but due to large scale war happening on thier planet they risked an unknown destination journey on a spaceship to make a better life for themselves. \n\nOnce on Vermoon and given another chance at life they settled in and started to make themselves comfortable, but as they saw themselves and smarter and more intelligent than any of the other life forms on the planet they soon fell back into their old ways of taking what they needed, and expanding beyond what they were given. \n\nOften the Titans and dragons would intervene and try and work to keep the peace, but eventually it built to a head and the Antari were asked to leave, but to do so would mean that they would need to harvest more resources and create another spaceship to get them off the planet and on their way somewhere else."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Players",
+   "archived": false,
+   "cards": [
+    {
+     "name": "PC's",
+     "archived": false,
+     "desc": "List of Player Characters that are playing the campaign",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-10-01",
+       "text": "Tarn - Throg’Mar - Half Orc Barbarian\n\nSahalee\n\nHeather\n\nMark"
+      }
+     ]
+    },
+    {
+     "name": "Shhhmeowmeow",
+     "archived": false,
+     "desc": "Tabaxi Ranger\n\nLooking for the mythical city of Eldorado. \n\nMotivated by gold and hates Dragons.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-02-03",
+       "text": "Home Village: was built in the area commonly known as lost spire, and was named Nepeta and was a city of Tabaxi located amongst the forest there until the dragon attack. \n\nSince the attach on Nepeta the ground has turned toxic and has morphed the landscape into a dead and dangerous place. Acid seeps up from the ground and either distorts local flora and fauna or outright kills them."
+      },
+      {
+       "date": "2024-02-03",
+       "text": "Background: From the Area around Lost Spire, a dragon destroyed her home village and she now loathes them and is on a search for the lost city of Eldorado."
+      },
+      {
+       "date": "2024-03-07",
+       "text": "Newla mastikian pantheon."
+      }
+     ]
+    },
+    {
+     "name": "Throg'Mar",
+     "archived": true,
+     "desc": "Chaotic neutral “goodish” Half Orc Barbarian.\n\nFights with his Maul Shatterskull. - a Beloved Weapon\n\nZealots Subclass- [https://www.dndbeyond.com/classes/barbarian#PathoftheZealot](https://www.dndbeyond.com/classes/barbarian#PathoftheZealot \"smartCard-inline\") , “Belives” powers come from the god Grumsh",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-10-03",
+       "text": "Backstory:\n\nOrphan from a big City (Which one?)and doesn’t have the strongest moral compass, works primarily as a bounty hunter/mercenary, or takes on odd jobs,\n\nLoves the simple things in life, food, treasure, alcohol and of course a good fight. Loves his god Grumsh and will do anything for them as that is the source of his power.\n\nStruggles managing his orc and human sides, (Doesn’t fit in with either crowd?)"
+      }
+     ]
+    },
+    {
+     "name": "Jakamarr (Jak) Bjornsson",
+     "archived": false,
+     "desc": "Chaotic Good\n\nAssimar Monk\n\nFights with a quarter staff and his fists\n\nAlso has his Mother's ring of water walking Uncle's quarterstaff of charming \"Six Deamon Bag\" of tricks (grey) (What is this and what does it do?)",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-10-04",
+       "text": "Background:\n\nBorn under a lucky star, or so his mother always told him (USE THIS IN SOMETHING!!!).\n\nHe was the seventh son of a seventh son, and the most handsome of them all. His golden hair and blue eyes sparkled like the ice and snow of his homeland, a green peninsula on the southern frozen continent where only the hardiest folk could survive.\n\nJák grew up learning the ways of the sea and the wind from his father, a devout follower of Njørd, the god of sailors and fishermen. Ják felt a special connection to Njørd,(what is thier relationship like, how often do they talk?)(Nord is the God of\\_\\_\\_\\_\\_\\_) and often prayed to him for guidance and protection.\n\nHe also learned to fight with his fists and feet from his uncle (Is his uncle still alive, still adventruing?), a monk who had traveled the world and returned with tales of exotic lands and cultures. Ják dreamed of following in his uncle's footsteps, but he also felt a duty to his family and his people.\n\n He was torn between his wanderlust and his loyalty, until one day he received a sign from Njørd. A storm unlike any other swept over the peninsula, destroying crops and homes, and threatening to wipe out the entire village. Ják saw a vision of Njørd in the midst of the tempest, calling him to join him on a great adventure. Ják did not hesitate, he packed his belongings and said goodbye to his family. He boarded a ship that was leaving the harbor, and set sail for the unknown.  He knew that Njørd had a plan for him, and he was eager to find out what it was."
+      }
+     ]
+    },
+    {
+     "name": "Musty-Jo Mustang",
+     "archived": false,
+     "desc": "Well intentioned, kind, gentle, trusting, but dumb, easy to trust, and gullible. Is very loyal and protective to his friends and people he cares about.\n\nFighter Class,\n\nCentaur, Male\n\nLongsword",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-11-01",
+       "text": "Sahallee really enjoys the temple solving, dungeon delving. More mystery and potential spooky."
+      },
+      {
+       "date": "2023-11-01",
+       "text": "Would probably be a part of the nature faction"
+      }
+     ]
+    },
+    {
+     "name": "Gobbledegook",
+     "archived": false,
+     "desc": "Goblin Cleric god is Maglubiyet\n\nChaotic Good, trickseter domain",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-11-02",
+       "text": "Maglubiyet (Mags)\n\nGobbledegook has a very obedient relationship to their god since granting powers to them and getting them out of their enslavement.\n\nMags communicates to Gobbledegook by natural means, twigs, smells, etc."
+      },
+      {
+       "date": "2023-11-02",
+       "text": "Likes to use disguise self to interact with the different factions and work outside of them but has been given a task by Maglubiyet to get something of importance."
+      },
+      {
+       "date": "2023-11-02",
+       "text": "Escaped an orc enslavement after being given powers  from his deity,\n\nHas been entrusted by his to topple authority(good chaos) anywhere he goes, and to help the poor and the weak.\n\nHas a love of anything shiny, especially treasure."
+      }
+     ]
+    },
+    {
+     "name": "Eustace Beeblebrox",
+     "archived": false,
+     "desc": "Arakokra male\n\nIs a pirate on a ship traveling the world and doing all kinds of things, while looking for the lost city of Airlantis.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-12-12",
+       "text": "Where is Airlantis, what happened and why?\n\n‌\n\nWith the titans is there a way that they each had a devoted city to them? Airlantis, Air titan, Eldorado, Fire Titan, Water Titan, Oceana, Earth Titan…. Dirtroit."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "To Do List",
+   "archived": false,
+   "cards": [
+    {
+     "name": "Checklist",
+     "archived": false,
+     "desc": "",
+     "labels": [],
+     "checklists": [
+      {
+       "name": "Checklist",
+       "items": [
+        {
+         "name": "Gobbeldy’s Weapon",
+         "done": true
+        },
+        {
+         "name": "Shhhmeows Dragon Orb",
+         "done": false
+        }
+       ]
+      }
+     ],
+     "attachments": [],
+     "comments": []
+    }
+   ]
+  },
+  {
+   "name": "The Blue Dragon - Dildro and SPACE?",
+   "archived": false,
+   "cards": [
+    {
+     "name": "What Happened to Dildro",
+     "archived": false,
+     "desc": "Description of what happened and where the Dragon went. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2025-07-29",
+       "text": "Dildro is Burl Ives. He has been working behind the scenes to get a way to travel off the planet, and set up Rico’s research into magical engines and how they are crafted, created a group called the titan fighters who would be working for the protection of the titans and thus his friends the other great dragons. This group could also get out and better search for the ruins of the Antari, but when the void was found he didn’t think that the prophecy of the Red Dragon would come back, and thus could also use that to his advantage, and thus also dribbled bread crumbs along to the hero’s in hopes of helping him along the way and so you have, even found the holy grail of another city that he didn’t even know of high above the clouds circling the planet, unknown to him this whole time."
+      },
+      {
+       "date": "2025-07-29",
+       "text": "Dildro was the dragon protector of the water Titan Dwyn. Unlike the other Great Dragons, he has left the protection of his Titan and is roaming Vermoon in search of ways to get off the planet and go search the universe. Since he found out that they are not of this world and brought here by the titans. The other dragons decided to stand by there titans through it as they were now fully asleep and dead to the world, why change now what they were doing? But Dwyn decided against this and wanted to get away, and wanted to further himself, maybe even go and travel amongst the stars, learn of his family heritage, but once the Antari were gone, and there technology was destroyed there was no way off, unless…… there was a way lost in there cities and old technology. "
+      }
+     ]
+    },
+    {
+     "name": "How can the Party find Burl/Dildro",
+     "archived": false,
+     "desc": "If the party wants to find Burl/Dildro where can they do that at? \n",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2025-07-29",
+       "text": "Oceana: Could be there, as there is material processing, and suits for non oxygen areas, also the location where he was last found.\nEldorado: Could be there since there is a launch site for a space ship to take off? Or top side, using the titan fighters to excavate an area so that the ship can take off?\nDrytide: Rico is still working on a ship and now knows the correct fuel.\nSpaceship: Has he figured out how to activate the portal to go to the space ship? The medallion is able to be used to get to all the city locations, what would you need to get to the space station?\nDoes Dildro find them?\n"
+      },
+      {
+       "date": "2025-07-29",
+       "text": "Dildro wants to get off the planet. So where are places he would want to go to?"
+      },
+      {
+       "date": "2025-07-30",
+       "text": "How does ERLINA know about Burl? She will start the session by talking to the party about doing some research and finding out that the Antari’s main ploy in regards to the titans was that all life on this planet could not have been made by these titans, and that the people of this planet were lied to by the titans, and were able to sway people to their side with this line of thinking, and were successful in taking down the titans and using them to power their cities, that is until the sacrifice of Savita, and the eventual downfall of all Antari way of life. So if this was common knowledge then why didn’t they know about this, and shouldn’t the dragons? Upon taking to them she found out that Dildro did not feel the same way as the other dragons and wanted to no longer have anything to do with his titan. "
+      }
+     ]
+    },
+    {
+     "name": "Space Station",
+     "archived": false,
+     "desc": "An Antari Location where some of them were able to suspend themselves in hyper sleep. This is where the Administrator is located, and is the one who has restricted access to AURA. Dildro believes that in this location they will find a way to leave the planet and those that want to can leave and go search for the truth. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2025-07-29",
+       "text": "The space station is made up of different areas, mainly living and habitation for the crew, but there are some areas where research is done, and then one large room where the controls of the space station is at. Antari can be found here, they are in stasis chambers in which they are frozen in time and are as they were over 700 years ago, but one person is active and is controlling the station, and who has taken over control of AURA, her name is Eriska Hargitay. She will be ready to fight the players, but will talk to them."
+      },
+      {
+       "date": "2025-08-19",
+       "text": "Southern part of the station is made up of habitation rooms upon rooms for those that were living here, various belongings are neatly placed on shelves, pictures of individuals, or groups smiling, books, and games can be found.\n\nPlayers will find a room along the west side of the station that is filled with pods leaning upright against the wall, some of which are empty, but most are filled with sleeping humans, screens along the bottom of the pods show vital signs for each of the humans. \n\nIf players search along the east side, they will find offices and labs, where research and mapping of Vermoon takes place, journals of the first people to land on Vermoon and what they found, how they integrated themselves with the people and the special notes they took about the titans and how they wandered the world, even mapping their routes, and notes of plans to overtake the world and how the Titans deceived the people. The war with the Vermoonians, there eventually destruction at the hands of the red dragon, and there last ditch effort to go into a sleep like state until a time comes when they can come back and retake the world, rebuild and continue their plan, to combine the Titans in to a super weapon that they can then use against their enemies. \n\nIn between these areas are various places of eating, sitting and hanging out, or cooking food. \n\nLastly will be the northern area where players will find the one and only awake being, the administrator, Bernadette Cranston. "
+      }
+     ]
+    },
+    {
+     "name": "Dildro/Actions/Party Help",
+     "archived": false,
+     "desc": "Now that Dildro has agreed that they can help him, what does this mean for the party? ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2025-08-19",
+       "text": "Dildro will offer his ball to Gobbeldy who can do with it what he pleases.\n\nDildro will not take on a subservient role like some of the other dragons, he will keep his human form for now."
+      }
+     ]
+    },
+    {
+     "name": "Boss Fight",
+     "archived": false,
+     "desc": "",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2025-08-20",
+       "text": "Party in middle of fight,\nShemoewmoew - does whatever she is told as long as its not self destructive.\nJak and Eustace - Paralyzed\nMusty Jo - Frightened\nAlso there is 11 toadstools by where the fight began."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Completing Airlantis and Next Steps",
+   "archived": false,
+   "cards": [
+    {
+     "name": "Loose Ends",
+     "archived": false,
+     "desc": "Lose Ends that we need to tie up as we are getting to the end of this campaign. ",
+     "labels": [],
+     "checklists": [
+      {
+       "name": "Checklist",
+       "items": [
+        {
+         "name": "Airlantis, fueling or landing on the planet. How will that be done and what does that mean for the world?",
+         "done": false
+        },
+        {
+         "name": "Dragons for Gobbeldy and Jak, Who are they where are they?",
+         "done": false
+        },
+        {
+         "name": "Eldorado exploration and outcomes",
+         "done": false
+        },
+        {
+         "name": "Musty Jo’s feeling of needing to go home, what is that and what does that mean.",
+         "done": false
+        },
+        {
+         "name": "Space Station and Exploration",
+         "done": false
+        },
+        {
+         "name": "Who is the Administrator and where are they",
+         "done": false
+        },
+        {
+         "name": "Who is Burl Ives and What is he doing?",
+         "done": false
+        }
+       ]
+      }
+     ],
+     "attachments": [],
+     "comments": []
+    },
+    {
+     "name": "Completion of Airlantis",
+     "archived": false,
+     "desc": "Now that they have solved the problems that Airlantis had and have the White Dragon Claire on thier side what will the party do next? ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [
+      "IMG_1477.webp"
+     ],
+     "comments": [
+      {
+       "date": "2025-07-16",
+       "text": "If players keep the city in the air they can use it to slowly travel around the world, and could make improvements to it like a base.  The fuel that Rico makes can last for an extended period of time and will need minimal shipments of new fuel to keep it in the air.\n\nIf asked Rico will talk about how he uses elementals in his work on the engines and that the fuel is a magical way to feed the elemental to keep them running, Ie fire elemental burning creating power to run the car or city, they believe that is how the titans are being used, as power sources for each of the cities, wind, water, fire and earth. Earth power the use of tectonic plates to create geothermal heat. \n\nPlayer can use the city to also house the dragons and have ERLINA and others come and join. \n\nIf players land the city, they will have another location they can travel to via the portals, and can still use it as a base of operations if they would like. \n\nWhat is the next steps for the party? "
+      },
+      {
+       "date": "2025-07-16",
+       "text": "Players level up!\n\nNow that the issues for landing have been taken care of if the party would like they can work towards landing the city on the planet somewhere, if they do that it is unknown if the city will be able to be lifted back into the sky, they do have more time and could potentially work with Rico to make more fuel, but they will need more information.\n\nRico and making more Fuel: Players can work with Rico and get them up to the City, once there they will need time to look over the engines, they will comment that they are vary similar to the ones they developed with the help of Burl, and thinks he can adjust their fuel recipe to work with these, but will need to get back to Drytide and as well will need more fossilarium that Rico has bought from Shimmer Hill. \n\nLanding the City: Where are they going to do that, and how will they prepare the people of that area for the incoming city? \n\nOr do the players forget about that and let the city fall from the sky in some unknown area? \n\n"
+      }
+     ]
+    },
+    {
+     "name": "Eldorado",
+     "archived": false,
+     "desc": "City of Eldorado was a foundry city built below the surface of the earth, and is powered by the fire titan.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [
+      "photo.jpeg"
+     ],
+     "comments": []
+    }
+   ]
+  },
+  {
+   "name": "Preparation and Travel to Oceana",
+   "archived": false,
+   "cards": [
+    {
+     "name": "Adventure Preparation",
+     "archived": false,
+     "desc": "Set up for the next part of the adventure where the party will be going under the ocean to the lost city of Oceana. Which is on the far side of the continent of Caria close to the Triple Isles.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-10-29",
+       "text": "Oceana: The city will be down underwater about 5,000 ft. This large underwater city is built with access from underwater vessels, as well as ships that can dock at a retractable pier that can be found. There is also emergency access from Oceana to one of the Tri Islands that players may find depending on what transpires here in the city.\n\nOceana will is an underwater research facility Built around a central living hub, and then going into 5 different labs, where research has taken place.\n\nLab 1 - Horticultural\n\nLab 2 - Incorporeal Research\n\nLab 3 - Bio-Mechanical\n\nLab 4 - Aero Space\n\nLab 5 - Alchemical Reaserch"
+      },
+      {
+       "date": "2024-10-29",
+       "text": "Players seem to be mainly concerned with how to breath underwater, ERLINA is looking up how to breath underwater and learning that spell. Some potions have been given with the ability to breathe underwater. Other options for breathing underwater would be to use the spell that Erlina has learned or if players want to get a piercing they can get a nose ring of water breathing, which will create a little protective area around the characters nose, and create oxygen that can be breathed while underwater. (700GP includes septum piercing)\n\nPlayers can set up a boat to take them around to Summer Valley. Where players can then travel from there to the Tri Island area to locate Oceana.\n\nOr Players can travel to the location via dragon. While a fast way to get there not the most comfortable way of traveling,\n\nPlayers can also travel across the continent by foot, this would take 5 days.\n\nWhile preparing for this trip players may hear conversations from around the town about different news coming in from ships. Change in Ocean Currants have created issues with fishing and some usually docile creatures have begun to attack all manner of ships for food, soil temperatures are rising creating an abnormally warm winter, creating issues for future food harvests and production, a horrible storms have been happening creating shipping issues and leading to material shortages."
+      },
+      {
+       "date": "2024-10-30",
+       "text": "Players will be able to get any basic supplies they need for the next part of their trip.\n\nGoboldy will see somone paying extra attention to him and will suddenly be attacked by some Barghests,"
+      },
+      {
+       "date": "2024-11-12",
+       "text": "Ended last session with the fight against the Barghests. Players will notice that the dead bodies of the Barghests will not return to their goblin forms and will not find anything on their persons. If players want to learn more about them they can do a history check, with Gobbeldy getting advantage on the roll. What they can learn is that Barghests are charged with devouring the souls of those they defeat especially those of Goblinoids, by their maker General of Gehenna, who Mags backed out of a deal with and the General has a vendetta out for any and all Goblins."
+      },
+      {
+       "date": "2024-11-13",
+       "text": "Players may do whatever else they would like for the remainder of the day and next until their boat is ready to take them down to Summervalley. The trip to summer Valley will take a week by boat and players will have sometime to be able to work on different things they may want to do while they take this journey. During the trip players will take turns rolling a survivial check and different occurances will happen depeding on what they rolled.\n\nDay 1: Cloudy day and it begins to rain. Nothing of note happens that day,\n\nDay 2: Sunny Day nothing else of note happens\n\nDay 3: Stormy Day players are kept inside most of day due to horrible rocking of the boat. At some point players hear yelling and and sound of pounding on the ship. They are being attacked by Sahagein\n\nDay 4: Find a ship wreck with a few survivors, ship is just flotsam and Jetsom, that has been burned or broken, Survivors will easily talk about their fishing vessel and being attacked by Fish folk, and how they killed and destroyed their ship. \n\nDay 5: Overcast Day, Strong winds but nothing of note happens. \n\nDay 6: Cloudy Day where players are able to be outside, players will notice odd cloud coverage, and movement. When suddenly they are attacked by a wild animal. \n\nLast Day: Nothing of note, Players will see that they are closer to land,"
+      }
+     ]
+    },
+    {
+     "name": "Captain Carol Cobra Breath’s Boat.",
+     "archived": false,
+     "desc": "",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": []
+    },
+    {
+     "name": "Summervalley and the trip North",
+     "archived": false,
+     "desc": "Summervalley is a small resort town off the southern coast of Caria, known for its warm beaches and fresh fish catches regularly. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-12-11",
+       "text": "Fight Along the Way North in  a Gnoll Den, filled with gnolls and hunters along with dead Gnolls that have come back to life. Once players dispatch all of the gnolls they can search the remainder of the cave and will find much of the supplies that were taken by the gnolls.\n\nSomethings they find of interest amongst the supplies are, Greater Bracers of Accuracy, Boots of speed, and potion of fire breath. 350 Gold and 100 Platinum, Players will also level up to Level 6!!!!!"
+      },
+      {
+       "date": "2024-12-11",
+       "text": "Players can stay as long as they would like in the town, there is not much here to do other than listen to people bitch about the current situation, and fishermen talk about the ocean currents being different and hypothozing what could be going on.\n\nIf players ask about Oceana, they won’t find out much about it from asking about that. If they ask about goings on other than the obvious, someone will tell them about the currents on the west side of Caria and how they have had a hard time even boating up that side of the continent. Due to the lack of favorable winds and the currents pushing against them. \n\nPlayers can leave Summervalley by land or water. If they want to use the dragon they will need to wait a 4 days for him to get close.  (Will need to add in rumors of Dragons coming back and being the cause of some of these issues). \n\nPlayers know the basic area of where Oceana is but do not know how to specifically get inside or access the city. Aura can help with this by essentially providing a google maps directions for the group and she will give directions to Jak through his implant\n\nIf players follow the map and directions they will be lead through the conintent of Caria to a place where they will be able to see out over the ocean and Aura will continue to direct them towards the ocean. Looking at their map they are being directed to a spot in the middle of the ocean. "
+      },
+      {
+       "date": "2024-12-11",
+       "text": "Players can easily find accommodations at a discount at several of the inns in town. Caria Sands is the expensive hotel at 2 Gold but boasts high end rooms for all types of humanoids. Ocean View is a mid range at 10 Silver a night and will get players a good night sleep and decent food.\n\nPlayers will find this village accommodates those that are on vacation or relaxing for a time. Much is centered around the beach, massages, and catering to those that enjoy those activities. Many are worried as with the weather and the lack of food there are less and less people coming to visit and those that have been around for a couple of days end up wanting to leave, but since the ocean has become hostel many leisure ships are worried about leaving and getting into trouble out on the open water."
+      },
+      {
+       "date": "2024-12-11",
+       "text": "As players arrive in Summervalley they will notice that it is cool and not as warm as they have heard it to be, players will have heard from shipmates that they love to come here due to the relaxing they can do in the warm weather and the many beaches that are found here, but upon getting to this village they will find that the weather is not very warm and things seem to be pretty slow. Many ships here are waiting to leave with passengers to go home who are unhappy due to the weather and the lack of fresh foods since the fishing boats are not bringing in as much as they typically do.\n\nSummervalley is part of the GG and so they will find an office here where they can discuss the food and material production here. Much of what Summervalley is known for is what comes from the ocean, but outside of the city there are some resources harvested and used in various things. Such as thick sap from specific plants that are used in making other goods, fruits, herbs and spices that are found in warmer climates are harvested tracked and shipped from here. \n\nThe G4CE office here will offer some payment for help with local animals that have been giving trouble to the farmers. One specific farmer has not been in contact recently and they will try and have the team go and check it out, the farm is north of the city, "
+      }
+     ]
+    },
+    {
+     "name": "Oceana Access",
+     "archived": false,
+     "desc": "Continued journey for players to Oceana, how they will access the city and what happens once they get inside.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-12-11",
+       "text": "Sea Lion fight?"
+      },
+      {
+       "date": "2025-02-06",
+       "text": "The City of Oceana is housed in a large glass dome, with metal buildings set in the middle and 5 arms, also made of glass, coming off of that. Leading to other glass domes. Each of these has a symbol above the door some of the symbols glow red, specifically the northern one, the north eastern, and the south eastern are all red (1, 2, and 4).\n\nPlayers can look around in the buildings to find any type of ancient artifacts that they want, and can easily take anything they need, they will also see that there are some constructs that have been destroyed, their parts sparking still, maybe from recent destruction, players can see that magical means were used to break the constructs. They will also hear some constructs still working around seemingly trying to complete some unknown tasks.\n\nIf players ask, they will find out from Aura that each of the arms off of this dome lead to different labs, 1 being at the north and will consecutively run around to 5. Each lab will represent a different type of research that is taking place. 1 Agriculture and Food Production, 2 Construct and Biowepons, 3. Location Traversal, 4. Materials Reasearch, 5. Communications. Reveal each of the labs on the map to players.\n\n Looking through the glass domes to other domes, players will see that Lab 1 looks to be full of water as there is a hole in that dome, Lab 2 is Dark and can only be seen peripherally from the light of the main dome. Lab 3 is open with lights on, and can see some slight movement from what seems to be constructs doing work. Lab 4 has lights on but seems to be partially full of water, as they stand there they can see the water line getting higher. Lab 5 lights are on and seem to be made up of several floors.\n\nIf they ask about each of the sciences Aura will let them know generally what was being researched in each of these labs. 1 being plant based research to better create food or bioengineered natural life. 2 mechanized bio enhancements for humanoid use or fully mechanized constructed life. 3. Modes of transportation and getting from one place to another via land, sea, air or instantaneously. 4. Research of materials and enhancements or synthesized creation of materials. 5 Communication hub and research of communication devices, storage of intelligence, power and operations for Oceana.\n\nPlayers may come across some constructs and they will mainly be left alone, but some will enter act with them, or may attack depending on thier interactions."
+      },
+      {
+       "date": "2025-02-06",
+       "text": "Once at the Center of the currant, the players boat will spin naturally in a circle they will also notice a churning where the abnormal currants are coming from.\n\nThis is where the players will use the whirlpool staff to cast a whirlpool that will reveal a deck below the surface of the water. If they don’t they can also swim down with breathing potions/spells to the underwater deck. They can access the elevator which will take them below to the city, if done without casting the whirlpool the elevator will naturally expel the water as they decent. To cast the Whirlpool, the casting player will need to succeed at an arcana check of 17+.\n\nOn the Deck they will see a large intake pipe that is causing the water to turn in this area as it sucks it down into the city.\n\nPlayers take the elevator downward into the city proper via the elevator which descents for what seems like a very long time. Eventually feeling like it will never end the elevator dings and the doors open onto the city proper of Oceana."
+      },
+      {
+       "date": "2025-02-06",
+       "text": "After the Gnoll Den players will continue on their way towards Oceana, as they found out from the locals there are no cities in this part of the continent due to mechanical creatures.\n\nDuring the day players will roll survival checks anything below a 15 will result in encountering a mechanical beast. As well at night they will have threats of being attacked by something, if they are not careful. As they have a couple of days journey from the Gnoll Den to the coast.\n\nAs they proceed closer to the city of Oceana, they will notice that the landscape looks roughed up, regular lines in the grasses and plants can be seen, and some trees are knocked over haphazardly. The closer they are to the coast and Oceana the more of the landscape that looks turned and wrecked from these machines.\n\nMuch of the damage looks like it’s been recent, and players will see when fighting them that they have a weathered look, some are rusted, maybe missing parts or limbs.\n\nOnce players get the the coastline they will see first hand that the currents in this part are off and waves that usually come in at more straight angle are coming in at more of a 45-90 deg angle and currants seem to be sweeping things parallel to the coast line almost.\n\nPlayers can use their boat to get out into the water, they will struggle to get much purchase, rowing the boat will be difficult as they players will stuggle against the powerful currants, but with high enough strength rolls they can succeed. If they use the mast and sail the boat will naturally take them to the center of the currants, but that will take a day and a half to get to that destination."
+      }
+     ]
+    },
+    {
+     "name": "Oceana Floor and Puzzle",
+     "archived": false,
+     "desc": "The party is now on the floor of the city and they are trying to restore power to a portion of the city where someone is trapped and not able to get out. Shmeowmeow is in the boat holding things down. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2025-03-06",
+       "text": "Players maybe able to find Burl and see about talking to him, he will be willing to talk, during the conversation an automaton will come by and they will see Burl get out a badge of the ancients which the machine will scan it will then turn to the others expectantly and Burl will respond with “They are with me” which it will then turn and leave. Players can ask whatever they want of him and Burl may answer them while still being cagey about who he actually is and where he comes from. If asked about the Dragon he will let them know what little he does know about it. If asked about the administrator he will deny that he is, or who that could be. Once the players are done with him he will leave and seemingly disappear, though if they are stealthy enough to follow him/can follow him they will find him going to the traversal dome and leaving through a circular shaped thing that they have seen before. "
+      },
+      {
+       "date": "2025-03-06",
+       "text": "The team has followed instructions to get where they think they need to go to help Burl Ives. The mysterious man whom some have met before.\n\nThey find themselves in a room with 5  symbols above 5 bars, below those bars are 5 buttons. Along the side is a slider they can move up and down and will relate to a different color on the spectrum. By using the buttons on the bottom they can input in two different colors by which once mixed will turn into the correct color combination they need to power up the two domes that are currently powerless. 1 & 2. If they incorrectly input in a color to a location it will either not work, or if it’s the color of another dome will remove the color/power from that dome. If it’s done to dome 5 it will lock down the doors in the room but they will not lose power to the puzzle they are playing. Depending on what happens down in Oceana Shmeowmeow may see some shifting of waters stop, etc. \n\nCorrect colors will corelate with what each dome does see below. \n1.) Horticultre research, Green, Mix blue and yellow. \n2.) Construct and bio-weaponry, Purple, Mix Red and Blue. \n3.) Location Traversal, Brown, mix Green and Red\n4.) Materials Processing, Grey, Mix Black and White. \n5.) Communications, Pink, Mix red and white. \n\nHints can be located in the room, which can be translated by Aura. This will  give the players clues to what each of the domes does and what colors they need to apply. Players can also use aura to help them find out what each of the domes research is about, and players can also try contacting Burl, but at a certain point he will not be useful or able to be contacted. \n\nOnce all colors have been correctly inputted power will be restored to each of the domes and water will be flushed out from Number 3 where Burl was at. Players will find that number one was damaged beyond repair and while the power and lights can be seen to it, there is a giant hole in the side of the dome and glass can be seen outside on the ocean floor. \n\n"
+      }
+     ]
+    },
+    {
+     "name": "Freeing Undaloth, Stopping Oceana's control of the water.",
+     "archived": false,
+     "desc": "Picks up the crews fight with the Adult Green Dragon, and re-attaching the soul of Undaloth with his body.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2025-03-19",
+       "text": "Once the party is ready the fight for the soul of the green dragon will take place. At the end of each round the DM will roll a D4 plus the round number, anything that is a 6 or above is showing that Undaloths souls is taking control of the body and the Dragon will not attack that round. Once 3-4 rounds have been complete. Undaloth will have full control over his body. If needed Erlina will act and help the party in this fight by using her spells from a distance.\n\nOnce the fight is over players will have Undaloth back into this body and will be able to use him similarly to the way they have used Essos. With his body having mechanical enhancements there will be some uses with Aura, and the ability to use phones if needed to contact. Undaloth will need to charge as his body no longer creates its own energy which Erlina will help with.\n\nWhile in this location Erlina will poke around saying will state that she can see the controls for the ocean currants is set to manual mode, which could be the reason for all the funky stuff happening with the oceans. She will attempt to work with Aura and get an idea of where they need to go to fix this, and will be able to stop the problem from here. Erlina will be able to find out that that this city has smaller “Cities” laid out across the ocean floor that can change or disrupt natural ocean currants causing chaos or catastrophic occurrences across the world, and it was set to run this way manually, she will infer that this is maybe also what is happening with the other occurrences happening around the world with the heat and the weird air currants. She will also assume that due to the wreckage that you found of Dirtroit that whatever controls were there have been destroyed."
+      }
+     ]
+    },
+    {
+     "name": "Pie-Ramid Round 2 and Undaloth’s Set Free",
+     "archived": false,
+     "desc": "Aftermath of the fight with Undaloth and the uploading of his soul back into his body, as well as the second summond pyramid to be brought in by Musty Joe.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2025-05-13",
+       "text": "We will pick up right after the fight from last session. Undaloths body will be knocked out, lifeless on the floor and Professor ERLINA will be working on her screen uploading the soul into the body of the dragon.\n\nThe opening to the pyramid will also be there, this one is smaller in size to the other one that was summoned before, and upon closer inspection it was created for an older pharaoh, the bricks are not as shiny, are more rough and in some places seem to be falling apart.\n\nInside of the Pyramid players will find a medium sized room with decorative pillars, that have ornate carvings of a Centaur Pharaoh and their many tasks done in life.\n\nThere are two doors, that are firmly sealed. A wall sconce along the back wall shows the pharaoh again in a stance that shows power and strength. Below it in primordial is written “Those who want my treasure will need to go through me first.”\n\nPlayers can check out other areas and will eventually come across the centaur mummy and two other mummies. If the players want their gold they will have to attack and kill them, which will open the doors.\n\neach room has two chests with 500 gold and 200 silver. As well they will find a flail and a staff."
+      },
+      {
+       "date": "2025-05-28",
+       "text": "Found Staff is Enspelled Staff, allowing the user to cast and imbued spell of level 8 or lower for free. Flail is the Flail of Tiamat. Look up on dnd beyond. These can be looked at by Professor Erlina to identify. She will also offer to imbue the staff if someone would like."
+      }
+     ]
+    },
+    {
+     "name": "Next Steps…..Out of the water?",
+     "archived": false,
+     "desc": "Now that the Dragon has been set free, and the pyramid has been searched what will the party do next? ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2025-05-28",
+       "text": "Going through the portal. Using thier emblems they can hold them up to various symbols around the portal, and they will light up if held long enough the portal will fill in with a shimmery silver liquid.\n\nSymbols are as follows. Dual Triangles - Dirtroit, Dual Squares - Eldorado, Circle with another circle - Space station, Square above a squiggle - Airlantis, Circle inside another Circle - Oceana.\n\nIf players hold the emblem up to the one for Oceana nothing will happen.\n\nPlayers can travel through the portals to the other side, if they go through to Dirtroit, they will find themselves in a ruined room, with no way out. There will be some things that can be found around the room, such as an emblem, an interesting hand held thing. If they are not careful with it it will go off on them potentially hitting someone in the room, rolling a d4 for directions and then damage for a Laser Pistol.\n\nEldorado: They will find themselves in a hot room, with multiple doors leading out of it, walking up to the doors they will not open, if they use the key card they will hear a buzzing beeping sound and a red light will flash. In this room they can see some screens that show different thing going on, red lights flash as they can see lava bubbling and overflowing large areas, "
+      },
+      {
+       "date": "2025-05-28",
+       "text": "Going back up through the Elevator, Party will find themselves back at the top of the area, and underwater…… they can swim back and the boat will be where they left it…….maybe."
+      },
+      {
+       "date": "2025-05-28",
+       "text": "Party will have ability to do what they want, the dragon Undaloth will be more awake, while unable to move much due to unfamiliar feelings in his arms and wings, he and Erlina will discuss staying in Oceana and working together on rehabilitation. Undaloth will also let them know that he has someone named Aura talking to him in his head. This voice first was talking to him in a weird language that made no sense, but once he started responding she changed and started talking common to him. \n\nErlina will continue poking around on the computer and find a way into the controls of Oceana and be able to turn off the current controllers that were on. Players will be able to see on the screen she is working on the these various locations around the world where these seemingly large underwater vents are being powered down. \n\nPlayers will have the opportunity to explore any more of Oceana that they would like. Options are to go back up the way they came and get their boat and go back to shore, check out the portal and see where that will take them, or something else? "
+      }
+     ]
+    },
+    {
+     "name": "Airlantis - Save or Abandon",
+     "archived": false,
+     "desc": "Last session the party found their way to Airlantis and started their exploration of the city. Upon looking around they found that the city was completely abandoned seemingly from continual attacks from dragons. \n\nLooking around the party found out the floating city is on the verge of falling out of the air, and it needs more fuel to keep its current state as in the air. They also found out that they could land the city, but to do so they would need to take care of two issues, one being an electrical issue, another being something to do with the gravity and balancing. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2025-06-11",
+       "text": "RESEARCH: This large area is the base of climate related reasearch and weather tracking. This area will have lots of machines showing the weather patterns of the globe, shifting clouds, various temperatures readings etc.\n\nWhen players open the door to this area they will hear a loud gusts of wind blowing from upstairs, when looking around the first floor they will find many different information tracking temperatures, highs and lows, rain fall etc. there will also be some dates that have been written in different colors that are circled, or underlined. \n\nLarge monitors show global maps of the weather patterns that are continually upadating and shifting. \n\nWhen player head upstairs they will find a closed large room which behind they will see a large hole that the dragon has made in the hull, and created a nest in this area. Claire will talk with them asking them questions and will recognize them as the hero’s of the Red Dragon, but will not willingly help them unless they prove themselves to her. \n\nShe will then attack them. "
+      },
+      {
+       "date": "2025-06-11",
+       "text": "Party can continue to search around the city and check out other areas. All areas are open to the party and can be searched out freely.\n\nELECTRICAL ROOM: This area is off the main circle down a hallway, it comprises of a tall circular room with smaller rooms built off of serveral sides. In the middle of the room is a large circular device with three raised walkways that lead to a central circle which has 5 devices that can be taken.\n\nThere is also a bank of 6 receptacles along one wall which can house the devices. These devices when applied with the batteries from the middle will charge up different areas around the room, but if overpowered will signal a discharge of the power which will then need the battery to be placed back in the central area to re-charge. \n\nThe batteries will be labeled with colors which will correlate to specific volts of power. \n\nWhite - 10\nBlue - 15\nRed - 15\nGreen - 20\nYellow - 25\n\nThe receptacles will add up the amounts of the voltage and automatically power on different things from around the room, but once it has been over powered, it will shift to the next powerful thing, until it has been over loaded and will need to be re-charged.\n\nPower output will be as such. \n\n0-10 Door to the Northwest will open\n11-15 Doors to the Northeast will be open\n16-20 Door to the Southeast will open\n\nOnce players can open the doors to the Southeast there they will find two more devices that the batteries can power up. Which will need a total of 35 to power up the two doors to the room on each side of this one. Though in this room they will also find a switch to stop the power output from discharging, preventing the city from landing. \n\nIf players figure out the combination to allow them to access the door and then still have enough for the two extra slots they will open the two rooms on each side of this room. One will hold a Silver Dragon Ball, the other will hold 200 Platinum.  Serpent Armor, Dragon Armor, and Adamantine Armor. \n\nThe Silver Dragon Ball will be associated with Claire, and can be taken by anyone who hasn’t already taken a dragon ball. If they commune with the ball they will talk to Dildro who will ask them to come and talk to them in the research area. \n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Travel Back to Yorrem",
+   "archived": false,
+   "cards": [
+    {
+     "name": "Inside of Lost Rock",
+     "archived": false,
+     "desc": "Journey out of Lost rock and back to Shimmer Hill. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-06-19",
+       "text": "LEVEL UP! All players gain a Level to 5. \n\nAfter doing all and any discussions with Aura, Jak can now freely communicate with her anywhere they have established power on those continents, even the southern one that where Jak is from. If he asks why they were unable to before Aura will let him know that they were able to make another tower from the one that fell, but they needed the power from Oceana turned back on to make it work. What they did in the tower just now turned the power back on for communications to resume for this and all other towers. \n\nThe party can now go down the tower to the first floor,  when leaving they will notice that the tower is now moving with a circular movement through the swampy waters of this area, almost like it is on a track and rotates are Lund the area slowly, if they spend a long time in the tower they will come across a period where it gets jammed and stops moving. The automatons are still inactive, if they want to check them they can potentially take some parts from them, though they will need to make an arcana check to successfully take parts that could be used later. Otherwise they will only get useless parts. If Aura is used to assist with this will give the party member advantage making the roll. \n\nIf the party decides to get more information about things while here they will be able to only find out base information due to not knowing the complete written language or the data banks being damaged. \n\nOnce done here the party can leave, with no issue. They will need to figure out how to get back to Drytide and then Caria. \n\n1.) Retrace their steps through the Mountains back to Shimmer hill\n\ta.) Do they remember where the Dragon cave is to get back in?\n2.) Try and find the cave entry leading back to the caves they came through back to Shimmer Hill.\n\ta.) How will they find that opening?\n3.) Go back by land circumventing the entire mountain range. \n4.) Ask Essos for a lift.\n\nDepending on what they party picks they will need to figure out how to achieve that mission. They could use their connection to Essos to help them via a Kobold comes to help them back to the cave, successful high survival checks to find what they are looking for, or in the case of Essos a successful persuasion check to get Essos to do it, or if Shmeowmeow pours on the guilt, with advantage. \n\nIF THE PLAYERS GO BACK THE WAY THEY CAME, they will be able to travel along the roads they already have gone and will be able to revisit place they may want to check again, and or visit places they missed.  IE See the Titan, go back and talk to the Bard with the Titan fighters and get gold for checking things out and fixing the problem.\n\nHe will want to get Jax’s help more and request that he stays there to help them out more. If Jax says yes, figure that out. If he says no, the Bard will give Jax a sigil of the Titan Fighters with the insignia of the Bard, which he can show to other titan fighters to show that he is working with him. \n\nIF THE PLAYERS FIND THE CAVE ENTRANCE BACK TO THE SHIMMER HILL COMPLEX: They will be able to follow their tracks back to Shimmerhill, of if they want they can go and revisit places they have been, just would take longer. \n\nIF THEY GO AROUND THE MOUNTAIN RANGE: They will need to plan their route and figure out how they want to travel back to Shimmerhill/Drytide. Most likely going to Three-Way where they can see the encampment of the Tabaxi’s that are there. \n\nIF THEY GET ESSOS TO FLY THEM BACK TO SOMEWHERE: they can choose to go back to Shimmerhill, Drytide, Yorrem, or Oldspire or anywhere else in close vicinity to those places. \n\n"
+      }
+     ]
+    },
+    {
+     "name": "Race at Drytide",
+     "archived": false,
+     "desc": "Details of how the race in Drytide will go.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-06-23",
+       "text": "**Race Mechanics:**\n\nThe race will have three spots that as player roll dex checks will find themselves in, Lead, Pack , and behind. Multiple players can be in each position these are to set up proximity Once placed in those areas players will have options to perform other actions to affect other racers, advance themselves, or special actions which they can do.\n\nThe player who is in the lead position the most through out the race, twelve rounds,  will be the winner of 3,000 Gold. Second place will get 1,500 Gold.\n\n**Beginning of Round:** Each players will roll Dex checks for their cars on a success they will surge forward into the lead spot, on a partial success they will stay in the pack and on a failure they will be behind the pack.\n\n**Action Round:** Players will then have 1 action that they can perform.\n\n_Attack:_ Make an attack against another race car if successful choose a negative affect to put on another racer. IE Slow, Visibility, Confusion, Overheat, etc.\n\n_Maneuver:_ Make another Dex check to advance ahead one level. Cannot use if in Lead position.\n\n_Special:_ Use a special ability that is unique to your race car. IE Sticky Goo, Bungee Grapple, Overdrive, Smoke em, Distraction, Boarding, Adrenaline etc.\n\n_Repair:_ Lose a position to counteract a negative effect, cannot go further back than behind.\n\n**End of Round:** Adjust all player positions and roll to see if any special abilities are regained. If three or more negative effects are placed on one racer they are knocked out of the race permanently, and will not continue the race.  Proceed to next round.\n\nWinner of the Race will be the racer who has the most time in the lead position spot, or last racer standing. Incase of a tie……."
+      },
+      {
+       "date": "2024-06-23",
+       "text": "Players will work with the Rico, and they will be ready for the race with the help of their money. Players will be able to see a pretty interesting vehicle that is made of metal and wooden parts scrapped together to create a rough truck shape, though lifted and with large wheels.\n\n‌\n\nRico will ask one of them to come and be apart of the race as they will need help during the race as driving is one thing but attacks from other cars, and who knows what other things will happen. This race is about 6 miles long and while the race is one part, there are also no rules and many have found themselves not finishing the race due to unforeseen accidents. and due to their reputation in Drytide no one wants to help them and if anything they are a target for trying to do change and do things differently.\n\n‌\n\nThe other players that are not going to be in the race with Bert, will be playing the other cars and racers for a total of 5 racers.\n\n‌\n\nOther Racers and Descriptions:\n\nThe Holy Ones: A shiny Metal vehicle that is bulky and shiny, think of lifted golden Cybertruck. Has many symbols of various gods etched or mounted onto the outside of the vehicle.\n\nTinkers Thinkers: A ramschackled vehicle that looks like many different types of vehicles were put together, its like too many ideas were thrown out and they decided to go with all of them.\n\nGeeee Force: A smaller Vehicle that takes on a natural look, if this race took place in a forest it would be well camoflaged with the surrounding flora and fauna, but due to the sand and plains it acutally stands out.\n\nShimmerhills Shineys: A Metalic large vehicle where there are many attractive people wearing jewels and other interesting dress for a race, seemingly like they want to distract those around them with either money or their bodies."
+      },
+      {
+       "date": "2024-06-23",
+       "text": "Ask Sahallee what the name of the person they gave money to. for the race."
+      }
+     ]
+    },
+    {
+     "name": "Unexpected Pyramid",
+     "archived": false,
+     "desc": "Adventure in a pyramid that unexpectedly showed up when Musty Jo used a bean on a troll. Here is what the players encounter. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-07-01",
+       "text": "The pyramid is golden and gleaming stone Stepped Pyramid. Looking from the outside players can see a shining top which if they climb up and look they will see inside the top room which holds many treasures and the sarcophagus of the entombed pharaoh here. \n\nThere is an open door leading into the dark pyramid, on the inside of the door hieroglyphs can be seen etched into the doorway, and looking into the room they can see large colorful pillars that have been carved with many stories of this pharaoh and all of her accomplishments during her life. At the end of the hall is a large statue that depicts the pharaoh in life, in a mighty and strong pose.\n\nSOMETHING TO REMEMBER AND USE! The pyramid is on a slope, so something traps and things maybe more difficult or maybe not useable due to that. "
+      },
+      {
+       "date": "2024-07-10",
+       "text": "**Second Floor:** Players will step into a large room where they will see a furnished area ahead of them with four more stone statues, one will be the god Osiris, Bast, Horus, and Set. Players who want to know that will need to roll a history or religion check of 12+ to be able to get that information. Also in the room is a large table where a game is set up to be played, those that know will see it as a dragon chess set. Behind the table is about a 15' wide wall and on each side of it is a large ornate columns.\n\nOnce players are all inside the room they will hear a voice that will slowly show themselves as they apparats into the room showing itself to be a gynosphynx, and telling them that to proceed they will need to make a choice. Strategy, Wisdom, or Strength?\n\n**If players choose Strategy -**  They will play against the Sphynx in a game of Dragon Chess, a chosen player will go against the sphynx and need to best it in three different skill checks, players can use deception and insight to help with future checks.\n\n**If Players Choose Wisdom. -** The players will be tasked with a puzzle, the room will fade away and will be replaced with a boat tied up at a dock along side a slow moving river. Next to the dock is are 4 stone statues, 2 of each look a like and for each group one is larger in size and the other is smaller. Players will choose a person to attempt this and that person will go to [https://www.transum.org/Software/River_Crossing/Level3.asp](https://www.transum.org/Software/River_Crossing/Level3.asp \"smartCard-inline\")  to complete this puzzle.\n\n**If Players Choose Strength -**  The room will fade away and reform as an arena. Players will be asked to choose a combatant, who will face off against themselves in a fight.\n\n‌\n\nOnce a game has been completed the Gynosphynx will either congratulate the players and fade away from whence it came, or if it won the game give them the option of playing another of the options. If all options have been exhausted, the players will not be able to progress onward. Once they are gone players can search the room more and will find two Chests with 500 Gold in jewels inside of them. As well behind the 15' wall is the stairs leading to the top floor."
+      },
+      {
+       "date": "2024-07-10",
+       "text": "_**First Floor:**_ Has no Treasure but many traps. As players explore the area each new room they encounter will have a trap that is generated by a D6 roll.\n\n**1: Poison Trap**. As players walk in if they are not careful they can hit a trick floor tile and poison will start to flow into the room from the ground, floating up towards the ceiling. Players will need to make **Constitution saves** ,16+, on a success or failure they will only take 2d6 damage, but with a failure they will also take the poisoned status.\n\n**2: Armor Guards:** As players enter this space there will be 2 statues that are resemble some of the same ones they have seen before in the pyramid, as they pass by them one of the statues will automatically come alive and begin attacking them, taking a surprise round unless otherwise noted.\n\n**3.) Dart Trap:** As Players come into this area there will be an very thin trip wire that if walked into will set off darts that will shoot out of the wall. To find the trap players will need to make a successful **perception roll of 16+** which they can then safely walk over the wire and continue on, but if they trip the wire they can then make **dexterity checks** and on a successful save 14+ any failures will take 1d6 slashing damage from the darts.\n\n**4.) Arcane Trap:** This room will have glowing runes moving along the floor walls and ceiling with arcane lights shining out of them casting a direct line from the rune to the wall, floor or ceiling directly across from it. Players will need to make 3 **acrobatics or dex** checks, 14+ to see if they can doge the runes as they cross. If they fail they will take 2d6 fire damage from it.\n\n**5.)Boulder Trap:** This room will have a large boulder that can be seen from the beginning of the room. Whatever the players do nothing will happen as the pyramid is uneven and once tripped it will not allow for the trap to be successfully sprung. There will be a gold Idol on a pedestal in the middle of the room, if players want to take it they can. that will set off the trap, but nothing will happen.\n\n**6.)Mimics:** Each room with a treasure chest will be a mimic, if interacted with a fight will ensue.\n\nOnce players have successfully crossed the first floor they will find a doorway leading to stairs where they can access the second floor."
+      }
+     ]
+    },
+    {
+     "name": "Visit back to Shimmerhill",
+     "archived": false,
+     "desc": "As the crew comes back through Shimmerhill…..",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-07-24",
+       "text": "**Esmerelda Underchin:** Players may want to go back and talk to her about the map they gave and what they were able to find. Depending on what they share with her they will get money for their service.\n\nDisclose all the information they found out including the base of the Titan Fighters: 200 GP **Titan Fighters will not like this.**\n\nDisclose everything except the location of the Titan fighters and indeed protect them: 100 GP"
+      },
+      {
+       "date": "2024-07-25",
+       "text": "Spending Money: They have a LOT of money what can they use it on?\n\nAirship: 60,000 GP Would need to work with the TT Guild to get one through….\n\nMagical Items:\n\nGoggles of Darkvision -"
+      },
+      {
+       "date": "2024-07-25",
+       "text": "Create a sword for Mac and also add in Heathers stuff for her choices from the Dragon."
+      }
+     ]
+    },
+    {
+     "name": "Drytide Race aftermath and next Steps",
+     "archived": false,
+     "desc": "Potential options for the team after they have completed the drytide races.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-09-17",
+       "text": "Players go anywhere else, either way their path will lead through **Hollowstorm** where the boat will stop off to unload any cargo and resupply on food stuffs and equipment. The trip will take about 3 weeks to complete and player will be able to train or work on things that they would like during the trip. During the trip on either to **Hollowstorm** or **Yorrem** they will be attacked by a monster and a boat fight will occur!\n\n‌\n\nTie in something with an or multiple **Deep Scions** who are working for the **Antari** out of **Oceana** keeping tabs on the players and what they are doing.\n\n‌\n\nAfter the battle players can hear the crew talking about how abnormal it is that the **Merrow** have attacked, and speculate as to why this may have occurred."
+      },
+      {
+       "date": "2024-09-17",
+       "text": "Players go back to Yorrem: On their way they can take time training and or powering up something they may want to do.\n\nOnce back to Yorrem the city will be going about their business as usual, the city is not back into full food production mode so things are a bit more easy. Professor Erlina can be found in her office at the Academy. Since they last talked lots more reports have come in about interesting activity and goings on happening from around the world. Weird tidal actions happening off the south western coast. Dark storm clouds appearing in areas and weird  weather happenings. Earth tremors around the shimmer hill area, and great heat and dry climates coming from the Amber Valley."
+      },
+      {
+       "date": "2024-09-17",
+       "text": "**The Next Day:** Players will wake up wherever they slept the night before, and can spend the day doing whatever they want to do. Player will notice that while walking around the town there are more of these **Drytide T2 Guild** working with similar things that they crew found in the cave and are using them in a way they have not seen before.\n\nIf they inquire more about it, they will find out that while they have been able to get access to these things for a while they haven’t done much and so many have been scaped and used in different ways, but recently they have been more responsive and they are able to use them more, they don’t know the language very well but by tapping on them they are able to take some pictures and look at them. **If they work it out they can trade some of their unworking phones and tablets into them and get a couple of working phones.**\n\nPlayers can head back to **Shimmerhill** from here to collect the things they had made for them. There are boats that are going to be taking off from here back to **Yorrem**, or they can also get on a boat to go to **Hollowstorm**, **Blackguard (Aerun)**, **Direport** or **Fairstone (Malandara)**\n\nJak may want to try and contact Aura again to see what's going on, she will help him as much as she is able. He will find that he suddenly doesn’t have as much access as he used to. later on in the day he will get a message from **Professor Erlina, Erlina Riser.** She will send him an urgent message about the access being taken away as well as the machines suddenly powering on more, there being more mechanical activity going on with small machines appearing and working on the other machines appearing to repair them.\n\n**PRIMARY SYSTEMS**: Aura program and basic processing, Communications, Data and Memory Banks, Primary Power.\n\n**SECONDARY SYSTEMS AND PROGRAMS:** Basic city operations, Repair Drones, Defense protocols, Secondary Power Operations.\n\n**TERTIARY SYSTEMS AND PROGRAMS:** Intercity Travel, Eros Station Operations, Secondary City operations.\n\nShe will recommend that they come back to **Yorrem** to assist with what is happening and help her.\n\nPlayer can inquire about an airship and will be told that they can take one to either **Hollowstorm**, or **The Holy Citadel** but they are not expecting another ship back for another week, getting to **Hollowstorm** is better as there are more regular ships that take off from there but as its the mid way stop for any ships transporting goods."
+      },
+      {
+       "date": "2024-09-17",
+       "text": "**Shadowed Figure**: Can be followed going down the streets to **Rico’s** garage. Once inside the figure will be found looking through Rico’s notes about the engine. If the figure noticed the player following them they won’t hide what they are doing as they will see themselves and the players on the same team. Once revealed the Human man will introduce himself as **Burl Grives**, he will tell the player(s) that he the inspiration behind the engine, “How else would Rico come up with an idea to combine classic mechanics and arcane magics to make this?” He won’t be taking anything more looking over their progress and what they have completed. Players can ask more questions and Burl will answer with guarded answers. Eventually he will grow tired of questions and he will have seen what he needed and will leave by magical means. **Dimension Door.**"
+      },
+      {
+       "date": "2024-09-17",
+       "text": "Now that the race is complete and the team came in tide for second. There will be lots of partying and celebration in **Drytide** for the end of the Kart Racing. As there isn’t much of a bar in town lots of those that will be partying will do so in the streets at their local garages, there will be several people who's opinion of **Rico** has changed and they along with his “Crew” will be invited to several different places to celebrate.\n\nAs the afternoon wanes and turns to night, the crowds will get more rowdy and players will start seeing those inspired by the race today to start up there own in the streets with their much smaller vehicles and racing through the streets barely missing crowds of passers by. Many different types of machines are seen as the team walks around the city.\n\n**Rico** will partake in some of the revelry but will also not want to over do it as he would like to get back to work in the morning to work on the engine. They will look at this as a success, as anything above failure is better than what they thought would happen.\n\nIf players want to talk to them about other uses for their engine they will be open to the option but it will take time to create another engine and then fit it into whatever ideas they will have. While it can be done it will take time.\n\nPlayers have the city available to them to be able to do whatever they want. Options are the inn where they can go to sleep. They could go back to any of the other racing crews they saw earlier or wander the streets.\n\nDepending on what happens a player may notice an interesting **shadowed figure** that is wandering the streets. While most are wearing ragged greasy clothes in shorts and shirts, there can be seen a character amongst the shadows in a black cloak(Perception 15+)\n\nDuring the night of revelry Jak will hear a message from Aura that power controls have been changed from user specified to automatic. If he tries to change it he will be unable as the person that changed it has a higher permissions than he and if he looks into who made the change Aura will respond with “**The Administrator**”."
+      },
+      {
+       "date": "2024-10-01",
+       "text": "Players decide to travel back to **Yorrem** on the back of **Essos**. Who will pick them up about a days journey outside of **Shimmerhill**. Players will start by camping a little south of **Shimmerhill.**\n\nDuring the night **Eu** will have a dream about the **Green Dragon**. In which the body of the green dragon will be seen fighting in a great battle against machines and humans which end up overwhelming him, a bright flash of light and he will then see the dragon lifeless laying on the ground and from its body the green orb being taken away by human hands. Another flash of white light, and it shows the body of the Green Dragon being taken into a large room with lots of bright squares and tables. Windows can be seen looking out and showing nothing but blue water and aquatic animals swimming by. Another Flash, the green dragons eyes open, bright red lights shine out from them with a high pitched screech which wakens **EU.**\n\nIn the morning the party will awaken to a overcast day with a potential of rain, they can do whatever they need to do this morning before taking off to meet **Essos**.\n\nEssos will come and due to his large size can take all party members from there he will be able to over the next 2 days get them to either outside of either **Old Spire** or **Yorrem**. Make a note that Essos is not easy to ride on and not the most comfortable. As the moving dragon doesn’t fly steady and players have to hold onto scales and tallons/spikes to steady themselves. When they land they will all have a level of exhaustion.\n\nThings they can learn about while Traveling.\n\n**Dark Storm Clouds:** If players perceive well or really just ask about it, they can see against all the other clouds moving across the sky, a patch of dark storm clouds that seem to be moving abnormally fast against them. If they ask Essos about it he will mention those humans and the horrible flying machines and cities that they made.\n\n**Green Dragon:** Essos will talk more about the Green Dragon **Undaloth** he will mention that he was part of the dragons who finally were able to stop the humans, but he was one that lost his life during the fight, he was sent to a location where he ended up being ambushed and while completing his goal of setting off his orb in the correct location, lost his life in that process. No one knows what happened to his body, but the humans were able to take his orb and keep it hidden away.\n\n**Essos:** He is the dragon attached to the earth Titan **Kaia.** He was her sworn protector and was trusted to stay by her side to protect her. Each of the Prime Dragons had a Primordial Titan that they protected. Undaloth not being part of the Prime Dragons did not have a Titan associated with him."
+      }
+     ]
+    },
+    {
+     "name": "Yorrem and Interesting Activities",
+     "archived": false,
+     "desc": "Players will be able to touch down a little outside of Yorrem and the dragon will rest for a bit before taking back off to its Cave.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-10-01",
+       "text": "**Professor Erlina Talk**: She will seem a little suspicious and guarded, thinking they did something to lock her out and take control away from her. She will not know much about the **Administrator,** and will say that no one outside of the Academy has been inside the of the Void.\n\nErlina will tell them of various reports coming in from other academies around the world. Some talk of weird weather and unseasonably hot for this time of year or storm clouds that have been drifting around, abnormal tidal activity has created issues with the sea creatures and some usually docile creatures have become agitated and are attacking locals.\n\n**Erlina’s motivation** is to see if they were the ones to block her out of the controls that she had, she is not fully fluent in the ancient tongue and can teach those that would like to learn. She would like to find out who this Administrator is and why they locked them out. If they show Erlina the sygil that Shmeowmeow found Erlina will be able to tell them about it being the symbol of the Antari, who everyone commonly calls the ancients. She will then be able to tell them what she knows about the Antari and how they came here.\n\nIf players are watching they may see that someone is paying attention to their conversation, if noticed the female elf will get up and walk out of the tavern. If followed the Elf will try and lose them in the night, but if they are perceptive enough to follow them they can be followed until they reach the city gate where they will lose the Elf.\n\nIf they choose to stop the elf, a fight will ensue, where the elf will try and get away."
+      },
+      {
+       "date": "2024-10-01",
+       "text": "**Yorrem:** Players will be able to easily get into the city with their G4ce badges and recognizable faces. Where they will see the city calmer than when they were last here but not much different. Players will be getting in at night so **Professor Erlina** will not be found at the **Academy of the UM.** If they contact her with Aura she will agree to meet with them at the Farmers table to talk.\n\n‌\n\n**Locations in Yorrem:**\n\n**Taverns/Places to Sleep:**\n\nThe Leaky Boot (Cheap place, may get robbed, close to the docks)7 CP\n\nHorn of Plenty (High price, lavish place, Closer to the middle of the city) 8 SP\n\nThe Farmers Table (Mid range, nice but not flashy) 5 SP\n\n**Stores/Supplies:**\n\nThere are several shops and stores available to the players to shop at, where they can get anything generic that they may want.\n\n**Places of Interest:**\n\nThe Festival has lots of shops with more rare finds from different people: GOBBLEDEGOOK will find their Key that Mags has sent them to get.\n\nGames of chance or fighters ring\n\nFighters Ring - players can pay and go head to head with a NPC from the village (Roll a D6, 1-3 Level 1 NPC, 4-5 Level 2 NPC, 6 Level three NPC)\n\n‌\n\nGames of Chance\n\n#### Three-Dragon Ante\n\nThree-dragon ante is a card game. If you own an actual three-dragon ante deck, you can play the card game for real. Otherwise, adjudicate the outcome of a three-dragon ante game using d12s and the following rules:\n\n**Step 1.** Randomly determine which participant is the dealer.\n\n**Step 2.** Each participant (including the dealer) places their opening bet, then rolls five d12s to determine their hand, keeping these die rolls hidden from the other participants.\n\n**Step 3.** Starting to the left of the dealer and continuing clockwise, each participant reveals one of their die rolls. This step is repeated twice more; on the second and third round, each participant can raise their bet before revealing their next die roll. The other participants each have three options: match the bet, raise their bet (in which case all participants must match that bet in turn), or fold, forfeiting any bet they’ve placed and dropping out of the game.\n\n**Step 4.** Each participant who hasn’t folded totals their die rolls. The one with the highest total wins. The winner becomes the dealer for the next game (assuming the participant wants to keep playing).\n\n#### Life and Death\n\nLife and death is a dice game played between the house (represented by a dealer) and a player. While up to five players can sit at a table, their only opponent is the house.\n\nTo play, each player places a bet; once bets have been placed, the house and the players each roll a d20. If a player rolls lower than the dealer, the house wins. A player who rolls higher than the dealer reclaims the money they bet and wins that same amount from the house.\n\n_**War.**_ A player who ties with the house has two options: the player can surrender and lose half their bet, or the player can “go to war,” in which case the player must double their bet, and then the player and dealer both roll again.\n\n_**Push Your Luck.**_ When a player wins a roll of life and death, they can opt to push their luck on their next bet. In this case, they bet everything they won on the last roll (their ante plus the winnings from the house). If they win, the house pays double their bet."
+      },
+      {
+       "date": "2024-10-01",
+       "text": "Players will be a half day journey outside of **Yorrem** and can decide what they want to do. **Professor Erlina** will be in her office in **Yorrem** but if they want to go to **Old Spire** that is about a days journey away."
+      },
+      {
+       "date": "2024-10-02",
+       "text": "From this point I want the players to decide what they are going to do and see where they go."
+      }
+     ]
+    },
+    {
+     "name": "Options and Next Steps",
+     "archived": false,
+     "desc": "Have not written the next part, allow the players characters to decide what they want to do, where they want to go.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-10-16",
+       "text": "What information can they learn if they want to go and find out about Burl or the Administrator?\n\nBurl - They have a sigil that is from the Antari people and is on a lot of maps and some of the equipment that they have seen. Burl has been known to be trying to “Help” people along as with Rico and the engine that they were making, what else could he be trying to make? **A craft that can get him into space.** Burl is red herring to make everyone think he is the main baddy, but really down the road they have similar goals. Just not right now.\n\nEngine - Rico\n\nShip Making Materials - Hollowstorm\n\nElectronics - Titan Fighters\n\nHabitation - ?\n\nMagic - Academy of the Fettered Mind\n\n‌\n\n**The Administrator:** Who are they? Big bad of the Campaign?\n\nI want them to be someone who was asleep on the orbital space station that can be accessed from Airlantis(?) But when the power was restored they were able to awaken from stasis and take control of Aura’s functions away from Jak and Erlina.\n\nThe Administrator is not working with Burl and actually thinks that he is dead. They will be trying to use the powers of the cities and other parts to take back control of the planet of Vermoon. Right now everything is chaotic due to not being active and working for over 700 years, but once the drones have been able to make repairs more control will return to them."
+      },
+      {
+       "date": "2024-10-16",
+       "text": "Options for things Players can do:\n\n**Travel to Other Continents:** Players can travel to other locations to see what else is going on. This can be done by boat or Dragon depending on where they are going.\n\n**Research more into Undaloth:** Taking what they know from Eu’s dream sequence they can ask around to see if anyone knows about this.\n\n**Musty Joes Dream:** He had a dream sequence about his tribe and trouble brewing back at his home in Malandara.\n\n**Search Out the Other Lost Cities Locations:** Players were able to get areas where each of the lost cities are located, they could go and investigate them.\n\n**Who is Burl Grives:** Search around with the Mark they found and see what they can figure out about Burl and the sigil ShmeowMeow found.\n\n**Who is the Administrator:** Who is this person and where can they be located?"
+      }
+     ]
+    },
+    {
+     "name": "Travel To Aerun",
+     "archived": false,
+     "desc": "How will they travel there, what will they find, how will they find the city of Eldarado. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": []
+    }
+   ]
+  },
+  {
+   "name": "Restoring Power",
+   "archived": false,
+   "cards": [
+    {
+     "name": "Adventure Setup",
+     "archived": false,
+     "desc": "Players will be called together at the end of the waiting period by ERLINA to talk about what they have found in the caves, and found out from AURA. \n",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-01-25",
+       "text": "Questions for ERLINA:\n\nAnything about the Mythical cities? \n\tAt this time only surface level information has been found out about each of them, when asking her for more information she will be unable to retrieve more or the information is not readable or pictures, maps or videos do not show. \n\tIt seems like there is a secondary function that she has that can repair information and connections but at this time due to the exceedingly low power and no communication with anything outside of the VOID she cannot access this part. \n\nLanguage of the Ancients: \n\tStill trying to get more of a proficient with it but she is able to read many common words in the language but less used words are hard to decipher their meaning. \n\n"
+      },
+      {
+       "date": "2024-01-25",
+       "text": "ERLINA will tell them that she was able to begin decifering the written language of the ancients, and have found out that the electrical source they are looking for is not on this continent but TALDEA to the north, and while she is not certain she believes it to be located in an area there called LOST ROCK. A difficult area to get to in TALDEA due to the mountain range that is lays amongst, but on top of that the land itself is deadly to tread upon and many of the plants and being in that place have either perished or turned into grotesque monsters that attack anyone who comes close. \n\nShe will not recommend going further with this due to the horrible circumstances, but will mention that AURA’s power keeps on getting exceedingly lower and lower and she is unable to know how much longer she can stay up, or if she were to go down what that would mean. \n\nAs for the communication tower, ERLINA has found out that the tower she speaks of is or was part of the broken down tower that is a large part of what makes up the town of OLD SPIRE. She is working with AURA and the guilds to create a new tower to restore this function of AURA’s and get her the connections she needs. \n\nWhat will the party do? "
+      }
+     ]
+    },
+    {
+     "name": "Setup for Travel to TALDEA",
+     "archived": false,
+     "desc": "Players will be able to take any needed steps they need to, to prepare for their trip to TALDEA. They will need to find passage or use connections to get passage to DRYTIDE where they can take a boat. \n\n",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-01-25",
+       "text": "Boats to DRYTIDE, EU is a pirate…… there maybe a connection he can use there. \n\nHiring a boat to DRYTIDE, will be 24 gold per person and will include food. The duration of the trip will take a week, in which the players will be able to have more downtime to work on things."
+      },
+      {
+       "date": "2024-01-25",
+       "text": "Players have the same access to stores and shops that they want to get what they may need, if money is short they can do work for G4CE to get some."
+      }
+     ]
+    },
+    {
+     "name": "TALDEA",
+     "archived": false,
+     "desc": "",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-01-25",
+       "text": "Shimmer Hill: \n\nA Gleaners Guild city centered on Mining due to the mineral rich mountains it sits in front of. "
+      },
+      {
+       "date": "2024-01-25",
+       "text": "Drytide: A T2 (Tinkers of Thingamajig) Port city, houses many different abodes much of them mix use (store on the bottom, house on top) Creative inventors are here coming up with new inventions with things that are found or completely by themselves. \n\nINN The Rusty Cog: 15 Silver for a night, includes food. \n\tCan talk to the inn keeper who is a warforged person called Mangle.\n\nGoings on in the town:\n\nFlyers for The Great Race that is coming up, race where combatants will put mechanized carts together and race them for fame and glory, will be happening soon. \n\nWanted posters: Titan Fighters, asking for information on their whereabouts and information leading to arrests for the attack in Yorrem. Point players to the G4CE office in Shimmer Hill. \n\n\nSHOPS: Regular things that can be found \n\nA retailer known as the artificer can be visited who can create things that add magical mechanical things to players equipment for a price. And it’s quite a price. \n\nKart Shop: Instead of mounts players can rent a Kart that can be used to travel longer distances faster, they are limited to roads, and smooth surfaces. \n\n\nOnce players are ready they can travel to Shimmer Hill from Drytide: walking will take 5 days, if renting Karts will only take 2.5.\n\n\n\n"
+      },
+      {
+       "date": "2024-02-08",
+       "text": "RICO - The young upstart that is interesting in the Kart"
+      }
+     ]
+    },
+    {
+     "name": "Lost Rock",
+     "archived": false,
+     "desc": "A mysterious rock that seems to never be in the same location as it was before, making it very difficult to pinpoint its exact location and where it will be, this phenomenon seems to be something more recent as in from the dragon attack that happened in more recent times (work with Shhhmeowmeow on this) \n\nWhat is actually going on is this tower is a horn of the earth Titan that was used by the ancients as a tower to transmit communications. When the dragon attacked it ruptured batteries that are close to the top of the soil and is leaking out battery acid to the top of the soil corrupting the earth and slowly eating away at the tower the movement of the tower is the wrenching pain of the titans small amount of movement that it can do.\n\nDue to the acid killing off much of the plant life local rain and water that collected in this area have turned it into a toxic swamp, the slow movement of the Titans horn have created a thick muck towards the top of the soil. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": []
+    },
+    {
+     "name": "Journey From Drytide to Shimmer Hill",
+     "archived": false,
+     "desc": "Players will take a 3-5 days to journey to Shimmer Hill depending on how they decide to traverse the road there. Along the way they may encounter different things, people, locations, or monsters.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-02-06",
+       "text": "SHRINE to Skerrit: Skerrit was the god of Centaurs, Fauns and Satyrs taking the form of a large Centaur. Along side of Skerrit is the form of the forest walker, a cloaked figure difficult to discern what they look like.\n\n‌\n\nSkerrit and his champion the Forest Walker are known to inhabit wild animals in the forest to lead followers to their destiny.\n\nPlayers may come across the Shrine of Skerrit, they will see a stone statue in the distance that they can’t quite make out. If Eustace gets a higher vantage point he will see that they statue is large and surrounded by columns water and plants.\n\nIf they proceed to the location, they will see stairs leading down under the statue into the ground the stair way is quite large specifically made for centaurs.\n\nInside players will find offerings to Skerrit, left behind from worshipers, one interesting point is a broken bow, the string has been cut but the wood is still good and has the symbol of an oak on it, there is a note rolled around the handle of the bow which reads Skerrit, I rebuke thee, take back your gifts I have no further need for them."
+      },
+      {
+       "date": "2024-02-07",
+       "text": "Roving Thieves and treasure:\n\nAs players will be walking along the road a dog will run up from behind them and will be playful and happy towards them. While the dog looks a little emaciated and bony his teeth are long and sharp some sticking out of its mouth.\n\n‌\n\nDuring play with the dog there will suddenly be words spoken in Sylvan, which he will take something from one of the players and blink away 40. The game will be if the players can get to the blink dog or the Haregen before they reach the end of the map they will get their stuff back and some extra treasure. if they don’t…. then they make off with what they took."
+      },
+      {
+       "date": "2024-02-07",
+       "text": "Bandit Camp encounter:\n\nRoving Bandits have been causing havoc and player just found a kenku delivery man robbed along the road who said that they were headed off, that used an magical item that blew him off of his Cart and to the ground, where they were able to easily subdue him and steal everything from his cart along with his horse.\n\n‌\n\nIf players decide to go after the bandits they will need to pass a survival or nature check of 12 to be able to follow their tracks to where they are hiding.\n\n‌\n\nIf they use stealth to get close to the camp they can see the map and plan an attack before the bandits can see them, but if they are not then combat will take place, during the fight no one will use the artifact as it can only be used once per day, which was used on the Kenku earlier today."
+      },
+      {
+       "date": "2024-02-07",
+       "text": "Survival Role per day will decide what the group comes across.\n\n1-10 - they are attacked by some roving thieves\n\n10-15 The Shrine\n\n15-17 attacked by Roving Wolves\n\n17-20 Nothing happens\n\n20-23 come across a wagon that has had its stuff stolen by bandits\n\n23-30 Find treasure just along the road."
+      }
+     ]
+    },
+    {
+     "name": "SHIMMERHILL",
+     "archived": false,
+     "desc": "The City of Shimmerhill is one built onto the side of the Bolt Mountain Range. Shimmerhill is directly below Shelf Mountain which is named that due to long metal protrusion that it has coming out from it and is what the city is built around.\n\nShimmerhill is named so because of the rich minerals that are dotted along shelf mountain and some of the surrounding mountain range and hills.\n\nThe city is laid out of on top of the shelf, which is mainly residential, shopping, and offices. Where as on the bottom of the shelf is all for Mining, Smelting, Workshops, and Warehouses.\n\nShimmerhill is a **Gleaners Guild** City, built mainly to mine the mineral rich mountain and surrounding hills, but while mining they have tapped into some caves and ruins below the mountains that house unknown history and creatures. Because of this other guilds have come to join the Gleaners Guild here, one being the **College of the Fettered Mind**, but also the tinkerers of **Thingamajigs**, and the **Devout Coalition**, have added to the size of this town and its power.\n\nAs players are walking up to the city they will see an airship take off loaded with goods and materials to another continent.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-02-07",
+       "text": "SHIMMER HILL THINGS TO DO\n\n**Gleaners Guild**: Players can go to the head office on top of the shelf in towards the middle of town, where they can find a medium size building that is bustling with activity, orders for materials to be moved here or there, as well as shipments that have gone missing or stolen and needing replacements.\n\nThey can find a desk where someone will be happy to talk to them and help with anything they need.\n\n**Esmerelda Underchin:** Head of Blasting and Burrowing. A no nonsense woman who isn’t here for funny business will be here to answer any questions they party has about caves and going under the mountains. PLAYERS ASKED for a guide to help them go under the mountain, I rolled a nine, Esmeralda is unable to find anyone in her crew who after hearing the what was found would want to go back. \n\n**G4CE OFFICE**: Party can come here and do work, the office itself has a couple of jobs. One will be the bandits that they may have come across in the field. The other is to find out about a murder that has taken place in town, they don’t know much about it and are not trained to take care of such things.\n\n**COLLEGE OF THE FETTERED MIND:**\n\nTheir office is on the Shelf, towards the outside overlooking the valley below,  players can go there and meet with staff who are working with the metals on new and interesting science and innovations.\n\n**Invention Research**:\n\nArrows of Electric Sting, test them out and report back to see how well they work.\n\n**Artifact Research:**\n\nUnknown thing has been found that they are unable to figure out what it does, looks just like the card they found at the **Void** but is a different color and has different markings on it. If Jak is there he can read the word Power on the card.\n\nPiece of moving earth: on the table with other things players can find some earth that moves rhythmically picking it up its like holding a lump of liquid clay, but its not hard or dense but soft, when holding this the player will feel a power emanating from it. This was found in an ancients room down in the caves.\n\n**The Devout Coalition:**\n\nThey are here in town representing the godly representatives, and assisting with any holy workings and delving into the ground and ridding the world of any undead or bad beings.\n\nPlayers can go to their offices and find the temple where they are based, it is covered in reliefs of different gods and how they have helped the people of this world, there are lots of different humanoids working around the temple by worshipping, reading texts and cleaning.\n\n‌\n\n**Tinkers and Thingamajigs:** Found below the shelf, are here working on the machines by repairing them and improving them, also working with the other factions with new artifacts that have been found and how to use them."
+      },
+      {
+       "date": "2024-02-14",
+       "text": "Magraths Maps - a place where players can go and meet Megrath, a Dwarf who is a map maker and collector. She works with the miners and others to create maps of the newly dug out caves, as well as collecting of maps from the area. \n \nPlayers can go and chat with them about traversing the caves under the mountains to get to Lost Rock, she will know of a route that the company can go, but will be unsure of the exact location they will come out once on the other side of the mountains as no one has yet to travel the route completely as they ran into some horrible beasts as they were close to the other side. \n\nThey can also buy maps that she has to potentially find treasure or fourtune. \n"
+      },
+      {
+       "date": "2024-03-06",
+       "text": "Titan Fighters - \n\nPlayers may notice 1 or 2 people with a very familiar bandana on their person belonging to the Titan Fighters Gang. \n\nThey have a hideout here in the city under a seedy bar named the Tarnished Tankard in the bottom portion of the city. If they follow the after the fighters into the bar they won’t see them, if they find a way to go with them, they will be able to get access to the secret password (Kaia) they use to gain access to the underground area.\n\nOnce underground they will find many Titan fighters down here busy with activity, there will be several rooms with many people, some packing up shipments to be taken to other places, others meeting and discussing plans over maps, that clearly are of Old Spire, the woods, Yorrem, and discussing how they can gain access to the Dig sites. \n\nPlayers with a good deception/investigation/? role depending on how/if they gain access to this area can find out more. Such as shipments are going to Yorrem, Wildfield, Hollowstorm and Fairview."
+      },
+      {
+       "date": "2024-03-06",
+       "text": "Tabaxi from Shhhhmeowmeows home town - \n\nYawnPurPur, a Tabaxi from SH’s home town can be found in the city selling wares that the remaining Tabaxi’s make and sell in the city for money, YawnPurPur travels weekly from Shimmerhill to 3-way where the Tabaxi’s are now living outside of that town. \n\nInformation: \n\nWhat happened after the attack of the village NEPETA - After the Dragon attack, and the destruction of the city, many of the Tabaxi tried to rebuild but the ground because hostile, rains came and without plants and trees to hold the dirt back landslides and occurred and created a wet muddy swamp, then the swamp seemed to turn bad and would burn the Tabaxi’s who would try and work the earth, it was taken that this was a sign from their God ZALTEC that they were to leave this place and start new somewhere else. \n\nDragon that attacked: This occurred at night so it’s hard to say what color the dragon is, but it came and attacked the village and surrounding areas dispersing the Tabaxi’s of this town away from that area. \n\nOther Tabaxi Names that can be used: \nSHHHPftPftPft\nSHHHPur\nYeowalMeow\nGrowlPft\n"
+      }
+     ]
+    },
+    {
+     "name": "Adventure Under the Mountain",
+     "archived": false,
+     "desc": "Players will take some time to traverse under the mountains if they so choose, if so the map that they got from the map shop will be brought up that they can use to go to various places and enter at with different things if they so choose. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-03-06",
+       "text": "8.) Smaller tunnel that leads to the surface outside of forest where Lost Rock can be found. "
+      },
+      {
+       "date": "2024-03-06",
+       "text": "7\\.) Cave widens out to a larger area\n\nPlayers will find a location of the ancients that is quite large and open, it is inhabited by some nasty monsters that have made their way from the surface and made this place their home. At least that is what is looks like. Its actually the Titan Fighters. Casting Illusion spells, trying to keep away anyone from coming towards this part of the cave.\n\n[https://www.dndbeyond.com/spells/major-image](https://www.dndbeyond.com/spells/major-image \"smartCard-inline\")\n\nPlayer will walk up and see two aboleths [https://www.dndbeyond.com/monsters/16762-aboleth](https://www.dndbeyond.com/monsters/16762-aboleth \"smartCard-inline\")  seething and angry they will lash out and seemingly move towards the party but will not attack or hurt them, as they cannot. Any weapons attacks go right through them and will not hurt them.\n\nPlayers can make an insight check and if successful can tell tha these are not real, and can walk right through them\n\n‌\n\nThrough if they do will find an group of Titan Fighters some with spell casting abilities right behind ready for a fight."
+      },
+      {
+       "date": "2024-03-06",
+       "text": "6\\.) Cavern Comes up"
+      },
+      {
+       "date": "2024-03-06",
+       "text": "5\\.) Cavern goes down\n\n‌\n\nDown in the Cave the players will find a desecrated ground that is not crossable by walking. in the middle of the ground is a metal chest that this desecration seems to be coming from.\n\nPlayers can use holy water or the Hallow Spell to consecrate the ground, if they are to touch the ground it will sap at their HP and they will take damage of 2d6 per 5'.\n\nThere is a chest in the middle of the dais that is trapped, by a pressure pad that will activate the two pots on either side of the chest spewing out toxic green gas that will damage players for 2D10 Damage.\n\n[https://www.dndbeyond.com/magic-items/4690-orb-of-dragonkind](https://www.dndbeyond.com/magic-items/4690-orb-of-dragonkind \"smartCard-inline\")"
+      },
+      {
+       "date": "2024-03-06",
+       "text": "4\\.) Temple to Maglublyet\n\nA Forgotten temple to Mags can be found in this cave, Players can find the remnants of a goblin encampment, and will find that they built a makeshift temple to Mags here as will be noticed by the blood sacrifices that can be seen, as well as the symbols of an axe that are still present. A fight will happen here, and after it is done player can find the end of a double headed axe that was broken. At this time it seems to be just an ordinary axe."
+      },
+      {
+       "date": "2024-03-06",
+       "text": "3\\.) Cavern Ends Here\n\nAs players come up they can see that a collapse of the tunnel has occurred and there is what looks like a long dead humanoid that they can see. If they are successful in a search action they can find some gold 74 and a foldable boat."
+      },
+      {
+       "date": "2024-03-06",
+       "text": "2\\.) Underground Lake:\n\nPlayers will get a warning from the miners at 1 about a guy that went missing who liked to spend his time around the lake and really loved living in that area, when someone eventually went to check in on him it all that was found of him was some dissolved bones and a couple of his effects. Being afraid the person ran out not wanting to find themselves in the same fate.\n\nAfter the fight players can find clams in the water and if collected and they can get some black pearls from these clams."
+      },
+      {
+       "date": "2024-03-06",
+       "text": "1. Current Mining Operations\n\t- Players can come here and see how they are mining for precious minerals here in Shimmer hill, they use machines to dig large and small tunnels into the rock looking for ore veins, once they are found smaller handheld grinding tools are used to break away the minerals from the rock. It’s interesting that the minerals and metals of various types are found in the ground here like they were stirred into an earth slurry and set here in the ground."
+      },
+      {
+       "date": "2024-03-20",
+       "text": "9\\.) Cave falls into smooth metal cave\n\nPlayers can follow the cave in and find an ancient area leading to a room with a desk. There will be “tablets” and things that players will not be able to interact with as they don’t have the power or technology to access what is stored inside.\n\nPlayers can potentially find an access to the other room where they can find more old relics from the ancients and will be able to take them and with Aura’s help use them to get more information."
+      },
+      {
+       "date": "2024-04-03",
+       "text": "In walking around the players will find the base pretty much open to them, many comings and goings of the Titan Fighters, as they are using this as a base and have set up many places where they are doing research in the mountain, or in books and reading, they have also found many electronics that they themselves are trying to do work on.\n\n‌\n\nThe leader of this Base is Kald Yangeon, He may notice the players sneaking around, but will let them be as he will be interested in what they are going to do.\n\nAs players search around the place they will be able to access the entire base, with the exception of the center room with all the stars, where they will see lots of large rectangles placed around the central room. In the control room where Kald is they will be able to look into the battery room, and can Jak can use his knowledge of the ancients language to connect the batteries back to the remainder of the world.\n\nOnce the system starts back up there will be an error about a system drain, and a suggestion to remedy this, along with directions on where to go."
+      },
+      {
+       "date": "2024-04-03",
+       "text": "Players will can be sneaky and try and creep around the complex keeping out of sight of the Titan Fighters, or they can try and impersonate them by using the bandanas as a way of fitting in. Fighting their way through this will not be beneficial for them though."
+      },
+      {
+       "date": "2024-04-03",
+       "text": "Players can follow this ruin further inside, which will lead them to a large underground facility that the Titan Fighters are using as their base of operations, and the players will eventually find the location of the batteries that have been shut off."
+      },
+      {
+       "date": "2024-04-03",
+       "text": "Players can search around the area and will find potions of healing, and supplies that are stored in a room nearby. From what it looks like these two were stationed here to keep people away from this entrance and if needed protect it from outsiders."
+      }
+     ]
+    },
+    {
+     "name": "Adventure to 3-Way",
+     "archived": false,
+     "desc": "If players go this route they can go alone, or if they want YawnPurPur will be happy to give them a ride to 3-way in his wagon which will take about a day and a half.  He will be leaving in a couple of days so they can go with and take turns driving the cart night and day and get there faster. \n\nIf they want to walk/ride Musty it will take about 3 days. \n\n ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": []
+    },
+    {
+     "name": "The Other Side of the Mountains",
+     "archived": false,
+     "desc": "What happens to the party once they get out of the caves and make it to the other side of the mountain range. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": []
+    },
+    {
+     "name": "A View of Dirtroit",
+     "archived": false,
+     "desc": "What the party sees and encounters as they leave the Titan Fighters base to release the drain on the electrical system.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-04-03",
+       "text": "When players come out of the base they will be along a cliff edge that falls below into darkness, those that can are able to see across the chasm and can see ruin buildings and windows and dead trees, as if this was once along the top of the ground but somehow was buried under these mountains.\n\nThere is a path forward along the edge of the cliff, and will lead them to where the electrical loss is happening.\n\nAs they leave the base now and look across to the ruins they were looking at before they can now see a light or two in the ruins across the chasm.\n\nPlayers can make a Investigation, survival, or Perception check to see if they can tell where they are at in the mountain passage.\n\nDuring their trip, they will hear another of that groaning noise again, this time much louder. Players need to roll a constitution check.\n\nEu: Has a dream one night, Roll a wisdom check, the dream will be about a voice who talks to him and  if he fails his check he will trust this voice very much and is happy to answer his questions. if he succeeds he can decide how he wants to answer.  Where he has a conversation with a green dragon who tries to get information out about him and where he is. He will ask about the world, etc. He may answer questions from Eu with a high enough roll of persuasion. The Voice will not give him a name.\n\nAs they go along they begin to see large chords that run in and out of the ground, they can follow one along"
+      },
+      {
+       "date": "2024-04-17",
+       "text": "If players want to they can continue following the Chasm edge and will eventually lead them to a place where there is a very large opening of the chasm, and they can see the torso of a large being stuck in the ground, it has a large horn from its head that runs up through the ground, it seems unconscious.\n\nIf they can make a successful check the can find out that this is the Titan KAIA."
+      },
+      {
+       "date": "2024-04-17",
+       "text": "The Cliff edge comes in and out and sometimes the crew has to follow along the cable as it ebbs and flows into the mountain, but eventually leads back out, all the while they are following this cable they are gradually headed down.\n\nUntil eventually they come to an open area with many ruins of the ancients, and there are lights on here as well. There are also many more buildings intact and they are able to wonder inside of them and search them out.\n\nMany of the buildings are still intact and players can go inside and search them to see what has been left behind by the ancients. As players move around they will come back and find the chasm that they have been following, and will see a large piece of metal that has fallen across the chasm. With a successful acrobatics check, players can cross it safely and get to the other side.\n\nThis is where they will find a library and Jax will have the chance to read out the name of this city and it is Dirtroit.\n\nAs players search around the area they will find lots of places where it looks like people have slept. Some even have some human remains left in them. On a successful investigation check players can discern that these after the calamity that brought down the city there were survivors who probably stayed here for a bit before leaving to go back up to the top."
+      },
+      {
+       "date": "2024-05-01",
+       "text": "Players can move off the map to the east where they will start to move up in motion and will find the caves turn more wet, and the smell of rot and decay begins to overwhelm them,\n\nIf they continue they will begin to see more caves and interesting alcoves breaking out along the sides of the main cave they are walking down, pools of acidic water can be seen.\n\nWhat players are walking into is the lair of the dragon that destroyed Shhhhmeowmeow’s village, it has taken hold of his area, the dragon has several Kobolds here with it that tend to its needs, and take care of some of its personal pets, centipedes, snakes and scorpions.\n\nAs players get closer to lair of the dragon they will come across two statues that stand tall in front of a sealed doorway, the make looks ancient and that it has not been opened in a long time. Close by this entrance they will find many worn and rusted weapons close by, flails, swords, axes, wierd small things with what looks like a button on them to push? etc fill these rooms, from an old cache from the ancients. The two statues each are posed differently seeming meant to have something in their hands, but nothing is there at this time.\n\nPlayers can search around the area to see what they can find. Perception or Investigation checks. 1-10 players find lots of weapons, 10-20, Players find some specific weapons that seem to be more decorative, 20+ players find a loose rock, which under they can find a worn, diagram made from an interesting material that shows one statue with a specific Flail, and the other with a specific gun.\n\nOnce the statues have their corresponding weapons the door will open, and the stench of decay and acid will waft out more profusely into the part of the cave they are in.\n\nPlayers can continue to walk down, if they stealth they can be careful and not get caught off guard by some of the Kobolds, of they don’t…….. Depends on what they roll, Dragon too.\n\nPlay will ensue and players can either run away, and not interact with the dragon. Or they can leave to go topside, or they may find themselves in front of the dragon which some lore dump can happen.\n\n**Encounter with Kobolds One:**\n\n90 gp\n\n## Pickpocket loot\n\n1. 62cp and 8sp\n2. Small Mirror\n3. 5 sp.\n4. 8 cp.\n5. A rope necklace\n6. Jerky\n\n**Encounter with Kobolds two:**\n\n1,800 cp\n60 ep\n\n## Pickpocket loot\n\n1. a silver pearl with 100gp\n2. An old chess piece made from glass\n3. 16 cp.\n4. A spotted handkerchief.\n5. 12 sp.\n6. a wooden comb\n\n**OVESS the Black Dragon Conversation:**\n\nThe dragon will be threatening, and if the players killed all the kobolds and the pets, the dragon will be angry with them, Perception checks during fights or noises will alert the dragon to their presence, but depending on where they are they may not be able to get to them.\n\nIf they are able to work with the Dragon they can find out about the red dragon they all dreamed about, Prophecy of the Red Dragon, with the exception of Eu who didn’t have the dream, say something about how there is always one more added, and how its interesting that he found the Green Ball.\n\nShhhhmeowmeow, will be angry? Say something about we all have our part to play in the world and fates interesting weave has never been easy. If she attacks the Dragon it will leave. instead of fighting them, as the dragon will win.\n\nIf Eu or someone asks about the Ball… That is a very important thing he holds, take care of it and when the time comes it will be very valuable, more than any gold or weapon.\n\nThe Ancients: They are dumb people and deserved what they got, I'm happy that they can no longer harm the land."
+      }
+     ]
+    },
+    {
+     "name": "Aftermath of Essos and Going Topside",
+     "archived": false,
+     "desc": "After talking to Essos and learning what they can, the team can go topside from here to the Area around Lost Rock and start working on restoring the power.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-05-22",
+       "text": "Once players are top side they will need to locate Lost Rock as it was said, it moves and is not a stationary thing, the other part of this is that the ground is an acidic swampy mire, so being careful where you walk and where you go will be important. Using the foldable boat will be possible, but it will take some damage from the trip. The area is foggy, and over head there is dense cloud cover, so flying higher up while usually helpful may not be the best. If Eu wants to fly so high that he can get out of the clouds he can attempt that, but will need to make survival/perception checks to see if once in the clouds he can navigate through them and then back. If he is successful he will be able to see the tip of lost rock sticking out of the cloudy mire of the swamp.\n\n‌\n\nPlayers will need to make investigation checks and I will average the amounts to see what interaction they get. After two, whatever the roll on the third one they will find Lost Rock.\n\n0-10 - Encounter with Shambling Mound\n\n11-15 - Find Ruins of an Old House.\n\n16-20 - Encounter with Bagiennik\n\n20+ - Find ruins of the Tabaxi\n\n‌\n\nRuins of an Old House: Can be seen from a bit away, the door will be open and it will seem like there has been other people that have stayed here, but not recently. Can be used as a safe place to sleep for the night, if so have players roll for perception checks, if they roll 10 or below they will not see the attack coming of the vegypgymys coming to get them. When they beat them they will find an interesting paint set on one of the vegypygmy.\n\n‌\n\nFind Ruins of the Tabaxi: Can be seen from a bit away, there are stakes in the ground, fire pits, broken clay pots, etc. Players can sleep here tonight if they need, if they do have them roll for perception checks and same as above.\n\n‌\n\nLost Rock: Once two encounters have taken place they will be be able to find Lost Rock, which from the outside looks like a smooth metal spire that leads up to the sky. If they ask about it there doesn’t seem to be any noises, grinding or otherwise to ascertain why its not in the same place always. If they look at all sides they will eventually find a cut out in the side of the spire, that leads to what they can tell is a door from there time with the ruins of the ancients. Using the Card the found at the Ruins outside of Old Spire the door will alight and open for them allowing them access to the inside of the spire. Where they will find a large room, in the middle of the room will be another square spire that has double doors ,with a button on the side of them on the wall, the double doors are open leading to a smaller room, inside there are several buttons if any button is pressed the doors will close automatically, a loud horn will play and the doors will open again. Alongside one of the walls is another set of doors leading to stairs that can be used to go up. Another interesting thing is that there are automatons that are here in the room, but they are currently not doing anything."
+      },
+      {
+       "date": "2024-06-19",
+       "text": "The party is able to climb the spire and finds a room with a single monitor that is working on it shows the world as it once was before the calamity that destroyed the ancients, along with the locations of the lost cities of Eldorado, Dirtroit, Oceana, and Airlantis. Red flashing lights are attached to the three of the cities (Eldorado, Oceana, and Airlantis) but Dirtroit shows green. \nThe Party is unable to get other monitors or computers to work for them in this location, as well the cylinder from below comes up through this room, and continues up, there are another set of doors here with a button but at this time nothing happens if pressed. They can proceed further up the spire to another room this one with a large window showing the surrounding area, another monitor here shows the lost cities once again, this time though they can zoom in and see a closer map of the city along with some in formation. The city will show its electrical output and associated color. So for each city it goes, Dirtroit Tan colored ball, 20; Eldorado, No colored ball no output, Oceana, no colored ball, no output, and Airlantis, No colored ball no output. The main screen of the monitor will show the colors not used and their outputs, Red- 30, Purple-25, Light Blue- 25. Players can activate Dirtroit here and power will be supplied back to the spire, and the elevator can be used, if so players will find buttons for B, 1st, 2nd and 3rd. \n1st returns players to the first floor where they came from. 2nd, returns players to the floor below with the monitor showing the world. \n3rd will take them to the top floor again. \nB will take them to a new floor, below the 1st floor. This area has many monitors working and can be used for research if needed. Off to the side of this room players can find a stair case that leads down, as well there is also a doorway built into the room, that is not connected to the walls of the room only the floor, flashing red lights around the edges of this doorway can easily be seen, no matter what the players do they cannot get this to do more at this time. \nThe doorway out of the room will take them to a large circular room. Here there are multiple colored balls that can be found laying around the floor, one red, one purple, and the last one Blue. Along the walls are sockets where the balls can be placed, one already is filled with a tan ball, which crackles with electric power, the goal is to correspond to the different cities, with their power outputs and colors correctly. Players can guess which is right if they want, then ride the elevator back to the top and try and activate them, if wrong they will not activate but they can go back down and try again. If players use the floor above to to research they can find out information about the cities. \n\nEldorado: Flames, Forges, Coals, Steam\nOceana: Currents, Depths, Research, Cold\nAirlantis: Wind, Sky, Travel, View \n\nOnce the balls have been correctly placed, the monitor on the third floor will show all cities as green, and they can be activated. Thus turning on the power to each continent. \n\nAt this time Aura will now contact Jak, “Jakamar, you have are successful in your mission, and I am now receiving power to my batteries, and am able to restore primary functions, and programs, and will be able to soon restore power to my secondary and tertiary programs. Do you give me permission to power turn them on as I see fit to restore normal operations or do you want to turn them on manually?”\nDepending on what he says somethings can be learned from Aura at this time.\n\nPRIMARY SYSTEMS:  Aura program and basic processing, Communications, Data and memory banks, Basic City and station power. \n\nSECONDARY SYSTEMS AND PROGRAMS: Basic city operations, City Repair Drones, Defense protocols, \n\nTERTIARY SYSTEMS AND PROGRAMS: Intercity Travel, Eros Station operations, Secondary City operations. \n\nDepending on what else they ask Aura will answer to the best of her current ability, if there is something asked and I don’t know what it is or havn’t thought of it yet, say that the data is damaged and is unknown at this point. \n\nNo matter the choice the party makes nothing will immediately happen. If they allow Aura to decide what she wants to power on herself things will progress without their knowledge, but if they manually turn things on nothing will happen unless they power it on themselves….unless someone else with permission powers on something…..\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Adventuring outside of Yorrem",
+   "archived": false,
+   "cards": [
+    {
+     "name": "Getting outside the City Walls",
+     "archived": false,
+     "desc": "How the party will get outside the city walls and proceed onto their Adventure.\n\nMay want to interact with a smithy, enchanter, shopkeeper etc. \n\nWill also need to be given a pass to get outside of the city. Can do during the recap from last time. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-11-30",
+       "text": "Shopkeeper: a large building housing many different types of goods for sale, many of the basic supplies that the party may need for a journey outside of the walls of Yorrem. Half Orc Female owner named Ronnie."
+      },
+      {
+       "date": "2023-11-30",
+       "text": "Enchanter: The Door bell rings as the party or member walks inside and the Aarakora (Rhed) comes up to the front, has a gravelly voice of an older gentle man, the shop has many different trinkets, baubles, for uses in his craft, but for sale he has some interesting things that have been recently found. \n\t- Bottle Of Breath: - 250 GP\n\t- Eyes of Charming - 400 GP\n\t- Alchemy Jug - 500 GP\n\t- Adamantine Ring Armor - 150 GP\n\t- Potion of Resistance (various Types)- 100 GP"
+      },
+      {
+       "date": "2023-11-30",
+       "text": "Smithy Options: Many of the beginning options for Armor and weapons,"
+      }
+     ]
+    },
+    {
+     "name": "Journey to Oldspire",
+     "archived": false,
+     "desc": "There is a 3 day Journey to Oldspire the local town where the adventures can rest in a bed before going further into the Forest of Silent Boughs. \n\nOutside of the city are many farms as there are many (https://it.freepik.com/foto-premium/macchine-steampunk-abbandonate-nel-selvaggio-west-paesaggio-cg-pittura-arte-illustrazione_31902372.htm) that are dappled with machines and ruins that have been turned into places to live or work. Many people from the gleaners guild can be seen finishing up work for the oncoming winter, doing maintenance or cleaning up of tools or machines from the harvest. Dirt roads lead them outside of the town of Yorrem, towards their destination of Oldspire. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-11-30",
+       "text": "Ruins Search: Have a Character roll an investigation check \n\n1-10 - Bag of Beans\n11-19 - Elemental Gem\n20+ - Circlet of Blasting"
+      },
+      {
+       "date": "2023-11-30",
+       "text": "Wild animal Attack: \nGo to encounter made on DND Beyond."
+      },
+      {
+       "date": "2023-11-30",
+       "text": "Trip out to the town, have the players choose a “leader” for that day and they can roll a d20 survival or perception check depending on the roll this is what they will find. \n\n1-5 Attacked by Wild animals\n6-10 Come across a shifty character\n11-15 - Find some ruins and find something\n16 - Sevendeh Sonn Sevendeh with s symbol of a seven pointed star - Dungeon (Celestial)\n17-19 - Nothing Happens\n20-25 - Nothing happens\n25+ Find dungeon"
+      }
+     ]
+    },
+    {
+     "name": "Seventh Son Dungeon",
+     "archived": false,
+     "desc": "Found on a specific Roll, Party will find a door with Sevende Sonn Sevende written above it and a seven pointed star (https://www.shutterstock.com/image-vector/seven-point-star-heptagram-simple-symbol-2161387289)\n\nThe door will not open for anyone other than Jak, Inside the players will find a simple puzzle with braziers and symbols under each relating to each of the 4 elements, they will need to 5th element it to open the door further. \n\nBeyond that is another encounter. A test will take place of thier strength and if they succeed will be given gold and some items. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-11-30",
+       "text": "Upon beating the Gargoyle they will find a chest with 100GP Gem worth 50GP, an immovable rod, and a fine needle which Jak will know is a tatto needle that he or somone else can get an Eldritch tattoo by a professional tattoo artist in a town."
+      }
+     ]
+    },
+    {
+     "name": "Oldspire Town",
+     "archived": false,
+     "desc": "Oldspire is a mill town built around an old ruin, of a metal spire which part sticks up above their town, while the other half is down on the ground, all of the spire at this point is being used as stores, offices, houses etc for the people of the town, and their work. ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-11-30",
+       "text": "Academy of the Fettered Mind, has an office here where players can come and chat with them, this will be more of a communications office and not much information will be housed here that they can pull from, very small office."
+      },
+      {
+       "date": "2023-11-30",
+       "text": "There is a a G-Fource office here, they can check in and get more information about what they are aware of here. \n\nThe Dig Sites, will be able to give them directions to the location of the old and the new dig site, the old being not as busy, the new being very busy. The Void, as they are calling it as there doesn’t seem to be any discernible remains of life or currently living animals there. \n\nThe Titan Fighters - They will have heard about them but will not know of their location or where they can be found. "
+      },
+      {
+       "date": "2023-11-30",
+       "text": "Players will find an inn to stay at called the Simple Owl Inn, where they will find modest lodging for the party, of 25 SP per room. Does not include food."
+      },
+      {
+       "date": "2023-12-13",
+       "text": "Half-Orc ZARRTH encounter in the Bar. He is part of the Titan Fighters, he will question the two about their motives on asking about the group, and why they need to meet with them?\n\nDepending on lies and or rolls, he may offer to help them find their location, or will leave them behind at the bar.\n\nPotential outcomes, \n\nthe group agrees to talk to them and see how/if they can help the TITAN FIGHTERS. \n\nThe Group or ZARRTH don’t trust each other.  ZARRTH will not help them out and may hinder them from getting into TITANS REST.\n\nNeither option: ZARRTH will be waiting for them at the bottom of the Fort. \n\n\n"
+      },
+      {
+       "date": "2023-12-13",
+       "text": "Eustace Beeblebrox. Meet up with Shhmeowmow while she is coming back from the G-4ce office."
+      }
+     ]
+    },
+    {
+     "name": "Journey to the Bandit Hideout",
+     "archived": false,
+     "desc": "Players can use their map that they found of the meeting place of the Titan Fighters in the town of Oldspire to get an approximate location of the hideout of the titan fighters. They will have access to several bandanas that they can use to disguise themselves. \n\nPlayers will go to where the hideout is supposed to be located but will not find anything there if they are there before dusk. If they are there after dusk they will find the same shifty character from the road waiting for them and depending on their interaction with them they maybe helpful or may try and turn them in or do what they can to prevent them from gaining access to the hideout. \n\nThe hideout is deep in the forest, and sits in the tree canopies, like tree forts. As these trees are so big and tall they are not easily seen from the forest floor. These are accessible by climbing, or gaining access by successfully working with or charming the shifty character. \n\n",
+     "labels": [],
+     "checklists": [],
+     "attachments": [
+      "uuid=1B2B6BEB-DB3E-4863-BF36-AA9578F96EE3&library=1&type=1&mode=1&loc=true&cap=true.jpeg"
+     ],
+     "comments": []
+    },
+    {
+     "name": "Journey to the Dig Site.",
+     "archived": false,
+     "desc": "Players may go to each of the dig sites, they are both not too far away in proximity.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-12-13",
+       "text": "Travel to the dig site will take them through the forest to a location close to the Eroded Tips Mountain range. \n\nOLD SITE: has many tents outside of the location with, a few people who seem to be resting or going over their notes. Inside the group will find a few rooms that have some people looking at carvings on the walls and pondering their meaning and use. No objects will be found here. \n\nNEW SITE: has much activity here lots of wagons and tents, people clearing out trees to make more room for people to get in close and see what can be found. \n\nIf they want they can talk to some of the people around and find out what recent information has been found, or relics, they may also find PROFESSOR ERLINA, who will have arrived recently(Depends on how many days they took to go here) If asked she will go with the group inside, "
+      },
+      {
+       "date": "2024-01-03",
+       "text": "COMBAT WILL OCCUR in each room and will depend on which room they explore first. If needed players can retreat outside to rest before doing more. \n\nAfter defeating one or both rooms, players can explore a bit more and find that in the other rooms a place where the server banks can be accessed, and can power up a way for a humanoid to mentally work with the computer if they stand on the Dias and put on a headband connected with chords. \n\nTheir vision will go black, and inside their head they will hear “ Unknown user, recognized………please identify user……….I am Aura, your helpful system operator, please wait while I set up access for you………….. Low Power…….error, no system administrators active. Initiating System code 433.11.2455A, setting up new system Administrator please wait……. Low Power………..Hello_________(Player Name Given) It seems like my data banks have not been accessed in 721 Years, I have a few maintenance issues I need help with……. Are you able to assist me?………. One is that I no longer have access to my local power generators and am running only primary functions……. Two I have lost access to all secondary systems, across the world and need assistance in re-establishing my connection, Please provide service………Yes or No? \n\nThank you……….. How can I be of service to you today? \n\nCan gain access to a little bit of information about some of the mythical cities. "
+      },
+      {
+       "date": "2024-01-03",
+       "text": "Use Map made of the Dig Site two to allow players to search out the new dig site, players will find metal rooms that are barren of many humanoid accommodations, with the exception of a couple of rooms with desks and a lager area with shelves that held different things, that have since been removed. much of the open areas are already scavaged and some things Erlina’s team have recovered, but there are some doors that they were unable to open, along with the door of a desk in one of the rooms. \n\nPlayers can open the desk using the Evil Eye, and they will find a weird card made of plastic with a metal chip ingrained into it. The plastic card will have an unknown language written on it, and cannot be decoded at this time. \n\nIf they use the card on the door it will open and they can access either of the rooms that are closed, inside they will find SERVER BANKS, which to them will look like rows of upright boxes that glow and blink with weird small lights, many chords will be coming out and running everywhere to and from each of these devices and outside of the room."
+      }
+     ]
+    },
+    {
+     "name": "Tree Fort Experience",
+     "archived": false,
+     "desc": "The adventure continues at the Tree Fort with the Adventuring crew. \n\nDo the players come peaceably?\n\nDo they get in by force? \n\nDo they get in by sneaky means?",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-12-13",
+       "text": "If players come peacably: Zarath will help them into the Fort of TITANS REST to talk about what they need and how the adventuring group can help them."
+      }
+     ]
+    },
+    {
+     "name": "Aftermath of the Treefort.",
+     "archived": false,
+     "desc": "After the players have defeated all the problems at the tree fort and are now able to explore what’s left of it. \n\nPart of it has been burned with because of the attack, but most of it is still in tact, with the exception of bodies of slain enemies, as well as Dr Methusula Nye who they successfully saved. \n\nUpon performing a group investigation check of varying difficulty they will find the following things. \n\nGold: 600\nHealth Potion: 1\nPotion of Resistance: Fire\nNotes on Movement of the Titan Fighters and another location of a Hideout. \n\n\n20\nGold: +200\nHealth Potion: +1\nPotion of Resistance: Poison\nArrows of Fire x 10 \n\n40\nGold: +250\nHealth Potion: +1\nRing of Protection\n\n60\nGold: + 200\nPotion of Fire Breath\n\n80\n\n\n100",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-01-03",
+       "text": "Dr Methuselah Nye: \n\nWhen talking to the Dr, players will learn that they were interested in what was found and were specifically looking for the evil eye that he gave them, he will ask that they take him to the site to help more and work with his friend PROFESSOR ERLINA from the academy of the Fettered Mind. \n\nHe will not have much to say about the Titan Fighters other than them interrogating him about the eye and the dig, and asking what he knows of the mythical cities. Of which he knows little. \n\n"
+      }
+     ]
+    },
+    {
+     "name": "After Searching the VOID",
+     "archived": false,
+     "desc": "Players have searched all of the void and can now go and do what they please. Other may interact with Aura, the power that she needs is indeed further back where the cave in has taken place and players will need to give time for NPC’s to clear away the stones.\n\nIn the meantime, players can go back to Yorrem to get the money they were promised.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2024-01-24",
+       "text": "Players will have a couple of weeks where we will not be roleplaying anything specific. During this time they can help Erlina, or do work for the G4CE offices. They can go and get something specialty made for them by the blacksmith, enchanter, etc. or they can come up with something else that they want to do."
+      },
+      {
+       "date": "2024-01-24",
+       "text": "ELMOR KIMEM:\n\nUpon returning with DR METHUSELA NYE, and information about the Titan Fighters, player will be paid their 100 GP each, and be offered contract work with the G4CE offices. Players will be given Medallions to show at any G4CE office and will be given a list of options for work that they need done, and then can get paid for this.\n\n‌\n\nIN GAME THIS MEANS: Players can as a group or individually go to an office and request work. they will be offered and easy, medium or hard task. and then roll for that job. If the roll(s) (Average for groups) are a success then they will get paid for doing work that day. These will not be played out in game, it will just be a roll for the player(s) and success or fail.\n\n‌\n\nEasy: Rolls of 12 or better - 50 GP on success for each\n\nMedium: Rolls of 18 or better - 100 GP\n\nHard: Rolls of 22 or better - 200 GP"
+      },
+      {
+       "date": "2024-01-24",
+       "text": "PROFESSOR ERLINA:\n\nShe will be very excited about this new find and will follow Jaks lead and interact with AURA to start her education on the language. Jak will get a message from AURA when she interacts with the system about what kind of access she should be given. Administrator, or User.\n\n‌\n\nAdministrator: Can change paramaters of the system, and give access to others, and use the system.\n\nUser: Can access the system and information.\n\n‌\n\nDOWNTIME: Can assist ERLINA with the Language and help decifer it, which will help them in learning it. Can assist with clearing away the debris from the VOID to get access further into the cave."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "First Adventure",
+   "archived": false,
+   "cards": [
+    {
+     "name": "Night One, Dream.....",
+     "archived": false,
+     "desc": "Each of you are in a red dragons layer, you look to each side of you and you see your trusted companions that you have been adventuring with for years, people you trust with your life who have saved you from imminent danger, and who you have protected yourself.  (Have each Character describe themselves to the group) then have all roll a d20 initiative.\n\nCombat will transpire where with the dragon, where each player will roll a  d20 and depending on if its is 11+ that will be a success for the team, or if it is a 10- is a failure for the group. After 8 successes or failures they will either die by the hands of the  dragon or will succeed.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-11-02",
+       "text": "End of dream script:\n\nYou awaken in your bed, or where ever you found rest the night before from a dream that you vividly remember, each of you have had dreams but this one is different, there is something familiar and safe about the people you saw in that dream, but you have not seen them before, and you certainly have never fought a red dragon."
+      }
+     ]
+    },
+    {
+     "name": "The Mysterious Key",
+     "archived": true,
+     "desc": "It is the end of harvest festival! Many people from around the world of Varmoon have come to the city Yorrem, the Gleaners Guild has completed their harvest for the year and so a large celebration is put on by all to celebrate all of the hard work they have put on throughout the year and to enjoy the “fruits” of their labor.\n\nThis being the largest of the GG’s cities and working along side the druids from the Academy of the Fettered mind this years harvest is bigger than it has been in past years, and so supplies of food from across the world will be plentiful and and no worries for the upcoming winter season.",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-11-02",
+       "text": "In the evening, an attack will take place at the festival, from a group of bandits that are there to take a what Gobbledegook is also after, they will be successful in taking it and getting away. There will be many coordinated attacks across the city, guards and bi-standers will be killed or hurt in the attack.\n\n‌\n\nAfter the fight players can work together and along with the Gleaners Guild Guards Emlor Kimem to figure out who they are and why they attacked during the festival, and will give them their first quest. to track them down and bring them to justice."
+      },
+      {
+       "date": "2023-11-02",
+       "text": "Locations:\n\n**Taverns/Places to Sleep:**\n\nThe Leaky Boot (Cheap place, may get robbed, close to the docks)7 CP\n\nHorn of Plenty (High price, lavish place, Closer to the middle of the city) 8 SP\n\nThe Farmers Table (Mid range, nice but not flashy) 5 SP\n\n**Stores/Supplies:**\n\nThere are several shops and stores available to the players to shop at, where they can get anything generic that they may want.\n\n**Places of Interest:**\n\nThe Festival has lots of shops with more rare finds from different people: GOBBLEDEGOOK will find their Key that Mags has sent them to get.\n\nGames of chance or fighters ring\n\nFighters Ring - players can pay and go head to head with a NPC from the village (Roll a D6, 1-3 Level 1 NPC, 4-5 Level 2 NPC, 6 Level three NPC)\n\n‌\n\nGames of Chance\n\n#### Three-Dragon Ante\n\nThree-dragon ante is a card game. If you own an actual three-dragon ante deck, you can play the card game for real. Otherwise, adjudicate the outcome of a three-dragon ante game using d12s and the following rules:\n\n**Step 1.** Randomly determine which participant is the dealer.\n\n**Step 2.** Each participant (including the dealer) places their opening bet, then rolls five d12s to determine their hand, keeping these die rolls hidden from the other participants.\n\n**Step 3.** Starting to the left of the dealer and continuing clockwise, each participant reveals one of their die rolls. This step is repeated twice more; on the second and third round, each participant can raise their bet before revealing their next die roll. The other participants each have three options: match the bet, raise their bet (in which case all participants must match that bet in turn), or fold, forfeiting any bet they’ve placed and dropping out of the game.\n\n**Step 4.** Each participant who hasn’t folded totals their die rolls. The one with the highest total wins. The winner becomes the dealer for the next game (assuming the participant wants to keep playing).\n\n#### Life and Death\n\nLife and death is a dice game played between the house (represented by a dealer) and a player. While up to five players can sit at a table, their only opponent is the house.\n\nTo play, each player places a bet; once bets have been placed, the house and the players each roll a d20. If a player rolls lower than the dealer, the house wins. A player who rolls higher than the dealer reclaims the money they bet and wins that same amount from the house.\n\n_**War.**_ A player who ties with the house has two options: the player can surrender and lose half their bet, or the player can “go to war,” in which case the player must double their bet, and then the player and dealer both roll again.\n\n_**Push Your Luck.**_ When a player wins a roll of life and death, they can opt to push their luck on their next bet. In this case, they bet everything they won on the last roll (their ante plus the winnings from the house). If they win, the house pays double their bet."
+      },
+      {
+       "date": "2023-11-02",
+       "text": "Questions:\n\nWhere did you sleep the previous night?\n\nStart of the day, what is your Character doing? What do they want to do?"
+      },
+      {
+       "date": "2023-11-02",
+       "text": "[https://www.reddit.com/r/dndmaps/comments/5s9foj/coastal_city_with_removed_labels/](https://www.reddit.com/r/dndmaps/comments/5s9foj/coastal_city_with_removed_labels/ \"smartCard-inline\")\n\nMap of the city"
+      }
+     ]
+    },
+    {
+     "name": "Aftermath of the Attack",
+     "archived": true,
+     "desc": "After the Attack of the bandits and taking of Vendor with the information, what information can the party glean from the city, can they even leave? Who will they need to talk to to get out and back in, what options will be available to them for information? ",
+     "labels": [],
+     "checklists": [],
+     "attachments": [],
+     "comments": [
+      {
+       "date": "2023-11-16",
+       "text": "Finding out about the Bandits\n\nUsing the Bandit bandana from one that was killed, the party can take one to use as an investigation tool to find out more about this group. It is a ornate bandana with triangles that are yellow and gold with a red background. \n\nDocks at the city - Asking around the docks with a successful insight or persuasion roll (15) party members can either find someone who will tell them about how they have a stronghold here in the city that they use as one of their bases, to smuggle stuff out of the city. They don’t know their name but can point them in the direction of the base. INSIGHT will be that they can spot the same bandana on another person and can follow Stealth (13) or question them  Persuasion (15) to get more information. \n\nBase - Will need to attack or sneak into the base to get more information on the Bandits,\n\nThe base is small and from the outside doesn’t look like anything is going on, just a storage place for boating materials. There are two large double doors in front, with a smaller personal door to the side, and a window along the street level and another one above the double doors. All doors are locked  that they can try and go through by breaking through, STR (12), or DEX (15) and proficiency in thieves tools or there are some windows that can be broken into to to gain access. \n\nOnce inside they will find an abandoned storage facility with many large ropes for docking boats, and extra cloth materials and supplies for the repair of sails, and extra dinghies. With an INVESTIGATION (12) they will find along the back wall a hidden door leading into the building behind this one and leading down, where they can hear talking. \n\nThey can go down and fight said bandits there or to and tell on them to (G3) who will take care of them. Depending on what they do they will get 50 GP for ridding the city of these deviants, or 25 for turning them in. The party will find out that they are called Titan Fighters, and will find information about their operations and working with Granny Weatherwax to smuggle supplies in and out of the city. They also will find out about a close location outside of town they call Titans Rest. "
+      },
+      {
+       "date": "2023-11-16",
+       "text": "Visiting the local Academy of the Fettered Mind. Will give access to options of the library, for a price, 5 Gold for each person, where each can to research to find out about different things. \nEldorado - “The lost city” is known as the Fallens city a place where smelting of many metals took place, and it was known for its gold buildings, and many riches. It was the housing of the great  Troilos Lugos, a machiene that powered their great smelters. \n\nCaves - Find things describing caves and how to safely delve into them. History of caves found and riches and artifacts that have been found inside them and how they have been researched and if successful have been used to enhance production or life across the Factions. \n7th Son of a 7th Son prophecies -  t has long been believed in Europe and the United States that a seventh son is especially lucky or gifted with occult powers, and that the seventh son of a seventh son has healing powers. In Scotland, the seventh daughter of a seventh daughter was said to have the gift of second sight (prophetic vision).\n\nTalking with a professor Erlina will allow them to find out about the Pendant and that it is an “Evil eye” and how it is part of a unknown city of the Fallen known as the Void, that has been researched for a long time, but a newly discovered entrance has been found, and is quite a hot topic for those in the know, and is located at the base of the mountain of Eroded Tips. "
+      },
+      {
+       "date": "2023-11-16",
+       "text": "During the fight the vendor will throw an ornate pendant to one of the party, of unknown origns, Description of an evil eye, three concentric rings made of up segmented squares, outside is blue, inner circle is yellow, and inside is black. (will need to see who can help decipher what it is) As they will also be seen fighting along side the guards at the gate they will be allowed to leave the city after talking to Elmor Kimem of the Gleanors Guild Gard (G3) and he will give them the task of bringing these horrible bandits who attacked the city to justice. \n\nThey will offer them money (100 GP) with a successful persuasion roll they can get half up front and half once they are done, for their time in finding out who they are and bringing them to justice. "
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -5,3 +5,6 @@
 .vs/
 podcast/build/
 __pycache__/
+
+# Raw Trello export (contains board email addresses and member ids) - the sanitized copy is committed instead
+assets/*.raw.json
