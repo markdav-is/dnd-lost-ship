@@ -14,7 +14,7 @@ Built by **[the Antari](The-Antari.md)**, each on the stolen power of one Primor
 | :--- | :--- | :--- |
 | **Airlantis** | Air · Ermir · Claire (Silver) | Flying city the size of a sports stadium — see below |
 | **Oceana** | Water · Dwyn · Dildro (Blue) | Underwater research city 5,000 ft down off the far coast of [Caria](Caria.md), near the Triple Isles — see below |
-| **Eldorado** | Fire · Savita · Thimva (Red) | The fire city, on [Aerun](Aerun.md), **buried under the rim town of Eldorado** — the high pass behind Tyr. The salvage the prospectors have been bringing down out of the high country for centuries comes from it; nobody in Eldorado asks where. Erleena has dug there and knows the way in. **This is a backstory hook for [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md), not part of the infection story** — it has nothing to do with Rajaat or the Lighthouse. See below |
+| **Eldorado** | Fire · Savita · Thimva (Red) | The fire city, on [Aerun](Aerun.md), **buried under the rim town of Eldorado** — the high pass behind Tyr. The salvage the prospectors have been bringing down out of the high country for centuries comes from it; nobody in Eldorado asks where. Erleena has seen it only from its gate room and has never dug there; she assumes it is "more of the same," only hotter and more dangerous the deeper you go. **This is a backstory hook for [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md), not part of the infection story** — it has nothing to do with Rajaat or the Lighthouse. See below |
 | **Dirtroit** | Earth · Kaia · Essos (Black) | Buried under the Bolt Mountains of [Taldea](Taldea.md); site of the party's encounter with the Earth Titan. *(Name confirmed from Andy's Trello notes.)* |
 | **Eros Station** | — | The orbital station; not a Titan city, but on the same portal ring. *(The name comes from Aura's system list — "Eros Station operations" — and is taken here to be the space station; the board otherwise just says "the space station.")* |
 
@@ -41,9 +41,19 @@ Legend in the Second Age had them as the four **mythical lost cities** — Eusta
 
 An Antari surface city dropped under a mountain range. From the [Titan Fighters'](Factions/The-Titan-Fighters.md) base the party followed great power cables down a chasm edge to intact, lit streets: buildings to search, a library where Jak read the city's name, and beds where survivors of the calamity sheltered — some still in them. Beyond, **Kaia** herself ([The Titans](The-Titans.md)). At Lost Rock, Dirtroit's was the one power orb still seated and the one city showing green. Its **portal room is a ruin with no way out**; an Antari emblem and a touchy laser pistol lay in the rubble.
 
-## Eldorado — what the notes say is down there
+## Eldorado — what is actually down there
 
-*For whenever Shhhmeowmeow's thread is played. Never visited in the previous campaign; everything here is Andy's unplayed prep.*
+**Mark's canon (2026-09-21) — this is the truth of the place; Andy's unplayed prep below is the legend and the raw material.**
+
+- **The city is a ruin. All is lost.** The old molten core is still down there, still burning, and it has had seven centuries to finish the job. There is no sealed golden city waiting to be opened, no working forge, no vault. Whoever goes down looking for the Eldorado of the stories finds slag, heat, and collapsed streets.
+- **The town is what's left of the name.** The small rim town of [Eldorado](../Aerun-Players-Guide/Gazetteer/Eldorado.md) sits on top of it and **mines old material and tech out of the depths** — that is where the prospectors' salvage has always come from. Because of it the town is known for two things: **outfitting, and trinkets. Lots of trinkets, new and ancient.**
+- **"City of gold" means "hidden treasures."** Not streets of gold — a swap meet. Tables of odd little things dug out of the dark or knocked together last week, most of it junk, some of it wonderful, nobody quite sure which is which. The riches of Eldorado are the kind you find by turning things over.
+- **And, if you know where to look, things out of the *Deck of Many Things*.** Reference: *The Book of Many Things* (Mark has it; not in `/assets`). What turns up, where, and who knows to look is not written yet.
+- **For [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md):** the character came looking for the mythical city, motivated by gold. This is the rub, and it is the point — the city of gold is gone, and what is actually there is a town full of small strange things. Still unrelated to the infection.
+
+### Andy's unplayed prep — the legend, and what the ruin was
+
+*Never visited in the previous campaign. Read everything below through the ruling above: the library's "gold buildings and many riches" is what people* believe*; the rest describes the city that burned.*
 
 - **What the library in Yorrem says:** "the lost city," the **Fallen's city**, where the smelting of many metals took place — known for its **gold buildings and many riches**, and home of the great ***Troilos Lugos***, the machine that powered its smelters.
 - **What it is:** a **foundry city built below the surface**, powered by the Fire Titan. Andy pictured the country above it like Iceland — geothermal activity breaking the surface — and, underneath, **the body of the now-dead Titan Savita and her still-active core**, spewing fire and lava, with the city built around it. At Lost Rock its keywords were *Flames, Forges, Coals, Steam*.

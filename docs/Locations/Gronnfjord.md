@@ -18,6 +18,8 @@ Ancient grey-stone brutalist edifice, long dormant among the merchant warehouses
 
 **The throne room:** a vast sound-swallowing chamber of scarred stone; floating orbs of pale light that drift to guide the worthy; a twenty-foot throne cut from a single block of black stone, its reliefs painful to look at. Here Jak revealed the void ([Chapter 1 module](../Adventures/Chapter-1-The-Summons.md)).
 
+**The young red dragon.** Jak's dragon from the previous campaign — a **young red** — lives here at the Temple now ([The Dragons](../World/The-Dragons.md)). Where in the Temple it keeps itself, how freely it comes and goes, and how much of Grønnfjord knows are not yet set.
+
 ## Shops & services (harbor district)
 
 | Establishment | Proprietor | Stock / Service |

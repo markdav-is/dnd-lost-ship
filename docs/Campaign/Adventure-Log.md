@@ -6,7 +6,7 @@ What has actually happened in play, in order. Each chapter links to the runnable
 
 ## Chapter 1 — The Summons
 
-A year after the Wayward Friends' victory over the First Administrator, each PC received a summons by **dis-trans bat**: Jak's voice sealed in a glass tube. They arrived in a transformed [Grønnfjord](../Locations/Gronnfjord.md) — the Temple of Nord awakened, Spásistren patrolling, the harbor tense beneath the prosperity. In the colossal black-stone throne room, [Jak Bjornsson](../NPCs/Jak-Bjornsson.md) revealed **the void**: a place in the southern Barrier Peaks that his world-spanning Aura network cannot see at all, from which unnatural creatures emerge. He begged his old friends to be his eyes inside it. *(Module: [Chapter 1 — The Summons](../Adventures/Chapter-1-The-Summons.md))*
+A year after Wayward, the Friends' victory over the First Administrator, each PC received a summons by **dis-trans bat**: Jak's voice sealed in a glass tube. They arrived in a transformed [Grønnfjord](../Locations/Gronnfjord.md) — the Temple of Nord awakened, Spásistren patrolling, the harbor tense beneath the prosperity. In the colossal black-stone throne room, [Jak Bjornsson](../NPCs/Jak-Bjornsson.md) revealed **the void**: a place in the southern Barrier Peaks that his world-spanning Aura network cannot see at all, from which unnatural creatures emerge. He begged his old friends to be his eyes inside it. *(Module: [Chapter 1 — The Summons](../Adventures/Chapter-1-The-Summons.md))*
 
 ## Chapter 2 — Grønnfjord
 

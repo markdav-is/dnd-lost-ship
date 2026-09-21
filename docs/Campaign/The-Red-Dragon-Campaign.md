@@ -2,7 +2,7 @@
 
 # The Red Dragon Campaign
 
-The previous campaign (table dates October 2023 – August 2025; about two years ago in the fiction) — Andy's game, in which the Wayward Friends woke Aura, restored the world's power, freed the dragons, took Airlantis, and ended on Eros Station. Everything the current campaign calls "last time" is here.
+The previous campaign (table dates October 2023 – August 2025; about two years ago in the fiction) — Andy's game, in which the party — **Wayward, the Friends**, or WTF — switched the Aura network back on, restored the world's power, freed the dragons, took Airlantis, and ended on Eros Station. Everything the current campaign calls "last time" is here.
 
 Source: Andy's Trello board, exported to `assets/2023-dnd-campaign.json` — 71 cards of world notes and session prep. **This is what Andy prepared, not a record of what the table did.** Where the notes offer the party a choice, the choice taken is mostly not recorded; those are marked *ask the table*. The board stops mid-boss-fight; the ending comes from Andy's later interview ([Timeline](../World/Timeline.md)).
 
@@ -64,7 +64,7 @@ From Andy's interview rather than the board: the First Administrator died aboard
 ## Loose ends Andy listed (July 2025)
 
 - Airlantis — fuel it or land it, and what that means for the world. *(Answered: fueled, then parked on Malandara.)*
-- **Dragons for Gobbledegook and Jak — who are they, where are they?** *(Gobbledegook: offered Dildro's orb. Jak: never answered.)*
+- **Dragons for Gobbledegook and Jak — who are they, where are they?** *(Gobbledegook: offered Dildro's orb. Jak: not on the board, but per Mark — who played him — Jak has a **young red dragon**, now living at the Temple of Nord.)*
 - **Eldorado** — exploration and outcomes. *(Never played. Still open, and still Shhhmeowmeow's.)*
 - **Musty-Jo's feeling of needing to go home** — a dream of trouble with his tribe on Malandara. *(Never played.)*
 - Eros Station; who the Administrator is; who Burl Ives is and what he is doing. *(Played.)*

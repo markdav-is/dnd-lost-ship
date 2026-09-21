@@ -2,7 +2,7 @@
 
 # Caria
 
-The green, temperate southwestern continent — Gleaners Guild country, where the 2023 campaign began: Yorrem and its harvest festival, the mill town of Oldspire, the dig called the Void where Aura woke, and the drowned city of Oceana off the far coast.
+The green, temperate southwestern continent — Gleaners Guild country, where the 2023 campaign began: Yorrem and its harvest festival, the mill town of Oldspire, the dig called the Void where the Aura network came back on, and the drowned city of Oceana off the far coast.
 
 Source: Andy's 2023 campaign board, `assets/2023-dnd-campaign.json` (lists *First Adventure*, *Adventuring outside of Yorrem*, *Travel Back to Yorrem*, *Preparation and Travel to Oceana*). Prep notes, not a transcript. Placement on the continent follows the [world map](../World.md).
 
@@ -40,7 +40,7 @@ Beyond Oldspire. The trees are tall enough to hide **Titans Rest**, the Titan Fi
 
 ## The Void
 
-Through the forest, at the foot of the **Eroded Tips** mountains, lie two Academy dig sites — an old, picked-over one, and a **new entrance** that was the talk of everyone in the know. They call it **the Void** because nothing lives there and nothing seems ever to have: bare metal rooms, a few desks, shelves long since emptied. The "evil eye" pendant opened a locked desk; the plastic card inside opened the sealed doors; behind them stood the **server banks**, a dais, and a headband on a cord. **This is where Aura woke**, after 721 years, and named her first new administrator ([The Aura Network](The-Aura-Network.md)).
+Through the forest, at the foot of the **Eroded Tips** mountains, lie two Academy dig sites — an old, picked-over one, and a **new entrance** that was the talk of everyone in the know. They call it **the Void** because nothing lives there and nothing seems ever to have: bare metal rooms, a few desks, shelves long since emptied. The "evil eye" pendant opened a locked desk; the plastic card inside opened the sealed doors; behind them stood the **server banks**, a dais, and a headband on a cord. **This is where the Aura network came back on**, after 721 years, and registered its first new administrator ([The Aura Network](The-Aura-Network.md)).
 
 ## Summervalley
 

@@ -8,7 +8,7 @@ The world-spanning technological network through which Jak Bjornsson — the Adm
 
 Inherited infrastructure of the ancients — buried in the Red Dragon's apocalypse and revived when the previous campaign's heroes restored the power grid ([Timeline](Timeline.md)). Formerly run in secret by the elvish First Administrator from the orbital station; Jak, implanted after the last campaign, runs it openly from the Temple of Nord. Connection is physical: a **metal implant behind the left ear that pulses blue** when receiving. Implanted individuals include Jak himself, every [Spásistren](Factions/The-Spasistren.md), and a growing class of officials.
 
-### How it woke (2023 board)
+### How it came back on (2023 board)
 
 From Andy's previous-campaign prep, `assets/2023-dnd-campaign.json` — see [The Red Dragon Campaign](../Campaign/The-Red-Dragon-Campaign.md).
 

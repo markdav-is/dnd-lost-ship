@@ -37,6 +37,7 @@ Which check to roll:
 | [The Spice](Aerun-Players-Guide/The-Spice.md) | The desert's one true luxury: what it does, what it costs, who eats it, and the five wrong stories about where it comes from |
 | [The Vision Quest](Aerun-Players-Guide/The-Vision-Quest.md) | A story you walk through: a guide, the wall, the Spice, a vision, and the wild talent the desert gives to those who go and ask |
 | [Wandering Aerun](Aerun-Players-Guide/Wandering-Aerun.md) | The unlicensed broadcast on Relay channel forty-three: the Wanderer, the transcription wafers, and the Guild's very loud silence |
+| [A Brief History of Vermoon](Aerun-Players-Guide/A-Brief-History-of-Vermoon.md) | Not Aerun at all, but the whole world: Professor Erleena Riser's short, plain-spoken book on the Titans, the dragons, the Antari, the Fall, and the two years everyone remembers — highlights, timeline, and the lines people quote |
 | *Peoples of Aerun* | *Planned* |
 | *Crossing the Silt* | *Planned* |
 | *Playing an Aerun character* | *Planned* |

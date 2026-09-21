@@ -2,7 +2,7 @@
 
 # The Party
 
-The **Wayward Friends** — the adventurers who restored order to the realm a year ago, and the only people Jak trusts inside the void. Character sheets live in `/assets` as D&D Beyond exports (**refreshed 2026-08-05 — all level 11**, on the QftIS milestone track).
+**Wayward, the Friends** — "WTF" to anyone who has met them — the adventurers who restored order to the realm a year ago, and the only people Jak trusts inside the void. Character sheets live in `/assets` as D&D Beyond exports (**refreshed 2026-08-05 — all level 11**, on the QftIS milestone track).
 
 **Five in the party** for Return to the Ship: Shhhmeowmeow, Eustace, Musty-Jo, Beyond-Ce, and Robin. Gobbledegook is no longer with them; Harah stayed at Frostwatch.
 
@@ -42,9 +42,9 @@ In the previous campaign each hero was paired with one of the great dragons unde
 | Eustace | **Undaloth** (Green) — dead, rebuilt by the Antari, restored in Oceana | He found the Green Ball and had the dreams |
 | Musty-Jo | **Claire** (Silver), who nests on Airlantis | Unconfirmed — he carries the Silver Dragon Ball |
 | Gobbledegook | **Dildro** (Blue) — "Burl," who stayed on the station | Dildro offered him the orb. The interview's "Tarn" is probably Gobbledegook's *player* — confirm |
-| Jak | none | An open item on Andy's list to the end |
+| Jak | **A young red dragon**, now living at the Temple of Nord in Grønnfjord | Mark's canon (he played Jak); absent from Andy's board. Name, origin, and its relation to the Red Dragon of the prophecy unrecorded |
 
-The Red Dragon pairs with no one; she is the prophecy. The dragons sleep now, and they only wake for a world-scale crisis — but the bonds are not gone, and the party also retains control of **[Airlantis](../World/The-Elemental-Cities.md)**, parked at Eustace's homeland.
+The great Red Dragon of the prophecy pairs with no one on the board; whether Jak's young red is connected to her is open. The dragons sleep now, and they only wake for a world-scale crisis — but the bonds are not gone, and the party also retains control of **[Airlantis](../World/The-Elemental-Cities.md)**, parked at Eustace's homeland.
 
 ## Party-level DM notes
 

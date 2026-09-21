@@ -8,7 +8,7 @@ The Administrator. Once a simple monk and wanderer from Grønnfjord — the part
 
 ## History
 
-A boy from Grønnfjord on the southern continent who traveled with the Wayward Friends and helped defeat the **First Administrator** aboard the orbital station. Chosen to fill the role, Jak refused the predecessor's shadows: he took the implant, descended, and set his throne of black stone in the **Temple of Nord**, blending religious authority with political power. His all-female guard, the [Spásistren](../World/Factions/The-Spasistren.md), extends his reach; his implant extends his sight to every connected corner of Vermoon.
+A boy from Grønnfjord on the southern continent who traveled with Wayward, the Friends (WTF) and helped defeat the **First Administrator** aboard the orbital station. Chosen to fill the role, Jak refused the predecessor's shadows: he took the implant, descended, and set his throne of black stone in the **Temple of Nord**, blending religious authority with political power. His all-female guard, the [Spásistren](../World/Factions/The-Spasistren.md), extends his reach; his implant extends his sight to every connected corner of Vermoon.
 
 ### Before the crown — Jak as a player character
 
@@ -21,7 +21,7 @@ In the previous campaign **Jakamarr "Jak" Bjornsson** was a PC (Mark's). From hi
 - **The Seventh Son door.** On the road from Yorrem to Oldspire stands a door marked *SEVENDE SONN SEVENDE* under a seven-pointed star. It opens for no one but Jak ([Caria](../World/Caria.md)). The library's gloss: the seventh son of a seventh son has healing powers.
 - **Aura's first administrator.** In the Void it was Jak who put on the headband. The implant, the ability to read the Antari tongue, and the habit of hearing a helpful voice nobody else can hear all date from there — two years before he had a throne ([The Aura Network](../World/The-Aura-Network.md)). It was Jak who granted Erleena her access, Jak who read out the name *Dirtroit*, and Jak whom Aura asked whether she should bring the world's systems back on her own judgment.
 - **A Titan Fighter in good standing.** He turned down a place with the [Titan Fighters](../World/Factions/The-Titan-Fighters.md) on Taldea and was given their sigil with a leader's insignia anyway.
-- **No dragon.** Every other hero got one. "Dragons for Gobbeldy and Jak — who are they, where are they?" was still unanswered on Andy's loose-ends list at the end.
+- **A young red dragon.** Andy's board never records Jak's dragon — "Dragons for Gobbeldy and Jak — who are they, where are they?" was still on his loose-ends list at the end — but Mark, who played him, is clear: **Jak has a young red dragon, and it now lives at the Temple of Nord in Grønnfjord.** Its name, where it came from, and what it is to the Red Dragon of the prophecy are not yet written down ([The Dragons](../World/The-Dragons.md)).
 
 The man on the black throne praying at the **Temple of Nord** is the boy who followed Njørd out of a storm. Andy's spelling moves between *Njørd* and *Nord*; they are the same god.
 

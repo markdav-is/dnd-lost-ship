@@ -68,7 +68,9 @@ Full systems reference — heights, weather, the spore-worm-Spice cycle, portage
 
 ## The fire city under Eldorado
 
-One of Vermoon's buried elemental cities ([The Elemental Cities](The-Elemental-Cities.md)) lies under the rim pass at **Eldorado** — the **fire city**, with a **Titan** at its heart like all of them ([The Titans](The-Titans.md)). The salvage the prospectors have brought down out of the high country for centuries comes from it; Eldorado has never asked where. [Erleena Riser](../NPCs/Erleena-Riser.md), an archaeologist before she was Jak's scientist, has dug there and knows the way in.
+One of Vermoon's buried elemental cities ([The Elemental Cities](The-Elemental-Cities.md)) lies under the rim pass at **Eldorado** — the **fire city**, with a **Titan** at its heart like all of them ([The Titans](The-Titans.md)). The salvage the prospectors have brought down out of the high country for centuries comes from it; Eldorado has never asked where. [Erleena Riser](../NPCs/Erleena-Riser.md), an archaeologist before she was Jak's scientist, has seen it from its gate room — as she has every ancient city — but has never dug there. She assumes it is "more of the same" loot, only hotter and more dangerous the farther down you go.
+
+**What is actually down there (Mark's canon, 2026-09-21):** a ruin — all is lost. The old molten core still burns, and the city of the legends is gone. What survives is the town on top of it, which mines old material and tech out of the depths and is known for **outfitting and trinkets**, new and ancient: "city of gold" really means *hidden treasures*, swap-meet style — with things out of the *Deck of Many Things* for those who know where to look. Detail on [The Elemental Cities](The-Elemental-Cities.md).
 
 **This has nothing to do with the infection.** The fire city is a backstory hook for [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md) — the reason the tabaxi wants to go to Aerun — and the wiki keeps it separate from Rajaat, the Lighthouse, and the cure. It is not the same place as the deep-desert Titan of Sandwalker tradition; the fire city is under the rim, not under the silt.
 

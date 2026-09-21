@@ -30,4 +30,5 @@ DM reference wiki for **The Lost Ship**, a D&D 5e campaign built on *S3: Expedit
 | What is Rajaat? | [The First Source](Campaign/Plot-Threads/The-First-Source.md) |
 | Who is the woman from the desert? | [Harah Tabr](NPCs/Harah-Tabr.md) |
 | What can I hand to players about Aerun? | [Aerun Players Guide](Aerun-Players-Guide.md) |
+| What can I hand to players about Vermoon's history? | [A Brief History of Vermoon](Aerun-Players-Guide/A-Brief-History-of-Vermoon.md) — Erleena's book, player-safe |
 | I need a picture to put on the table | [Gallery](Gallery.md) |

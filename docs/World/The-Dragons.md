@@ -32,7 +32,11 @@ Four **Prime Dragons**, each bound to a Titan, and one who is not.
 | **Blue** | **Dildro** — alias **Burl Ives / Burl Grives** | Dwyn · Oceana | **[Gobbledegook](../Campaign/The-Party/Gobbledegook.md)** *(offered his orb — see the note on "Tarn" below)* | The one who left his post. **Remained on Eros Station, intending to leave the planet. Current disposition unknown** |
 | **Green** | **Undaloth** | none — *not* a Prime Dragon | **[Eustace](../Campaign/The-Party/Eustace-Thunderbeak.md)** *(found the Green Ball; dreamed of him)* | Died in the war, rebuilt by the Antari, soul restored by Erleena in Oceana |
 
-The pairings mix past and present, and blanks are left to confirm at the table. **Jak was never paired** — "Dragons for Gobbeldy and Jak, who are they, where are they?" sat on Andy's loose-ends list to the end.
+The pairings mix past and present, and blanks are left to confirm at the table.
+
+### Jak's young red dragon
+
+**Canon from Mark, who played Jak (2026-09-21): Jak has a young red dragon, and it now lives at the [Temple of Nord](../Locations/Gronnfjord.md) in Grønnfjord.** Andy's board never recorded it — "Dragons for Gobbeldy and Jak, who are they, where are they?" was still on his loose-ends list at the end — and Mark's notebook from that campaign is missing, so **that one sentence is everything currently known.** Not yet established, and not to be invented: its name; how and where Jak came by it; how it relates to the great Red Dragon of the prophecy (offspring, the same dragon made young, or no relation); whether it sleeps like the others or is awake; and how public it is. Ask Mark, and Andy.
 
 > **"Tarn."** The interview gave the Blue Dragon to "Tarn, a previous-campaign hero." The 2023 board lists **Tarn as a player** — of the half-orc Throg'Mar, a character shelved before play — and has Dildro offer his orb to **Gobbledegook**. The likeliest reading is that Tarn is Gobbledegook's player and the two sources agree. Confirm with Andy before treating it as settled ([The Red Dragon Campaign](../Campaign/The-Red-Dragon-Campaign.md)).
 
@@ -77,7 +81,7 @@ They do not factor into the Return to the Ship arc or the voyage to Aerun. Keep 
 - Is "Tarn" Gobbledegook's player, and did Gobbledegook take Dildro's orb? (If so, the Blue Dragon's partner left the party — and took the orb with him.)
 - Is Musty-Jo Claire's partner, or just the one carrying her ball?
 - Where is the Red Dragon — Thimva, or Ardor — and which name is right?
-- Jak never got a dragon. Did the Administrator ever want one?
+- **Jak's young red dragon** at the Temple of Nord: its name, where it came from, and what it is to the Red Dragon of the prophecy.
 - What were Eustace's 2,500 in gems for?
 
 *Answered by the 2023 board:* who Undaloth is; that "the guy who was also a dragon" who stayed aboard the station is Burl, and Burl is Dildro, the Blue Dragon.
