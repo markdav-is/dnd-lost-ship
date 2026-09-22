@@ -4,7 +4,7 @@
 
 *Return to the Ship, reunion — the lit walk across Level 1, the north drop tube, and George at S42. A breather that ends on a decision.*
 
-![George demonstrates the spray packs at S42](../../.attachments/enc_lab_at_s42.jpg)
+![The door at S42 opens: George walks out to meet the party](../../.attachments/enc_s42_reveal.jpg)
 
 ## Read-aloud — the lit walk
 
@@ -44,6 +44,8 @@ Then give the party the floor. Let them look at him, count heads, say what they 
 
 ## What George has for them
 
+![George holds up one of his six doses: "This is not the cure. This is the thing that keeps you alive long enough to be cured."](../../.attachments/george_portrait_s42.jpg)
+
 | | What | The fine print |
 | :--- | :--- | :--- |
 | **The doses** | His anti-fungal treatment, proven on himself — **six doses**: five for the party, one each, and **the sixth for Erleena**. He says her name when he counts it out, and he means for it to reach her. | **Stopgap tier** ([Russet Mold & Infection](../../Game-Mechanics/Russet-Mold-and-Infection.md)): a dose halts progression for 24 hours; it does not reverse a stage. He says so before anyone can ask: *"This is not the cure. This is the thing that keeps you alive long enough to be cured."* |
@@ -54,6 +56,8 @@ Then give the party the floor. Let them look at him, count heads, say what they 
 - **Two consistent first favors:** **clear the infected froghemoth from the lake** — genuine lab safety for Erleena now, not a cover story — or **restore power to a dark section of the ring**. Either is real, either is what Eddie means by "small."
 
 ## The demonstration
+
+![George washes the caged rabbitoid, which shrieks as its eyes clear](../../.attachments/enc_s42_demonstration.jpg)
 
 George's fungicide spray packs — the spore-blasters, if you ask Eddie — get shown, not described. He has been waiting a month for an audience.
 
@@ -69,6 +73,8 @@ George's fungicide spray packs — the spore-blasters, if you ask Eddie — get 
 - On the scream: *"Oh my. Yes — it does that. Understand what you have just watched. I did not cure that animal. It is precisely as sick as it was a minute ago. But it is* its own *sick now. Nobody is holding the leash. It gets a day of that, and then the leash comes back — unless somebody washes it again."*
 - On scale: *"Anything Large or smaller — one wash and the hold is broken. Something the size of the lake's landlord —"* a pause *"— three, inside a minute. I have not tested that. I would very much like to be present when someone does."*
 
+![George fits a spray pack on Musty-Jo, saddlebag-style: "ungainly but correct"](../../.attachments/enc_s42_fitting.jpg)
+
 **Fitting the packs.** He fits the packs on whoever steps forward — cinches the webbing, checks the hose for kinks, puts the wearer's hand on the lever and takes it off again. The number he says out loud, to each of them, is **six**: six blasts a tank, and he says it the way other men say *be careful*. On the centaur the harness won't sit like a firefighter's pack; it rides across the back like a saddlebag, tank on one flank, wand clipped along the other — George adjusts it twice and pronounces it *"ungainly but correct."* The fourth pack he fits on nobody. He stands it by the door and rests a hand on the tank. *"That one is hers. If you can get it down to her without using it, I will be genuinely impressed."* Refills take ten minutes at any of the ship's fire-suppression stations; Eddie knows where every one of them is and volunteers the fact from the ceiling before anyone asks. *(DM aside: this is where someone at the table says "Ghostbusters." Let them have it. Do not give the line to George — he has never heard of it, and he would be offended by the comparison.)*
 
 Full rules — cone, blasts, refills, what a wash does to fungus and to the Lighthouse's hold — on [The Counteragent](../../Game-Mechanics/The-Counteragent.md).
@@ -83,9 +89,17 @@ The party leaves George at S42 and goes to Erleena. Both ways down from George's
 
 - **Down — the tube.** The north drop tube (S31 → S47, green-gated — Eddie overrides) sets them down beside **S52, garden maintenance**. Anti-grav; one at a time; hands free.
 - **Down — the lift.** The cargo platform in **S33c, one door north of the lab**, lowers a 20-foot platform straight into S52 — everyone and the gear in one go, no anti-grav. The sane way to move a centaur, six doses of anything, and four backpack tanks. Eddie lowers it; George has used it to get supplies up.
+![Out of the north gate: the whole garden falls away to the lake, the Lighthouse in the haze](../../.attachments/garden_arrival_vista.jpg)
+
 - **Then the crossing — the real decision.**
   1. **The bridge route they know:** outer garden (S56) → inner garden (S57) → the bridge at S59 → the island (S60) and the Lighthouse hatch. Fastest, and straight past the [froghemoth](../../Bestiary/Ship-Creatures.md), which is infected and Lighthouse-directed now and works the water on purpose.
-  2. **Around the lake** by a quadrant they haven't walked: longer, darker, unknown — but off the froghemoth's line.
+
+     ![The inner wall's north gate, the spore haze thickening beyond it](../../.attachments/garden_inner_gate.jpg)
+
+     ![The west shore: the bridge, the dead robots, and a ripple that isn't the wind](../../.attachments/garden_bridge_west.jpg)
+  2. **Around the lake** by a quadrant they haven't walked: longer, darker, unknown — but off the froghemoth's line. The obvious "long way" is the south-east swamp (S58): knee-deep, burst pipes, giant leeches.
+
+     ![The long way round: the south-east swamp, with the Lighthouse across the water](../../.attachments/garden_swamp_route.jpg)
   3. **Un-hijack the froghemoth.** Three spore-blasts within a minute break the Lighthouse's hold ([The Counteragent](../../Game-Mechanics/The-Counteragent.md)); it goes back to being a very large, very hungry animal that is no longer hunting them on purpose. Not safe — but no longer chess.
 
   Either way the garden is thicker with spores than they remember: run exposure frostbite-style, with an infection save per [Russet Mold & Infection](../../Game-Mechanics/Russet-Mold-and-Infection.md) at the DM's cadence (a zone crossed, a stop made). A blaster's cone buys a minute of clear air where it's pointed.

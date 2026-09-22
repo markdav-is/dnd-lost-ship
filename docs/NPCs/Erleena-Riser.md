@@ -43,7 +43,7 @@ Wry, exhausted, unstoppable. Teases Jak's methods (*"Only Jak would send a rescu
 
 **AC** 12 (17 with *shield*) · **HP** 88 (16d8+16) · **Speed** 30 ft · STR 10, DEX 14, CON 14, **INT 18**, WIS 14, CHA 12 · **Saves** CON +6, INT +8 · **Skills** Investigation +12, Medicine +10, Arcana +8, History +8 (the archaeologist), Sleight of Hand +6
 
-- **The uniform:** the containment suit the party found her in is gone. She wears what the ship made her — the **medical androids' livery**, cream with an orange sleeve stripe and a blank name-plate on the chest ([Ship Constructs](../Bestiary/Ship-Constructs.md)); Eddie's doing, and a clean one turns up in her cabin drawer every morning. *"Eddie says it's regulation. Don't."* It is clothing, not protection: in spore air she is exactly as exposed as the party, and gets through it the way they do — George's dose, a spore-blaster, and the saves.
+- **The uniform:** the containment suit the party found her in is gone. She wears what the ship made her — the **medical androids' livery**, cream with an orange sleeve stripe ([Ship Constructs](../Bestiary/Ship-Constructs.md)); Eddie's doing, and a clean one turns up in her cabin drawer every morning. *"Eddie says it's regulation. Don't."* It is clothing, not protection: in spore air she is exactly as exposed as the party, and gets through it the way they do — George's dose, a spore-blaster, and the saves.
 - **Spell-tech** (DC 16, +8): *shield* (kinetic buffer), *cure wounds* (medi-spray), *web* (sealant foam), *lightning bolt* 2/day (capacitor discharge), *haste* (field stims), *greater restoration* 1/day (lab equipment required).
 - **Flash of Genius** (reaction, 4/day): +4 to an ally's failed check or save within 30 ft.
 - **Laser cutter** (+8, 2d10+4 fire — armor-piercing: ignores AC from nonmagical armor 1/turn) · **needler sidearm** (15-ft cone, DC 15 DEX, 8d4 piercing, 6 charges) · **serum injector** (auto-dose a grappled/willing target — the [Counteragent](../Game-Mechanics/The-Counteragent.md) delivery she designed).
@@ -52,7 +52,9 @@ Wry, exhausted, unstoppable. Teases Jak's methods (*"Only Jak would send a rescu
 
 ## The lab — and home
 
-**Under the Lighthouse:** the sealed levels beneath the hatch are intact, and the lake above is a natural spore shield — a perfect control environment directly beneath the heaviest spore concentration. Her thesis: *the mold is aggressive, but it's biological. It follows rules.* She built the lab to synthesize a cure — for George, and for everything the ship has infected.
+**Under the Lighthouse:** the sealed levels beneath the hatch are intact, and the lake above is a natural spore shield — a perfect control environment directly beneath the heaviest spore concentration. Her thesis: *the mold is aggressive, but it's biological. It follows rules.* She built the lab to synthesize a cure — for George, and for everything the ship has infected. It is **two rooms**: the circular sickbay with its viewports, and through a sliding door her **workroom**, where the bench, the dish and the culture plates live ([Beneath the Lighthouse](../Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md)).
+
+![Erleena at work on the cure](../.attachments/enc_erleena_at_work.jpg)
 
 **It is a sickbay now.** When Eddie woke he brought the sealed levels' power back for her, and the dark, stale chamber the party left her in came up as what it was built to be: clean white light, warm filtered air, pale curved walls, a soft steady hum. Three **biobeds** with readout panels above them, a diagnostic table in the middle of the room, wall displays scrolling her instrument traces, her sample dishes in a lit case under glass. Only the portholes are unchanged — murk outside, and things thudding on the glass.
 
@@ -64,7 +66,7 @@ She's close, and she knows it — which is exactly the kind of sentence that get
 
 Real progress, all the same: an approach that holds up against her own drifted-strain samples, not just theory. *"I stopped it from replicating. In a petri dish. A very small, very controlled, very not-a-person petri dish. Don't get excited yet."* What's still missing is what she's always asked for — a second sample from somewhere else, to tell the thing itself apart from this ship's version of it, or, failing that, just time: uninterrupted lab time, which the Lighthouse has apparently decided she isn't allowed to have anymore. And one question she has no instrument for — the one she puts to the party the moment Rajaat is named, and which nobody in the room can answer: is the thing in the desert *the same kind of thing*, or just a very old mold?
 
-![Erleena at the bench — the black spike on every trace, the froghemoth's eyes at the glass](../.attachments/enc_beneath_the_lighthouse.jpg)
+![Erleena at the wall display: the black spike on the trace, and something dark far out in the murk](../.attachments/enc_beneath_the_lighthouse.jpg)
 
 ## The Pivot — she's going
 

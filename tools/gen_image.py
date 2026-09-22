@@ -1,17 +1,21 @@
 #!/usr/bin/env python3
-"""Generate campaign art with Flux (Black Forest Labs) or Gemini (Nano Banana).
+"""Generate campaign art with Gemini (Nano Banana), ElevenLabs, or Flux.
 
 Usage:
     python gen_image.py "prompt text" --out ../docs/.attachments/foo.jpg
     python gen_image.py --prompt-file prompts/s42.txt --style alpha --out out.jpg
     python gen_image.py "..." --ref ../docs/.attachments/medical_android.png --ref old.jpg
     python gen_image.py "..." --backend gemini      # force a backend
-    python gen_image.py "..." --pro                 # dearer model on either backend
+    python gen_image.py "..." --pro                 # dearer model on any backend
+    python gen_image.py "..." --backend elevenlabs --model gpt-image-2
     python gen_image.py --list-styles
 
-Backend is picked from whichever key is set: BFL_API_KEY (Flux, preferred for
-painterly encounter art) or GEMINI_API_KEY (Nano Banana, better for maps and
-anything with text). Set both and use --backend to choose. Stdlib only.
+Backend defaults to Gemini (GEMINI_API_KEY; --pro = gemini-3-pro-image), the one
+in use. ElevenLabs (ELEVENLABS_API_KEY) is the backup: it serves the same Gemini
+models on ElevenLabs credits, plus GPT Image and Seedream via --model, and the
+tool falls back to it on its own when Google says the quota is spent (unless
+--no-fallback). Flux (BFL_API_KEY) is kept but only runs with --backend flux.
+Stdlib only.
 
 --style prepends a house-style block from tools/styles/<name>.txt so scene prompts
 stay short. --ref attaches reference images (a layout to keep, a character to
@@ -35,6 +39,11 @@ STYLES_DIR = os.path.join(HERE, "styles")
 GEMINI_API = "https://generativelanguage.googleapis.com/v1beta/interactions"
 GEMINI_MODELS = {"std": "gemini-3.1-flash-image", "pro": "gemini-3-pro-image"}
 
+ELEVEN_API = "https://api.elevenlabs.io/v1/flows/image"
+# same Gemini models by default, so a fallback render matches the house look;
+# --model picks any other (gpt-image-2, gpt-image-2.5-sunburst, bytedance-seedream-5-pro, ...)
+ELEVEN_MODELS = GEMINI_MODELS
+
 FLUX_API = "https://api.bfl.ai/v1/"
 FLUX_MODELS = {"std": "flux-2-pro", "pro": "flux-2-max"}
 
@@ -49,7 +58,11 @@ FLUX_SIZES = {
 }
 
 
-def http(url, payload=None, headers=None, method=None):
+class QuotaError(Exception):
+    pass
+
+
+def http(url, payload=None, headers=None, method=None, quota_ok=False):
     req = urllib.request.Request(
         url,
         data=json.dumps(payload).encode() if payload is not None else None,
@@ -60,7 +73,10 @@ def http(url, payload=None, headers=None, method=None):
         with urllib.request.urlopen(req, timeout=600) as r:
             return r.read()
     except urllib.error.HTTPError as e:
-        sys.exit(f"API error {e.code} on {url.split('?')[0]}: {e.read().decode(errors='replace')[:800]}")
+        body = e.read().decode(errors="replace")[:800]
+        if quota_ok and e.code == 429:
+            raise QuotaError(body)
+        sys.exit(f"API error {e.code} on {url.split('?')[0]}: {body}")
 
 
 def list_styles():
@@ -128,11 +144,36 @@ def gen_gemini(prompt, refs, aspect, size, pro, mime_out):
         "response_format": {"type": "image", "mime_type": mime_out, "aspect_ratio": aspect, "image_size": size},
     }
     print(f"gemini {model}  {aspect} {size}  refs={len(refs)}", file=sys.stderr)
-    resp = json.loads(http(GEMINI_API, payload, {"x-goog-api-key": key}))
+    resp = json.loads(http(GEMINI_API, payload, {"x-goog-api-key": key}, quota_ok=True))
     hit = find_image(resp)
     if not hit:
         sys.exit("no image in response:\n" + json.dumps(resp, indent=2)[:2000])
     return model, hit[0], base64.b64decode(hit[1])
+
+
+# ---------------------------------------------------------------- ElevenLabs
+
+def gen_eleven(prompt, refs, aspect, size, pro, model=None):
+    key = os.environ["ELEVENLABS_API_KEY"]
+    model = model or ELEVEN_MODELS["pro" if pro else "std"]
+    payload = {"model_id": model, "prompt": prompt, "aspect_ratio": aspect, "resolution": size}
+    if refs:
+        payload["images"] = []
+        for ref in refs[:10]:
+            mime, data = read_ref(ref)
+            payload["images"].append({"type": "inline_base64", "content_base64": data, "mime_type": mime})
+    hdr = {"xi-api-key": key}
+    print(f"elevenlabs {model}  {aspect} {size}  refs={len(refs)}", file=sys.stderr)
+    gen_id = json.loads(http(ELEVEN_API, payload, hdr))["id"]
+    for _ in range(300):
+        time.sleep(3)
+        res = json.loads(http(f"{ELEVEN_API}/{gen_id}", headers=hdr))
+        if res["status"] == "completed":
+            # the signed URL expires in about an hour — fetch it now
+            return model, res["content_mime_type"], http(res["content_url"], headers={}, method="GET")
+        if res["status"] == "failed":
+            sys.exit(f"elevenlabs {res.get('failure_reason')}: {res.get('error_message')}")
+    sys.exit("elevenlabs: timed out waiting for the result")
 
 
 # ---------------------------------------------------------------- Flux
@@ -185,8 +226,10 @@ def main():
     ap.add_argument("--out", default="out.jpg", help="output image path (default: out.jpg)")
     ap.add_argument("--aspect", default="3:2", help="aspect ratio (default 3:2, matching the existing art)")
     ap.add_argument("--size", default="2K", choices=["512", "1K", "2K", "4K"], help="image size (default 2K)")
-    ap.add_argument("--backend", choices=["flux", "gemini"], help="default: flux if BFL_API_KEY is set, else gemini")
-    ap.add_argument("--pro", action="store_true", help="dearer model: flux-2-max / gemini-3-pro-image")
+    ap.add_argument("--backend", choices=["gemini", "elevenlabs", "flux"], help="default: gemini (Flux only on request)")
+    ap.add_argument("--pro", action="store_true", help="dearer model: gemini-3-pro-image / flux-2-max")
+    ap.add_argument("--model", help="elevenlabs only: any model_id it serves, e.g. gpt-image-2, bytedance-seedream-5-pro")
+    ap.add_argument("--no-fallback", action="store_true", help="don't switch to ElevenLabs when the Gemini quota runs out")
     ap.add_argument("--safety", type=int, default=4, help="flux safety_tolerance 0-5 (default 4; 5 = loosest)")
     ap.add_argument("--list-styles", action="store_true")
     args = ap.parse_args()
@@ -205,17 +248,31 @@ def main():
 
     prompt = (load_style(args.style) + "\n\n" + scene) if args.style else scene
 
-    backend = args.backend or ("flux" if os.environ.get("BFL_API_KEY") else "gemini")
-    need = "BFL_API_KEY" if backend == "flux" else "GEMINI_API_KEY"
+    backend = args.backend or "gemini"
+    if args.model:
+        backend = "elevenlabs"
+    need, where = {
+        "gemini": ("GEMINI_API_KEY", "https://aistudio.google.com/apikey"),
+        "elevenlabs": ("ELEVENLABS_API_KEY", "https://elevenlabs.io/app/settings/api-keys"),
+        "flux": ("BFL_API_KEY", "https://dashboard.bfl.ai (API → Keys)"),
+    }[backend]
     if not os.environ.get(need):
-        where = "https://dashboard.bfl.ai (API → Keys)" if backend == "flux" else "https://aistudio.google.com/apikey"
         sys.exit(f"{need} is not set. Get one at {where}")
 
     mime_out = "image/jpeg" if args.out.lower().endswith((".jpg", ".jpeg")) else "image/png"
     if backend == "flux":
         model, mime, data = gen_flux(prompt, args.ref, args.aspect, args.size, args.pro, mime_out, args.safety)
+    elif backend == "elevenlabs":
+        model, mime, data = gen_eleven(prompt, args.ref, args.aspect, args.size, args.pro, args.model)
     else:
-        model, mime, data = gen_gemini(prompt, args.ref, args.aspect, args.size, args.pro, mime_out)
+        try:
+            model, mime, data = gen_gemini(prompt, args.ref, args.aspect, args.size, args.pro, mime_out)
+        except QuotaError as e:
+            if args.no_fallback or not os.environ.get("ELEVENLABS_API_KEY"):
+                sys.exit(f"Gemini quota exhausted (429): {e}")
+            print("Gemini quota exhausted (429) — falling back to ElevenLabs (bills ElevenLabs credits)", file=sys.stderr)
+            backend = "elevenlabs"
+            model, mime, data = gen_eleven(prompt, args.ref, args.aspect, args.size, args.pro)
 
     out = args.out
     if mime == "image/png" and out.lower().endswith((".jpg", ".jpeg")):

@@ -8,6 +8,10 @@ The ship's biosphere — a botanical garden gone wild for centuries. ~80 feet ta
 
 Sources: `assets/Level_3_Garden_DM_Reference.docx` (scene read-alouds), `assets/S3_Level4_Complete_5e_Conversion.docx` (full stat blocks), `assets/Level 3 with George.docx` (George's briefing).
 
+![The garden on the return trip: brighter, and the haze thick over the lake](../.attachments/garden_arrival_vista.jpg)
+
+**On the return trip** the garden is brightly lit, with the sun-lamp full on. See [The Lab at S42](../Adventures/Return-to-the-Ship/The-Lab-at-S42.md) for the crossing views: the inner gate, the west bridge, and the swamp route. Layout (QftIS Map 7.3): an octagon about 500 ft across; a 20-ft grassy outer wall with round gate chambers at N/E/S/W; terraces dropping to an inner wall with its own four gates; the lake in the middle. **The only bridge runs to the island from the west.** The swamp is south-east. The party arrives from the north (S52).
+
 ## Zones (outside → in)
 
 | Zone | Impression | Mold presence |

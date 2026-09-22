@@ -1,0 +1,10 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 4:5
+size: 2K
+refs: docs/.attachments/george_decay.png
+
+Lit interior of the Lost Ship since Eddie woke — shot as a photograph, a behind-the-camera production still from a 1975 British science-fiction television series in the Space: 1999 / Moonbase Alpha idiom.
+Style: photorealistic 35mm film still, Kodak colour stock, fine grain, gentle halation on the light panels, shallow depth of field, real practical set built by a props department. Cream and white modular wall panels in a clean grid, rounded doorframes with sliding doors, a luminous ceiling giving soft even light, orange and tan accent stripes at waist height, low sleek consoles with square backlit buttons and small cathode-ray screens, brushed pale metal. Everything clean and tidy because worker robots keep it so. Warm neutral palette: cream, white, orange, tan, pale grey. Real skin texture, real fabric, real prosthetic makeup. No grime, no horror lighting. Not an illustration, not a painting, not CGI-glossy. No text, no captions, no watermark, no lettering anywhere.
+
+Portrait of George Decay, three-quarter view, waist up, standing in his medical-storage lab. A tall, dignified East Asian man in his late sixties — match the reference face — swept-back grey-black hair, upright posture, a wry, warm half-smile and one eyebrow slightly raised, as if about to say "Oh my." He wears a plain cream ship jumpsuit with the sleeves pushed up, clean and pressed. He is HALF-CURED: russet-gold fungal crust, like dry lichen and a few small flat bracket caps, covers the left side of his neck, runs up under the left jaw to the cheekbone, and patches the left forearm — receding, edges pale pink and healing, clearly shrinking. The rest of his face and skin is clear and healthy. In one hand a small glass vial of pale amber liquid held up to the light. Behind him, softly out of focus: tidy white medical storage racks, a synthesis rig of clear tubing, orange wall stripe.

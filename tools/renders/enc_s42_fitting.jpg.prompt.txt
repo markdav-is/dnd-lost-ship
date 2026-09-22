@@ -1,0 +1,10 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 3:2
+size: 2K
+refs: tools/renders/s42/george_portrait_s42.jpg
+
+Lit interior of the Lost Ship since Eddie woke — shot as a photograph, a behind-the-camera production still from a 1975 British science-fiction television series in the Space: 1999 / Moonbase Alpha idiom.
+Style: photorealistic 35mm film still, Kodak colour stock, fine grain, gentle halation on the light panels, shallow depth of field, real practical set built by a props department. Cream and white modular wall panels in a clean grid, rounded doorframes with sliding doors, a luminous ceiling giving soft even light, orange and tan accent stripes at waist height, low sleek consoles with square backlit buttons and small cathode-ray screens, brushed pale metal. Everything clean and tidy because worker robots keep it so. Warm neutral palette: cream, white, orange, tan, pale grey. Real skin texture, real fabric, real prosthetic makeup. No grime, no horror lighting. Not an illustration, not a painting, not CGI-glossy. No text, no captions, no watermark, no lettering anywhere.
+
+Fitting the packs at S42 Medical Storage. George Decay — tall dignified East Asian man in his late sixties, match the reference face, swept-back grey-black hair, cream ship jumpsuit — stands beside a young centaur and cinches a harness strap with fussy, careful hands. The centaur: a 7-foot young man with tan skin, shaggy blond hair and a sweet, slightly bewildered grin, human torso in chain mail under an open fur parka, the lower body of a big palomino horse. A squat pale-red spray-pack tank rides across the horse-back like a saddlebag, strapped on with grey gurney webbing, the brass-tipped wand clipped along the other flank — ungainly but correct. George has one eyebrow raised, appraising his work. Russet-gold fungal crust on George's left neck, jaw and forearm, receding and healing. Behind them, three more spray-pack rigs on a rack by the sliding door, white medical storage shelves, a boxy white worker robot holding out a coil of spare hose.

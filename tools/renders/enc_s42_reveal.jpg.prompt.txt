@@ -1,0 +1,10 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 3:2
+size: 2K
+refs: docs/.attachments/george_portrait_s42.jpg
+
+Lit interior of the Lost Ship since Eddie woke — shot as a photograph, a behind-the-camera production still from a 1975 British science-fiction television series in the Space: 1999 / Moonbase Alpha idiom.
+Style: photorealistic 35mm film still, Kodak colour stock, fine grain, gentle halation on the light panels, shallow depth of field, real practical set built by a props department. Cream and white modular wall panels in a clean grid, rounded doorframes with sliding doors, a luminous ceiling giving soft even light, orange and tan accent stripes at waist height, low sleek consoles with square backlit buttons and small cathode-ray screens, brushed pale metal. Everything clean and tidy because worker robots keep it so. Warm neutral palette: cream, white, orange, tan, pale grey. Real skin texture, real fabric, real prosthetic makeup. No grime, no horror lighting. Not an illustration, not a painting, not CGI-glossy. No text, no captions, no watermark, no lettering anywhere.
+
+The reveal at S42 Medical Storage, seen from the doorway as a yellow-trimmed sliding door opens. Wide shot. In the middle of the bright room, George Decay — tall dignified East Asian man in his late sixties, match the reference face, swept-back grey-black hair, cream ship jumpsuit — walks toward the camera under his own power, arms opening in welcome, delighted and slightly theatrical. Russet-gold fungal crust on the left side of his neck and jaw and his left forearm, receding, edges healing. Behind him: tidy rows of white medical storage racks, a low white console with a synthesis rig of clear tubing and a small screen of green numbers, a messy stack of battered handwritten notebooks on the console (the one untidy thing in the room), a boxy white worker robot on treads wiping an already-clean bench. Four squat spray-pack tanks with hoses and brass-tipped wands stand in a neat row by the wall. The doorway frame is empty and clean; no people or animals besides George in the shot.
