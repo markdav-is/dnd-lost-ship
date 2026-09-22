@@ -4,17 +4,19 @@
 
 *Return to the Ship, side quest — the cycling door below Erleena's lab, the control station on the lower deck that owns it, and the jam Eddie can't clear from his end.*
 
+![The cargo bay, lit now: the skeleton still at the booth console with the red card in its slot, the override's cover sealed shut, the door mid-cycle](../../.attachments/enc_jammed_override.jpg)
+
 ## What's actually wrong
 
 The door at the bottom of the sealed stair below [Erleena's lab](../../The-Lost-Ship/The-Lighthouse.md) has been opening and closing on its own since before the party's first visit. It is not the tower and it is not a mind. It is a **jammed override**. Eddie has control of most of the ship, but that door's **control station sits on the lower deck, on the far side of the door**, and its override is set to LOCAL and physically stuck there — mold grown into the mechanism, a corroded relay behind it. The station keeps re-issuing the last command it was given, the door keeps executing it, and Eddie's board shows the fault and refuses every attempt to clear it from upstairs.
 
-> *"Oh — that one. Yes. I can see it. I can see it doing it. The override's set to LOCAL at the station down there, and the station won't take my hand off it. I've asked. I've asked a great many times. Somebody has to go and push the actual lever."*
+> *"Oh — that one. Yes. I can see it. I can see it doing it. The override's set to LOCAL at the station down there, and the station won't take my hand off it. I've asked. I've asked a great many times. Somebody has to go and turn the actual dial."*
 
 That is the whole explanation. Say it plainly when the party asks Eddie, and let it be a relief: one thing on this ship that is simply broken.
 
 ## Where it is
 
-The stair from Erleena's lab comes out on the **lower deck** ([The Lower Deck](../../The-Lost-Ship/The-Lower-Deck.md)) at its **southern edge** — a door the DM added; it is not on the published Map 7.3, and it doesn't need to be. **The party knows where it is.** They saw it on the first survey, from the lower-deck side, and they know it's the one that keeps opening. The **door control station** is a wall panel on the lower-deck side of it, a few steps from the frame.
+The stair from Erleena's lab comes out on the **lower deck** ([The Lower Deck](../../The-Lost-Ship/The-Lower-Deck.md)) at its **southern edge** — a door the DM added; it is not on the published Map 7.3, and it doesn't need to be. **The party knows where it is.** They saw it on the first survey, from the lower-deck side, and they know it's the one that keeps opening. The **door control station** is on the lower-deck side, in the **cargo bay's control booth**, the same booth where the party found the skeleton with the red key card on the first visit. The skeleton is still in the chair, and the red key card is still in the console slot where the party left it after the purge. The override is on that same console, at its left end, and from the booth window you can watch the door cycle. Eddie has the bay's lights back on now.
 
 ## Getting to the station
 
@@ -27,13 +29,17 @@ Either way the lower deck is spore-thick around the stair; a spore-blaster buys 
 
 ## Clearing the jam
 
-The station is a waist-high panel with a hinged cover, a lever locked in the LOCAL position, and mold grown into the hinge and the lever's throat. Three steps, none of them hard, all of them in a place the party would rather not stand for long:
+The override is a small square flip-up cover on the left end of the booth console, **sealed shut** with a crust of mold round its edges and in its hinge. Beside it are two lamps: amber (lit) and green (dark). Under the cover is a **selector dial** with two settings, **LOCAL** and **REMOTE**, turned hard to LOCAL and held there by mold packed round the knob; a corroded relay sits behind it. The red card in the console is not part of this: the override needs no card. Three steps, none of them hard, all of them in a place the party would rather not stand for long:
+
+![Step one: the override's cover, sealed shut with mold, the amber lamp lit beside it](../../.attachments/enc_jammed_override_closed.jpg)
 
 | Step | Check | Fail |
 | :--- | :--- | :--- |
 | **Open the cover** | Thieves' tools DC 15, or STR 15 to force it (a spore-blaster wash first: advantage — the mold lets go of the metal) | Time. Another try, another encounter roll. |
-| **Free the lever** | STR 15, or INT (ship systems / Arcana) DC 14 to release it the right way | A fail by 5 or more snaps the corroded relay: the door **locks in whatever state it's in**, and only Eddie's robots with a cutter can open it again — a day's work for George's crew. |
-| **Hand it back to Eddie** | Automatic once the lever moves to REMOTE; the panel's comm light comes on and Eddie says something delighted | — |
+| **Turn the dial** | STR 15, or INT (ship systems / Arcana) DC 14 to release it the right way | A fail by 5 or more snaps the corroded relay: the door **locks in whatever state it's in**, and only Eddie's robots with a cutter can open it again — a day's work for George's crew. |
+| **Hand it back to Eddie** | Automatic once the dial turns to REMOTE; the amber lamp goes out, the green one comes on and Eddie says something delighted | — |
+
+![Step two: the cover forced open, the dial stuck on LOCAL](../../.attachments/enc_jammed_override_closeup.jpg)
 
 The moment control passes, Eddie **seals the door** — Erleena's month-old ask, finally done — and holds it. He can also open it on request, from either side, whenever the party wants.
 
@@ -49,7 +55,7 @@ This is the quiet payoff. With the door under Eddie's control, the stair from Er
 
 ## Running it
 
-A short, practical errand in a bad place — the fun is the timing at the door and the encounter table on the deck, not the panel. Fifteen minutes at the table, unless the lower deck rolls badly. Don't let it become a dungeon; it's a lever.
+A short, practical errand in a bad place — the fun is the timing at the door and the encounter table on the deck, not the console. Fifteen minutes at the table, unless the lower deck rolls badly. Don't let it become a dungeon; it's a dial.
 
 ---
 

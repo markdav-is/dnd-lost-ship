@@ -1,0 +1,8 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 3:2
+size: 2K
+refs: docs/.attachments/enc_jammed_override.jpg, docs/.attachments/enc_jammed_override_closeup.jpg
+
+Edit the first reference image. Keep everything exactly the same (the bay, the lights, the haze, the half-open door, the debris, the stairs, the booth glass, the skeleton in its chair, the console, the camera angle) and change ONE thing: the rusty pale-blue pedestal cabinet to the left of the skeleton's console.
+Remove that pedestal entirely, including its red lever handle and its big raised flap. In its place, mounted flat on the booth's back wall at the height of the console, put the door control station from the second reference image, the close-up: a small grey metal wall box with a square cover hinged along its top edge and propped part-open by a crust of russet mold in the hinge; under the cover, a round ribbed pale-grey selector knob in a metal bezel, mold packed round it; two small round lamps above the knob, the left glowing amber and the right dark green; a glimpse of the green-crusted relay at the side. It should read clearly as the same object as in the close-up, just seen from across the room. No lever, no handle, no pedestal anywhere. No new text.
