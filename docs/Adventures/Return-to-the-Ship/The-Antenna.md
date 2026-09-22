@@ -156,13 +156,13 @@ The birds break off when the lamps go green and the turrets no longer have to sh
 
 Let that land for one breath. Then:
 
-**A phone rings.** The ship is on the network now, so for the first time one of the party's phones can reach Eddie — and he can reach them. An unfamiliar number. *"It's me! I've got a number! Isn't that — sorry, is this a bad time? I'm also still in the box. I can hear myself. That's strange. Hello. Hello."* *(This beat assumes the linked ship acts as a local tower, so phones near it have network. If Mark rules otherwise, the call comes whenever the party is next in coverage.)*
+**The link is to the ship, not to the mountain.** The dish gives *Eddie* a line onto the Aura network; it does not make the ship a tower. The party's phones are exactly as dead on the crown as they were five minutes ago, and they stay dead anywhere near the hull. Eddie finds this out at the same moment they do: *"I've got a number! I've — oh. You can't ring it from there, can you. Well. Come inside and I'll ring someone for you."*
 
 What has actually changed:
 
 - **Eddie is on the Aura network,** as a **user**. Aura is a network, not a mind ([The Aura Network](../../World/The-Aura-Network.md)) — towers, permissions, and a voice you ask things of. Jak holds the top keys, so Eddie's first real conversation with the outside world is, within the hour, with the Administrator.
 - **The void has a voice.** Teleportation and scrying are still blocked and the network still can't *see inside* the ship. But someone inside can **talk out**, and Jak can talk in. This is what Jak sent the party south for ([Jak Bjornsson](../../NPCs/Jak-Bjornsson.md)).
-- **The phones work from the ship.** [Erleena](../../NPCs/Erleena-Riser.md) stops being unreachable. George can call Frostwatch. (Phones are still not radios: every call runs through Aura, which means through Jak's permissions.)
+- **The ship can make and take calls — through Eddie.** The Aura link terminates in the ship's own systems, so a call is placed *by Eddie* and heard on the intercom: [Erleena](../../NPCs/Erleena-Riser.md) stops being unreachable, George can ring Frostwatch, and anyone outside with a working phone can ring the ship. **It is not a phone tower.** Handsets still don't work aboard or near the hull; nobody walks the decks with a phone to their ear. (Every call runs through Aura, which means through Jak's permissions.)
 - **This is how the book gets out.** Erleena's *[A Brief History of Vermoon](../../Aerun-Players-Guide/A-Brief-History-of-Vermoon.md)* — typeset and date-checked by "E." — goes out to the world over this link. It is also how a professor in a lab under a lake ends up as a guest on a radio program.
 - **A tell, for a table that's listening:** Eddie needs no translator. *"It's like hearing your grandchildren's slang. I don't know the words, but I know the grammar."* ([The Ship's Purpose](../../Campaign/Plot-Threads/The-Ships-Purpose.md)). Don't explain it; Erleena will, if asked.
 

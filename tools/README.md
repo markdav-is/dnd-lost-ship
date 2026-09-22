@@ -26,6 +26,16 @@ py tools/gen_image.py --prompt-file tools/prompts/enc_beneath_the_lighthouse.txt
 
 Scene prompts live in `tools/prompts/`. Keep them about the scene; keep the style in the style files.
 
+### City maps
+
+The seven Aerun city prompts are exported from the wiki page `/Reference/Aerun-Map-Prompts` as `tools/prompts/city_<name>.txt` (tyr, draj, raam, nibenay, gulg, balic, urik), with the shared cartography preamble as the `citymap` style. Maps carry labels, so use the **Gemini** backend, 4:3, and pass the approved atlas (and the previous render, to keep the layout) as references:
+
+```
+py tools/gen_image.py --backend gemini --pro --aspect 4:3 --prompt-file tools/prompts/city_raam.txt --style citymap --ref docs/.attachments/aerun_atlas.png --ref docs/.attachments/raam_city.png --out docs/.attachments/raam_city.png
+```
+
+The wiki page is the source of truth: edit the prompt there, then re-export. The current set (2026-09-21) drops every temple label — there are no gods on Aerun — and adds one **Spáhus** per city plus the outland-guild sites (Gleaners' Quarter in Raam, Sun Garden in Nibenay, Seed Hall and Moon Houses in Draj, the Gleaners' hall / G4CE office / Academy of the Fettered Mind in Balic, Bureau District in Tyr).
+
 ## make_gallery.py — the wiki Gallery page
 
 ```

@@ -34,6 +34,18 @@ import wave
 HERE = os.path.dirname(os.path.abspath(__file__))
 GAP = 0.32  # seconds of silence between clips
 DIALOGUE_TEMPO = 1.06  # gentle pitch-preserving speedup for dialogue clips only
+# Tighten dialogue: strip the lead-in / tail silence the TTS leaves on every clip, and
+# collapse any internal pause longer than DIALOGUE_MAX_PAUSE down to DIALOGUE_KEEP_PAUSE
+# (v3 multi-speaker clips put a breath between every call and response). Music and SFX
+# are left alone.
+DIALOGUE_MAX_PAUSE = 0.45
+DIALOGUE_KEEP_PAUSE = 0.28
+DIALOGUE_TIGHTEN = (
+    "silenceremove=start_periods=1:start_threshold=-42dB:start_silence=0.08,"
+    "areverse,silenceremove=start_periods=1:start_threshold=-42dB:start_silence=0.12,areverse,"
+    f"silenceremove=stop_periods=-1:stop_duration={DIALOGUE_MAX_PAUSE}:stop_threshold=-42dB:stop_silence={DIALOGUE_KEEP_PAUSE}"
+)
+DIALOGUE_GAP = 0.18  # seconds between two consecutive dialogue clips (GAP applies elsewhere)
 
 SFX_TARGET_MEAN = -31.0  # dB, pre-loudnorm; lands ~6 dB under the voice in the final mix
 SFX_LIFT_BELOW = -26.0   # clips already louder than this are left alone (the stings)
@@ -134,6 +146,8 @@ def main():
     concat_list = []
     silence = os.path.join(proc_dir, "gap.wav")
     run([exe, "-y", "-f", "lavfi", "-i", "anullsrc=r=44100:cl=mono", "-t", str(GAP), silence])
+    short_gap = os.path.join(proc_dir, "gap-dialogue.wav")
+    run([exe, "-y", "-f", "lavfi", "-i", "anullsrc=r=44100:cl=mono", "-t", str(DIALOGUE_GAP), short_gap])
 
     spans = []  # (kind, start_seconds, end_seconds) of every real clip in the program
     t = 0.0
@@ -166,13 +180,17 @@ def main():
         else:
             filt = RADIO_FILTER if radio else DRY_FILTER
             if kind == "dialogue":
-                filt = f"atempo={DIALOGUE_TEMPO}," + filt
+                filt = f"{DIALOGUE_TIGHTEN},atempo={DIALOGUE_TEMPO}," + filt
         run([exe, "-y", "-i", item["file"], "-af", filt, out])
         d = wav_seconds(out)
         spans.append((kind, t, t + d))
-        t += d + GAP
+        nxt = next((m for m in manifest[i + 1:] if "pause" not in m), None)
+        gap_file = silence
+        if kind == "dialogue" and nxt and nxt.get("kind") == "dialogue":
+            gap_file = short_gap
+        t += d + wav_seconds(gap_file)
         concat_list.append(out)
-        concat_list.append(silence)
+        concat_list.append(gap_file)
 
     list_file = os.path.join(proc_dir, "concat.txt")
     with open(list_file, "w", encoding="utf-8") as f:

@@ -92,7 +92,7 @@ The best chapter, by her own account. A few of its questions:
 - **Did the Titans really make everything?** The Antari argued they couldn't have — that was how they talked half of Vermoon into helping them. The argument was self-serving. *That does not make it wrong.* The Titans are asleep and the dragons change the subject.
 - **Where is the Red Dragon?**
 - **What is under Eldorado?**
-- **Why is Aerun a desert?** *"Aerun's people have their own answer and I have no business correcting them from an armchair. I am going there to listen. If there is a second edition, that is where it will come from."*
+- **Why is Aerun a desert?** *"Aerun's people have their own answer and I have no business correcting them from an armchair. Somebody ought to go and listen. I would like it to be me. If there is ever a second edition, that is where it will come from."*
 
 ## Lines people quote
 
