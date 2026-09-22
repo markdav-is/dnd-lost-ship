@@ -13,10 +13,10 @@ The board's first roster (2023-10-01) lists four players: **Tarn, Sahalee, Heath
 | Character | Then | Player | Notes |
 | :--- | :--- | :--- | :--- |
 | **Jakamarr "Jak" Bjornsson** | Aasimar Monk, Chaotic Good | Mark | A **PC** then; the Administrator and an [NPC](../NPCs/Jak-Bjornsson.md) now |
-| **Musty-Jo Mustang** | Centaur Fighter | Sahalee | "Really enjoys the temple solving, dungeon delving. More mystery and potential spooky." |
-| **Shhhmeowmeow** | Tabaxi Ranger | *probably Heather — confirm* | The board mentions "Heather's choices from the Dragon" right after the Essos meeting |
+| **Musty-Jo Mustang** | Centaur Fighter | Sahalee *(confirmed by Mark)* | "Really enjoys the temple solving, dungeon delving. More mystery and potential spooky." |
+| **Shhhmeowmeow** | Tabaxi Ranger | Heather *(confirmed by Mark)* | The board mentions "Heather's choices from the Dragon" right after the Essos meeting |
 | **Throg'Mar** | Half-Orc Barbarian (Zealot) | Tarn | Card **archived** — written up before session one and apparently never played; see below |
-| **Gobbledegook** | Goblin Cleric (Trickery) | *probably Tarn — confirm* | Appears on the board a month after Throg'Mar, as Throg'Mar disappears |
+| **Gobbledegook** | Goblin Cleric (Trickery) | Tarn *(confirmed by Mark; Tarn has not played this season)* | Appears on the board a month after Throg'Mar, as Throg'Mar disappears |
 | **Eustace** | Aarakocra pirate | Ben | Joined in Oldspire, December 2023. The board calls him **Eustace Beeblebrox**; the sheet says Thunderbeak |
 
 **Throg'Mar**, for the record: chaotic neutral "goodish" half-orc, an orphan from a big city with not the strongest moral compass, a bounty hunter and odd-jobber who loved food, treasure, alcohol and a good fight; fought with a beloved maul named **Shatterskull**; "believed" his zealot's power came from Gruumsh; never fit with orcs or humans.

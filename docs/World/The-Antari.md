@@ -36,7 +36,7 @@ The Antari are not all dead. On **Eros Station** — the orbital station, reache
 
 One sleeper woke when the party restored power: **the Administrator**, who took Aura's permissions away from Jak and Erleena and began using the cities to take the planet back. That is the First Administrator of the [Timeline](Timeline.md).
 
-> **Flagged — confirm with Andy.** The board names the Administrator twice, differently: **Eriska Hargitay** (2025-07-29) and **Bernadette Cranston** (2025-08-19), and makes her an Antari **human**. Andy's later interview remembers the First Administrator as **elvish, with strange summoning abilities**. The wiki's other pages still carry the interview version; nothing here overrides it until Andy says which is right.
+> **Settled (Mark, 2026-09-22): as played, the Administrator was the elvish summoner** of Andy's interview. The board's Antari-human version — named **Eriska Hargitay** in one note and **Bernadette Cranston** in another — is unplayed prep. How an elf came to be asleep among the Antari on the station is unexplained; leave it.
 
 ## Why it matters now
 

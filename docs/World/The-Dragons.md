@@ -26,10 +26,10 @@ Four **Prime Dragons**, each bound to a Titan, and one who is not.
 
 | Dragon | Name | Titan & city | Partner | Status & notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **Red** | **Thimva** *(the Dragon Lore card calls her **Ardor** — Andy used both)* | Savita · Eldorado | — (the prophecy itself) | Savita's protector and guide. Author of the **apocalypse that buried the world's technology** and of the search that became the prophecy. Where she is now is not written |
+| **Red** | **Thimva** *(settled by Mark; the Dragon Lore card's "Ardor" is dropped)* | Savita · Eldorado | — (the prophecy itself) | Savita's protector and guide. Author of the **apocalypse that buried the world's technology** and of the search that became the prophecy. **She remains a mystery: the party only ever saw her in dreams.** And there is a new young red dragon now — Jak's (below) |
 | **Black** | **Essos** *(first written "Ovess")* | Kaia · Dirtroit | **[Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md)** | Kaia's sworn protector; lairs under Taldea's Bolt Mountains beside buried Dirtroit. **The dragon that destroyed Shhhmeowmeow's village** — see below |
 | **Silver** | **Claire** *(one card says "White Dragon Claire")* | Ermir · Airlantis | *Unconfirmed — [Musty-Jo](../Campaign/The-Party/Musty-Jo-Mustang.md) carries the Silver Dragon Ball* | Tore a nest into the hull of **[Airlantis](The-Elemental-Cities.md)**' weather-research decks. Knew the party as the heroes of the Red Dragon, made them prove it in a fight, and came over to their side |
-| **Blue** | **Dildro** — alias **Burl Ives / Burl Grives** | Dwyn · Oceana | **[Gobbledegook](../Campaign/The-Party/Gobbledegook.md)** *(offered his orb — see the note on "Tarn" below)* | The one who left his post. **Remained on Eros Station, intending to leave the planet. Current disposition unknown** |
+| **Blue** | **Dildro** — alias **Burl Ives / Burl Grives** | Dwyn · Oceana | **[Gobbledegook](../Campaign/The-Party/Gobbledegook.md)** *(offered his orb — see the note on "Tarn" below)* | The one who left his post. **Took the station** — in human form, the last dragon aboard — **and is off adventuring the cosmos.** *(Mark is confirming the name and color with Andy; the board says Dildro, Blue.)* |
 | **Green** | **Undaloth** | none — *not* a Prime Dragon | **[Eustace](../Campaign/The-Party/Eustace-Thunderbeak.md)** *(found the Green Ball; dreamed of him)* | Died in the war, rebuilt by the Antari, soul restored by Erleena in Oceana |
 
 The pairings mix past and present, and blanks are left to confirm at the table.
@@ -38,7 +38,7 @@ The pairings mix past and present, and blanks are left to confirm at the table.
 
 **Canon from Mark, who played Jak (2026-09-21): Jak has a young red dragon, and it now lives at the [Temple of Nord](../Locations/Gronnfjord.md) in Grønnfjord.** Andy's board never recorded it — "Dragons for Gobbeldy and Jak, who are they, where are they?" was still on his loose-ends list at the end — and Mark's notebook from that campaign is missing, so that is nearly everything currently known. **How public it is (Mark, 2026-09-21): the dragon is not unknown to the Nords of Grønnfjord — it is a local fact of life there — but it is not widely known beyond that.** The rest of Vermoon has not heard that the Administrator keeps a red dragon. Not yet established, and not to be invented: its name; how and where Jak came by it; how it relates to the great Red Dragon of the prophecy (offspring, the same dragon made young, or no relation); and whether it sleeps like the others or is awake. Ask Mark, and Andy.
 
-> **"Tarn."** The interview gave the Blue Dragon to "Tarn, a previous-campaign hero." The 2023 board lists **Tarn as a player** — of the half-orc Throg'Mar, a character shelved before play — and has Dildro offer his orb to **Gobbledegook**. The likeliest reading is that Tarn is Gobbledegook's player and the two sources agree. Confirm with Andy before treating it as settled ([The Red Dragon Campaign](../Campaign/The-Red-Dragon-Campaign.md)).
+> **"Tarn" is Gobbledegook's player** (Mark, 2026-09-22) — so the interview's "Tarn's dragon" and the board's offer of the orb to Gobbledegook are the same fact. Tarn has not played this season, which is why Gobbledegook is not with the party ([The Red Dragon Campaign](../Campaign/The-Red-Dragon-Campaign.md)).
 
 ### Essos, the Black Dragon
 
@@ -78,9 +78,9 @@ They do not factor into the Return to the Ship arc or the voyage to Aerun. Keep 
 ## Open questions
 
 - Where is the Blue Dragon now — and did he find anything out there?
-- Is "Tarn" Gobbledegook's player, and did Gobbledegook take Dildro's orb? (If so, the Blue Dragon's partner left the party — and took the orb with him.)
+- Did Gobbledegook take Dildro's orb? (If so, the Blue Dragon's partner left the party — and took the orb with him.)
 - Is Musty-Jo Claire's partner, or just the one carrying her ball?
-- Where is the Red Dragon — Thimva, or Ardor — and which name is right?
+- Where is Thimva? Seen only in dreams; a mystery by design.
 - **Jak's young red dragon** at the Temple of Nord: its name, where it came from, and what it is to the Red Dragon of the prophecy.
 - What were Eustace's 2,500 in gems for?
 

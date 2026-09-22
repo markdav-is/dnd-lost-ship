@@ -41,7 +41,7 @@ In the previous campaign each hero was paired with one of the great dragons unde
 | Shhhmeowmeow | **Essos** (Black) — protector of the Earth Titan, destroyer of Shhhmeowmeow's village | Established |
 | Eustace | **Undaloth** (Green) — dead, rebuilt by the Antari, restored in Oceana | He found the Green Ball and had the dreams |
 | Musty-Jo | **Claire** (Silver), who nests on Airlantis | Unconfirmed — he carries the Silver Dragon Ball |
-| Gobbledegook | **Dildro** (Blue) — "Burl," who stayed on the station | Dildro offered him the orb. The interview's "Tarn" is probably Gobbledegook's *player* — confirm |
+| Gobbledegook | **Dildro** (Blue) — "Burl," who stayed on the station | Dildro offered him the orb. Tarn is Gobbledegook's player (confirmed) and has not played this season |
 | Jak | **A young red dragon**, now living at the Temple of Nord in Grønnfjord | Mark's canon (he played Jak); absent from Andy's board. Name, origin, and its relation to the Red Dragon of the prophecy unrecorded |
 
 The great Red Dragon of the prophecy pairs with no one on the board; whether Jak's young red is connected to her is open. The dragons sleep now, and they only wake for a world-scale crisis — but the bonds are not gone, and the party also retains control of **[Airlantis](../World/The-Elemental-Cities.md)**, parked at Eustace's homeland.

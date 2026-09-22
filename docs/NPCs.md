@@ -33,7 +33,7 @@ Dossiers for every named character. Statuses reflect the current campaign state.
 | NPC | Role |
 | :--- | :--- |
 | [Rico](NPCs/Rico.md) | Engineer (Dry Tide, the Airlantis fuel); whereabouts unknown |
-| The [Blue Dragon](World/The-Dragons.md) | Tarn's aloof dragon; left for the stars from the space station |
+| The [Blue Dragon](World/The-Dragons.md) | Gobbledegook's aloof dragon (Tarn's, at the table); took the space station in human form and left to adventure the cosmos |
 | The dragons (Red, Black, Silver/White) | Dormant since the prophecy's fulfillment — see [The Dragons](World/The-Dragons.md) |
 
 ## Grønnfjord townsfolk

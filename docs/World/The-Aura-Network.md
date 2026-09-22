@@ -27,7 +27,7 @@ From Andy's previous-campaign prep, `assets/2023-dnd-campaign.json` — see [The
 - **The side effects.** Dead Antari phones and tablets in Drytide woke up. Machines in the ruins powered on; small repair drones appeared and set to work on the bigger ones. The mechanical beasts of western Caria started moving.
 - **The lockout.** On the night of the Drytide race Aura told Jak the power controls had been changed from user-specified to automatic by someone with higher permissions than his. Asked who: ***"The Administrator."*** Jak's access shrank; Erleena was locked out entirely. Restoring power had woken a sleeper on Eros Station, who thereafter used the cities' controls — currents, weather, heat — to begin taking the planet back. After 700 idle years the systems were chaotic; every repair the drones finished handed her more control.
 
-> **Squares awkwardly with the line above.** "Formerly run in secret by the elvish First Administrator" is from Andy's interview. His 2023 prep has the network *dark* for 721 years and the Administrator an Antari sleeper who woke only when the party turned the lights on. See the flag on [The Antari](The-Antari.md).
+> **Reconciled (Mark, 2026-09-22):** the Administrator was the **elvish summoner**, as played. Andy's prep had her as an Antari human sleeper; that version was never used. The network was dark for 721 years either way — she woke, and took the keys, when the party turned the lights on.
 
 Andy's standing instruction to himself for Aura questions he hadn't planned for: *the data is damaged and unknown at this point.* It still works.
 

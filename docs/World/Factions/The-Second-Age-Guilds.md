@@ -65,4 +65,4 @@ Three of the four keep a footing on the desert continent; the full table is on [
 
 ## After Jak
 
-Nothing on the board says what became of the Board when [Jak](../../NPCs/Jak-Bjornsson.md) took the Administrator's seat and ruled in the open. Four guild-factions that governed by consensus now share a world with one man who sees through every implant — how each has taken that is unwritten, and is the current DM's to decide.
+**The Board and the guilds are still there** (Mark, 2026-09-22). [Jak](../../NPCs/Jak-Bjornsson.md) did not dissolve them: he holds the network and the Spásistren, and those keep the peace; the guilds go on running harvests, workshops, academies, and temples as before. **The relationship between Jak and the Board is not finalized** — whether he sits on it, above it, or beside it is deliberately open, and is the current DM's to decide when it matters.
