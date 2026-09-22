@@ -78,7 +78,7 @@ See the [Dark Sun Library](Dark-Sun-Library.md) for the complete published-canon
 
 ## Character sheets (D&D Beyond exports — refreshed 2026-08-05, all level 11)
 
-Backstory, personality, and appearance fields were read from these exports on 2026-09-12 and folded into each character page (summary on [The Party](../Campaign/The-Party.md)). Eustace's sheet carries a full written backstory; **Beyond-Ce's refreshed export (2026-09-21) now carries one too**, cut off partway by the PDF; Gobbledegook's narrative fields are blank.
+Backstory, personality, and appearance fields were read from these exports on 2026-09-12 and folded into each character page (summary on [The Party](../Campaign/The-Party.md)). Eustace's sheet carries a full written backstory; **Beyond-Ce's refreshed export (2026-09-21) now carries one too**, cut off partway by the PDF; **Robin's backstory was pasted by Mark on 2026-09-22** (`robin-wood-backstory.md`); Gobbledegook's narrative fields are blank.
 
 | File | Character |
 | :--- | :--- |
@@ -87,7 +87,9 @@ Backstory, personality, and appearance fields were read from these exports on 20
 | [Gobbledegook.pdf](../../assets/Gobbledegook.pdf) | [Gobbledegook](../Campaign/The-Party/Gobbledegook.md) — Goblin Cleric 10 *(left the party)* |
 | [Musty-Jo Mustang.pdf](../../assets/Musty-Jo%20Mustang.pdf) | [Musty-Jo Mustang](../Campaign/The-Party/Musty-Jo-Mustang.md) — Centaur Fighter 6 / Paladin 5 |
 | [Beyond-Ce.pdf](../../assets/Beyond-Ce.pdf) | [Beyond-Ce](../Campaign/The-Party/Beyond-Ce.md) — Human Sorcerer 11 |
+| [beyond-ce-backstory.md](../../assets/beyond-ce-backstory.md) | **Beyond-Ce's full backstory**, Andy's text pasted complete 2026-09-22 (the PDF export truncates it) | [Beyond-Ce](../Campaign/The-Party/Beyond-Ce.md) |
 | [natnerd15_154014083.pdf](../../assets/natnerd15_154014083.pdf) | **Beyond-Ce, refreshed export (added 2026-09-21)** — same character, now with a **written backstory** (the escort-and-guide; cut off by the PDF at ~1,200 characters, mid-section). Values live in the PDF's form annotations, not its page text |
+| [robin-wood-backstory.md](../../assets/robin-wood-backstory.md) | **Robin Wood's backstory**, Bella's text pasted 2026-09-22 | [Robin Wood](../Campaign/The-Party/Robin-Wood.md) |
 | [Robin Wood.pdf](../../assets/Robin%20Wood.pdf) | [Robin Wood](../Campaign/The-Party/Robin-Wood.md) — Variant Human Cleric 8 / Rogue 3 (new player) |
 
 *(The prior per-username exports — `Shhhmeowmeow_109963368.pdf`, `Taco_Mix_114102493.pdf`, `Theonezerg_110631730.pdf`, `yourthighness69_111941481 (1).pdf`, `andy-beyond-Ce.pdf` — were replaced by this set.)*
