@@ -78,7 +78,7 @@ Keep this loud, fast, and cinematic — turret fire lighting the fog, a robot go
 >
 > *And the corridor lights run ahead of you, section by section, north along the deck toward the drop tube.*
 
-Keep it short. Eddie is warm, bumbling, and genuinely trying to help. The session ends on the lit path leading down toward [George](../../NPCs/George-Decay.md) — that's the hook into next time. Don't play any bargain tonight; if Eddie wants a favor, it can come later, via George.
+Keep it short. Eddie is warm, bumbling, and genuinely trying to help. Eddie advises *"down a level, then north-west"* toward [George](../../NPCs/George-Decay.md); as played, the party took the south tube instead (see [The Lab at S42](The-Lab-at-S42.md)). Don't play any bargain tonight; if Eddie wants a favor, it can come later, via George.
 
 ---
 

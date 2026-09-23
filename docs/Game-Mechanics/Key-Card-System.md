@@ -4,6 +4,8 @@
 
 Color-coded glass cards govern every door and robot interaction aboard the ship. Higher-rank cards open lower-rank doors. **Showing the wrong card to a reader triggers an alarm and the card is confiscated.**
 
+**On the return (Return to the Ship):** don't track cards. Eddie is awake and opens any door the party asks for, and cards are lying all over the ship anyway. They matter again only where Eddie can't reach, off the hull or somewhere his eyes don't go.
+
 ## The hierarchy (original S3 scheme)
 
 | Color | Rank / User | Opens |

@@ -1,12 +1,12 @@
 [Home](../Home.md) / [Adventures](../Adventures.md) / Return to the Ship <!-- wikidown:breadcrumb -->
 
-# Return to the Ship (planning)
+# Return to the Ship
 
 **The next module — confirmed by play (2026-08-04): the council chose the Cure, and the party departs for the ship.** As-played springboard: [Erleena is unreachable](../NPCs/Erleena-Riser.md) (comms dead to the outside — the ship's fields filter RF, the same void that blinds Jak; inside the hull she talks to George and Eddie daily); **[Robin](../Campaign/The-Party/Robin-Wood.md)** joins as expedition healer; the party holds **one antitoxin dose**; Sere containment cover hangs on [Harah's broken bridge with the defilers](../NPCs/Harah-Tabr.md); and the party is withholding the network-corruption theory from anyone with a glowing ear. **Harah did not come.** She stayed at Frostwatch; what she told the council travels with the party, in their own words.
 
-**Original design brief:** The party re-enters the ship (the Cure path); the infection is spreading with visible single-mindedness; Eddie is awake. **Design goals: action-heavy sessions, and a hopepunk/solarpunk resolution where everything — the cure, George, Eddie, Aerun, the friendship with Jak — works out — and the arc ends with the party leaving for Aerun, with Erleena.**
+**Design goals:** The party re-enters the ship (the Cure path); the infection is spreading with visible single-mindedness; Eddie is awake. **Action-heavy sessions, and a hopepunk/solarpunk resolution where everything — the cure, George, Eddie, Aerun, the friendship with Jak — works out — and the arc ends with the party leaving for Aerun, with Erleena.**
 
-Sources: `assets/quests-from-the-infinite-staircase.pdf` (Ch. 7, the published Aphelion arc) + table canon (2026-08-05, in development).
+Sources: `assets/quests-from-the-infinite-staircase.pdf` (Ch. 7, the published Aphelion arc) + table canon (2026-08-05 onward).
 
 ## Play-ready pages
 
@@ -14,9 +14,9 @@ The crossing and arrival, in table order. **Five in the party**: Shhhmeowmeow, E
 
 1. **[The Whiteout](Return-to-the-Ship/The-Whiteout.md)** — a dogsled convoy behind [Korrin's](../NPCs/Korrin.md) lead sled through an ordinary Barrier Peaks blizzard, run as a travel challenge on the Glacial Crossing progress tracker (visibility bands, Survival / Animal Handling / Perception / Athletics checks, frostbite saves). The hoversled is still out on the route; finding it is optional. Spores and the siege wait until the last ridge.
 2. **[The Breach](Return-to-the-Ship/The-Breach.md)** — the ship under real siege from the feral frontier band, robots and turrets fighting a running battle at the hull. The party spots the open airlock door, runs the gap under Eddie's over-eager covering fire, and inside meets **Eddie** — who lights the way to **George**, waiting on the next floor.
-3. **[The Lab at S42](Return-to-the-Ship/The-Lab-at-S42.md)** — the lit walk north across Level 1, the north drop tube, and the reunion with George: six stopgap doses (five for the party, one for Erleena), four spore-blasters, Erleena's status, Eddie's bargain — and the party's choice of route down to her.
+3. **[The Lab at S42](Return-to-the-Ship/The-Lab-at-S42.md)** — the rest of the ring from the south tube, the plant growths, and the reunion with George: six stopgap doses (five for the party, one for Erleena), four spore-blasters, Erleena's status, Eddie's bargain — and the party's choice of route down to her.
 4. **[Beneath the Lighthouse](Return-to-the-Ship/Beneath-the-Lighthouse.md)** — the island, the hatch, and Erleena's lab fifty feet under the lake: she asks about the door, she asks what they learned, the infected froghemoth comes to the portholes (kill it or wash it before the lake comes in), and then the turn: the party tells her about Rajaat and the defilers, she makes her two asks, names Aerun — and says she's going. George stays to hold the ship.
-5. **[The Jammed Override](Return-to-the-Ship/The-Jammed-Override.md)** *(side quest)* — the cycling door below Erleena's lab has a plain cause: its control station is on the lower-deck side and the override is jammed there, out of Eddie's reach. Time the door or take the long way, push the lever, hand it back to Eddie. Fifteen minutes, optional, and it quietly opens a held route to the deck where Nova sleeps.
+5. **[The Jammed Override](Return-to-the-Ship/The-Jammed-Override.md)** *(side quest)* — the cycling door below Erleena's lab has a plain cause: its control station is on the lower-deck side and the override is jammed there, out of Eddie's reach. Time the door or take the long way, turn the dial to REMOTE, hand it back to Eddie. Fifteen minutes, optional, and it quietly opens a held route to the deck where Nova sleeps.
 6. **[The Antenna](Return-to-the-Ship/The-Antenna.md)** *(side quest)* — Eddie wants a directional dish mounted on the crown of the hull and pointed at the Temple of Nord, so he can join the Aura network. **Played for comedy:** haul a 150-lb dish up the iced rocks, pound the tower's feet in with a sledgehammer, survive a *"cut the blue wire — no! the red wire!"* moment, and aim it by *warmer, colder* — all while birds attack and Eddie helps, through a breadbox-sized speaker somebody has to lug around on four hundred feet of cable. Pays Eddie's favor; gives the ship a voice; touches three live threads, none of which it resolves.
 7. **[The Send-Off](Return-to-the-Ship/The-Send-Off.md)** — **the last scene of the arc.** Back at S42 with Erleena, tanks refilling: she unrolls a chart of Aerun and asks the party what they think it's like. Five player handouts (*what you know about Aerun*), a round-robin, and the goodbye.
 
@@ -30,7 +30,7 @@ Eddie doesn't know he was ever called anything else — Nova wiped the computer 
 
 ## The published spine, inverted (QftIS Ch. 7)
 
-Published Aphelion: *"initially friendly but ultimately evil"* — your table's version currently goes by Eddie; see the table rule above — first contact early on Level 1 (its robot rescues the party from the cloaker, escorts them to computer room S30), quest-giver level by level. **Your inversion:** the party met a silent ship, and the **froghemoth still lived**, ruling the lake around the Lighthouse island — blocking the direct route down to Erleena's lab and, eventually, Nova's stasis chamber. That guardian has since changed sides — see below.
+Published Aphelion: *"initially friendly but ultimately evil"* — first contact early on Level 1 (its robot rescues the party from the cloaker, escorts them to computer room S30), quest-giver level by level. **Your inversion:** the party met a silent ship, and the **froghemoth still lived**, ruling the lake around the Lighthouse island — blocking the direct route down to Erleena's lab and, eventually, Nova's stasis chamber. That guardian has since changed sides — see below.
 
 ## The coordinated wildlife: the Lighthouse, not Eddie
 
@@ -42,7 +42,7 @@ This doesn't retire [Valerius's and Copper's Aura-network theory](../Campaign/Pl
 
 ## The crossing, as played
 
-The crossing is a straightforward blizzard travel challenge — a dogsled convoy behind Korrin's lead sled, weather and ability checks, nothing uncanny — and the arrival is a real running siege at the outer hull ([The Whiteout](Return-to-the-Ship/The-Whiteout.md); [The Breach](Return-to-the-Ship/The-Breach.md)). A held card for the deep interior, not yet used: a **corridor of calm** — the attacks stop as the party nears something the tower wants them to reach, danger inversely proportional to proximity — and the player who asks *"why did it get easier?"* has found the tell that the wilderness has management.
+The crossing is a straightforward blizzard travel challenge — a dogsled convoy behind Korrin's lead sled, weather and ability checks, nothing uncanny — and the arrival is a real running siege at the outer hull ([The Whiteout](Return-to-the-Ship/The-Whiteout.md); [The Breach](Return-to-the-Ship/The-Breach.md)).
 
 ## Eddie's nature: an eager, limited ally
 
@@ -64,24 +64,11 @@ They don't know she exists yet (they escaped through the cargo deck without find
 3. **The ship's records:** not Eddie's — the core was wiped — but what sits outside it: crew manifests in the library or George's medical-system sessions surface the stasis roster — and the cure hunt itself begs the question: *is anyone left alive who was crew?*
 4. **Eddie's blind spot (canon, 2026-09-21):** Eddie cannot lead the party to Nova, because **he does not know she is there.** She **wiped the computer core** as she shut Aphelion down, and the mind that woke afterward has no record of her or of the stasis run. **His internal map shows S64b as nothing special — machinery.** Not concealment, not avoidance: ask him what is in that room and he says, truthfully, *"Equipment. Nothing that needs me."* The tell for an attentive table is the mismatch — a room Eddie calls machinery, on a deck where the clinic android says scientists went to sleep. Show him a living crew member in a room he has listed as machinery and he is astonished — and glad ([Nova](../NPCs/Nova.md)).
 
-## Next beats: reaching George, reaching Erleena
+## Open threads on the ship
 
-First contact with Eddie is done; George is one deck down along a lit corridor, and the objectives inside are people, not the AI.
-
-- **George** — is waiting one deck down, on the observation deck — at S42, Medical Storage, on the north-west rim of the ring — Eddie lights the way north across Level 1 to the north drop tube, then two doors west on Level 2 — and he has good news: anti-fungal drugs he built with Eddie's computational help have him roughly half-cured, and he has doses to spare for the party. He's still cut off from Erleena — not by choice, but because the path down to her, through the Garden Level, is thicker with spores than it was on the first pass.
-- **Erleena** — harder to reach: her outside line is dead (the fields), and the spore-thick garden is between the party and her lab beneath the Lighthouse — though she and George talk daily on the ship's internal comms, so she knows they're coming. When they reach her, the news is mostly good — real progress on the cure, with the tower itself now actively trying to stop her from finishing it. And she has a month of questions for them.
-
-## Beats still ahead on the ship
-
-What remains between the reunion at S42 and the party leaving for Aerun. No set-pieces invented here — these are the threads already in play.
-
-- **The garden crossing.** The [Garden Level](../The-Lost-Ship/The-Garden-Level.md) is thicker with spores than the party remembers, and the [froghemoth](../Bestiary/Ship-Creatures.md) works the lake on the Lighthouse's orders. Bridge, long way round, or un-hijack it — the decision is laid out at the end of [The Lab at S42](Return-to-the-Ship/The-Lab-at-S42.md).
-- **Reaching Erleena beneath the Lighthouse — written: [Beneath the Lighthouse](Return-to-the-Ship/Beneath-the-Lighthouse.md).** She's alive, close, and out of lab time. The froghemoth is her quest — kill it or wash it before it finds the cheap porthole. Then she hears about Rajaat and the defilers from the party, makes her two asks, and says she's going — see below, and [her Pivot](../NPCs/Erleena-Riser.md).
-- **The jammed override — written: [The Jammed Override](Return-to-the-Ship/The-Jammed-Override.md).** Optional. The door below her lab, the station on the lower deck, the lever. Counts as Eddie's favor if the table wants it to.
-- **The crossing back, with Erleena.** Same garden, one more person, no more packs — and no suit: she crosses dosed, in washed air, like everyone else. Then S42: George and Erleena in one room for the first time in a month, the plan said out loud, and the goodbye.
-- **Eddie's favor.** Still unresolved: clear the froghemoth, or restore power to a dark section of the ring. Whichever it is, it's real work and it comes via George. (Clearing the froghemoth for Erleena counts. So does the override. So does **[the antenna](Return-to-the-Ship/The-Antenna.md)** — the favor Eddie wants most, because getting a message out is half of what he was woken for.)
+- **Eddie's favor.** Clearing the froghemoth always pays it ([The Lab at S42](Return-to-the-Ship/The-Lab-at-S42.md)). [The Jammed Override](Return-to-the-Ship/The-Jammed-Override.md) and [the antenna](Return-to-the-Ship/The-Antenna.md) count too if they get done; the antenna is the one he wants most.
 - **Nova.** The discovery vectors above are all still live; whichever one the table pulls, it can happen before or after Erleena.
-- **George's spore-blasters.** Four backpack rigs — clear the spore fog, strip an infected creature's bond with the Lighthouse, burn fungus ([The Counteragent](../Game-Mechanics/The-Counteragent.md)). The party's new tool for the crossing, and a first taste of what a cure delivered by hose might look like.
+- **George's spore-blasters.** Four rigs ([The Counteragent](../Game-Mechanics/The-Counteragent.md)): the party's new tool, and a first taste of a cure delivered by hose.
 
 ## The hopepunk resolution — everything works out
 
@@ -102,8 +89,6 @@ The point of this module is to send the party to Aerun. Everything on the ship �
 
 ## Still open
 
-- The first-contact script for Eddie — **resolved**: Eddie greets the party at [The Breach](Return-to-the-Ship/The-Breach.md) and asks for nothing that night; any bargain (medical-deck access for favors) comes later, via George. Which favor comes first is still open.
 - The who-woke-it question is settled (George and Erleena, together, on purpose) — what's still open is how and when the party learns that, and how much Eddie himself understands about the two people who woke him.
-- How the party gets to Aerun — the voyage is the next module's problem, not this one's. This arc ends with them deciding to go, and Erleena on the sled.
 - Whether the froghemoth is fought or un-hijacked with the spore-blasters (three blasts within a minute; [The Counteragent](../Game-Mechanics/The-Counteragent.md)) — the table decides at the lake.
 - Shhhmeowmeow's Eldorado backstory — the player's to tell; ask before the arc reaches the rim ([Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md)).

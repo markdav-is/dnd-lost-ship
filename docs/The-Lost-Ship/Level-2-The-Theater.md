@@ -26,20 +26,57 @@ The deck is a ring of rooms around an octagonal overlook: the S34 viewers line t
 | S43 whirlpools | Three grells in the brine | Next door to George's lab; he has never opened it and advises the same |
 | S43a sauna / S44b steam room | Extreme heat; the steam room is heavily obscured | The rooms themselves are the hazard — and the steam hides what's in the pool beyond |
 | S44 swimming pool | An aboleth | S44a locker room off the pool: a scientist's skeleton still holding a **green key card** |
-| S45 dance club | Four malfunctioning aerialist androids, dancing for a century | Constructs; an interruption is what wakes them to anything else |
+| S45 dance club | Four malfunctioning aerialist androids, dancing for a century: moulded plastic like the medical androids, but candy-coloured (orange, pink, turquoise, yellow), two male and two female, slight dancers' builds, big grins, sculpted 70s TV-glamour looks (the men a square-jawed action hero, the women feathered pin-up hair), in 1970s disco sequins. Two wear chrome jump belts: gas-assisted bounding leaps, not true flight | Constructs; an interruption is what wakes them to anything else |
 | S37 lounge | Four worker robots who seat anyone who enters and take a dinner order, whatever the hour | Harmless until refused — a comic beat if the party plays along |
-| S38a east growth | Four shriekers | Shrieking carries — the fomorians in S33b come to see what's screaming |
-| S38b north growth / S38c west growth | Killer plants — the ropers and light-hungry vines of the [Upper Walkway](Level-3-Upper-Walkway.md) page | They bracket George's pocket on the north-west rim (S42–S44) from both directions; nothing reaches his door along the rail. Don't carry bright light onto the rail — the vines still creep toward it. Razorvine hedges on the outside — stats on the [Upper Walkway](Level-3-Upper-Walkway.md) page |
+| S38a east growth | Four shriekers in the fungal bush | Shrieking carries: the fomorians in the east cargo bay (S33b) come to investigate |
+| S38b north growth | Razorvine blocking the way | Walls George's pocket on the north-west rim (S42–S44) from the north. Stats on the [Upper Walkway](Level-3-Upper-Walkway.md) page |
+| S38c west growth | Three ropers | Walls George's pocket from the other side. As played, the party killed one on the way in; two are left between them and S42. Stats on the [Upper Walkway](Level-3-Upper-Walkway.md) page |
 | S39 irradiated rooms | Radiation | No occupants; the damage is the room |
 | S40 gymnasium / S41 workout room | Hex platform and ropes; two synthetic humanoids lifting weights in S41 | S41a/b lockers and storage open off the workout room |
-| S33b–d cargo holds | Fomorians (S33b); githyanki in S33c, hunting the mind flayers the party already killed; gas spores in S33d | The githyanki's quarry is dead — that's a conversation the party can have, not only a fight |
+| S33b–d cargo holds | Fomorians (S33b); S33c empty, which is how George gets supplies up on its lift; gas spores in S33d | — |
 | S32 robot stations | Inactive combat and worker robots | One block beside each S31 drop tube; dormant unless something wakes them |
 
 *Room key: QftIS pp.175–181.*
 
-**Same deck as the "Upper Walkway."** The wiki's [Level 3 — Upper Walkway](Level-3-Upper-Walkway.md) is this deck's inner rail (S34) and lounge entrances; its dining servo is the S37 lounge robots by another name. The party ran that gauntlet during the survey only because they came in through the theater and needed the servo's violet cards to go down. This time Eddie brings them down the **north** tube, two doors from S42 — the rail is never touched.
+**Same deck as the "Upper Walkway."** The wiki's [Level 3 — Upper Walkway](Level-3-Upper-Walkway.md) is this deck's inner rail (S34) and lounge entrances; its dining servo is the S37 lounge robots by another name. The party ran that gauntlet during the survey only because they came in through the theater and needed the servo's violet cards to go down. On the return, as played, the party took the **south** tube to the theater and walked the ring toward S42, killing a roper among the S38 growths.
 
 - The theater (S35) still holds the mind flayers' apparatus on the stage — the loose end already noted in DM notes below — and the S36a east kitchen's service windows open straight onto it.
+
+## Wandering encounters
+
+Based on the book's **Random Spaceship Encounters** table (QftIS p.164), which covers the whole ship except the garden. The book's rate: once per hour aboard, roll a d12, and an encounter happens on a 1. The book table is split here by [ship state](../The-Lost-Ship.md). **Ship-off** is the start state (Eddie asleep: dark cosmic horror), and on the return it still covers the dark side of the ring. **Ship-on** is the return with Eddie awake (solarpunk *Space: 1999*): the same robots and androids, now on the party's side.
+
+### Ship-off: d12
+
+| d12 | Encounter |
+| :-: | :--- |
+| 1 | 2d10 vegepygmy scavengers and 1d4 vegepygmy thorny hunters. On the return they're Lighthouse-directed; one spore-blaster wash breaks the hold. |
+| 2 | 1d6 intellect devourers |
+| 3 | Two combat robots on patrol |
+| 4 | A helpful worker robot offers to carry the party's equipment |
+| 5 | Two malfunctioning worker robots building a pile of space helmets; they attack anyone who disturbs the hoard |
+| 6 | A short-circuiting android trying to repair itself, glitching worse and worse |
+| 7 | A malfunctioning combat robot begs to be destroyed by a worthy combatant |
+| 8 | A defective worker robot serving expired food to the corpse of a long-dead passenger |
+| 9 | A cloaker with a moan like a klaxon |
+| 10 | A roper with a metallic sheen |
+| 11 | *(Level 2 addition)* **A githyanki hunting party**, still hunting the mind flayers the party already killed. A conversation as much as a fight: tell them, and they may go home. |
+| 12 | *(Level 2 addition)* **An aerialist android** wandered out of the S45 dance club, still dancing. It tries to partner the nearest party member and doesn't let go easily. |
+
+### Ship-on: d10
+
+| d10 | Encounter |
+| :-: | :--- |
+| 1 | **Two combat robots on patrol**, now Eddie's. They scan the party, decide they're allowed, and salute. |
+| 2 | **A helpful worker robot** offers to carry the party's equipment, as in the book, and Eddie vouches for it. |
+| 3 | **Two worker robots with a pile of space helmets.** Eddie gave them a sorting job, and they insist on fitting everyone with a helmet. |
+| 4 | **A short-circuiting android** repairing itself, with Eddie talking it through each step. It gets better, not worse. |
+| 5 | **A malfunctioning combat robot begs to be destroyed.** Eddie begs the party not to. It can be talked round, and it would very much like a job. |
+| 6 | **A worker robot serving dinner**, the book's expired-food robot. Eddie has pointed it at the living, and it serves the party instead of a corpse. |
+| 7 | **A worker robot hosing down the deck** from a spore-blaster tank, running George's washing program. It waits for the party to walk round the wet patch. |
+| 8 | **A medical android carrying crates of ship stock to S42 for George.** Eddie says "sorry" on its behalf as it walks through the party. |
+| 9 | **The two synthetic humanoids from S41** jogging the ring, lap after lap, saying good morning every time they pass. |
+| 10 | **Eddie opens a door "to save you the walk"** onto a stretch he hasn't reached yet. Roll on the ship-off table. |
 
 ## DM notes
 

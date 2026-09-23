@@ -2,35 +2,30 @@
 
 # The Lab at S42
 
-*Return to the Ship, reunion — the lit walk across Level 1, the north drop tube, and George at S42. A breather that ends on a decision.*
+*Return to the Ship, reunion — the rest of the ring from the south tube, the plant growths, and George at S42. A breather that ends on a decision.*
 
 ![The door at S42 opens: George walks out to meet the party](../../.attachments/enc_s42_reveal.jpg)
 
-## Read-aloud — the lit walk
+## The ring (as played)
 
-> *The airlock seals behind you and the war outside becomes a hum in the hull. Ahead, the corridor lights run north, section by section, and keep running well past where you can see.*
->
-> *You know this deck. You bled on it. The room where the webbirds came down out of the ceiling is dark on your left; a worker robot rolls out of it with a crate and passes you without a glance. The clinic at S23 is lit and busy — MED-2 bent over a table with something whirring in its hand, not remotely interested in you. The computer room at S30 hums behind an open door. Everything Eddie is looking at is lit. Everything else is exactly as you left it.*
->
-> *At the deck's north end the drop tube stands waiting. Its card panel blinks from blue to green as you reach it, and under your boots the anti-grav hums awake.*
+**As played (session 1):** the party did not take the lit north run. Eddie said *"down a level, then north-west,"* and they dropped straight down the **south tube beside the airlock** — landing on the observation deck by the theater, the bar, and the dance club, the dark side of the ring, with George's lit door visible across the deck. On the way round they hit a **roper**, one of the **three ropers of the S38c west growth** that wall George's pocket, and killed it; the session ended with **the other two ahead of them**. So the next session opens on the ring: run the two remaining ropers from [Level 2's dark-side table](../../The-Lost-Ship/Level-2-The-Theater.md), then pick up at *Read-aloud — the reveal*.
 
-## The walk
+### The lights come on (help arrives)
 
-**As played (session 1):** the party did not take the lit north run. Eddie said *"down a level, then north-west,"* and they dropped straight down the **south tube beside the airlock** — landing on the observation deck by the theater, the bar, and the dance club, the dark side of the ring, with George's lit door visible across the deck. On the way round they hit a **roper** (one of the growths that wall George's pocket) and killed it; the session ended with **more growths ahead of them**. So the next session opens on the ring, not in the corridor below: run the remaining plants as the S38 killer-plant growths from [Level 2's dark-side table](../../The-Lost-Ship/Level-2-The-Theater.md), then pick up at *Read-aloud — the reveal*. The lit-walk read-aloud is kept for reference.
+Mid-fight, while the party is tangled with the two ropers, the ring switches from ship-off to ship-on. Eddie gets the power back to this stretch of the ring, and the ceiling panels come on in a rolling wave down the hall toward the party. Dust drifts in the new light; the ropers flinch from it.
 
-No checks required — that's the point. After [The Breach](The-Breach.md), the party gets a deck that is safe because someone is watching it. Let them notice that.
+When the wave reaches the dance club (S45), the **four aerialist androids** wake up. They have been dancing for a century, and now they have a job: two come sprinting down the corridor and two come bounding after them in long, gas-assisted leaps on chrome jump belts, sequins flashing, to help.
 
-- **Optional Perception DC 13:** the *south* tube — ten feet from the airlock — stayed dark while the north one lit. Eddie wants them to go the long way. The south tube lands in the theater (S35); from there it's half the ring to George either way, through the dance club or the lounge robots ([the dark side of the ring](../../The-Lost-Ship/Level-2-The-Theater.md)).
-- **Eddie chatter** — drop two or three as they walk, delighted and a little too helpful:
-  - *"That was the officers' mess! Very good coffee, I'm told. Well — I'm told there was coffee."*
+![The lights reach the dance club: four aerialist androids come down the ring to help, two running and two leaping on jump belts](../../.attachments/enc_disco_cavalry.jpg)
+
+- **Timing:** the lights start rolling at the top of round 2 and reach the androids in round 3. They arrive at the start of round 4.
+- **What they do:** each android grabs a roper's sticky strand and hauls on it, or pulls a grappled party member free. A roper that has an android on the end of a strand spends its reel on the android instead of a party member. They're constructs and don't mind being chewed.
+- **Eddie, from the ceiling:** *"Oh! Oh, they're up! I didn't know they could do that. Did you know they could do that?"*
+- **After the fight,** the androids bow, thank the party for the dance, and glide back to the club. They're now on the party's side of the ship.
+
+- **Eddie chatter** from the ceiling speakers as they work round the ring — drop two or three, delighted and a little too helpful:
   - *"Oh — sorry — that door's a second slow. It's a hundred years old. So am I, but I try not to make it everyone's problem."*
-  - *"Ooh, the library's just there. Do go in sometime. Not now. Now is for George."*
   - *"Nearly there! Left at the — no, your left. Yes. That one. You're all very good at this."*
-- **A worker robot** (QftIS random encounter) rolls up and extends its arms for their gear. Harmless: it carries whatever they hand it to the lip of the tube, then stops and waits — it isn't rated for anti-grav — and holds the bags out for them one at a time. A comic beat.
-
-## Down the tube and along the ring
-
-The tube sets them down at the north **S31** on the observation deck. The lights pick up at their feet and run west: past the **S32 robot station** — dormant combat and worker robots in their alcoves; as the party passes, one turns its head, considers them, and settles — to a yellow door with light under it. **S42, Medical Storage.** Two doors from the tube, and the lights stop there.
 
 One line of texture: the next door south along the west rim is **S43, the whirlpools** — three grells in the brine. George has never opened it and advises the same. Everything else on the ring is dark; see [Level 2's dark-side table](../../The-Lost-Ship/Level-2-The-Theater.md).
 

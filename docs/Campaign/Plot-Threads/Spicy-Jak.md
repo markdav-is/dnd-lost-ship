@@ -50,9 +50,9 @@ The vacuum is the playable part:
 
 ## How it ties back
 
-- **The hopepunk read:** Jak's arc lands as growth, not abdication — the man who ruled through total surveillance learns to see without owning what he sees. If [Return to the Ship](../../Adventures/Return-to-the-Ship.md) ends with the network cleansed and his grip loosening, this is the *next* step of that same softening: he doesn't loosen his grip on the world; he opens his hand entirely.
+- **The hopepunk read:** Jak's arc lands as growth, not abdication — the man who ruled through total surveillance learns to see without owning what he sees. If the cure arc ends with the network cleansed and his grip loosening, this is the *next* step of that same softening: he doesn't loosen his grip on the world; he opens his hand entirely.
 - **The dark read (hold in reserve):** an avatar is still absolute power, just portable. The campaign's long question — does the crown corrupt him — doesn't end when he trades the crown for the Spice. It sharpens. The sorcerer-kings were students once too.
-- **The Rajaat braid:** his new sight runs on the Spice; the Spice runs on the worms; the worms guard the First Source. If the cure ever frees the wardens and the desert blooms ([the epilogue flight](../../Adventures/Return-to-the-Ship.md)), what happens to the sacrament — and to every talent it woke? Spicy Jak has a personal stake in Rajaat's fate that no one, including him, has priced in.
+- **The Rajaat braid:** his new sight runs on the Spice; the Spice runs on the worms; the worms guard the First Source. If the cure ever frees the wardens and the desert blooms, what happens to the sacrament — and to every talent it woke? Spicy Jak has a personal stake in Rajaat's fate that no one, including him, has priced in.
 
 ## Timing
 

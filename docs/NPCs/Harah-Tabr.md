@@ -58,4 +58,3 @@ Economical with words, generous with action. States her position once, then does
 - **The Rite of Remembrance:** her ritual vision of the Green Age is the DM's revelation-delivery tool.
 - **With George:** quiet mutual respect, so far only by reputation — she has not met him. If they ever share a room: the primal mind and the scientific mind approaching the same crisis from opposite directions. She has a Sandwalker stabilizer remedy to offer him — not a cure; time and clarity.
 
-![Harah tells Erleena about Rajaat and the defilers — an earlier draft of the turn beneath the Lighthouse; as played, the party carries the news instead](../.attachments/enc_the_turn.jpg)

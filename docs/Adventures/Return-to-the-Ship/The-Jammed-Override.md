@@ -8,7 +8,7 @@
 
 ## What's actually wrong
 
-The door at the bottom of the sealed stair below [Erleena's lab](../../The-Lost-Ship/The-Lighthouse.md) has been opening and closing on its own since before the party's first visit. It is not the tower and it is not a mind. It is a **jammed override**. Eddie has control of most of the ship, but that door's **control station sits on the lower deck, on the far side of the door**, and its override is set to LOCAL and physically stuck there — mold grown into the mechanism, a corroded relay behind it. The station keeps re-issuing the last command it was given, the door keeps executing it, and Eddie's board shows the fault and refuses every attempt to clear it from upstairs.
+The door at the bottom of the spiral stair below [Erleena's lab](../../The-Lost-Ship/The-Lighthouse.md) has been opening and closing on its own since before the party's first visit. It is not the tower and it is not a mind. It is a **jammed override**. Eddie has control of most of the ship, but that door's **control station sits on the lower deck, on the far side of the door**, and its override is set to LOCAL and physically stuck there — mold grown into the mechanism, a corroded relay behind it. The station keeps re-issuing the last command it was given, the door keeps executing it, and Eddie's board shows the fault and refuses every attempt to clear it from upstairs.
 
 > *"Oh — that one. Yes. I can see it. I can see it doing it. The override's set to LOCAL at the station down there, and the station won't take my hand off it. I've asked. I've asked a great many times. Somebody has to go and turn the actual dial."*
 
