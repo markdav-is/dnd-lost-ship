@@ -6,23 +6,23 @@ The campaign's **modules**, in play order. Each module page is the overview — 
 
 | # | Module | Type | Status |
 | :-: | :--- | :--- | :--- |
-| 1 | [Chapter 1 — The Summons](Adventures/Chapter-1-The-Summons.md) | Roleplay opener | Played ✔ |
-| 2 | [Chapter 2 — Grønnfjord Shops](Adventures/Chapter-2-Gronnfjord-Shops.md) | Town & rumors | Played ✔ |
-| 3 | [Foggy Fjord](Adventures/Foggy-Fjord.md) | Survival encounter | Played ✔ |
-| 4 | [Think of the Children](Adventures/Think-of-the-Children.md) | Set-piece battle | Played ✔ |
-| 5 | [Frostwatch Horror](Adventures/Frostwatch-Horror.md) | Survival-horror module | Played ✔ |
+| 1 | [Chapter 1 — The Summons](Adventures/Chapter-1-The-Summons.md) · [Flipbook](Adventures/Chapter-1-The-Summons/Flipbook.md) | Roleplay opener | Played ✔ |
+| 2 | [Chapter 2 — Grønnfjord Shops](Adventures/Chapter-2-Gronnfjord-Shops.md) · [Flipbook](Adventures/Chapter-2-Gronnfjord-Shops/Flipbook.md) | Town & rumors | Played ✔ |
+| 3 | [Foggy Fjord](Adventures/Foggy-Fjord.md) · [Flipbook](Adventures/Foggy-Fjord/Flipbook.md) | Survival encounter | Played ✔ |
+| 4 | [Think of the Children](Adventures/Think-of-the-Children.md) · [Flipbook](Adventures/Think-of-the-Children/Flipbook.md) | Set-piece battle | Played ✔ |
+| 5 | [Frostwatch Horror](Adventures/Frostwatch-Horror.md) · [Flipbook](Adventures/Frostwatch-Horror/Flipbook.md) | Survival-horror module | Played ✔ |
 | — | Ship survey (Levels 1–Lower) | Dungeon crawl | Played ✔ — see [The Lost Ship](The-Lost-Ship.md) |
-| 6 | [Return to Frostwatch](Adventures/Return-to-Frostwatch.md) | Journey + council | Played ✔ (2 sessions) — 8 encounter subpages ⚡ |
-| 7 | [Return to the Ship](Adventures/Return-to-the-Ship.md) | Ship expedition | **In play** — Eddie, deliberately woken by George and Erleena; party committed to the Cure — 7 encounter subpages ⚡ |
+| 6 | [Return to Frostwatch](Adventures/Return-to-Frostwatch.md) · [Flipbook](Adventures/Return-to-Frostwatch/Flipbook.md) | Journey + council | Played ✔ (2 sessions) — 8 encounter subpages ⚡ |
+| 7 | [Return to the Ship](Adventures/Return-to-the-Ship.md) · [Flipbook](Adventures/Return-to-the-Ship/Flipbook.md) | Ship expedition | **In play** — Eddie, deliberately woken by George and Erleena; party committed to the Cure — 7 encounter subpages ⚡ |
 | — | [The Three Roads](Adventures/The-Three-Roads.md) | Path planning | All three crisis answers designed in detail — fire, ash-and-green, cure — plus the Erleena Pivot |
 
 ## Return to Frostwatch — encounters
 
-[The Spore-Choked Ravine](Adventures/Return-to-Frostwatch/The-Spore-Choked-Ravine.md) · [The Watching Herd](Adventures/Return-to-Frostwatch/The-Watching-Herd.md) · [Alien Echoes](Adventures/Return-to-Frostwatch/Alien-Echoes.md) · [The Fungal Avalanche](Adventures/Return-to-Frostwatch/The-Fungal-Avalanche.md) · [The Sky Hunters](Adventures/Return-to-Frostwatch/The-Sky-Hunters.md) · [The Frozen Pilgrims](Adventures/Return-to-Frostwatch/The-Frozen-Pilgrims.md) · [Arrival at Frostwatch](Adventures/Return-to-Frostwatch/Arrival-at-Frostwatch.md) · [The Council of Frostwatch](Adventures/Return-to-Frostwatch/The-Council-of-Frostwatch.md)
+[The Spore-Choked Ravine](Adventures/Return-to-Frostwatch/The-Spore-Choked-Ravine.md) · [The Watching Herd](Adventures/Return-to-Frostwatch/The-Watching-Herd.md) · [Alien Echoes](Adventures/Return-to-Frostwatch/Alien-Echoes.md) · [The Fungal Avalanche](Adventures/Return-to-Frostwatch/The-Fungal-Avalanche.md) · [The Sky Hunters](Adventures/Return-to-Frostwatch/The-Sky-Hunters.md) · [The Frozen Pilgrims](Adventures/Return-to-Frostwatch/The-Frozen-Pilgrims.md) · [Arrival at Frostwatch](Adventures/Return-to-Frostwatch/Arrival-at-Frostwatch.md) · [The Council of Frostwatch](Adventures/Return-to-Frostwatch/The-Council-of-Frostwatch.md) · [Flipbook](Adventures/Return-to-Frostwatch/Flipbook.md)
 
 ## Return to the Ship — encounters
 
-[The Whiteout](Adventures/Return-to-the-Ship/The-Whiteout.md) · [The Breach](Adventures/Return-to-the-Ship/The-Breach.md) · [The Lab at S42](Adventures/Return-to-the-Ship/The-Lab-at-S42.md) · [Beneath the Lighthouse](Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md)
+[The Whiteout](Adventures/Return-to-the-Ship/The-Whiteout.md) · [The Breach](Adventures/Return-to-the-Ship/The-Breach.md) · [The Lab at S42](Adventures/Return-to-the-Ship/The-Lab-at-S42.md) · [Beneath the Lighthouse](Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md) · [Flipbook](Adventures/Return-to-the-Ship/Flipbook.md)
 
 ## Building new modules
 
