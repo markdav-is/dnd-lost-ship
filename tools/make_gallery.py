@@ -67,7 +67,7 @@ def scan_pages():
                 continue
             path = os.path.join(dirpath, fn)
             page = os.path.relpath(path, DOCS).replace("\\", "/")[:-3]
-            if page in IGNORE_PAGES:
+            if page in IGNORE_PAGES or page.endswith("/Flipbook"):
                 continue
             with open(path, encoding="utf-8") as f:
                 text = f.read()

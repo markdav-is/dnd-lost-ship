@@ -2,6 +2,8 @@
 
 # Chapter 2 — Grønnfjord Shops
 
+**[Flipbook](Chapter-2-Gronnfjord-Shops/Flipbook.md)**: just the images, in play order, for showing the table.
+
 ![The harbor district shop map](../.attachments/gronnfjord_shops_map.png)
 
 Town chapter: outfitting, rumor-gathering, and the first Spásistren encounter. Source: `assets/Chapter 2 - Greefjord Shops.docx`. Location detail: [Grønnfjord](../Locations/Gronnfjord.md).

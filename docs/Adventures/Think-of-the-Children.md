@@ -2,6 +2,8 @@
 
 # Think of the Children!
 
+**[Flipbook](Think-of-the-Children/Flipbook.md)**: just the images, in play order, for showing the table.
+
 ![Sigrid and Toren arrive by dogsled](../.attachments/sigrid_toren_dogs.png)
 
 Day-2 set piece at the Foggy Fjord camp: the children's warning, the spore servant horde, and the ice-ball arrival of the Mycelial Frost Giant Skeleton. Source: `assets/Think of the Children.docx`.

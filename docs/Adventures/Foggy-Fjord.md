@@ -2,6 +2,8 @@
 
 # Foggy Fjord
 
+**[Flipbook](Foggy-Fjord/Flipbook.md)**: just the images, in play order, for showing the table.
+
 ![The wreck camp on the foggy shore](../.attachments/foggy_fjord_wreck_map.png)
 
 Survival interlude: shipwrecked repair camp on a cold fjord, two days of mounting dread. Source: `assets/foggy fjord.docx`.

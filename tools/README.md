@@ -43,3 +43,11 @@ py tools/make_gallery.py --write
 ```
 
 Scans every image in `docs/.attachments/`, makes a 360-px thumbnail in `docs/.attachments/thumbs/` (only when the source is newer), works out which pages embed each one, and writes the `/Gallery` page — grouped by subject, each thumbnail linking to the full image and its page. Run it after adding or replacing art. Needs Pillow (already installed). `--write` publishes through the `wikidown` CLI so `.order` and breadcrumbs stay right; without it the markdown just lands in `tools/renders/gallery.md`.
+
+## make_flipbooks.py: a picture-only page per adventure
+
+```
+py tools/make_flipbooks.py --write
+```
+
+Writes `/Adventures/<X>/Flipbook` for every adventure that has art: each image embedded on the adventure page and its subpages, in play order, with no text, so the DM can page through them at the table. Without `--write` it just prints the counts. Re-run it after adding or replacing encounter art, then run `make_gallery.py`.

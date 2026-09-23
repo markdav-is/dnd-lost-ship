@@ -2,6 +2,8 @@
 
 # Return to Frostwatch
 
+**[Flipbook](Return-to-Frostwatch/Flipbook.md)**: just the images, in play order, for showing the table.
+
 Journey-and-council module: the hoversled descent through dying mountains, the occupied hold, and the Council of Frostwatch. Tone: cosmic horror, political tension, impossible choices — *"The party has seen the void. Now the void is following them home."*
 
 Source: `assets/Return_to_Frostwatch_v3.md` ⭐ (supersedes the older Final.md/docx). **Each encounter is a subpage of this module** — flip to it at the table; this page is the module map.

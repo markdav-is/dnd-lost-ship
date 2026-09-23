@@ -2,6 +2,8 @@
 
 # Frostwatch Horror
 
+**[Flipbook](Frostwatch-Horror/Flipbook.md)**: just the images, in play order, for showing the table.
+
 Survival-horror module for five 10th-level characters: isolation, paranoia, and a creeping fungal terror. Source: `assets/Frostwatch_Horror.docx`. Location: [Frostwatch Hold](../Locations/Frostwatch-Hold.md).
 
 ## Act I — The Frostwind Crossing

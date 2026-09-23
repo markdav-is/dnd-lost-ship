@@ -2,6 +2,8 @@
 
 # Return to the Ship
 
+**[Flipbook](Return-to-the-Ship/Flipbook.md)**: just the images, in play order, for showing the table.
+
 **The next module — confirmed by play (2026-08-04): the council chose the Cure, and the party departs for the ship.** As-played springboard: [Erleena is unreachable](../NPCs/Erleena-Riser.md) (comms dead to the outside — the ship's fields filter RF, the same void that blinds Jak; inside the hull she talks to George and Eddie daily); **[Robin](../Campaign/The-Party/Robin-Wood.md)** joins as expedition healer; the party holds **one antitoxin dose**; Sere containment cover hangs on [Harah's broken bridge with the defilers](../NPCs/Harah-Tabr.md); and the party is withholding the network-corruption theory from anyone with a glowing ear. **Harah did not come.** She stayed at Frostwatch; what she told the council travels with the party, in their own words.
 
 **Design goals:** The party re-enters the ship (the Cure path); the infection is spreading with visible single-mindedness; Eddie is awake. **Action-heavy sessions, and a hopepunk/solarpunk resolution where everything — the cure, George, Eddie, Aerun, the friendship with Jak — works out — and the arc ends with the party leaving for Aerun, with Erleena.**

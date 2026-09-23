@@ -2,6 +2,8 @@
 
 # Chapter 1 — The Summons
 
+**[Flipbook](Chapter-1-The-Summons/Flipbook.md)**: just the images, in play order, for showing the table.
+
 ![The dis-trans bat delivers the summons](../.attachments/summons_bat.png)
 
 Campaign opener: the reunion, the transformed city, and Jak's revelation of the void. Sources: `assets/campaign-start.docx`, `assets/Jaks thromeroom.docx`, `assets/The Throne Room.docx`.
