@@ -2,6 +2,8 @@
 
 # Return to the Ship: Flipbook
 
+![Where session 1 left off, over Musty-Jo's shoulder: Beyond-Ce as a fire elemental up front, Robin's guiding bolt, Shhhmeowmeow's bow, Eustace calling lightning from over the drop, and the two S38c ropers in the overgrowth as the lights start coming on](../../.attachments/enc_ropers_lights_on.jpg)
+
 ![Eddie, the shipboard computer](../../.attachments/eddie_intercom.jpg)
 
 ![Glacial Crossing tracker](../../.attachments/glacial_crossing_tracker.png)

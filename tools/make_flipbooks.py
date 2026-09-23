@@ -24,6 +24,9 @@ DOCS = os.path.normpath(os.path.join(HERE, "..", "docs"))
 ADV = os.path.join(DOCS, "Adventures")
 IMG = re.compile(r"!\[([^\]]*)\]\(([^)\s]+)\)")
 
+# images to show first, whatever their page order (e.g. where the next session opens)
+FIRST = {"Return-to-the-Ship": ["enc_ropers_lights_on.jpg"]}
+
 
 def order(folder):
     path = os.path.join(folder, ".order")
@@ -58,6 +61,8 @@ def build(name):
                 shots.append((alt, fname))
     if not shots:
         return None
+    lead = FIRST.get(name, [])
+    shots.sort(key=lambda shot: lead.index(shot[1]) if shot[1] in lead else len(lead))
     title = name.replace("-", " ")
     lines = [f"# {title}: Flipbook", ""]
     for alt, fname in shots:

@@ -10,6 +10,8 @@
 
 **As played (session 1):** the party did not take the lit north run. Eddie said *"down a level, then north-west,"* and they dropped straight down the **south tube beside the airlock** — landing on the observation deck by the theater, the bar, and the dance club, the dark side of the ring, with George's lit door visible across the deck. On the way round they hit a **roper**, one of the **three ropers of the S38c west growth** that wall George's pocket, and killed it; the session ended with **the other two ahead of them**. So the next session opens on the ring: run the two remaining ropers from [Level 2's dark-side table](../../The-Lost-Ship/Level-2-The-Theater.md), then pick up at *Read-aloud — the reveal*.
 
+![Where session 1 left off, over Musty-Jo's shoulder: Beyond-Ce as a fire elemental up front, Robin's guiding bolt, Shhhmeowmeow's bow, Eustace calling lightning from over the drop, and the two S38c ropers in the overgrowth as the lights start coming on](../../.attachments/enc_ropers_lights_on.jpg)
+
 ### The lights come on (help arrives)
 
 Mid-fight, while the party is tangled with the two ropers, the ring switches from ship-off to ship-on. Eddie gets the power back to this stretch of the ring, and the ceiling panels come on in a rolling wave down the hall toward the party. Dust drifts in the new light; the ropers flinch from it.
