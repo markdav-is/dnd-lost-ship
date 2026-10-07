@@ -1,0 +1,6 @@
+model: veo-3.1-fast-generate-preview
+image: tools/refs/lh_door/v_world_web.jpg
+last: tools/refs/lh_door/k2.jpg
+params: {"aspectRatio": "16:9", "durationSeconds": 8, "resolution": "1080p", "negativePrompt": "fire, flames, explosion, debris, monster, creature attack, dark, horror, people, text, cuts"}
+
+From the glowing globe of the world laced with gold, the camera falls slowly and smoothly back down, the web of gold threads rushing up to meet it and narrowing into the glowing roots of a single place, until the view settles on the base of the mycelium-wrapped lighthouse, its open door glowing white-gold, its root-cords shimmering with fractal patterns and iridescent light, spores turning in slow spirals. Painted style, warm golden light, a joyful psychedelic vision where everything is connected by glowing gold threads of light like luminous mycelium. Smooth, continuous, dreamlike, one unbroken shot, no cuts. No text, no fire, no monsters.

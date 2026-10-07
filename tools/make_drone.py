@@ -48,6 +48,8 @@ def main():
     ap.add_argument("--seconds", type=int, default=8)
     ap.add_argument("--arc", help="choir/shimmer level over the loop, e.g. 0:.5,16:1,32:.6")
     ap.add_argument("--wind", help="wind-and-dust level over the loop, e.g. 0:0,24:1")
+    ap.add_argument("--voicing", default="sus2", choices=["sus2", "major"],
+                    help="sus2 = ethereal and open (A B E A); major = warm and happy (A C# E A)")
     ap.add_argument("--wind-gain", type=float, default=0.22, help="how loud the wind layer gets at level 1")
     ap.add_argument("--wind-hz", type=float, default=700, help="centre of the wind's hiss; higher is harsher")
     ap.add_argument("--out", required=True)
@@ -78,7 +80,8 @@ def main():
     def vowel(h):
         return np.exp(-((h - 700) / 260) ** 2) + 0.6 * np.exp(-((h - 1150) / 300) ** 2) + 0.15
     rng = np.random.default_rng(7)
-    for root, amp in [(220, 0.050), (246.94, 0.032), (329.63, 0.042), (440, 0.030)]:
+    second = 277.18 if a.voicing == "major" else 246.94  # C#4 for warmth, or B3 for air
+    for root, amp in [(220, 0.050), (second, 0.034 if a.voicing == "major" else 0.032), (329.63, 0.042), (440, 0.030)]:
         for d in (-1, 0, 1):
             for n in range(1, 14):
                 h = snap(root, T) * n

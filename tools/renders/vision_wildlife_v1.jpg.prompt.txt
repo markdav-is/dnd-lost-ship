@@ -1,0 +1,9 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 16:9
+size: 2K
+refs: docs/.attachments/lighthouse_island.jpg
+
+A wide 16:9 painting in exactly the same painted style, warm golden palette and soft glowing light as the reference lighthouse painting. A psychedelic mushroom-trip vision of 'everything is connected': joyful, warm, tender, wondrous, a happy dream. Fine glowing gold threads of light, like luminous mycelium, run between every living thing, pulsing softly; golden spores drift like fireflies; colours a little too rich, edges shimmering with faint iridescence, everything gently breathing. No text.
+
+A snowy mountain valley in the Barrier Peaks at golden dawn, pine forest and frozen river below high white peaks. A herd of deer, foxes, a pair of wolves, a big brown bear, mountain goats on the crags, ravens and a great owl in the air, all moving together across the snow in perfect, graceful unison, calm and unafraid of one another, like one creature. Glowing gold threads of light link every animal to every other and run down into the snow, where a luminous gold web of mycelium shows faintly through the snow like veins of light under the whole valley. Soft russet-gold patches of fungus on some of the animals' coats, worn like decoration. Serene, majestic, harmonious, beautiful.

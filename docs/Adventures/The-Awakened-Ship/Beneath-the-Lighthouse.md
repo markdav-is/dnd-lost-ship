@@ -42,6 +42,8 @@
 
 **On the table:** play the [door clip](../../.attachments/lh_door.mp4) full-screen on repeat. It runs 34 seconds and loops. First the quiet door. Then the walls begin to pattern and shimmer. Then the tower splits open on a bright desert, the view pushes through the rift into a scorching, sand-blasted desert of black glass spires, pulls back again, and the rift closes. The drone builds through the split and the desert and then settles. Start it as they reach the door and let it run while you narrate.
 
+**Or the connected clip.** If nobody fails by 5 or more, nobody sees the desert, so play the [connected clip](../../.attachments/lh_door_connected.mp4) instead. It runs 45 seconds and loops, and has the same door at the start and end. In the middle, the gold threads carry the view through every vision in turn: the rabbits, the valley of animals moving as one, the harbour town where blue implants braid into the gold, and up to the whole world. Then it drops back down the roots to the door. The drone is warm and major-key, with no wind. Use the desert clip only when someone actually sees the desert.
+
 > *Up close the door is just a door. Steel, old, standing open a hand's width. The light coming out of it is warm. The air coming out of it is warm. It smells like rain on hot stone, which is wrong, because there hasn't been rain or hot stone anywhere near here for a very long time.*
 
 **The check.** Everyone within a few steps of the door makes a **DC 15 Wisdom saving throw**. Anyone who has said in character that they're keeping their eyes down, or is under a blaster's fresh cone, rolls with advantage. **On a failure the tower takes them in.** For the others it lasts about a minute: they stand still at the threshold, smiling. **No damage, no infection save.** Eddie's voice reaches them from very far away. A shake, a slap or a spore-blast in the face brings anyone out early.
@@ -54,6 +56,21 @@
 - **The pattern.** The tower's cords, your hand, the veins in a leaf and the spiral of the galaxy are all the same shape. It is funny that nobody ever noticed. Someone may laugh out loud.
 - **No edges.** For a moment you aren't sure where your skin stops and the air starts, and you don't mind. You are not alone. You have never been alone.
 - **Time goes soft.** The beam takes a year to sweep past. Then the moment is over and you have been standing there for a minute.
+- **The wild.** You are on a mountainside at dawn, and the whole valley is moving: deer, foxes, wolves, a bear, goats on the crags, ravens overhead, all walking together like one animal, none afraid of the others. Under the snow, the gold threads run like veins of light.
+- **The glowing ears.** A town in the snow at dusk, lanterns lit, everyone laughing. The blue lights behind their ears are pulsing, and from each one a thread of blue rises and twines with the gold, person to person, to the dogs and the goats and the gulls. Nobody in the town is alone. Nobody has ever been alone.
+- **The whole world.** You are very high up. Below you is the world, every land you know and some you don't, and all of it is laced with gold, branching like roots, with blue lights at the knots. It looks like a brain. It looks like it's breathing.
+
+**Show them.** After the read-aloud, show a player the picture that goes with their vision:
+
+![The rabbits: every one joined by gold threads, hearts glowing together](../../.attachments/vision_bunnies.jpg)
+
+![The wild: a valley of animals moving as one, the gold web under the snow](../../.attachments/vision_wildlife.jpg)
+
+![The glowing ears: a town at dusk, blue implants braided into the gold](../../.attachments/vision_glowing_ears.jpg)
+
+![The whole world: Vermoon from above, laced with gold and blue](../../.attachments/vision_world_web.jpg)
+
+*DM only: the glowing-ears and whole-world visions put the Aura network into the same web as the spores. That is the party's withheld theory ([The Invisible Infection](../../Campaign/Plot-Threads/The-Invisible-Infection.md)), and it feels wonderful from inside. The vision does not confirm the theory. Leave that thread open.*
 
 **The desert (failed by 5 or more).** These players get the visions above, and then one more. Read it to them alone, in the second person, and show them this when you're done:
 

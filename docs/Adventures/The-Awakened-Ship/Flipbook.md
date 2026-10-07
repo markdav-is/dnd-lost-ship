@@ -18,6 +18,14 @@
 
 ![At the foot of the tower: the open door glowing orange, the roots spreading toward you](../../.attachments/lh_door.jpg)
 
+![The rabbits: every one joined by gold threads, hearts glowing together](../../.attachments/vision_bunnies.jpg)
+
+![The wild: a valley of animals moving as one, the gold web under the snow](../../.attachments/vision_wildlife.jpg)
+
+![The glowing ears: a town at dusk, blue implants braided into the gold](../../.attachments/vision_glowing_ears.jpg)
+
+![The whole world: Vermoon from above, laced with gold and blue](../../.attachments/vision_world_web.jpg)
+
 ![Through the split: the Sea of Silt under a white sky, black glass spires, and wormsign in the sand](../../.attachments/lh_door_desert.jpg)
 
 ![Erleena in her workroom, dropping the agent into the dish; a grey dead ring spreads through the russet mold](../../.attachments/enc_erleena_at_work.jpg)

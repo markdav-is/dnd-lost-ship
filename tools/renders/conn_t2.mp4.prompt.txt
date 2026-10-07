@@ -1,0 +1,6 @@
+model: veo-3.1-fast-generate-preview
+image: tools/refs/lh_door/v_bunnies.jpg
+last: tools/refs/lh_door/v_wildlife.jpg
+params: {"aspectRatio": "16:9", "durationSeconds": 8, "resolution": "1080p", "negativePrompt": "fire, flames, explosion, debris, monster, creature attack, dark, horror, people, text, cuts"}
+
+The camera follows one shining gold thread from the cuddling rabbits as it runs away across the ground and grows into a web of threads, rising and widening out as the scene transforms into a vast snowy mountain valley at dawn, where deer, foxes, wolves, a bear, goats and birds move together in peaceful harmony, the gold web glowing beneath the snow. Painted style, warm golden light, a joyful psychedelic vision where everything is connected by glowing gold threads of light like luminous mycelium. Smooth, continuous, dreamlike, one unbroken shot, no cuts. No text, no fire, no monsters.
