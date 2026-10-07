@@ -2,6 +2,8 @@
 
 # The Awakened Ship: Flipbook
 
+![Morning at S42: Eddie's list chatters out of the wall speaker on paper tape, George delighted with his mug, the party waking up around it](../../.attachments/enc_eddies_list.jpg)
+
 ![Out of the north gate: the whole garden falls away to the lake, the Lighthouse in the haze](../../.attachments/garden_arrival_vista.jpg)
 
 ![The inner wall's north gate, the spore haze thickening beyond it](../../.attachments/garden_inner_gate.jpg)

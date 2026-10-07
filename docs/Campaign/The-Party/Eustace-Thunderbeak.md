@@ -4,6 +4,8 @@
 
 Aarakocra Bard 11 (Pirate). Player: Ben. Sheet: `assets/Eustace (Eu) Thunderbeak.pdf` (2026-08-05).
 
+**Look (for art):** as tall as a grown man, not a small bird. Golden eagle's head with dark brown and gold feathers, hooked yellow beak and a sharp amber eye, golden-brown wings worn folded like a feathered mantle, brown leather armour crossed with straps and brass buckles, a white quill feather in a strap, and black leather gloves. Reference image: `tools/refs/eustace_ref.png` (from Mark, 2026-10-06). Pass it as `--ref`.
+
 ## Stats
 
 | STR | DEX | CON | INT | WIS | CHA | AC | HP | Speed |

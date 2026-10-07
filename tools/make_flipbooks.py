@@ -25,7 +25,7 @@ ADV = os.path.join(DOCS, "Adventures")
 IMG = re.compile(r"!\[([^\]]*)\]\(([^)\s]+)\)")
 
 # images to show first, whatever their page order (e.g. where the next session opens)
-FIRST = {"Return-to-the-Ship": ["enc_ropers_lights_on.jpg"]}
+FIRST = {"Return-to-the-Ship": ["enc_ropers_lights_on.jpg"], "The-Awakened-Ship": ["enc_eddies_list.jpg"]}
 
 
 def order(folder):

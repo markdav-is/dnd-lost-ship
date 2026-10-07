@@ -18,9 +18,11 @@
 
 ## The opening: Eddie's list
 
+![Morning at S42: Eddie's list chatters out of the wall speaker on paper tape, George delighted with his mug, the party waking up around it](../.attachments/enc_eddies_list.jpg)
+
 *Session 3 opens here (2026-10-06), at S42 the morning after. The party long-rested in George's med bay. Erleena already made her two asks on the comm, and Eddie's "small favor or two" from the bargain hasn't been played yet. This is where it lands.*
 
-Eddie wakes the room the way he does everything, too early and very pleased about it. The lights come up a notch at a time. Then he puts **a list** on George's screen, because lists are what Eddie is good at, and reads it aloud:
+Eddie wakes the room the way he does everything, too early and very pleased about it. The lights come up a notch at a time. Then the wall speaker starts to chatter, and **a paper tape** feeds out of a slot under its grille, curling onto the floor. Eddie makes lists, because lists are what he's good at, and he reads this one aloud as it prints:
 
 > *"Good morning! I made a list. I'm very good at lists. Number one: the frog. That's Erleena's. Number two: the big door. Also Erleena's. Number three —" a small pause "— is mine. It's a very small favor."*
 
@@ -73,7 +75,7 @@ The players choose; the page doesn't.
 
 ## Running it
 
-Open warm at S42 and let Eddie's list do the work: the players can see the whole session on one screen and pick their own order. Keep the three jobs distinct in tone. The frog is real danger, the door is a short grim errand, and the antenna is a farce. Save the quiet for Erleena.
+Open warm at S42 and let Eddie's list do the work: tear off the tape and hand it to the players, so they hold the whole session in one hand and pick their own order. (Prop idea: print the three lines on a strip of receipt paper.) Keep the three jobs distinct in tone. The frog is real danger, the door is a short grim errand, and the antenna is a farce. Save the quiet for Erleena.
 
 ---
 
