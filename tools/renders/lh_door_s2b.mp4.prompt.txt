@@ -1,0 +1,6 @@
+model: veo-3.1-generate-preview
+image: tools/refs/lh_door/k2.jpg
+last: tools/refs/lh_door/k3.jpg
+params: {"aspectRatio": "16:9", "durationSeconds": 8, "resolution": "1080p", "negativePrompt": "fire, flames, burning, explosion, debris, rubble, falling slabs, towers, windows, buildings, people, text, cuts"}
+
+Locked-off camera, no camera movement. Keep the exact painted style. The lighthouse base, glowing with fractal patterns, slowly splits open in one smooth continuous motion: a thin bright seam of white-gold light opens upward from the doorway, and the tower's wall gently parts along it, the concrete and root-cords peeling back to the left and right like heavy curtains being drawn, their torn edges glowing gold. No fire, no flames, no explosions, no falling debris, no new buildings. Blinding white-gold light floods out, and through the widening opening a distant bright desert slowly appears: a grey sea of dust and black obsidian crystal formations shaped like mushrooms. Golden spores stream out toward the viewer. Majestic, slow, awe-inspiring. No people.

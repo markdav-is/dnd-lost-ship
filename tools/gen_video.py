@@ -9,10 +9,11 @@ Usage:
 --image is the first frame. --loop passes the same image as the last frame too,
 so the clip ends where it began and loops without a seam (keep the camera locked
 in the prompt, or the middle will wander). --last <image> sets a different end
-frame. --fast uses veo-3.1-fast (cheaper, a little rougher).
+frame. --tier picks the model: fast (the default, for drafts), lite (cheapest,
+roughest) or std (best, for finals).
 
-Veo bills per second of video; an 8 s clip on the standard model costs a few
-dollars. The final prompt and settings are saved as tools/renders/<name>.prompt.txt.
+Veo has no free tier on the API; it bills per second of video at 1080p:
+std $0.40/s (an 8 s clip is $3.20), fast $0.12/s ($0.96), lite $0.08/s ($0.64). The final prompt and settings are saved as tools/renders/<name>.prompt.txt.
 Stdlib only.
 """
 
@@ -28,7 +29,8 @@ import urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 API = "https://generativelanguage.googleapis.com/v1beta/"
-MODELS = {"std": "veo-3.1-generate-preview", "fast": "veo-3.1-fast-generate-preview"}
+MODELS = {"std": "veo-3.1-generate-preview", "fast": "veo-3.1-fast-generate-preview",
+          "lite": "veo-3.1-lite-generate-preview"}
 
 
 def http(url, key, payload=None):
@@ -38,11 +40,17 @@ def http(url, key, payload=None):
         headers={"Content-Type": "application/json", "x-goog-api-key": key},
         method="POST" if payload is not None else "GET",
     )
-    try:
-        with urllib.request.urlopen(req, timeout=600) as r:
-            return r.read()
-    except urllib.error.HTTPError as e:
-        sys.exit(f"API error {e.code} on {url.split('?')[0]}: {e.read().decode(errors='replace')[:800]}")
+    for attempt in range(6):
+        try:
+            with urllib.request.urlopen(req, timeout=600) as r:
+                return r.read()
+        except urllib.error.HTTPError as e:
+            body = e.read().decode(errors="replace")[:800]
+            # a GET (status poll or download) on a busy server is safe to retry; a POST would bill twice
+            if payload is None and e.code >= 500 and attempt < 5:
+                time.sleep(15 * (attempt + 1))
+                continue
+            sys.exit(f"API error {e.code} on {url.split('?')[0]}: {body}")
 
 
 def frame(path):
@@ -62,7 +70,8 @@ def main():
     ap.add_argument("--aspect", default="16:9", choices=["16:9", "9:16"])
     ap.add_argument("--seconds", type=int, default=8, choices=[4, 6, 8])
     ap.add_argument("--resolution", default="1080p", choices=["720p", "1080p"])
-    ap.add_argument("--fast", action="store_true")
+    ap.add_argument("--tier", default="fast", choices=list(MODELS))
+    ap.add_argument("--op", help="resume an operation already started (models/.../operations/...)")
     ap.add_argument("--out", required=True)
     a = ap.parse_args()
 
@@ -70,7 +79,7 @@ def main():
     prompt = open(a.prompt_file, encoding="utf-8").read().strip() if a.prompt_file else a.prompt
     if not prompt:
         sys.exit("need a prompt or --prompt-file")
-    model = MODELS["fast" if a.fast else "std"]
+    model = MODELS[a.tier]
 
     inst = {"prompt": prompt, "image": frame(a.image)}
     last = a.image if a.loop else a.last
@@ -79,7 +88,10 @@ def main():
     params = {"aspectRatio": a.aspect, "durationSeconds": a.seconds,
               "resolution": a.resolution, "negativePrompt": a.negative}
 
-    op = json.loads(http(f"{API}models/{model}:predictLongRunning", key, {"instances": [inst], "parameters": params}))
+    if a.op:
+        op = {"name": a.op}
+    else:
+        op = json.loads(http(f"{API}models/{model}:predictLongRunning", key, {"instances": [inst], "parameters": params}))
     print(f"{model}: started {op['name']}", file=sys.stderr)
     while not op.get("done"):
         time.sleep(10)

@@ -1,0 +1,13 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 16:9
+size: 2K
+refs: tools/renders/lh_door_k4_v2.jpg
+
+Edit the reference image. Keep the painted style, camera, the glowing torn tower edges framing the left and right sides, the ochre cliffs with silt-falls, the grey silt sea, the blowing sand, and the worm ridge in the middle distance.
+
+Change the black growths: they are NOT trees and have no single trunk. Each one is a giant coral fungus made of black obsidian: a squat, wide, dense, bushy mass of MANY short, thick, upright branches packed tightly together, forking again and again into clusters of stubby tips, like a Ramaria coral mushroom or a clump of staghorn coral, rounded in overall outline like a cauliflower or a brain of antlers. Every branch is faceted black volcanic glass, bristling with jagged splintered obsidian shards and needle spikes, cracked with a dull gold glow, golden spores venting from the broken tips. Several at different distances; the nearest ones huge, as big as houses.
+
+The sky: keep it very bright and oppressive. A blinding, bleached, glaring white sky with a merciless sun-glare, heat shimmer everywhere, the air thick with hot pale dust. No dark clouds, no storm wall. Harsh sandy wind streaming sideways. Hostile, scorching, frightening.
+
+No people, no text.

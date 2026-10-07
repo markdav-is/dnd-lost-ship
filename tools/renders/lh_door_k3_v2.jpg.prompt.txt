@@ -1,0 +1,13 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 16:9
+size: 2K
+refs: tools/renders/lh_door_k3_v1.jpg
+
+Edit the reference image. Keep everything exactly the same — the painted style, the camera, the split tower with its glowing torn edges, the roots and haze in the foreground, the grey Sea of Silt, the ochre cliffs with silt pouring over them, the white-hot hazy sky, and the golden spores streaming out through the rift toward the viewer.
+
+Change two things:
+1. The golden mushroom-shaped plumes out on the grey dust are not fungus. Make them giant formations of black obsidian crystal: glassy, faceted, volcanic-glass growths in tall mushroom-cap shapes, jet black with sharp sun-glints and a faint gold glow in their cracks, standing out of the silt at different distances. Golden spores still vent from them and stream toward the rift.
+2. Far away on the grey silt plain, near the horizon, add just a hint of something enormous moving under the dust: one long, low, curved ridge breaking the surface, with a faint wake of disturbed silt behind it. No head, no mouth, nothing clearly visible. Easy to miss.
+
+No people, no text.

@@ -20,22 +20,9 @@
 >
 > *The halo is not a halo up close. It is a galaxy, slow and enormous, turning around the lantern room: arms of gold light, and in the arms, points of light that are each a single spore catching the lamp. The cords on the tower are pulsing, not glowing. Light runs up them from the ground and down them from the lamp, slow as breathing, and the moss under your boots pulses with it. It is the most beautiful thing any of you has ever seen, and it is very hard to look away.*
 
-**The check.** Everyone who looks up makes a **DC 15 Wisdom saving throw**. Anyone who has said in character that they're keeping their eyes down, or is under a blaster's fresh cone, rolls with advantage. **On a failure the tower takes them in.** For the others it lasts about a minute: they stand still, eyes up, smiling. **No damage, no infection save.** Eddie's voice reaches them from very far away. A shake, a slap or a spore-blast in the face brings anyone out early.
+**No roll yet.** Let them stare. The trip starts at the door ([below](#the-door)).
 
-**What a vision is like.** It's a mushroom trip, not a nightmare. Give each player who failed one or two of these, told to them in the second person, and let them describe what they do:
-
-- **Everything is breathing.** The ground, the tower and the water all rise and fall together, and so do you. You can't remember which of you started it.
-- **The threads.** Fine gold threads run out of the soil and into everything: the rabbits, the moss, the bridge, the frog in the water, the people standing next to you. You realize, as if you've always known, that they run into *you*.
-- **You can hear the rabbits.** Not the sound they make. Their heartbeats, a dozen of them in step, and yours keeping time with them.
-- **The pattern.** The tower's cords, your hand, the veins in a leaf and the spiral of the galaxy are all the same shape. It is funny that nobody ever noticed. Someone may laugh out loud.
-- **No edges.** For a moment you aren't sure where your skin stops and the air starts, and you don't mind. You are not alone. You have never been alone.
-- **Time goes soft.** The beam takes a year to sweep past. Then the moment is over and you have been standing there for a minute.
-
-**The message is only "everything is connected."** The visions don't explain anything. No faces, no voices, no prophecy, and nobody is named. Coming out of it should feel like losing something wonderful. Afterward the party can argue about what it meant. Was it peace, or was it an invitation? Erleena will want to hear about it, flatly and in detail, and she'll write it down.
-
-**Telling it sideways.** Nothing here says what the tower is. The rabbits moving in unison and the threads running into *everyone* are the network seen from the inside, and that is all the players get.
-
-## Read-aloud — the island, coming back to yourselves
+## Read-aloud — the island
 
 > *However you crossed, you are across. The island gives under your boots — this is not ground, it is the mold, skinned over old concrete — and the tower stands over you: white once, now wrapped seam and root in pale cords that glow where they knot. High up, the halo turns around the lantern room, gold-white, slow, deliberate. The beam swings out over the black water and every spore in the air leans after it.*
 >
@@ -46,6 +33,41 @@
 **The comms (DM note).** Nothing radio gets in or out of the hull — the ship's hyper-dimensional fields filter RF the same way they blind the Aura network and stop teleportation ([Ship-wide properties](../../The-Lost-Ship.md)). Every call the party made from Frostwatch died in that void: *"No signal. Your number cannot be completed."* Not spores, not the tower's output, not Eddie. Inside the hull the wiring reaches everywhere — Eddie has watched the whole crossing, and Erleena's lab below the garden sits on the same internal comm line as George's pocket at S42, which is why she and George have talked every day for a month and still can't reach each other: the garden is between them, not the wiring. So Erleena knows everything George knows — the half-cure, the rabbitoid, the packs, that the party reached S42 — and nothing at all from the outside world. **That gap is the party's cue.** They are carrying a month of news she has never heard, and the council's news above all.
 
 **The last time they spoke.** The party's last words with Erleena were in these sealed levels on the first survey: she told them she would build her cure lab here, and she asked them to make sure the big cargo door could never open again. Then they left through that same door, on the purge and never got a call through again. She has not forgotten either thing.
+
+## The door
+
+*The party crosses the island to the base of the tower and the open door, the doorway glowing orange and spores spilling out of it at ground level. This is where the trip begins.*
+
+![At the foot of the tower: the open door glowing orange, the roots spreading toward you](../../.attachments/lh_door.jpg)
+
+**On the table:** play the [door clip](../../.attachments/lh_door.mp4) full-screen on repeat. It runs 34 seconds and loops. First the quiet door. Then the walls begin to pattern and shimmer. Then the tower splits open on a bright desert, the view pushes through the rift into a scorching, sand-blasted desert of black glass spires, pulls back again, and the rift closes. The drone builds through the split and the desert and then settles. Start it as they reach the door and let it run while you narrate.
+
+> *Up close the door is just a door. Steel, old, standing open a hand's width. The light coming out of it is warm. The air coming out of it is warm. It smells like rain on hot stone, which is wrong, because there hasn't been rain or hot stone anywhere near here for a very long time.*
+
+**The check.** Everyone within a few steps of the door makes a **DC 15 Wisdom saving throw**. Anyone who has said in character that they're keeping their eyes down, or is under a blaster's fresh cone, rolls with advantage. **On a failure the tower takes them in.** For the others it lasts about a minute: they stand still at the threshold, smiling. **No damage, no infection save.** Eddie's voice reaches them from very far away. A shake, a slap or a spore-blast in the face brings anyone out early.
+
+**What a vision is like (failed the save).** It's a mushroom trip, not a nightmare. Give each player who failed one or two of these, told to them in the second person, and let them describe what they do:
+
+- **Everything is breathing.** The ground, the tower and the water all rise and fall together, and so do you. You can't remember which of you started it.
+- **The threads.** Fine gold threads run out of the soil and into everything: the rabbits, the moss, the bridge, the frog in the water, the people standing next to you. You realize, as if you've always known, that they run into *you*.
+- **You can hear the rabbits.** Not the sound they make. Their heartbeats, a dozen of them in step, and yours keeping time with them.
+- **The pattern.** The tower's cords, your hand, the veins in a leaf and the spiral of the galaxy are all the same shape. It is funny that nobody ever noticed. Someone may laugh out loud.
+- **No edges.** For a moment you aren't sure where your skin stops and the air starts, and you don't mind. You are not alone. You have never been alone.
+- **Time goes soft.** The beam takes a year to sweep past. Then the moment is over and you have been standing there for a minute.
+
+**The desert (failed by 5 or more).** These players get the visions above, and then one more. Read it to them alone, in the second person, and show them this when you're done:
+
+![Through the split: the Sea of Silt under a white sky, black glass spires, and wormsign in the sand](../../.attachments/lh_door_desert.jpg)
+
+> *The wall in front of you splits. Not breaks. Opens, the way a curtain opens, along a seam of white light that runs up from the door and out of sight. Behind it there is no tower. There is a desert: a grey sea of dust, flat to the end of the world, under a white sky that presses down like a hand. The wind comes through the split hot and full of grit, and it stings. Black glass grows out of the dust in huge splintered spires, all shards and spikes, taller than the tower, and gold spores stream off their broken tips, through the split and over you. The light comes from there, and so do the spores. It has always come from there. Out between the spires the sand heaves up in one long curving ridge and keeps moving, as if something underneath it is swimming. Then the seam closes and the door is just a door.*
+
+**The pull.** Anyone who saw the desert comes out of it knowing, with the certainty of a dream, that they have to go there. They don't know where *there* is, and nothing in the vision tells them. This is roleplay, not a mechanic: no save and no compulsion. Let the player decide how much it pulls at their character, and give them room to bring it up again later.
+
+*DM only: the grey sea is the Sea of Silt on Aerun, the obsidian spires stand on it, and the ridge is wormsign. It is the other Salient's ground ([The First Source](../../Campaign/Plot-Threads/The-First-Source.md), [The Silt Sea](../../World/Dark-Sun/The-Silt-Sea.md)). This is foreshadowing for the long arc that ties the two together ([The Ship's Purpose](../../Campaign/Plot-Threads/The-Ships-Purpose.md)). Don't name any of it at the table, and don't confirm it when the players guess. When Erleena names Aerun later on this page, let anyone who saw the desert make the connection on their own.*
+
+**The message is only "everything is connected."** The visions don't explain anything. No faces, no voices, no prophecy, and nobody is named. Coming out of it should feel like losing something wonderful. Afterward the party can argue about what it meant. Was it peace, or was it an invitation? Erleena will want to hear about it, flatly and in detail, and she'll write it down.
+
+**Telling it sideways.** Nothing here says what the tower is. The rabbits moving in unison and the threads running into *everyone* are the network seen from the inside, and that is all the players get.
 
 **The hatch.** Inside the tower, under the mycelium-choked stair, the heavy circular floor hatch: **DC 15 Strength** to turn the fouled wheel **plus the green key card** — the one they pulled off the skeleton in S50 on the survey. A blaster wash on the wheel first gives advantage; the mold lets go of the metal.
 

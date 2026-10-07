@@ -1,0 +1,6 @@
+model: veo-3.1-generate-preview
+image: tools/refs/lh_door/k4.jpg
+last: tools/refs/lh_door/k3.jpg
+params: {"aspectRatio": "16:9", "durationSeconds": 8, "resolution": "1080p", "negativePrompt": "people, figures, text, cuts"}
+
+The camera drifts slowly and smoothly back, away from the desert, until the glowing torn edges of the split lighthouse frame the desert as a tall rift again, with the roots and orange haze of the island in the foreground. In the desert: grey dust, black obsidian crystal formations shaped like mushrooms venting golden spores, the spores streaming out through the rift toward the viewer. A long low ridge glides through the dust far away. Painted style. Slow, dreamlike, longing. No people.

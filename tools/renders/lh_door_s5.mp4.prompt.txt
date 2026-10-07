@@ -1,0 +1,6 @@
+model: veo-3.1-generate-preview
+image: tools/refs/lh_door/k3.jpg
+last: tools/refs/lh_door/k1.jpg
+params: {"aspectRatio": "16:9", "durationSeconds": 8, "resolution": "1080p", "negativePrompt": "people, figures, text, cuts"}
+
+Locked-off camera, no camera movement. Painted style. The rift in the lighthouse slowly closes: the torn concrete and root-cords draw back together like curtains closing, the bright desert beyond narrowing to a seam of light and vanishing, the glow fading down into the warm orange of the open doorway. The last golden spores drift down and settle. The base of the mycelium-wrapped tower is quiet again, roots softly pulsing, orange haze rolling low. Slow, calm, a long exhale. No people.

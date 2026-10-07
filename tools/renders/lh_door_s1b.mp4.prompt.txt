@@ -1,0 +1,6 @@
+model: veo-3.1-generate-preview
+image: tools/refs/lh_door/k1.jpg
+last: tools/refs/lh_door/k2.jpg
+params: {"aspectRatio": "16:9", "durationSeconds": 8, "resolution": "1080p", "negativePrompt": "swelling, inflating, bulging shapes, balloons, magic circles, glyphs, symbols, runes, people, text, cuts"}
+
+Locked-off camera, no camera movement. Keep the exact painted style and every shape of the scene: the base of a lighthouse wrapped in glowing mycelium, the open door glowing orange. Nothing changes shape or size. A psychedelic mushroom trip slowly begins, through light and pattern only: the whole scene very subtly breathes, a gentle slow pulse of brightness; light pulses travel along the root-cords and their glow slowly resolves into branching fractal vein patterns; soft iridescent rainbow sheens ripple across the cords and concrete surface; the drifting spores slowly gather into gentle spirals and lattices in the air; the doorway brightens from orange to golden-white. Slow, smooth, hypnotic, continuous. No people.

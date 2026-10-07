@@ -1,0 +1,6 @@
+model: veo-3.1-generate-preview
+image: tools/refs/lh_door/k1.jpg
+last: tools/refs/lh_door/k2.jpg
+params: {"aspectRatio": "16:9", "durationSeconds": 8, "resolution": "1080p", "negativePrompt": "people, figures, text, cuts"}
+
+Locked-off camera, no camera movement. Painted style, the base of a lighthouse wrapped in glowing mycelium with an open door glowing orange. A psychedelic mushroom trip slowly begins: the walls start to breathe, gently swelling and settling; light pulses run along the root-cords and they slowly resolve into glowing, branching fractal patterns; iridescent rainbow sheens ripple across the cords and concrete; the drifting spores gather into slow spirals and lattices; the doorway brightens to golden-white. Slow, smooth, hypnotic, continuous. No people.

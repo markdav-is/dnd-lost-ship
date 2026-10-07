@@ -1,0 +1,11 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 16:9
+size: 2K
+refs: tools/renders/lh_door_k4_v7.jpg
+
+Edit the reference image. Keep everything exactly the same — the style, the cliffs, the black obsidian spires, the bright white sky, the blowing sand, the frame edges — except one thing:
+
+The curled, arching, segmented shape in the middle distance shows too much; no part of any creature may be visible. Replace it with only wormsign: a long, low, flat ridge of churned, heaving sand running across the plain between the spires, sand sliding off its crest and a trail of dust blowing off it, as if something enormous is moving just under the surface. It must lie flat along the ground, no arch, no coil, no segments, no body.
+
+No people, no text.

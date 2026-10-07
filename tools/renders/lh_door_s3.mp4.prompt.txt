@@ -1,0 +1,6 @@
+model: veo-3.1-generate-preview
+image: tools/refs/lh_door/k3.jpg
+last: tools/refs/lh_door/k4.jpg
+params: {"aspectRatio": "16:9", "durationSeconds": 8, "resolution": "1080p", "negativePrompt": "people, figures, text, cuts"}
+
+The camera glides slowly and smoothly forward toward the glowing rift in the tower, almost through it, until the rift's torn golden edges frame only the sides of the picture and the vast bright desert fills the frame. The desert: a flat grey sea of fine dust under a white-hot hazy sky, ochre cliffs with grey silt pouring over them like slow waterfalls, giant black obsidian crystal formations in mushroom shapes venting golden spores that stream toward the viewer on a hot wind. Far off, a long low ridge glides through the dust like something huge moving underneath. Heat shimmer. Painted style. Slow, majestic. No people.

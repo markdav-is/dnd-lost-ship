@@ -1,0 +1,15 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 16:9
+size: 2K
+refs: tools/renders/lh_door_k3_v3.jpg
+
+Edit the reference image. Change ONLY what is seen THROUGH the rift, inside the opening in the tower. Everything outside the rift stays exactly as it is: the painted style, the camera, the split tower with its glowing torn edges, the roots, ground and haze in the foreground.
+
+Inside the rift, the distant desert becomes harsh, hostile and frightening, not inviting:
+1. The black obsidian formations are no longer smooth toadstools. Make them like giant coral fungus: branching, clawing, antler-like clusters of black volcanic glass, bristling with jagged, splintered obsidian shards and razor spikes, cracked through with a dull gold glow, golden spores venting from their broken tips. Several at different distances, the nearest ones tall and menacing.
+2. A savage wind: sheets of sand and grey silt tear sideways across the plain in streaming bands, a dust storm scouring everything, the horizon swallowed in brown-grey haze. The sky is a harsh, bleached, glaring white-yellow with a sickly brown storm wall building behind; the light is blinding and cruel, not warm.
+3. Keep the hint of the worm: one long low ridge breaking the silt far off, half-hidden by blowing dust.
+The spores and grit blowing out through the rift toward the viewer should feel like a sandblast.
+
+No people, no text.

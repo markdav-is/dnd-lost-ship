@@ -1,0 +1,13 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 16:9
+size: 2K
+refs: tools/renders/lh_door_k4_v1.jpg
+
+Edit the reference image. Keep the painted style, the camera, the glowing torn edges of the tower framing the left and right sides, the ochre cliffs with silt-falls on the left, the grey silt sea and the long worm ridge in the middle distance. Make the desert harsh, hostile and frightening, not inviting:
+
+1. Replace every smooth black toadstool with giant black obsidian CORAL FUNGUS: the shape of staghorn coral or Ramaria coral mushrooms, a thick trunk splitting into many thin forking, clawing, antler-like branches that reach upward and outward, every branch bristling with jagged splintered obsidian shards and razor spikes, black volcanic glass with hard white glints and a dull gold glow in its cracks, golden spores venting from the broken tips. Different sizes at different distances; the nearest ones huge and menacing. No caps, no rounded domes, nothing cute.
+2. A savage sandstorm wind: sheets of sand and grey silt tearing sideways across the plain in streaming bands, grit whipping off the coral branches, the distance swallowed in brown-grey dust. The sky is a cruel, bleached, glaring white-yellow, with a dark sickly-brown storm wall rising behind. The light is blinding and hostile.
+3. The worm ridge stays, half-hidden by blowing dust.
+
+No people, no text.

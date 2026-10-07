@@ -16,6 +16,10 @@
 
 ![The tower in full from the island floor: the spore galaxy, the glowing roots, and the rabbits all facing the tower](../../.attachments/lighthouse_island.jpg)
 
+![At the foot of the tower: the open door glowing orange, the roots spreading toward you](../../.attachments/lh_door.jpg)
+
+![Through the split: the Sea of Silt under a white sky, black glass spires, and wormsign in the sand](../../.attachments/lh_door_desert.jpg)
+
 ![Erleena in her workroom, dropping the agent into the dish; a grey dead ring spreads through the russet mold](../../.attachments/enc_erleena_at_work.jpg)
 
 ![Kill it or wash it — three packs on the froghemoth at the bridge](../../.attachments/enc_froghemoth_wash.jpg)

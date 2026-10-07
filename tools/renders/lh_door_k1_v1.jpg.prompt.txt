@@ -1,0 +1,11 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 16:9
+size: 2K
+refs: docs/.attachments/lighthouse_island.jpg, tools/refs/lighthouse_canon.jpg
+
+A wide 16:9 painting in exactly the same painted style, colours and lighting as the reference images. Close-up at the base of the same lighthouse, standing on the ground a few paces from its door, looking slightly up.
+
+The base of the tower fills most of the frame: old white concrete almost hidden under thick, pale, root-like mycelium cords that glow softly where they knot, shelf fungi, amber caps, the old metal railing and ladder half-swallowed. Dead centre, the open door: a dark weathered metal door standing ajar, and the doorway behind it glowing a deep warm orange, spore haze spilling out of it at ground level. Thick roots spread across the mossy russet-gold ground toward the viewer. Above, the tower rises out of the top of the frame; the golden spore glow from the lantern room spills down from above. Glittering spores drift in the air. Orange haze rolls low.
+
+No people, no rabbits, no water, no bridge. No text. Hushed, sacred, beautiful, and quietly wrong: the threshold of something.

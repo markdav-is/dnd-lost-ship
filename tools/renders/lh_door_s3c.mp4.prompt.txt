@@ -1,0 +1,6 @@
+model: veo-3.1-fast-generate-preview
+image: tools/refs/lh_door/k3.jpg
+last: tools/refs/lh_door/k4.jpg
+params: {"aspectRatio": "16:9", "durationSeconds": 8, "resolution": "1080p", "negativePrompt": "fire, flames, explosion, debris, rubble, towers, windows, buildings, mushroom caps, toadstools, creature, monster, people, text, cuts"}
+
+The camera glides slowly and smoothly forward toward the glowing rift in the tower, almost through it, until the rift's torn golden edges frame only the sides of the picture and the desert fills the frame: a hostile desert under a blinding, bleached white sky with a merciless glare: a grey sea of dust, ochre cliffs with silt pouring over them, tall jagged spires of splintered black obsidian, harsh sand and grit tearing sideways on a savage wind, and a long ridge of churned sand moving across the plain as if something huge swims beneath it. Golden spores vent from the broken tips of the spires and stream toward the viewer with the sand. Heat shimmer. Painted style. Overwhelming, oppressive, frightening. No people.
