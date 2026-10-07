@@ -13,7 +13,8 @@ The campaign's **modules**, in play order. Each module page is the overview — 
 | 5 | [Frostwatch Horror](Adventures/Frostwatch-Horror.md) · [Flipbook](Adventures/Frostwatch-Horror/Flipbook.md) | Survival-horror module | Played ✔ |
 | — | Ship survey (Levels 1–Lower) | Dungeon crawl | Played ✔ — see [The Lost Ship](The-Lost-Ship.md) |
 | 6 | [Return to Frostwatch](Adventures/Return-to-Frostwatch.md) · [Flipbook](Adventures/Return-to-Frostwatch/Flipbook.md) | Journey + council | Played ✔ (2 sessions) — 8 encounter subpages ⚡ |
-| 7 | [Return to the Ship](Adventures/Return-to-the-Ship.md) · [Flipbook](Adventures/Return-to-the-Ship/Flipbook.md) | Ship expedition | **In play** — Eddie, deliberately woken by George and Erleena; party committed to the Cure — 7 encounter subpages ⚡ |
+| 7 | [Return to the Ship](Adventures/Return-to-the-Ship.md) · [Flipbook](Adventures/Return-to-the-Ship/Flipbook.md) | Ship expedition | Played ✔ (2 sessions): the crossing, the breach, Eddie, George at S42. The Send-Off closes the arc after module 8 |
+| 8 | [The Awakened Ship](Adventures/The-Awakened-Ship.md) · [Flipbook](Adventures/The-Awakened-Ship/Flipbook.md) | Three goals, any order | **In play** from session 3 (2026-10-06): the frog, the big door, the antenna |
 | — | [The Three Roads](Adventures/The-Three-Roads.md) | Path planning | All three crisis answers designed in detail — fire, ash-and-green, cure — plus the Erleena Pivot |
 
 ## Return to Frostwatch — encounters
@@ -22,7 +23,11 @@ The campaign's **modules**, in play order. Each module page is the overview — 
 
 ## Return to the Ship — encounters
 
-[The Whiteout](Adventures/Return-to-the-Ship/The-Whiteout.md) · [The Breach](Adventures/Return-to-the-Ship/The-Breach.md) · [The Lab at S42](Adventures/Return-to-the-Ship/The-Lab-at-S42.md) · [Beneath the Lighthouse](Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md) · [Flipbook](Adventures/Return-to-the-Ship/Flipbook.md)
+[The Whiteout](Adventures/Return-to-the-Ship/The-Whiteout.md) · [The Breach](Adventures/Return-to-the-Ship/The-Breach.md) · [The Lab at S42](Adventures/Return-to-the-Ship/The-Lab-at-S42.md) · [The Send-Off](Adventures/Return-to-the-Ship/The-Send-Off.md) · [Flipbook](Adventures/Return-to-the-Ship/Flipbook.md)
+
+## The Awakened Ship — encounters
+
+[Beneath the Lighthouse](Adventures/The-Awakened-Ship/Beneath-the-Lighthouse.md) · [The Jammed Override](Adventures/The-Awakened-Ship/The-Jammed-Override.md) · [The Antenna](Adventures/The-Awakened-Ship/The-Antenna.md) · [Flipbook](Adventures/The-Awakened-Ship/Flipbook.md)
 
 ## Building new modules
 

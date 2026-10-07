@@ -1,4 +1,4 @@
-[Home](../../Home.md) / [Adventures](../../Adventures.md) / [Return to the Ship](../Return-to-the-Ship.md) / The Antenna <!-- wikidown:breadcrumb -->
+[Home](../../Home.md) / [Adventures](../../Adventures.md) / [The Awakened Ship](../The-Awakened-Ship.md) / The Antenna <!-- wikidown:breadcrumb -->
 
 # The Antenna
 
@@ -18,7 +18,7 @@ The fields stop at the hull. **A wire doesn't care.** A dish mounted *outside*, 
 
 > *"They're wonderful at lists. This isn't a list. This is more of a — a situation. You're much better at situations."*
 
-**This counts as Eddie's favor** ([The Lab at S42](The-Lab-at-S42.md)) if the table hasn't already paid it.
+**This counts as Eddie's favor** ([The Lab at S42](../Return-to-the-Ship/The-Lab-at-S42.md)) if the table hasn't already paid it.
 
 ## The kit
 
@@ -48,7 +48,7 @@ Rules for the box:
 
 Out the **upper airlock** in the hillside dell, then **up**: three hundred feet of iced boulders to where the tremor shook the top of the hull bare — a long hump of gray metal standing out of the snow and rock. Eddie calls it **the crown**. He holds the airlock door for them. *"I'll keep the door. I'm good at doors."*
 
-The siege is still on ([The Breach](The-Breach.md)). The ground horde boils around the lower hull; the crown is above the worst of it. **The sky is not.**
+The siege is still on ([The Breach](../Return-to-the-Ship/The-Breach.md)). The ground horde boils around the lower hull; the crown is above the worst of it. **The sky is not.**
 
 ## The job, in four acts
 
@@ -144,7 +144,7 @@ Roll a d8 **every round**, all four acts. The birds are [Fungal Perytons](../../
 
 *In this scene:* keep 3–4 in the air, replace them as they drop, and let them go for the **cable, the hammer, and hats** before they go for throats. A level-11 party kills one a round without trying; the trouble is that everyone's hands are full.
 
-**Spore-Touched Griffon** — *Large monstrosity, CR 3*: AC 12 · HP 59 · fly 80 ft · Beak +6 (1d8+4) · Claws +6 (2d6+4) **and the target is grappled** (escape DC 14) · **Drag-down:** hauls a grappled creature 30 ft a turn · 5-ft **spore aura**, DC 13 CON at the start of your turn in it or poisoned until the end of that turn. (Full notes on [The Breach](The-Breach.md).)
+**Spore-Touched Griffon** — *Large monstrosity, CR 3*: AC 12 · HP 59 · fly 80 ft · Beak +6 (1d8+4) · Claws +6 (2d6+4) **and the target is grappled** (escape DC 14) · **Drag-down:** hauls a grappled creature 30 ft a turn · 5-ft **spore aura**, DC 13 CON at the start of your turn in it or poisoned until the end of that turn. (Full notes on [The Breach](../Return-to-the-Ship/The-Breach.md).)
 
 **The griffon** goes for whoever is holding the dish; its grapple-and-drag pulls them off the crown and down the slope. The dish has **AC 13, 20 HP**; at 0 it's scrap, and Eddie has exactly one spare and a much more sheepish voice.
 
@@ -188,4 +188,4 @@ Thirty minutes, and it should be **ridiculous**: a centaur with a satellite dish
 
 ---
 
-*Deeper knowledge:* [The Breach](The-Breach.md) · [The Lab at S42](The-Lab-at-S42.md) · [The Aura Network](../../World/The-Aura-Network.md) · [The Lost Ship](../../The-Lost-Ship.md) · [The Invisible Infection](../../Campaign/Plot-Threads/The-Invisible-Infection.md) · [Jak Bjornsson](../../NPCs/Jak-Bjornsson.md) · module: [Return to the Ship](../Return-to-the-Ship.md)
+*Deeper knowledge:* [The Breach](../Return-to-the-Ship/The-Breach.md) · [The Lab at S42](../Return-to-the-Ship/The-Lab-at-S42.md) · [The Aura Network](../../World/The-Aura-Network.md) · [The Lost Ship](../../The-Lost-Ship.md) · [The Invisible Infection](../../Campaign/Plot-Threads/The-Invisible-Infection.md) · [Jak Bjornsson](../../NPCs/Jak-Bjornsson.md) · module: [Return to the Ship](../Return-to-the-Ship.md)

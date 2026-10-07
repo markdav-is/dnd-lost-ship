@@ -8,7 +8,7 @@ The spore-blasters are used in [Return to the Ship](../Adventures/Return-to-the-
 
 ## Available now: George's spore-blasters
 
-*This is [George's](../NPCs/George-Decay.md) field kit, not the eventual counteragent. It kills mold and breaks the Lighthouse's grip; it does not cure anyone. Four rigs exist as of the reunion at [S42](../Adventures/Return-to-the-Ship/The-Lab-at-S42.md).*
+*This is [George's](../NPCs/George-Decay.md) field kit, not the eventual counteragent. It kills mold and breaks the Lighthouse's grip; it does not cure anyone. George made **one rig per party member plus one for Erleena** (six for the party of five), handed out at the reunion at [S42](../Adventures/Return-to-the-Ship/The-Lab-at-S42.md).*
 
 **Spore-blaster.** Backpack tank (a repurposed ship fire extinguisher) + hose and wand, charged with George's alkaline mold-killer under pressure. **Heavy:** disadvantage on Stealth while worn. **Tank: 6 blasts**; refill in 10 minutes from George's alkaline stock or at any ship fire-suppression station (Eddie can point them out).
 

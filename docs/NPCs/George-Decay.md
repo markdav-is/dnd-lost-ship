@@ -39,7 +39,7 @@ Deep resonant baritone, refined diction, dramatic pauses, signature **"Oh my!"**
 - **Stimulant cocktail** 3/day: advantage on INT checks and saves 10 min, then 1 exhaustion.
 - **Alchemical vials:** acid, alkaline mold-killer (2d10 to fungal creatures, no save), flash powder.
 - **Infected — improving:** DC 15 CON per untreated 24h or lose 1d6 max HP; at 0 → vegepygmy in 1d4+20 hours. His anti-fungal treatment currently holds that line rather than losing it. He fights anyway.
-- **Gear:** medical bag (2 healing sprays 2d12), notebook of ship observations, atmosphere analyzer, gray key card, a working stock of his anti-fungal treatment — **six doses, as of the reunion at S42**: five for the party and the sixth for Erleena ([The Lab at S42](../Adventures/Return-to-the-Ship/The-Lab-at-S42.md)); a dose halts progression, doesn't reverse it (see [Russet Mold & Infection](../Game-Mechanics/Russet-Mold-and-Infection.md)) — and **four spore-blaster rigs**, also as of the reunion at S42 (stats on [The Counteragent](../Game-Mechanics/The-Counteragent.md)).
+- **Gear:** medical bag (2 healing sprays 2d12), notebook of ship observations, atmosphere analyzer, gray key card, a working stock of his anti-fungal treatment — **six doses, as of the reunion at S42**: five for the party and the sixth for Erleena ([The Lab at S42](../Adventures/Return-to-the-Ship/The-Lab-at-S42.md)); a dose halts progression, doesn't reverse it (see [Russet Mold & Infection](../Game-Mechanics/Russet-Mold-and-Infection.md)) — and **spore-blaster rigs, one per party member plus one for Erleena** (six), also as of the reunion at S42 (stats on [The Counteragent](../Game-Mechanics/The-Counteragent.md)).
 
 ## His lab
 
@@ -49,7 +49,7 @@ Deep resonant baritone, refined diction, dramatic pauses, signature **"Oh my!"**
 
 ## Staying behind — the holding action
 
-When Erleena decides the cure is on Aerun and that she is going to get it ([Beneath the Lighthouse](../Adventures/Return-to-the-Ship/Beneath-the-Lighthouse.md)), George stays. Spore air is the one thing his treatment can't handle; a sea crossing and a desert would finish him. He has known this since before the party arrived, and he and Erleena settled it on the comm before she ever said it out loud to anyone else. *"Someone has to mind the shop. I am, regrettably, the only one of us the shop is currently eating."*
+When Erleena decides the cure is on Aerun and that she is going to get it ([Beneath the Lighthouse](../Adventures/The-Awakened-Ship/Beneath-the-Lighthouse.md)), George stays. Spore air is the one thing his treatment can't handle; a sea crossing and a desert would finish him. He has known this since before the party arrived, and he and Erleena settled it on the comm before she ever said it out loud to anyone else. *"Someone has to mind the shop. I am, regrettably, the only one of us the shop is currently eating."*
 
 What he does while they are gone — simple, and said plainly at S42 on the party's way out:
 

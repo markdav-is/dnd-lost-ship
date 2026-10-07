@@ -6,7 +6,7 @@
 
 ## When to run it
 
-After [Beneath the Lighthouse](Beneath-the-Lighthouse.md) and the garden crossing back, during the goodbye at [S42](The-Lab-at-S42.md) (*On the way back — George stays*). George and Erleena are in one room for the first time in a month; the plan has been said out loud. This is the quiet beat before the breach and the sleds. No checks, no fight, about twenty minutes.
+After [Beneath the Lighthouse](../The-Awakened-Ship/Beneath-the-Lighthouse.md) and the garden crossing back, during the goodbye at [S42](The-Lab-at-S42.md) (*On the way back — George stays*). George and Erleena are in one room for the first time in a month; the plan has been said out loud. This is the quiet beat before the breach and the sleds. No checks, no fight, about twenty minutes.
 
 ## Read-aloud
 
@@ -63,7 +63,7 @@ Use what fits; skip what the player didn't raise.
 
 | Character | Erleena | George |
 | :--- | :--- | :--- |
-| **Shhhmeowmeow** | She looks at his eyes. *"Blue. On Aerun that means Spice — which means money, a champion, or the deep desert. Everyone you meet is going to decide which one you are. Let them."* If he says *Eldorado*: she is pleased, and says only that it is the one old city she has never put a spade in ([her line beneath the Lighthouse](Beneath-the-Lighthouse.md)). | *"Do take a hat. I'm told the sun there is personal."* |
+| **Shhhmeowmeow** | She looks at his eyes. *"Blue. On Aerun that means Spice — which means money, a champion, or the deep desert. Everyone you meet is going to decide which one you are. Let them."* If he says *Eldorado*: she is pleased, and says only that it is the one old city she has never put a spade in ([her line beneath the Lighthouse](../The-Awakened-Ship/Beneath-the-Lighthouse.md)). | *"Do take a hat. I'm told the sun there is personal."* |
 | **Eustace** | *"You know the harbors. You don't know what's behind them. Past the customs house it stops being a port and starts being somebody's property."* | *"They hold your valuables and return them at the far end. Oh my. I would like a receipt system like that for this ship."* |
 | **Musty-Jo** | She sorts his list out loud (key below), then: *"Nobody on Aerun will lie to you. They'll state a price. Don't agree to one. And don't sign anything — especially at noon, which is when they sign things."* | *"When in doubt, nod at nothing."* |
 | **Beyond-Ce** | *"You're the one I need to be careful. I need a defiler found, and you're the only one of us who'll know a real one from a fraud. Do that with your mouth, not your hands."* | *"Speaking as a fellow practitioner: they've built a continent around disliking us. One almost admires the consistency."* |
@@ -77,10 +77,10 @@ Use what fits; skip what the player didn't raise.
 
 [The Breach](The-Breach.md) in reverse — with the packs. The siege is still on at the hull; the way out is the same airlock, and **Korrin is waiting back over the last ridge**, upwind of the orange haze, sleds turned and ready. He lost his own dogs to the infection once; he was never going to bring a team down into the spores. The run is door to ridge.
 
-- **The packs open the lane.** One wash breaks the Lighthouse's hold on anything Large or smaller and clears the fog in the cone for a minute ([The Counteragent](../../Game-Mechanics/The-Counteragent.md)). A washed wolf stops being a soldier and becomes a sick, frightened animal that bolts — George's rabbitoid, at scale. **Four packs, six blasts each: 24 cones**, Erleena wearing the fourth.
-- **The wash does nothing to the party.** It only acts on infected creatures and fungus. Nobody in the party is infected, so they can fire cones straight through each other and need no gear beyond the packs. Erleena is in the same position — no suit, the sixth dose, the fourth pack.
+- **The packs open the lane.** One wash breaks the Lighthouse's hold on anything Large or smaller and clears the fog in the cone for a minute ([The Counteragent](../../Game-Mechanics/The-Counteragent.md)). A washed wolf stops being a soldier and becomes a sick, frightened animal that bolts — George's rabbitoid, at scale. **One pack each plus Erleena's, six blasts each: 36 cones for a party of five**, Erleena wearing hers.
+- **The wash does nothing to the party.** It only acts on infected creatures and fungus. Nobody in the party is infected, so they can fire cones straight through each other and need no gear beyond the packs. Erleena is in the same position — no suit, the sixth dose, her own pack.
 - **Eddie covers them** the same way he did coming in: turrets and robots open the door-side gap, **DEX save DC 13** each leg to stay on his line, 2d6 radiant and an immediate apology on a failure.
-- **The box of books comes too.** Erleena's fifty pounds of *A Brief History of Vermoon* ([Beneath the Lighthouse](Beneath-the-Lighthouse.md)) makes the run from door to ridge in somebody's arms. Whoever has it is carrying a box, not a weapon, and makes the DEX save at disadvantage. She will not let it be left, and she will notice if it is dropped. It rides to Frostwatch on the sled, under her feet.
+- **The box of books comes too.** Erleena's fifty pounds of *A Brief History of Vermoon* ([Beneath the Lighthouse](../The-Awakened-Ship/Beneath-the-Lighthouse.md)) makes the run from door to ridge in somebody's arms. Whoever has it is carrying a box, not a weapon, and makes the DEX save at disadvantage. She will not let it be left, and she will notice if it is dropped. It rides to Frostwatch on the sled, under her feet.
 - **Easier out than in.** The horde is pointed at the hull, and the party is running away from what it wants. Anything that does turn on them gets washed or gets past — a loose infected creature gets one attack, not a fight.
 - **The blasts are the budget.** Every cone spent at the door is one they don't have on the glacier, and the refills are all back inside the ship.
 

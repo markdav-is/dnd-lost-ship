@@ -10,6 +10,8 @@
 
 **As played (session 1):** the party did not take the lit north run. Eddie said *"down a level, then north-west,"* and they dropped straight down the **south tube beside the airlock** — landing on the observation deck by the theater, the bar, and the dance club, the dark side of the ring, with George's lit door visible across the deck. On the way round they hit a **roper**, one of the **three ropers of the S38c west growth** that wall George's pocket, and killed it; the session ended with **the other two ahead of them**. So the next session opens on the ring: run the two remaining ropers from [Level 2's dark-side table](../../The-Lost-Ship/Level-2-The-Theater.md), then pick up at *Read-aloud — the reveal*.
 
+**As played (session 2, 2026-09-24):** this page ran through *The demonstration* as written. Differences from the page: George handed out **a pack for each of the five plus one for Erleena**, which is now the rule (party size plus one); the party told George only the short version of the outside news; and George put **Erleena on the comm** from his console, where she made her door and froghemoth asks early (see [Beneath the Lighthouse](../The-Awakened-Ship/Beneath-the-Lighthouse.md)). Eddie offered the drop tube and George the lift, and the party hasn't chosen. They long-rested here. Full account in the [Adventure Log](../../Campaign/Adventure-Log.md).
+
 ![Where session 1 left off, over Musty-Jo's shoulder: Beyond-Ce as a fire elemental up front, Robin's guiding bolt, Shhhmeowmeow's bow, Eustace calling lightning from over the drop, and the two S38c ropers in the overgrowth as the lights start coming on](../../.attachments/enc_ropers_lights_on.jpg)
 
 ### The lights come on (help arrives)
@@ -46,7 +48,7 @@ Then give the party the floor. Let them look at him, count heads, say what they 
 | | What | The fine print |
 | :--- | :--- | :--- |
 | **The doses** | His anti-fungal treatment, proven on himself — **six doses**: five for the party, one each, and **the sixth for Erleena**. He says her name when he counts it out, and he means for it to reach her. | **Stopgap tier** ([Russet Mold & Infection](../../Game-Mechanics/Russet-Mold-and-Infection.md)): a dose halts progression for 24 hours; it does not reverse a stage. He says so before anyone can ask: *"This is not the cure. This is the thing that keeps you alive long enough to be cured."* |
-| **The spore-blasters** | **Four backpack rigs** — the ship's old fire extinguishers refilled with his alkaline mold-killer. He would rather show than tell: see *The demonstration* below. | Stats on [The Counteragent](../../Game-Mechanics/The-Counteragent.md). |
+| **The spore-blasters** | **One backpack rig per party member, plus one for Erleena** (six for a party of five) — the ship's old fire extinguishers refilled with his alkaline mold-killer. He would rather show than tell: see *The demonstration* below. | Stats on [The Counteragent](../../Game-Mechanics/The-Counteragent.md). |
 | **The state of Erleena** | Alive, close, and further along than anyone hoped — she stopped the strain replicating in a dish ([her Progress](../../NPCs/Erleena-Riser.md)), and she thinks she knows what the source *is*. George won't spoil it: *"She'll want to tell you herself. She has slides."* George talks to her every day on the ship's internal comms — he told her the moment the party reached S42, and she has heard all about the doses and the packs (she has asked for one). It is the *outside* line that is dead: the ship's fields let no signal in or out of the hull ([Ship-wide properties](../../The-Lost-Ship.md)). What keeps the two of them apart is the garden. And the Lighthouse is fighting back now — the siege outside is aimed at *her*, and at him: it started when the soap started working, and he does not think that is a coincidence. | The [Garden Level](../../The-Lost-Ship/The-Garden-Level.md) between here and her lab is thicker with spores than the party remembers. George can't go — spore air is still the one thing his treatment can't handle. *"I would last an hour. Perhaps two. I have done the arithmetic and I do not care for it."* |
 | **The bargain** | Eddie will open the medical decks below — the labs, the pharmacopeia, the cure materials — but he wants *"a small favor or two"* first. George translates: *"It wants things done. It's a computer. It does not know what 'small' means."* | Which favor comes first is the DM's call; don't resolve it on this page. Let Eddie float it from the ceiling and George raise an eyebrow. Note for later: once Erleena's plan is on the table, this bargain stops being about the party's cure and becomes George's supply line — the medical decks are what the soap factory runs on (see *On the way back*, below). |
 
@@ -58,7 +60,7 @@ Then give the party the floor. Let them look at him, count heads, say what they 
 
 George's fungicide spray packs — the spore-blasters, if you ask Eddie — get shown, not described. He has been waiting a month for an audience.
 
-> *George crosses to a rack by the door and hauls down four packs, one at a time, with the care of a man who has dropped one before. Squat cylinders, still wearing the ship's fire-extinguisher stencils, each trailing a hose to a wand tipped in brass. The harness straps are gurney webbing, cut and re-buckled by hand.*
+> *George crosses to a rack by the door and hauls down the packs, one at a time, with the care of a man who has dropped one before. Squat cylinders, still wearing the ship's fire-extinguisher stencils, each trailing a hose to a wand tipped in brass. The harness straps are gurney webbing, cut and re-buckled by hand.*
 >
 > *On the bench, under a sheet he lifts away, is a wire cage. Inside it, a rabbitoid from the garden. Its eyes are filmed white. It stands perfectly still, nose to the mesh, facing one wall — the wall it has faced all day, by the look of the droppings — and it does not turn when the sheet comes off, or when George shoulders a pack and hefts the wand.*
 >
@@ -72,7 +74,7 @@ George's fungicide spray packs — the spore-blasters, if you ask Eddie — get 
 
 ![George fits a spray pack on Musty-Jo, saddlebag-style: "ungainly but correct"](../../.attachments/enc_s42_fitting.jpg)
 
-**Fitting the packs.** He fits the packs on whoever steps forward — cinches the webbing, checks the hose for kinks, puts the wearer's hand on the lever and takes it off again. The number he says out loud, to each of them, is **six**: six blasts a tank, and he says it the way other men say *be careful*. On the centaur the harness won't sit like a firefighter's pack; it rides across the back like a saddlebag, tank on one flank, wand clipped along the other — George adjusts it twice and pronounces it *"ungainly but correct."* The fourth pack he fits on nobody. He stands it by the door and rests a hand on the tank. *"That one is hers. If you can get it down to her without using it, I will be genuinely impressed."* Refills take ten minutes at any of the ship's fire-suppression stations; Eddie knows where every one of them is and volunteers the fact from the ceiling before anyone asks. *(DM aside: this is where someone at the table says "Ghostbusters." Let them have it. Do not give the line to George — he has never heard of it, and he would be offended by the comparison.)*
+**Fitting the packs.** He fits the packs on whoever steps forward — cinches the webbing, checks the hose for kinks, puts the wearer's hand on the lever and takes it off again. The number he says out loud, to each of them, is **six**: six blasts a tank, and he says it the way other men say *be careful*. On the centaur the harness won't sit like a firefighter's pack; it rides across the back like a saddlebag, tank on one flank, wand clipped along the other — George adjusts it twice and pronounces it *"ungainly but correct."* The last pack he fits on nobody. He stands it by the door and rests a hand on the tank. *"That one is hers. If you can get it down to her without using it, I will be genuinely impressed."* Refills take ten minutes at any of the ship's fire-suppression stations; Eddie knows where every one of them is and volunteers the fact from the ceiling before anyone asks. *(DM aside: this is where someone at the table says "Ghostbusters." Let them have it. Do not give the line to George — he has never heard of it, and he would be offended by the comparison.)*
 
 Full rules — cone, blasts, refills, what a wash does to fungus and to the Lighthouse's hold — on [The Counteragent](../../Game-Mechanics/The-Counteragent.md).
 
@@ -80,32 +82,13 @@ Full rules — cone, blasts, refills, what a wash does to fungus and to the Ligh
 
 George has a month of ship news and none from outside. He will ask — about Frostwatch, the council, who came — but he asks quickly and moves on, because he has a bench to get back to and because he knows who really needs to hear it. *"Tell Erleena. All of it. She's had nothing but me for a month, and I am, I'm told, a limited diet."* If the party mentions Rajaat or the defilers here, he listens hard and says little; the surgery idea is Erleena's to have ([her Pivot](../../NPCs/Erleena-Riser.md)). If it comes up, his reaction: *"So the treatment is to murder a garden that happens to be me, and then replant. Oh my. — No, don't stop. I'm listening."*
 
-## The decision — the way down
+## The morning after
 
-The party leaves George at S42 and goes to Erleena. Both ways down from George's corner land in the **garden's north-west corner** — the choice is how to get down, then how to cross. DM's numbers light.
-
-- **Down — the tube.** The north drop tube (S31 → S47, green-gated — Eddie overrides) sets them down beside **S52, garden maintenance**. Anti-grav; one at a time; hands free.
-- **Down — the lift.** The cargo platform in **S33c, one door north of the lab**, lowers a 20-foot platform straight into S52 — everyone and the gear in one go, no anti-grav. The sane way to move a centaur, six doses of anything, and four backpack tanks. Eddie lowers it; George has used it to get supplies up.
-![Out of the north gate: the whole garden falls away to the lake, the Lighthouse in the haze](../../.attachments/garden_arrival_vista.jpg)
-
-- **Then the crossing — the real decision.**
-  1. **The bridge route they know:** outer garden (S56) → inner garden (S57) → the bridge at S59 → the island (S60) and the Lighthouse hatch. Fastest, and straight past the [froghemoth](../../Bestiary/Ship-Creatures.md), which is infected and Lighthouse-directed now and works the water on purpose.
-
-     ![The inner wall's north gate, the spore haze thickening beyond it](../../.attachments/garden_inner_gate.jpg)
-
-     ![The west shore: the bridge, the dead robots, and a ripple that isn't the wind](../../.attachments/garden_bridge_west.jpg)
-  2. **Around the lake** by a quadrant they haven't walked: longer, darker, unknown — but off the froghemoth's line. The obvious "long way" is the south-east swamp (S58): knee-deep, burst pipes, giant leeches.
-
-     ![The long way round: the south-east swamp, with the Lighthouse across the water](../../.attachments/garden_swamp_route.jpg)
-  3. **Un-hijack the froghemoth.** Three spore-blasts within a minute break the Lighthouse's hold ([The Counteragent](../../Game-Mechanics/The-Counteragent.md)); it goes back to being a very large, very hungry animal that is no longer hunting them on purpose. Not safe — but no longer chess.
-
-  Either way the garden is thicker with spores than they remember: run exposure frostbite-style, with an infection save per [Russet Mold & Infection](../../Game-Mechanics/Russet-Mold-and-Infection.md) at the DM's cadence (a zone crossed, a stop made). A blaster's cone buys a minute of clear air where it's pointed.
-
-End here. The players choose; the page doesn't.
+Session 3 starts here, with Eddie's list and the three goals: the frog, the big door and the antenna. That play has its own module now: **[The Awakened Ship](../The-Awakened-Ship.md)**.
 
 ## On the way back — George stays
 
-When the party comes back through S42 with Erleena ([Beneath the Lighthouse](Beneath-the-Lighthouse.md)), this room is the goodbye. George and Erleena in one place for the first time in a month; the plan said out loud with all three sides present; the last refills on the tanks. George's part is the holding action: he stays, he and Eddie make more soap, the robots carry it deck by deck, and as long as the tower is fighting him it isn't spreading — *for now* ([George Decay](../../NPCs/George-Decay.md)). Play it warm and brief. He will not permit it to be anything else.
+When the party comes back through S42 with Erleena ([Beneath the Lighthouse](../The-Awakened-Ship/Beneath-the-Lighthouse.md)), this room is the goodbye. George and Erleena in one place for the first time in a month; the plan said out loud with all three sides present; the last refills on the tanks. George's part is the holding action: he stays, he and Eddie make more soap, the robots carry it deck by deck, and as long as the tower is fighting him it isn't spreading — *for now* ([George Decay](../../NPCs/George-Decay.md)). Play it warm and brief. He will not permit it to be anything else.
 
 **The closing scene has its own page: [The Send-Off](The-Send-Off.md)** — Erleena's chart of Aerun, the five *what you know about Aerun* player handouts, and the round-robin. Run it here, while George does the last refills.
 
