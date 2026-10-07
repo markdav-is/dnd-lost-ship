@@ -1,0 +1,10 @@
+model: veo-3.1-generate-preview
+image: tools/refs/lighthouse_canon_9x16.jpg
+last: tools/refs/lighthouse_canon_9x16.jpg
+params: {"aspectRatio": "9:16", "durationSeconds": 8, "resolution": "1080p", "negativePrompt": "camera movement, zoom, pan, cuts, text, people, figures"}
+
+Locked-off camera, no camera movement at all. Animate this painting of a lighthouse wrapped in glowing pale mycelium, keeping its exact painted style, composition and colours.
+
+The galaxy of golden-white spores turns in a slow, majestic spiral around the lantern room, the tiny points of light drifting and twinkling like stars in a nebula. The lamp inside the lantern room breathes, brightening and dimming softly like a heartbeat. Faint pulses of golden light travel slowly up and down the root-like cords on the tower, as if the whole structure is one living nervous system. The orange spore haze at the base rolls and drifts gently, and the glow through the open door flickers warm. Dark storm clouds drift very slowly behind.
+
+Dreamlike, hypnotic, sacred and unsettling. Slow, smooth, continuous motion. Soundtrack: a low resonant ambient drone with a faint shimmering choir-like tone, no music, no voices.

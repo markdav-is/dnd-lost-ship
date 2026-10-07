@@ -6,7 +6,36 @@
 
 ![Erleena's lab under the lake: the spike on the trace, and the green murk beyond the viewports](../../.attachments/enc_beneath_the_lighthouse.jpg)
 
-## Read-aloud — the island
+## The tower in full
+
+*The party comes off the bridge with the froghemoth behind them, into the inner garden on the island. It is the first time anyone has stood this close to the tower with nothing trying to eat them. Let the moment be quiet.*
+
+![The tower in full from the island floor: the spore galaxy, the glowing roots, and the rabbits all facing the tower](../../.attachments/lighthouse_island.jpg)
+
+**On the table:** play the [looping clip](../../.attachments/lighthouse_island.mp4) full-screen on repeat and say nothing for a few seconds. It's 8 seconds, wide, and seen from the island floor. The beam turns one full circle like a real lighthouse: out over the distance, a gold flare as it swings past the viewer, and dim behind the tower. A drone plays underneath. There's also a [tall version](../../.attachments/lighthouse_awe.mp4) without the beam.
+
+> *The rabbits are the first thing. A dozen of them in the moss under the tower, fat and soft and the colour of rust, flecked gold where the spores have taken. They lift their heads when you come off the bridge. All of them at once. Then they go back to grazing, all of them at once.*
+>
+> *Then you look up.*
+>
+> *The halo is not a halo up close. It is a galaxy, slow and enormous, turning around the lantern room: arms of gold light, and in the arms, points of light that are each a single spore catching the lamp. The cords on the tower are pulsing, not glowing. Light runs up them from the ground and down them from the lamp, slow as breathing, and the moss under your boots pulses with it. It is the most beautiful thing any of you has ever seen, and it is very hard to look away.*
+
+**The check.** Everyone who looks up makes a **DC 15 Wisdom saving throw**. Anyone who has said in character that they're keeping their eyes down, or is under a blaster's fresh cone, rolls with advantage. **On a failure the tower takes them in.** For the others it lasts about a minute: they stand still, eyes up, smiling. **No damage, no infection save.** Eddie's voice reaches them from very far away. A shake, a slap or a spore-blast in the face brings anyone out early.
+
+**What a vision is like.** It's a mushroom trip, not a nightmare. Give each player who failed one or two of these, told to them in the second person, and let them describe what they do:
+
+- **Everything is breathing.** The ground, the tower and the water all rise and fall together, and so do you. You can't remember which of you started it.
+- **The threads.** Fine gold threads run out of the soil and into everything: the rabbits, the moss, the bridge, the frog in the water, the people standing next to you. You realize, as if you've always known, that they run into *you*.
+- **You can hear the rabbits.** Not the sound they make. Their heartbeats, a dozen of them in step, and yours keeping time with them.
+- **The pattern.** The tower's cords, your hand, the veins in a leaf and the spiral of the galaxy are all the same shape. It is funny that nobody ever noticed. Someone may laugh out loud.
+- **No edges.** For a moment you aren't sure where your skin stops and the air starts, and you don't mind. You are not alone. You have never been alone.
+- **Time goes soft.** The beam takes a year to sweep past. Then the moment is over and you have been standing there for a minute.
+
+**The message is only "everything is connected."** The visions don't explain anything. No faces, no voices, no prophecy, and nobody is named. Coming out of it should feel like losing something wonderful. Afterward the party can argue about what it meant. Was it peace, or was it an invitation? Erleena will want to hear about it, flatly and in detail, and she'll write it down.
+
+**Telling it sideways.** Nothing here says what the tower is. The rabbits moving in unison and the threads running into *everyone* are the network seen from the inside, and that is all the players get.
+
+## Read-aloud — the island, coming back to yourselves
 
 > *However you crossed, you are across. The island gives under your boots — this is not ground, it is the mold, skinned over old concrete — and the tower stands over you: white once, now wrapped seam and root in pale cords that glow where they knot. High up, the halo turns around the lantern room, gold-white, slow, deliberate. The beam swings out over the black water and every spore in the air leans after it.*
 >
@@ -63,6 +92,8 @@ George has told her all of it, daily and at length: the doses, the half-cure, th
 **What they bring from outside — all of it news.** This is the thing she does not have, and she asks for it straight: *"Now. Tell me what you learned out there. All of it. Start with whether Frostwatch is still standing."* It leads straight into the turn — once the frog is dealt with.
 
 ## The froghemoth
+
+**As played (2026-10-06): the party killed it at the bridge.** Nothing comes to the glass, so skip this section. When they reach her, Erleena already knows from Eddie's play-by-play, and the thudding on the portholes is only the small things now.
 
 *If the party already un-hijacked the froghemoth on the crossing (the third option at [The Lab at S42](../Return-to-the-Ship/The-Lab-at-S42.md)), the eyes never come — skip this section and go straight to the turn.*
 

@@ -1,0 +1,13 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 16:9
+size: 2K
+refs: tools/renders/lighthouse_below_v1.jpg, tools/refs/lighthouse_canon.jpg
+
+Edit the first reference image. Keep the same painted style, colours, tower, spore galaxy, mossy root-covered island ground, small mushrooms and the row of rust-coloured rabbits.
+
+Change two things:
+1. Remove the searchlight beam completely. No beam of light anywhere; where it was, show the dark storm-like murk with scattered drifting glittering spores. The lamp in the lantern room still glows brightly.
+2. Make the camera lower and closer, looking UP at the tower: a dramatic worm's-eye low-angle view from the ground among the roots, so the tower soars and looms, its sides converging slightly toward the top, the lantern room and the spore galaxy high up in the upper part of the frame with plenty of dark sky around them. The tower stays slightly right of centre and stays exactly the same tower as the second reference image. The rabbits stay small in the lower-left foreground. Still no water, no lake and no bridge anywhere.
+
+No people. No text.
