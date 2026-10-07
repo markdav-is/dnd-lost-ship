@@ -1,0 +1,11 @@
+backend: gemini
+model: gemini-3.1-flash-image
+aspect: 16:9
+size: 2K
+refs: docs/.attachments/nova_in_pod_v3.png
+
+Use the reference image for the room, the row of stasis pods, the lighting, the photographic style and the woman's face and clothes. Same chamber, same camera height, but the camera has moved a little closer to the nearest pod on the right and turned slightly toward it.
+The moment she wakes. The nearest pod's curved glass door has just unsealed and swung outward on its hinge, with frost crazed across the inside of the glass. Thick white cryogenic vapour pours out over the sill and rolls across the floor grating, lit from inside the pod. The panel lights below have changed from green to blinking amber.
+Nova, the same woman as in the reference: shaved head, pale skin, high cheekbones, dark green one-piece crew jumpsuit with a belt, is stepping out of the pod, unsteady after an impossibly long sleep. One bare hand grips the pod's door frame, the other is raised against the light. Her eyes are open for the first time, narrowed and dazed. A thin rime of frost on her shoulders and scalp, breath fogging. She looks about to fall but isn't going to.
+Beside her the other pods are unchanged: dark, cracked, the skeletons still behind their glass. Dust, debris, old ceiling panels, hard white light from above cut by the drifting vapour. Real film grain, practical set, real actress, no CGI gloss.
+No new text, no captions, no lettering, no watermark.

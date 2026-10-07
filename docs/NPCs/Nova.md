@@ -6,6 +6,8 @@ The last survivor of the ship's original crew — an **Antari** scientist in cry
 
 ![Nova in her stasis pod](../.attachments/nova_in_pod_v3.png)
 
+![Nova wakes: the pod door swings open on a frosted hinge, cryo vapour pours across the floor, and she steps out into the light for the first time in an age](../.attachments/enc_nova_wakes.jpg)
+
 ## Who she is
 
 **Nova is [Antari](../World/The-Antari.md)** (canon, 2026-09-21) — one of "the ancients," but from *before* the ancients anyone on Vermoon knows about. Her ship, the ark, was a **terraforming vessel that reached Vermoon first** and crashed in the Barrier Peaks long before the refugee ship landed, the cities rose, or the Titans were enslaved ([The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md)). She has been in the tank far longer than the 720 years since the Red Dragon — how much longer is not set.

@@ -47,6 +47,10 @@ The moment control passes, Eddie **seals the cargo door**. Erleena's month-old a
 
 This is the quiet payoff. The errand puts the party on the **lower deck**, and the lower deck is where **S64b, the stasis chamber**, is: twenty pods, nineteen skeletons, and [Nova](../../NPCs/Nova.md). The party still doesn't know she exists. The door was never the mystery; what's a few doors from it is. Don't point at it. Let Eddie, whose map shows S64b as nothing but machinery, light the corridor and say *"I don't go down that way much."* Nova wiped the computer core on her way into the tank, and he has no idea she is there. He isn't hiding anything. There is nothing down there that he knows of.
 
+**If they find her.** Freeing her is DC 12 Intelligence (Investigation) on the pod ([Nova](../../NPCs/Nova.md)).
+
+![Nova wakes: the pod door swings open on a frosted hinge, cryo vapour pours across the floor, and she steps out into the light for the first time in an age](../../.attachments/enc_nova_wakes.jpg)
+
 **A second way out.** With the cargo door under Eddie's control, it is a door to the outside he can open on request. It's a choice for the party when they leave with Erleena: the airlock and the breach, or the cargo door on the lower deck.
 
 ## Rewards

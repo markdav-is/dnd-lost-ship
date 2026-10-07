@@ -23,3 +23,5 @@
 ![Step one: the override's cover, sealed shut with mold, the amber lamp lit beside it](../../.attachments/enc_jammed_override_closed.jpg)
 
 ![Step two: the cover forced open, the dial stuck on LOCAL](../../.attachments/enc_jammed_override_closeup.jpg)
+
+![Nova wakes: the pod door swings open on a frosted hinge, cryo vapour pours across the floor, and she steps out into the light for the first time in an age](../../.attachments/enc_nova_wakes.jpg)
