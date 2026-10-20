@@ -177,6 +177,7 @@ If nobody saw the desert, she gets there anyway from the connected-world vision 
 Pick a few when the talk needs a push:
 
 - *"Were there obsidian spires? Can you describe them?"*
+- *"What color was the sand? And the sky?"*
 - *"I did my internship in the northern desert. Two seasons of sand in my teeth. I know that sky."*
 - *"The mold isn't the disease. It's the symptom. I've spent a month treating the fever."*
 - *"Everything joined together sounds lovely until you ask who's holding the other end."*
