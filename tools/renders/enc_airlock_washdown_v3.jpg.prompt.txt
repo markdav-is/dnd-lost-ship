@@ -1,0 +1,11 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 16:9
+size: 2K
+refs: tools/renders/enc_airlock_washdown_v2.jpg, tools/refs/eustace_ref.png
+
+Edit the first reference image. Keep everything exactly the same except the bird-like figure in the middle of the floor.
+
+Replace that figure with a man-sized bird-man: a HUMAN body shape standing upright on two legs, as tall as the woman medic on the right (about five foot two), with broad shoulders, a chest, a waist, human-proportioned arms ending in gloved hands, legs ending in taloned feet, and the head of a golden eagle with a hooked beak and golden-yellow eyes, exactly like the second reference image. Light brown feathers cover his head and arms; folded wings at his back. He wears a worn leather pirate coat with crossed straps and buckles and a small backpack tank. Soaked, head feathers puffed and dripping, he has his gloved hands up shielding his face from the spray and glares at Erleena with deep indignation. He must NOT look like an ordinary bird or animal.
+
+No text.

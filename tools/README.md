@@ -51,3 +51,7 @@ py tools/make_flipbooks.py --write
 ```
 
 Writes `/Adventures/<X>/Flipbook` for every adventure that has art: each image embedded on the adventure page and its subpages, in play order, with no text, so the DM can page through them at the table. Without `--write` it just prints the counts. Re-run it after adding or replacing encounter art, then run `make_gallery.py`.
+
+### Character references
+
+`tools/refs/party/` holds each player's profile picture, cropped (beyond_ce, eustace, gobbledegook, musty_jo, shhhmeowmeow; Robin's is `docs/.attachments/robin_wood_profile.png`). Pass them as `--ref` whenever a party member is in frame so faces and outfits stay consistent. Robin's cartoon shows light skin, while her sheet says brown skin; check with her player before painting her.

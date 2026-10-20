@@ -2,6 +2,8 @@
 
 # Gobbledegook
 
+![Gobbledegook: a grinning green goblin in a ragged crown and robes, waving a staff (the player's profile picture)](../../.attachments/portrait_gobbledegook.png)
+
 Goblin Cleric 10 — Trickery Domain (Urchin). Player: Theonezerg. Sheet: `assets/Gobbledegook.pdf` (2026-08-05).
 
 **Status: no longer with the party.** Gobbledegook did not go on the Return to the Ship expedition; the party is five ([The Party](../The-Party.md)). The page stays for the record and for whenever he turns up again.

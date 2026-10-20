@@ -2,6 +2,8 @@
 
 # Musty-Jo Mustang
 
+![Musty-Jo: a lean young centaur with short dark hair and a dusky-brown horse body (the player's profile picture)](../../.attachments/portrait_musty_jo.png)
+
 Centaur Fighter 6 / Paladin 5 (Outlander). Player: yourthighness69. Sheet: `assets/Musty-Jo Mustang.pdf` (2026-08-05). Appears in session notes as "Musty Joe."
 
 ## Stats

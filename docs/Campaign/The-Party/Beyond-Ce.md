@@ -2,6 +2,8 @@
 
 # Beyond-Ce
 
+![Beyond-Ce: a woman with dark skin, hair in a high bun with a beaded blue band, large gold earrings, a choker, and a blue dress with a ruffled collar (the player's profile picture)](../../.attachments/portrait_beyond_ce.png)
+
 Human Sorcerer 11 (Faction Agent). Player: natnerd15 (**Andy**). Sheets: `assets/Beyond-Ce.pdf` (2026-08-05, stats below) and `assets/natnerd15_154014083.pdf` (2026-09-21, adds the backstory). Appears in session notes as "Beyonce."
 
 ## Stats
@@ -57,7 +59,9 @@ The 2026-08-05 export was blank in every narrative field. **Andy's refreshed exp
 - **The Hound.** The part that bothers her most. When she reaches deep, **a great black hound** comes out of the shadows, hunts who she points it at, and vanishes when it's done. She calls it a tool. But its *eyes* are familiar — and sometimes, when she summons it, **it looks at her first, as if it recognizes her. As if it is waiting for something.** She has never told anyone that.
 - **The Road Ahead.** Years on. Still a guide, for the pay, for the road — and because she's admitted something to herself: *she is more comfortable responsible for someone else than for herself alone.* A client means a destination, a job, and someone to protect. She's escorted people she disliked and taken coin from people hiding things. *Money is money.* But if she gives her word she'll get you there, she will, whatever it costs. ***"She may not be a hero. But she does not leave people behind."***
 
-**Still blank, and still Andy's:** *which* faction the Faction Agent background means; where she is from; the Collar of the Beast; appearance, personality, ideals, bonds, flaws.
+**Appearance (from Andy's profile picture, 2026-10-07):** dark skin, hair in a high bun with a beaded blue band, large gold earrings and a choker, a blue dress with a ruffled collar.
+
+**Still blank, and still Andy's:** *which* faction the Faction Agent background means; where she is from; the Collar of the Beast; personality, ideals, bonds, flaws.
 
 ## DM hooks
 

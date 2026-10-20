@@ -2,6 +2,8 @@
 
 # Shhhmeowmeow
 
+![Shhhmeowmeow: a black-furred tabaxi with glowing blue eyes, in a purple hood and dark armour (the player's profile picture)](../../.attachments/portrait_shhhmeowmeow.png)
+
 Tabaxi Ranger 11 (Outlander), Gloom Stalker. Player: Shhhmeowmeow. Sheet: `assets/Shhhmeowmeow.pdf` (2026-08-05).
 
 ## Stats

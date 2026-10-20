@@ -1,0 +1,11 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 16:9
+size: 2K
+refs: docs/.attachments/erleena_riser.jpg
+
+Edit the reference image. Keep the same painted style, colours, lighting and setting: the inside of the mycelium-choked lighthouse, the spiral stair on the left, the root-covered stone walls, the amber fungus shelves, the shaft of golden light from the breach high on the right, the spore haze, and the round floor hatch with its wheel.
+
+Change the moment: the same woman in the same orange-and-tan pressure suit with the clear bubble helmet sealed is now STANDING, braced, wearing a compact metal backpack tank with a hose, sweeping a wide nozzle across the wall and floor. A broad cone of pale white-blue mist sprays from the nozzle. Where the mist lands, the russet-gold mold and the pale cords shrivel, grey and melt away, peeling off the stone in sheets, and the mushrooms on that side wilt and collapse; the air in the cone is clearing. Behind her the floor hatch now stands open, its lid thrown back, and clean cool white light rises from the shaft below. She looks determined and businesslike, not afraid.
+
+No other people. No text.

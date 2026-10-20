@@ -1,0 +1,16 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 16:9
+size: 2K
+refs: tools/renders/enc_airlock_washdown_v4.jpg, docs/.attachments/erleena_portrait.jpg, tools/refs/party/shhhmeowmeow.png, tools/refs/party/eustace.png, tools/refs/party/musty_jo.png, docs/.attachments/robin_wood_profile.png, tools/refs/party/beyond_ce.png
+
+Repaint the first reference image: the same painterly style, the same small circular riveted metal airlock under the lighthouse, amber wall lamps, grated floor with drains, the ladder rising to the round hatch open in the ceiling with russet spore haze drifting down, the round inner door on the left glowing with clean white light, and the same comedy moment. Match each character to their reference image exactly (face, colouring, hair, clothes). Exactly six figures, left to right:
+
+1. Far left: Erleena (face from the second reference image: late thirties, dark brown jaw-length hair) in her orange-and-tan pressure suit, bubble helmet held under one arm, smiling and amused, spraying a fine white mist from a hand hose across the others.
+2. Shhhmeowmeow (third reference image): a tall black-furred panther-like tabaxi with glowing blue eyes, in a purple hood and cowl over dark fitted armour, ears flat back under the hood, soaked and very unhappy about the water.
+3. Eustace (fourth reference image): a man-sized upright bird-man with a human body shape and the head of a golden eagle, light brown feathers, brass-buckled leather armour with crossed straps, gloved hands raised against the spray, feathers puffed and dripping, glaring with indignation.
+4. Behind and to the right, Musty-Jo (fifth reference image): a big centaur, a lean clean-shaven young man's torso with short dark hair, wearing chain mail under a parka, with a dusky brown horse body and a black tail, ducking under the low ceiling, laughing.
+5. Robin (sixth reference image): a young woman with long brown hair worn in two bunches tied with lime-green bows, in pale cleric-medic robes, laughing, hands up against the spray.
+6. Far right, Beyond-Ce (seventh reference image): a woman with dark skin, her hair in a high bun with a beaded blue band, large gold earrings and a choker, a blue dress with a ruffled collar under a travelling cloak, turned three-quarters toward the viewer, wincing and laughing as the spray hits her.
+
+Each of the party wears a small metal backpack tank. Everyone is wet and dripping. Warm, funny, a relief after danger. No text.

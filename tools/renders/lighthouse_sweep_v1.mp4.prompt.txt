@@ -1,0 +1,12 @@
+model: veo-3.1-generate-preview
+image: tools/refs/lighthouse_wide_16x9.jpg
+last: tools/refs/lighthouse_wide_16x9.jpg
+params: {"aspectRatio": "16:9", "durationSeconds": 8, "resolution": "1080p", "negativePrompt": "camera movement, zoom, pan, cuts, text, people, figures"}
+
+Locked-off camera, no camera movement, no zoom. Animate this painting of a lighthouse wrapped in glowing pale mycelium, keeping its exact painted style, composition and colours.
+
+The lighthouse lamp turns: its long golden searchlight beam rotates slowly and steadily through exactly one full revolution. It starts reaching out to the left over the black lake, sweeps toward the viewer in a soft bright flare that washes gold across the water and the rabbits, carries on round to the right across the dark clouds, passes behind the tower, and comes back round to its starting position on the left. Glittering spores swirl and drift inside the beam wherever it passes.
+
+At the same time the galaxy of golden-white spores turns in a slow, majestic spiral around the lantern room. Faint pulses of golden light travel slowly up and down the root-like cords on the tower like a living nervous system. The orange haze rolls gently across the island and the water, the reflection ripples faintly, and the glow through the open door flickers warm. The rabbits stay still, only their ears and noses twitching.
+
+Dreamlike, hypnotic, sacred. Slow, smooth, continuous motion. No sound needed.

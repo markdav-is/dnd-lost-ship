@@ -28,6 +28,10 @@
 
 ![Through the split: the Sea of Silt under a white sky, black glass spires, and wormsign in the sand](../../.attachments/lh_door_desert.jpg)
 
+![Erleena in her suit clearing the inside of the Lighthouse with George's sprayer, the hatch open behind her](../../.attachments/enc_erleena_spraying.jpg)
+
+![The airlock under the Lighthouse: Erleena, helmet off, hosing down the soaked and indignant party](../../.attachments/enc_airlock_washdown.jpg)
+
 ![Erleena in her workroom, dropping the agent into the dish; a grey dead ring spreads through the russet mold](../../.attachments/enc_erleena_at_work.jpg)
 
 ![Kill it or wash it — three packs on the froghemoth at the bridge](../../.attachments/enc_froghemoth_wash.jpg)

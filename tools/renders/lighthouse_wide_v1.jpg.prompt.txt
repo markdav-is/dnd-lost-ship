@@ -1,0 +1,15 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 16:9
+size: 2K
+refs: tools/refs/lighthouse_canon.jpg
+
+Repaint the reference painting as a wide 16:9 landscape scene, in exactly the same painted style, colours and lighting. The lighthouse must be the same tower, unchanged: white concrete wrapped in pale glowing root-like mycelium cords and fungal shelves, the ragged breach halfway up spilling cords, the lit lantern room with its railing, the open door at the base glowing orange, and the enormous golden-white galaxy of spores spiralling around the lantern room. Place the tower slightly right of centre, filling most of the frame height, seen from a little below, so it looms.
+
+Widen the world around it. The tower stands on a small island of spongy russet-gold mold and pale moss skinned over old concrete, rising out of a still, black lake that reflects the gold halo. At the left edge, a narrow old metal footbridge reaches across the dark water to the island. The orange spore haze rolls low across the island and over the water. Above, the dark storm-like murk of the original, lit from within by the spiral.
+
+From the lantern room, a single long, soft-edged searchlight beam of pale gold light reaches out to the left over the black water, full of glittering spores.
+
+In the moss in the lower foreground, small and easy to miss: five or six soft, fat, rust-coloured rabbits flecked with gold spores, all facing the tower, sitting perfectly still. Cute, not monstrous.
+
+No people. No text. Awe-inspiring, sacred, beautiful and quietly wrong.

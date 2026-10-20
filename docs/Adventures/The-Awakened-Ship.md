@@ -10,7 +10,7 @@
 
 ## Encounters
 
-1. **[Beneath the Lighthouse](The-Awakened-Ship/Beneath-the-Lighthouse.md)** (**the frog**): the island, the hatch, Erleena's lab fifty feet under the lake, the infected froghemoth at the glass (kill it or wash it before the lake comes in), and then the turn. The party tells her about Rajaat and the defilers, she makes her two asks, names Aerun, and says she's going. George stays to hold the ship.
+1. **[Beneath the Lighthouse](The-Awakened-Ship/Beneath-the-Lighthouse.md)** (**the frog**): the island, the hatch, Erleena's lab fifty feet under the lake, the infected froghemoth at the glass (kill it or wash it before the lake comes in), and then the turn. The party tells her about Rajaat and the defilers, she makes her two asks, names Aerun, and says she's going. George stays to hold the ship. Printable player cards for the door's visions: **[Vision Handouts](The-Awakened-Ship/Vision-Handouts.md)**.
 2. **[The Jammed Override](The-Awakened-Ship/The-Jammed-Override.md)** (**the big door**): the cargo door the party left by keeps opening and letting the siege in. Get to the cargo-bay booth on the lower deck and turn the dial to REMOTE. It puts the party a few doors from Nova.
 3. **[The Antenna](The-Awakened-Ship/The-Antenna.md)** (**Eddie's favor**): a 150-lb dish up the iced rocks to the crown of the hull, pointed at the Temple of Nord so Eddie can join the Aura network. Played for comedy.
 

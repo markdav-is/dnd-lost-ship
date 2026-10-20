@@ -40,15 +40,34 @@
 
 ![At the foot of the tower: the open door glowing orange, the roots spreading toward you](../../.attachments/lh_door.jpg)
 
-**On the table:** play the [door clip](../../.attachments/lh_door.mp4) full-screen on repeat. It runs 34 seconds and loops. First the quiet door. Then the walls begin to pattern and shimmer. Then the tower splits open on a bright desert, the view pushes through the rift into a scorching, sand-blasted desert of black glass spires, pulls back again, and the rift closes. The drone builds through the split and the desert and then settles. Start it as they reach the door and let it run while you narrate.
+**On the table:** there are two clips, one for each vision. Both open and close on the same door, and both loop.
 
-**Or the connected clip.** If nobody fails by 5 or more, nobody sees the desert, so play the [connected clip](../../.attachments/lh_door_connected.mp4) instead. It runs 45 seconds and loops, and has the same door at the start and end. In the middle, the gold threads carry the view through every vision in turn: the rabbits, the valley of animals moving as one, the harbour town where blue implants braid into the gold, and up to the whole world. Then it drops back down the roots to the door. The drone is warm and major-key, with no wind. Use the desert clip only when someone actually sees the desert.
+- **The [connected clip](../../.attachments/lh_door_connected.mp4)** runs 45 seconds. The gold threads carry the view through the rabbits, the valley of animals moving as one, the harbour town where blue implants braid into the gold, and up to the whole world, then back down the roots to the door. The drone is warm and major-key.
+- **The [desert clip](../../.attachments/lh_door.mp4)** runs 34 seconds. The tower splits open on a scorching, sand-blasted desert of black glass spires, the view pushes through the rift, pulls back, and the rift closes. The drone builds into a harsh wind.
+
+Start the connected clip as the party reaches the door. Switch to the desert clip when you turn to anyone who rolled a 1.
 
 > *Up close the door is just a door. Steel, old, standing open a hand's width. The light coming out of it is warm. The air coming out of it is warm. It smells like rain on hot stone, which is wrong, because there hasn't been rain or hot stone anywhere near here for a very long time.*
 
-**The check.** Everyone within a few steps of the door makes a **DC 15 Wisdom saving throw**. Anyone who has said in character that they're keeping their eyes down, or is under a blaster's fresh cone, rolls with advantage. **On a failure the tower takes them in.** For the others it lasts about a minute: they stand still at the threshold, smiling. **No damage, no infection save.** Eddie's voice reaches them from very far away. A shake, a slap or a spore-blast in the face brings anyone out early.
+**The roll.** Everyone at the door rolls a **d6**:
 
-**What a vision is like (failed the save).** It's a mushroom trip, not a nightmare. Give each player who failed one or two of these, told to them in the second person, and let them describe what they do:
+| d6 | What happens |
+| :-: | :--- |
+| **1** | **The desert** vision. |
+| **2–3** | **The connected world** vision. |
+| **4** | **Headache.** 1d6 psychic damage, and disadvantage on Intelligence and Wisdom checks until a short rest. |
+| **5** | **Faint.** Prone and unconscious for 1 minute, or until shaken awake (an action) or damaged. |
+| **6** | **Clear head.** Nothing happens. |
+
+Any number of players can land on any result. With five at the door, someone sees the desert more often than not. If nobody does, play the connected clip only.
+
+**Handouts.** There's a short printable card for each result on [Vision Handouts](Vision-Handouts.md). Hand them out after the rolls.
+
+**This is the tower reaching for them.** The visions and the backlash are both psionic attacks from the Lighthouse, not the spores. They deal no infection, and nobody makes an infection save for them. A shake, a slap or a spore-blast in the face brings anyone out of a vision early.
+
+### The connected world (d6: 2–3)
+
+For about a minute they stand at the threshold, smiling. Eddie's voice reaches them from very far away. It's a mushroom trip, not a nightmare. Give them two or three of these, told in the second person, and let them describe what they do:
 
 - **Everything is breathing.** The ground, the tower and the water all rise and fall together, and so do you. You can't remember which of you started it.
 - **The threads.** Fine gold threads run out of the soil and into everything: the rabbits, the moss, the bridge, the frog in the water, the people standing next to you. You realize, as if you've always known, that they run into *you*.
@@ -60,7 +79,7 @@
 - **The glowing ears.** A town in the snow at dusk, lanterns lit, everyone laughing. The blue lights behind their ears are pulsing, and from each one a thread of blue rises and twines with the gold, person to person, to the dogs and the goats and the gulls. Nobody in the town is alone. Nobody has ever been alone.
 - **The whole world.** You are very high up. Below you is the world, every land you know and some you don't, and all of it is laced with gold, branching like roots, with blue lights at the knots. It looks like a brain. It looks like it's breathing.
 
-**Show them.** After the read-aloud, show a player the picture that goes with their vision:
+**Show them.** After the read-aloud, show the picture that goes with each piece of their vision:
 
 ![The rabbits: every one joined by gold threads, hearts glowing together](../../.attachments/vision_bunnies.jpg)
 
@@ -70,39 +89,72 @@
 
 ![The whole world: Vermoon from above, laced with gold and blue](../../.attachments/vision_world_web.jpg)
 
+**What it leaves behind: hope.** They come out of it sure of something, the way you're sure of a dream. The spores aren't the enemy. Let them spread and they'll join the whole world into one web: every person, every animal, all feeling what the others feel. With that much empathy, nobody would ever hurt anyone again. It would be a utopia. *Why would anyone want to stop that?* It's a feeling, not a compulsion. Let the player decide how hard it holds their character.
+
 *DM only: the glowing-ears and whole-world visions put the Aura network into the same web as the spores. That is the party's withheld theory ([The Invisible Infection](../../Campaign/Plot-Threads/The-Invisible-Infection.md)), and it feels wonderful from inside. The vision does not confirm the theory. Leave that thread open.*
 
-**The desert (failed by 5 or more).** These players get the visions above, and then one more. Read it to them alone, in the second person, and show them this when you're done:
+### The desert (d6: 1)
+
+Read it to them alone, in the second person, and show them this when you're done:
 
 ![Through the split: the Sea of Silt under a white sky, black glass spires, and wormsign in the sand](../../.attachments/lh_door_desert.jpg)
 
 > *The wall in front of you splits. Not breaks. Opens, the way a curtain opens, along a seam of white light that runs up from the door and out of sight. Behind it there is no tower. There is a desert: a grey sea of dust, flat to the end of the world, under a white sky that presses down like a hand. The wind comes through the split hot and full of grit, and it stings. Black glass grows out of the dust in huge splintered spires, all shards and spikes, taller than the tower, and gold spores stream off their broken tips, through the split and over you. The light comes from there, and so do the spores. It has always come from there. Out between the spires the sand heaves up in one long curving ridge and keeps moving, as if something underneath it is swimming. Then the seam closes and the door is just a door.*
 
-**The pull.** Anyone who saw the desert comes out of it knowing, with the certainty of a dream, that they have to go there. They don't know where *there* is, and nothing in the vision tells them. This is roleplay, not a mechanic: no save and no compulsion. Let the player decide how much it pulls at their character, and give them room to bring it up again later.
+**What it leaves behind: urgency.** They come out of it with a strong pull toward the deserts of Aerun, as if part of them is already there, and with a hard certainty: *that's* where the spores are stopped, and it's the only way. They have to get there, and soon. It's a feeling, not a compulsion. Let the player decide how hard it drives their character.
+
+**The two visions disagree.** If both turn up, one player now feels the spores should be left alone to make a better world. The other feels they must be stopped, and only in the desert. Let them argue about it on the way down the stair.
 
 *DM only: the grey sea is the Sea of Silt on Aerun, the obsidian spires stand on it, and the ridge is wormsign. It is the other Salient's ground ([The First Source](../../Campaign/Plot-Threads/The-First-Source.md), [The Silt Sea](../../World/Dark-Sun/The-Silt-Sea.md)). This is foreshadowing for the long arc that ties the two together ([The Ship's Purpose](../../Campaign/Plot-Threads/The-Ships-Purpose.md)). Don't name any of it at the table, and don't confirm it when the players guess. When Erleena names Aerun later on this page, let anyone who saw the desert make the connection on their own.*
 
-**The message is only "everything is connected."** The visions don't explain anything. No faces, no voices, no prophecy, and nobody is named. Coming out of it should feel like losing something wonderful. Afterward the party can argue about what it meant. Was it peace, or was it an invitation? Erleena will want to hear about it, flatly and in detail, and she'll write it down.
+### The backlash (d6: 4–5)
 
-**Telling it sideways.** Nothing here says what the tower is. The rabbits moving in unison and the threads running into *everyone* are the network seen from the inside, and that is all the players get.
+They never see anything. The tower pushes into their minds, finds nothing it can use, and pushes harder:
 
-**The hatch.** Inside the tower, under the mycelium-choked stair, the heavy circular floor hatch: **DC 15 Strength** to turn the fouled wheel **plus the green key card** — the one they pulled off the skeleton in S50 on the survey. A blaster wash on the wheel first gives advantage; the mold lets go of the metal.
+- **Headache (4).** A spike behind the eyes, like a cold drink taken too fast, and it stays. They take **1d6 psychic damage** and have **disadvantage on Intelligence and Wisdom checks** until they finish a short rest.
+- **Fainting (5).** The world tilts and they go down. They fall **prone and unconscious for 1 minute**, or until someone spends an action to shake them awake or they take damage. They wake with a nosebleed and no memory of falling.
 
-## Down
+### The clear head (d6: 6)
 
-Through the hatch they remember and down the iron spiral stair, the mold thinning with every turn. Her lab's door at the bottom is already standing open when they reach it, and a speaker on the stair wall crackles before anyone is within ten steps of it.
+Nothing happens to them. They see the others go still, hear one of them laugh, and watch another drop to the moss. Eddie's voice in their ear is perfectly clear: *"Is everyone all right? Some of your readings are doing something very interesting."*
 
-## Read-aloud — Erleena
+**Afterward.** Nothing in the visions has a face, a voice or a name. Each conviction arrives as a feeling. Erleena will want to hear about all of it, flatly and in detail, and she'll write it down. **Telling it sideways:** nothing here says what the tower is. The rabbits moving in unison and the threads running into *everyone* are the network seen from the inside, and that is all the players get.
 
-> *"You're late." The voice out of the speaker is flat with exhaustion, and under it there is something that, on a better day, might be a laugh. "Eddie's been calling your crossing like a regatta. I know about the bridge. I know about the frog. And in the gaps I've had George telling me not to worry, which is how George worries." Somewhere below you, a door grinds the rest of the way open on her word. "Keep walking. The doors know you're coming. So do I."*
+## Erleena comes up
+
+*The party may not want to walk through that door, and after the visions, that's fair. They don't have to. Eddie has been calling the whole crossing to her like a regatta, and she has heard enough.*
+
+> *The orange light in the doorway goes dark for a moment, because someone is standing in it. A pressure suit, battered orange and tan, with a clear bubble helmet. Inside the helmet, a tired face you know. Erleena looks at all of you, at whoever is still on the moss, and at the rabbits. Her voice comes out of a little speaker on her chest, flat as ever.*
 >
-> *The stair turns down out of the spore fog and into clean air — and then into light. At the bottom the door is open, and the room behind it is bright and white and humming. She is leaning in the frame in a cream one-piece with an orange stripe down the sleeve — the uniform the ship's medical androids wear, cut for a person — sleeves pushed up, arms folded, like the door is holding her up, which it is. She looks at each of you in turn and does not smile.*
+> *"You're late. I heard about the frog." She holds out a gloved hand. "Sprayer. George made one with my name on it. Give it here."*
+
+**The sixth pack.** If the party brought the spare spore-blaster George made for her, she takes it, shoulders it over the suit and cinches the straps without being shown. If they didn't, she takes someone's: *"He made one for each of you and one for me. At no point did anyone do the subtraction."* If anyone is still out cold from the door, she nudges them awake with her boot first.
+
+**She clears the tower.** She walks straight in and starts spraying. The mold peels off the stone in sheets, and the mushrooms wilt where the cone touches them. She works methodically, wall, stair, floor, the way somebody cleans a lab, and says nothing until the path to the hatch is clear. Let the party follow her in or watch from the door.
+
+![Erleena in her suit clearing the inside of the Lighthouse with George's sprayer, the hatch open behind her](../../.attachments/enc_erleena_spraying.jpg)
+
+**The hatch.** It's the same heavy floor hatch where the party first found her a month ago. She came up through it, so this time it opens easily on her word: no Strength check, no key card. *"Mind the ladder. It's wet. Everything's wet. That's the point."* She goes down first.
+
+## The airlock
+
+At the bottom of the ladder is a small round airlock: riveted steel, amber lamps, a grated floor with drains. The hatch above swings shut, and the inner door to her lab stays shut until everyone has been washed.
+
+> *She unlatches the bubble helmet and pulls it off, and for once she's almost smiling. Then she unhooks a hose from the wall. "Arms up. All of you. Nothing comes into my lab with spores on it, and that includes the bird."*
+
+![The airlock under the Lighthouse: Erleena, helmet off, hosing down the soaked and indignant party](../../.attachments/enc_airlock_washdown.jpg)
+
+Play it for comedy. Everyone gets soaked. The tabaxi hates it, the centaur barely fits, and Eustace will want to complain. She doesn't stop until she's satisfied. Then the inner door rolls open on white light.
+
+## Read-aloud — Erleena's lab
+
+> *The room behind the door is bright and white and humming. She steps out of the suit right there on the grating, and underneath it is a cream one-piece with an orange stripe down the sleeve, the uniform the ship's medical androids wear, cut for a person. She hangs the suit on a hook by the door, drips on the floor, and looks at each of you in turn.*
 >
 > *"Well. You came back. Through all of that." A breath. "Don't make a thing of it. I've had a month to practise not making a thing of it and I'd hate to waste the work."*
 
-Then a beat. Let her count heads — five, and one of them new: Robin — and sit down heavily on the edge of a biobed because it is the first time in weeks she has had a reason to.
+Then a beat. Let her count heads (five, and one of them new: Robin) and sit down heavily on the edge of a biobed, because it is the first time in weeks she has had a reason to.
 
-**The uniform.** The ship made it for her — Eddie's doing, once he was awake enough to notice what she was wearing. It is the medical androids' livery, cream with the orange sleeve stripe, and a clean one turns up in her cabin drawer every morning. If anyone mentions it: *"Eddie says it's regulation. Don't."* The battered containment suit the party found her in a month ago is gone; once this room came up clean she had no more use for it.
+**The uniform.** The ship made it for her — Eddie's doing, once he was awake enough to notice what she was wearing. It is the medical androids' livery, cream with the orange sleeve stripe, and a clean one turns up in her cabin drawer every morning. If anyone mentions it: *"Eddie says it's regulation. Don't."* The battered orange pressure suit the party found her in a month ago hangs by the airlock door. She calls it her diving suit now, and she only puts it on to go up the ladder.
 
 The room: a **30-foot circular chamber, fifty feet under the lake**, 10-foot ceiling — and nothing like the dark, stale place the party left her in. Eddie brought the sealed levels' power back for her, and what woke up was a **sickbay**: clean white light, warm filtered air, pale curved walls, a soft steady hum. Three **biobeds** stand along the curve with readout panels above them; a diagnostic table takes the middle of the room; the wall displays scroll her instrument traces; her sample dishes sit in a lit case under glass. **Through a sliding door, her workroom:** a smaller lab where the actual work happens. A long white bench under a hard work light holds the dish under its little glass dome, racks of sample tubes, stacked culture plates with russet colonies, a microscope, a centrifuge, a slide box, open notebooks and a mug of cold tea. A second wall display repeats the traces, and one riveted viewport looks out into the lake. The sickbay is where she talks to people. The workroom is where she is when they arrive. The wide riveted viewports are the one thing the lights can't fix — they look out into murky green lake water, and under the hum there is a soft, irregular thudding on the glass, pale shapes smearing against the dark outside and sliding away. Nothing grows here. The lake overhead is the reason — fifty feet of murky lake is a better spore filter than anything the ship's engineers built — and that is exactly why a scientist picked this room. One more stair goes down from it, to the lower deck. Through a hatch on the far side, **her quarters**: a proper crew cabin — a bunk, a working galley unit, a drawer of clean uniforms. She lives here, in the lake's clean air, and until the tower noticed her it was the best lab she had ever had.
 
@@ -119,14 +171,14 @@ The room: a **30-foot circular chamber, fifty feet under the lake**, 10-foot cei
 - **She knows what it is.** Before the dish, before anything, she puts a month of instrument traces up on the wall display, side by side in date order. The same black spike on every one — every reading, every day, a little taller, and always pointing the same way: *up*, at the tower over their heads. Something is anchored to the Lighthouse, a protrusion from somewhere that isn't here, bleeding energy into the world with the wrong sign; the spores are what that bleed looks like when it touches living matter. She has a name for it, because her instruments kept drawing the same shape: *the black salient*. *"The mold isn't the disease. It's the symptom. I've spent a month treating the fever, and the fever has noticed."* It's why the infected think alike, why her dish worked — she starved the foothold, not the fungus — and why the tower is at her door and George's: his soap does the same thing at scale ([her Progress](../../NPCs/Erleena-Riser.md)).
 - **It works in a dish.** She stopped the drifted strain replicating — a real result, not theory. What's missing is the two things it always was: a **baseline** to check it against, and **time**.
 - **The Lighthouse is fighting back.** That thudding under everything is the lake's small infected things — leechoids, poison-spined scintillating fish, quipper swarms — throwing themselves at the portholes in relays, day and night, for days now. The glass holds; nothing that size can break it — narrate smears on the panes and dents in the frames, never damage. But a lake does not organize itself, and it is how she knows the tower has noticed her. The one thing in the water that *could* break the glass is the froghemoth, and she has seen its eyes. She knows the siege at the hull is aimed at her, too — George did that arithmetic out loud for her over the comm, more than once. *"It's turned around. A month ago everything in this tower was pointed out at the valley. Now it's pointed at George and me. I'd be flattered if I weren't fifty feet under its lake."*
-- **No suit.** The containment suit is gone, and she has not been up the stair in weeks — she hasn't needed to, and there is nothing up there she can walk through. To leave this room she needs exactly what the party needed to reach it: a dose and a pack. She knows George has both with her name on them.
+- **The suit only goes so far.** Her old pressure suit gets her up the ladder and through the tower, but it was never meant for a garden crossing, let alone a desert, and she knows it. To really leave, she needs what the party needed to reach her: a dose and a pack. She knows George has both with her name on them.
 
 **What they bring from the ship — none of it news:**
 
 George has told her all of it, daily and at length: the doses, the half-cure, the rabbitoid, the fire extinguishers with opinions. She has told him what she thinks of a man who builds a door out of a fire extinguisher and then can't walk through it himself. She asked him for a pack a week ago.
 
-- **The pack.** If the party carried one down for her — George will have hinted at S42, and Eddie will have hinted louder — hand it over and she is, for the first time in a month, **mobile**. If they didn't: *"He made one for each of you and one for me. He told me so. And at no point did anyone do the subtraction."* She lets it sit. *"Fine. Somebody's lending me theirs for the stairs."* Either way she shoulders it over the uniform and cinches the gurney webbing without being shown. *"A month in a room I couldn't leave, and the answer was in the hallway with a hose on it. Don't tell him I said that. He'll have it from Eddie by dinner anyway."*
-- **The sixth dose.** George made six. Five for the party, and the sixth is hers — he said so at S42, and if nobody remembered to bring it, she knows exactly how many he made. She takes it without comment. Fifty feet of lake has kept her clean; the stair has not always.
+- **The pack.** She already took it at the door ([Erleena comes up](#erleena-comes-up)). It hangs by the airlock with her suit, and she touches it once while she talks, as if checking it's still there. *"A month in a room I couldn't leave, and the answer was in the hallway with a hose on it. Don't tell George I said that."*
+- **The sixth dose.** George made six. Five for the party, and the sixth is hers — he said so at S42, and if nobody remembered to bring it, she knows exactly how many he made. She takes it without comment. Fifty feet of lake has kept her clean; the trips up the ladder have not always.
 
 **What they bring from outside — all of it news.** This is the thing she does not have, and she asks for it straight: *"Now. Tell me what you learned out there. All of it. Start with whether Frostwatch is still standing."* It leads straight into the turn — once the frog is dealt with.
 
@@ -217,7 +269,7 @@ She and George settle it on the comm, right there, with the party listening — 
 There is no decision on this page about whether she stays. She comes up. What the party decides is *how*:
 
 - **She packs light and fast — and then there is the box.** The slides, the traces, the dish under its glass, the notebooks, the sixth dose in her pocket, a spore-blaster on her back over the cream uniform: two minutes. Then she puts her hand on **a box of books** and it becomes clear that the box is coming. Copies of *[A Brief History of Vermoon](../../Aerun-Players-Guide/A-Brief-History-of-Vermoon.md)*, which Eddie had printed and bound in the ship's **robotic workshops** — about **fifty pounds** of them. **She demands it; it is not a negotiation.** She cannot carry it and a spore-blaster both, so somebody else is carrying it — through the garden, up the tubes, out the breach, and onto a sled. *"I spent years on that book. It has only just been printed. I am not leaving it under a lake."* Let the party argue; let her win. (Whoever ends up with it: that is 50 lb against their carrying capacity from here to Aerun, where [every pound is water](../../Game-Mechanics/Heat-and-Survival.md).)
-- **The crossing.** There is no suit to seal: she crosses the garden the way the party did — dosed, in washed air, making the same exposure saves — the same crossing they just made, with one more person, no more packs, and a box of books. At the door she turns the sickbay's lights off herself, which Eddie finds unnecessary and says so.
+- **The crossing.** The suit stays on its hook: she crosses the garden the way the party did — dosed, in washed air, making the same exposure saves — the same crossing they just made, with one more person, no more packs, and a box of books. At the door she turns the sickbay's lights off herself, which Eddie finds unnecessary and says so.
 - **Back to S42 first.** George and Erleena in one room for the first time in a month — the reunion, the plan said out loud with all three of them present, the last refills on the tanks, and George's *"ensure she doesn't make the same mistake I did"* answered to his face. The arc's closing scene happens here: **[The Send-Off](../Return-to-the-Ship/The-Send-Off.md)** — the player handouts and the round-robin about Aerun.
 - **Then out through the breach, and the long way home.** The spore-blasters wash a lane through the horde and Korrin waits over the ridge — *Getting out* on [The Send-Off](../Return-to-the-Ship/The-Send-Off.md). The voyage to Aerun — how, on what, and with whom — is the next module's problem. This arc ends with Erleena on the sled behind Korrin's, and the party knowing where the cure is: **not here.**
 

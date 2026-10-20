@@ -1,0 +1,11 @@
+backend: gemini
+model: gemini-3-pro-image
+aspect: 16:9
+size: 2K
+refs: tools/renders/enc_airlock_washdown_v1.jpg, tools/refs/eustace_ref.png
+
+Edit the first reference image. Keep everything exactly the same — the airlock, the lighting, Erleena with her helmet under her arm spraying the party, the black cat-folk ranger, the laughing centaur, the laughing medic, the hooded sorceress from behind, the spray, the colours and style.
+
+Change ONE thing: the bird standing on the floor in the middle is wrong. Replace it with Eustace as in the second reference image: a man-sized, upright humanoid aarakocra with an eagle's head and hooked beak, light brown plumage, golden-yellow eyes, feathered arms, wearing worn leather pirate gear with straps and buckles and a small backpack tank like the others. He stands upright at about the height of the cat-folk's shoulder, soaked by the spray, his head feathers puffed and dripping, glaring at Erleena with deep indignation.
+
+No text.
