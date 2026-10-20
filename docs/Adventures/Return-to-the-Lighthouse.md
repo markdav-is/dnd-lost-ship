@@ -178,7 +178,7 @@ Roll or pick when the talk needs a push:
 
 | d8 | Erleena says |
 | :-: | :--- |
-| 1 | *"Were there obsidian spires? Don't guess. Did you see them?"* |
+| 1 | *"Were there obsidian spires? Can you describe them?"* |
 | 2 | *"I did my internship in the northern desert. Two seasons of sand in my teeth. I know that sky."* |
 | 3 | *"The mold isn't the disease. It's the symptom. I've spent a month treating the fever."* |
 | 4 | *"Everything joined together sounds lovely until you ask who's holding the other end."* |
