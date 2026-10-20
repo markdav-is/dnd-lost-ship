@@ -180,7 +180,7 @@ Pick a few when the talk needs a push:
 - *"What color was the sand? And the sky?"*
 - *"I did my internship in the northern desert. Two seasons of sand in my teeth. I know that sky."*
 - *"The mold isn't the disease. It's the symptom. I've spent a month treating the fever."*
-- *"Everything joined together sounds lovely until you ask who's holding the other end."*
+- *"Everything joined together sounds lovely until you ask who's holding the threads."*
 - *"In my spare time, Eddie and I have written a book!* A Brief History of Vermoon*!"*
 - *"George stays. Someone has to keep that thing busy, and he's better at it than either of us."*
 - *"The Lighthouse is a protrusion into our reality from another, darker one. Where it touches the garden, we get the spores."*
