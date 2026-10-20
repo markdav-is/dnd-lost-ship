@@ -18,6 +18,8 @@
 
 ![Through the split: the Sea of Silt under a white sky, black glass spires, and wormsign in the sand](../../.attachments/lh_door_desert.jpg)
 
+![Erleena steps out of the Lighthouse door in her suit, grinning and waving](../../.attachments/enc_erleena_emerges.jpg)
+
 ![Erleena in her suit clearing the inside of the Lighthouse with George's sprayer, the hatch open behind her](../../.attachments/enc_erleena_spraying.jpg)
 
 ![The airlock under the Lighthouse: Erleena, helmet off, hosing down the soaked and indignant party](../../.attachments/enc_airlock_washdown.jpg)

@@ -122,9 +122,11 @@ Nothing happens to them. They see the others go still, hear one of them laugh, a
 
 *The party may not want to walk through that door, and after the visions, that's fair. They don't have to. Eddie has been calling the whole crossing to her like a regatta, and she has heard enough.*
 
-> *The orange light in the doorway goes dark for a moment, because someone is standing in it. A pressure suit, battered orange and tan, with a clear bubble helmet. Inside the helmet, a tired face you know. Erleena looks at all of you, at whoever is still on the moss, and at the rabbits. Her voice comes out of a little speaker on her chest, flat as ever.*
+> *The orange light in the doorway goes dark for a moment, because someone is standing in it. A pressure suit, battered orange and tan, with a clear bubble helmet. Inside the helmet, a tired face you know, and it is grinning. Erleena raises a gloved hand and waves, then looks at whoever is still on the moss, and at the rabbits. Her voice comes out of a little speaker on her chest.*
 >
-> *"You're late. I heard about the frog." She holds out a gloved hand. "Sprayer. George made one with my name on it. Give it here."*
+> *"You came back. You're late, but you came back. I heard about the frog." She holds out a gloved hand. "Sprayer. George made one with my name on it. Give it here."*
+
+![Erleena steps out of the Lighthouse door in her suit, grinning and waving](../.attachments/enc_erleena_emerges.jpg)
 
 **The sixth pack.** If the party brought the spare spore-blaster George made for her, she takes it, shoulders it over the suit and cinches the straps without being shown. If they didn't, she takes someone's: *"He made one for each of you and one for me. At no point did anyone do the subtraction."* If anyone is still out cold from the door, she nudges them awake with her boot first.
 
