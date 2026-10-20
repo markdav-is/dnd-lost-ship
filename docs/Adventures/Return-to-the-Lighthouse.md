@@ -6,8 +6,6 @@
 
 *The party's return to the Lighthouse — the tower in full, the visions at the door, Erleena coming up to meet them, the airlock, the lab fifty feet under the lake, and the scientist who decides the cure is on Aerun and that she is going to get it.*
 
-![The Lighthouse, wrapped in glowing mycelium, the spore galaxy turning around the lamp](../.attachments/lighthouse_tower.jpg)
-
 ## The tower in full
 
 *The party comes off the bridge with the froghemoth behind them, into the inner garden on the island. It is the first time anyone has stood this close to the tower with nothing trying to eat them. Let the moment be quiet.*
