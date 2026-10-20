@@ -36,7 +36,7 @@ Ambient Spice gives nearly every Aerun-born a minor wild talent ([canon](The-Fir
 
 - **The eyes:** blue-within-blue, the heavy user's stain. The most recognizable face on Vermoon now carries the desert's mark — he can never again pretend to be what he was.
 - **Latent talents surfacing:** roll on the wild talent table (Players Guide p. 112) — more than once. Suggested spine: **telepathic touch** (he no longer needs the network to hear), **psychometry** (objects tell him their history), and prescience flashes — not Dune-grade foresight, but *thin moments*: he answers questions half a breath before they're asked.
-- **The cost:** dependency is real. Withdrawal strips the talents and opens the old wound — a man who has now been all-seeing **twice**, by machine and by sacrament, learning both can be taken away. The Spice's true nature ([the worms, the First Source](The-First-Source.md)) means his new sight is, in a way he doesn't yet know, *borrowed from Rajaat's jailers*.
+- **The cost:** dependency is real. Withdrawal strips the talents and opens the old wound — a man who has now been all-seeing **twice**, by machine and by sacrament, learning both can be taken away. The Spice's true nature ([the worms, the First Source](The-First-Source.md)) means his new sight is, in a way he doesn't yet know, *borrowed from the First Source's jailers*.
 
 **Spicy Jak, statted:** take his [current block](../../NPCs/Jak-Bjornsson.md), strip every Aura-network feature, and rebuild as **Way of the Unseen Mind** progression: Mind Strike and telepathy · Telekinetic Mastery (Psionic Stomp, Spinning Strike) at the 11th-level tier · 2–3 rolled wild talents · cannot be surprised (prescient flinch — no network required, no off-switch at the void's edge) · vulnerability: Spice supply. The arc's mechanical finish line is the 17th-level **Psionic Avatar** itself. Same fists. New sight.
 
@@ -52,7 +52,7 @@ The vacuum is the playable part:
 
 - **The hopepunk read:** Jak's arc lands as growth, not abdication — the man who ruled through total surveillance learns to see without owning what he sees. If the cure arc ends with the network cleansed and his grip loosening, this is the *next* step of that same softening: he doesn't loosen his grip on the world; he opens his hand entirely.
 - **The dark read (hold in reserve):** an avatar is still absolute power, just portable. The campaign's long question — does the crown corrupt him — doesn't end when he trades the crown for the Spice. It sharpens. The sorcerer-kings were students once too.
-- **The Rajaat braid:** his new sight runs on the Spice; the Spice runs on the worms; the worms guard the First Source. If the cure ever frees the wardens and the desert blooms, what happens to the sacrament — and to every talent it woke? Spicy Jak has a personal stake in Rajaat's fate that no one, including him, has priced in.
+- **The First Source braid:** his new sight runs on the Spice; the Spice runs on the worms; the worms guard the First Source. If the cure ever frees the wardens and the desert blooms, what happens to the sacrament — and to every talent it woke? Spicy Jak has a personal stake in the First Source's fate that no one, including him, has priced in.
 
 ## Timing
 

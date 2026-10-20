@@ -1,22 +1,24 @@
 [Campaign](../../Campaign.md) / [Plot Threads](../Plot-Threads.md) / The First Source <!-- wikidown:breadcrumb -->
 
-# The First Source — Rajaat
+# The First Source
 
-The most closely guarded secret on Vermoon: the infection pouring from the Barrier Peaks ship **has happened before**. **It started with Rajaat** — the sorcerer, the First Sorcerer of the Dark Sun source lore. When his Champions turned on him and sent him into **the Hollow**, the prison inside the Black, the sending **tore a hole from the Black into our world that never healed**. What pours from that wound is the First Source; the Sandwalkers gave the place his name. *"It started with Rajaat. The place where it began. The place where it has always been."* (Canon 2026-09-12: Rajaat stays the sorcerer, so that more Dark Sun lore can come in without confusion; the hole is Aerun's [Black Salient](The-Ships-Purpose.md).)
+The most closely guarded secret on Vermoon: the infection pouring from the Barrier Peaks ship **has happened before**. Beneath the Sea of Silt on Aerun lies an older source of the same thing: a protrusion of **the Black** pushing into our world, the same kind of thing as the ship's [Black Salient](The-Ships-Purpose.md). The Sandwalkers call it the First Source — *"the place where it began. The place where it has always been."* The two sources are linked. Nobody — not the wardens, not the council, not the party — knows what they really are.
 
-Sources: `assets/Aerun_TheDesertContinent.md`, `assets/Return_to_Frostwatch_v3.md` + table canon (2026-08-03). The Rajaat story is now **council-known**; the containment mechanism and the Spice remain secret.
+*DM note — Retcon (Mark, 2026-10-20): the name "Rajaat" is struck from the campaign. The source has no name; keep it mysterious, and linked to the Lighthouse.*
+
+Sources: `assets/Aerun_TheDesertContinent.md`, `assets/Return_to_Frostwatch_v3.md` + table canon (2026-08-03). The story of the First Source is now **council-known**; the containment mechanism and the Spice remain secret.
 
 ## The established history
 
-1. **The wound opened on Aerun at the end of the Green Age — when Rajaat was sent into the Hollow** — and the outbreak poured from it: a catastrophic origin point of a fungal/spore infection of the same kind as the ship's russet mold. It spread the way the Scarlands outbreak is spreading now: *slowly, then all at once.* The animals changed. The trees changed. The people changed.
+1. **The wound opened on Aerun at the end of the Green Age** — and the outbreak poured from it: a catastrophic origin point of a fungal/spore infection of the same kind as the ship's russet mold. It spread the way the Scarlands outbreak is spreading now: *slowly, then all at once.* The animals changed. The trees changed. The people changed.
 2. **Containment was tried first — and failed.** Walls, burned borders, posted guards. The walls held **eleven years**; then the bloom came from *beneath* them. The spores had been in the groundwater the whole time.
 3. **Then they unmade the land. On purpose.** *"They killed the land to save the world."* **Defiler magic** destroyed the spores directly (they are plant life) and every green thing with them — no water, no organic matter, no host for the bloom; the continent's heart reduced to the silt itself. The infected creatures survived the casting and starved. Defiling was shunned from Vermoon afterward; the [Order of the Sere](../../World/Factions/The-Order-of-the-Sere.md) keeps it as a failsafe. *(Harah tells the silt-was-made story in open council; the defiler method and the Order she reveals only if pressed or in private.)*
 4. **The quarantine has held for a thousand years.** It is the only containment ever found that works.
-5. **Rajaat was never destroyed.** It remains beneath the Sea of Silt — and the deep mechanism of its ongoing management is a secret Harah guards.
+5. **The First Source was never destroyed.** It remains beneath the Sea of Silt — and the deep mechanism of its ongoing management is a secret Harah guards.
 
 ## The containment (the deeper secret)
 
-What actually keeps Rajaat in check is the Sea of Silt's engineered ecology — plus one thing no ecology provides:
+What actually keeps the First Source in check is the Sea of Silt's engineered ecology — plus one thing no ecology provides:
 
 1. **Spawn** — spores rise from the First Source.
 2. **Mass** — with nothing organic to attach to in the defiler-killed waste, they gather into dense masses.
@@ -25,7 +27,7 @@ What actually keeps Rajaat in check is the Sea of Silt's engineered ecology — 
 5. **The Veil** — see below.
 6. **The Drought** — the dryness itself. Water is the breach vector (the Green Age walls fell to spores in the groundwater), so the working unmade the plateau's entire water cycle: **the heart-sea's bed sits high on the continent's roof** — nothing flows up, its old waters drain out through a thousand years of stone (the coastal springs are the dead sea bleeding, filtered — the wardens test them in ways the cities never see), a rain-suppressing haze dome stands overhead, and **worm larvae sequester** any water that lingers in the deeps. Rare rain-years are **bloom years** — the cycle surges, the worms feast, and the coast sees only a bumper Spice harvest. **Wetting the interior at scale — a weather-working, an irrigation scheme, a cracked aquifer, a well-meant Rejuvenate campaign, a breached portage sill — is not terraforming. It is a containment breach.** The wardens' driest law, and the one the campaign will someday test.
 
-The defiling *created the conditions*; the worms *close the loop*; the Veil makes the whole machine **unfindable**. At the council Harah went as far as she ever has: Rajaat is *"contained only by sand and worms and the prayers of people the coastal cities have never met."* **The prayers are not metaphor** — see below. Her people are its **wardens** — a duty they did not choose.
+The defiling *created the conditions*; the worms *close the loop*; the Veil makes the whole machine **unfindable**. At the council Harah went as far as she ever has: the First Source is *"contained only by sand and worms and the prayers of people the coastal cities have never met."* **The prayers are not metaphor** — see below. Her people are its **wardens** — a duty they did not choose.
 
 ## The Veil (the psionic concealment)
 
@@ -51,16 +53,16 @@ The byproduct of worms digesting dead spores is the **Spice**:
 
 ## Why the Barrier Peaks changes everything
 
-The ship is a **second Rajaat** — sitting in a valley full of trees, animals, rivers, and people. Spores never need to mass (life everywhere to attach to); there are no worms to close the loop — and **no veil**: the second source sits naked in every mind and every network that looks at it. *"Your silt does not exist yet. And creating it large enough would take generations and kill everything between here and the sea."*
+The ship is a **second source** — sitting in a valley full of trees, animals, rivers, and people. Spores never need to mass (life everywhere to attach to); there are no worms to close the loop — and **no veil**: the ship's source sits naked in every mind and every network that looks at it. *"Your silt does not exist yet. And creating it large enough would take generations and kill everything between here and the sea."*
 
 ## The new stake — the cure frees Aerun too
 
-The v3 council canon raises the ceiling: a true cure from the ship's medical levels **might work on Rajaat itself**. Not a seal, not a fire — an *end*, for both sources. For the Sandwalkers it would mean release from a thousand-year wardenship: *"We did not choose that. A cure would give us a choice for the first time."* This makes the [cure path](The-Lighthouse-Dilemma.md) a world-stakes proposition — and gives Harah a personal reason to see the party succeed.
+The v3 council canon raises the ceiling: a true cure from the ship's medical levels **might work on the First Source itself**. Not a seal, not a fire — an *end*, for both sources. For the Sandwalkers it would mean release from a thousand-year wardenship: *"We did not choose that. A cure would give us a choice for the first time."* This makes the [cure path](The-Lighthouse-Dilemma.md) a world-stakes proposition — and gives Harah a personal reason to see the party succeed.
 
 ## DM levers
 
 - **The defiler option:** the Order of the Sere can kill the spores directly at the cost of all Scarlands plant life — with the starving-fauna aftermath. The proven, unbearable fourth path.
-- **Harah's layered secrecy, revised:** the Rajaat story is public; the defiler method and the Order surface under pressure; the worm ecology is half-named; **the Spice and the Veil are never spoken**. Five rings of disclosure, each with a price.
+- **Harah's layered secrecy, revised:** the story of the First Source is public; the defiler method and the Order surface under pressure; the worm ecology is half-named; **the Spice and the Veil are never spoken**. Five rings of disclosure, each with a price.
 - **The Spice revelation:** if the coastal world — or the southern empire — learns what the Spice really is, the political map redraws overnight.
 - **The Veil under strain:** every warden the Silence pulls south is a mind withdrawn from the working. If the second source keeps drawing them, the Veil thins — and the first prospector to *notice the deeps exist* starts a countdown nobody can stop.
-- **Rajaat itself (canon, 2026-09-12): a second Black Salient.** There are two — the ship's, anchored to the Lighthouse, and this one under the silt — and neither is a copy of the other: two independent bleeds of the same kind of wound ([The Ship's Purpose](The-Ships-Purpose.md)). Never destroyed — only contained. Everything above manages its *bleed*; **what holds the Salient itself is "somehow"** — open, and Mark's to decide (the same machinery? the wardens' working? something older — a third crashed ark, the Titan's wound?). Whatever the answer, the precedent stands: sources are not destroyed. They are *managed*. The cure path is the first challenge to that rule in a thousand years — and Erleena's reason for wanting a sample is exactly that there are two: what they share is the thing itself.
+- **The First Source itself (canon, 2026-09-12): a second Black Salient.** There are two — the ship's, anchored to the Lighthouse, and this one under the silt — and neither is a copy of the other: two independent bleeds of the same kind of wound ([The Ship's Purpose](The-Ships-Purpose.md)). Never destroyed — only contained. Everything above manages its *bleed*; **what holds the Salient itself is "somehow"** — open, and Mark's to decide (the same machinery? the wardens' working? something older — a third crashed ark, the Titan's wound?). Whatever the answer, the precedent stands: sources are not destroyed. They are *managed*. The cure path is the first challenge to that rule in a thousand years — and Erleena's reason for wanting a sample is exactly that there are two: what they share is the thing itself.

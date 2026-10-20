@@ -64,11 +64,11 @@ The party recounts the ship. Valerius listens without interruption, then asks ex
 
 Say in your own words: the infection spreads faster than public reports — **three villages quarantined, two silent, scouts unreturned**. The network registers **anomalies** in affected regions, as if something is attempting to communicate through the infrastructure. She doesn't know if the infection is intelligent; she suspects worse — *purposeful without being intelligent, the way a river is purposeful without being aware.*
 
-## 6. Harah names it
+## 6. Harah reveals the second source
 
 > *She does not stand. She does not raise her voice. She simply places one hand flat on the table and says:*
 >
-> *"We call it Rajaat."*
+> *"This has happened before."*
 >
 > *The room is quiet. She continues.*
 >
@@ -80,7 +80,7 @@ Say in your own words: the infection spreads faster than public reports — **th
 >
 > *"They made a desert. On purpose. They killed the land to save the world. No water, no organic matter for the spores to attach to, no host for the bloom. The desert is not a natural feature of Aerun. It is a quarantine. It is the only containment we have ever found that works. And it has held for a thousand years."*
 >
-> *She pauses. "What you have in your mountains is a second Rajaat. A second source. And unlike ours, it is sitting in a valley full of trees, animals, rivers, and people. Everything the spores need to bloom without limit."*
+> *She pauses. "What you have in your mountains is a second source. And unlike ours, it is sitting in a valley full of trees, animals, rivers, and people. Everything the spores need to bloom without limit."*
 >
 > *"Your desert does not exist yet. And creating one large enough to contain what is in that ship would take generations and kill everything between here and the sea."*
 
@@ -110,7 +110,7 @@ Say in your own words: the infection spreads faster than public reports — **th
 
 **Copper:** *(a long silence, then quietly)* *"Do it. Do it now, before we talk ourselves out of it. Every hour we debate is another hour it spreads."*
 
-**Harah:** *"If the fire is hot enough and the timing is right, it works for this source."* *(pause)* *"We did not have a city that flies. We did not have the option. If you have it, do not dismiss it because it is ugly. Ugly solutions are still solutions."* *(to McReady)* *"I am sorry about your mountains. But Aerun had mountains too."* *(a beat)* *"But understand what you are choosing. You are choosing to live with Rajaat still in the deep desert, still contained only by sand and worms and the prayers of people the coastal cities have never met. You are not curing anything. You are only removing the second outbreak."*
+**Harah:** *"If the fire is hot enough and the timing is right, it works for this source."* *(pause)* *"We did not have a city that flies. We did not have the option. If you have it, do not dismiss it because it is ugly. Ugly solutions are still solutions."* *(to McReady)* *"I am sorry about your mountains. But Aerun had mountains too."* *(a beat)* *"But understand what you are choosing. You are choosing to live with the First Source still in the deep desert, still contained only by sand and worms and the prayers of people the coastal cities have never met. You are not curing anything. You are only removing the second outbreak."*
 
 **McReady:** *(long quiet; voice flat)* *"You would burn the mountains. Everything our people built up here — three hundred years of it."* *(to Valerius)* *"Jak would want the ship intact if possible. That's not an order. It's context. But I want it on record that I said what burning this place means."* *(to Harah)* *"And I heard what you said about the first source. So even if we burn this valley clean, the problem isn't over. It's just quieter."*
 
@@ -118,13 +118,13 @@ Say in your own words: the infection spreads faster than public reports — **th
 
 ![Harah Tabr addresses the council](../../.attachments/council_kaelen.jpg)
 
-> *"You return to the ship. You go deeper than you have gone. The ship's medical and research levels — wherever they are — may contain the means to synthesize a cure, or to trigger a system-wide decontamination. You find it. You use it here. And if the cure works here, it may work on Rajaat itself — the First Source in Aerun. Not just a delay. Not just a quarantine. An end."*
+> *"You return to the ship. You go deeper than you have gone. The ship's medical and research levels — wherever they are — may contain the means to synthesize a cure, or to trigger a system-wide decontamination. You find it. You use it here. And if the cure works here, it may work on the First Source itself, in Aerun. Not just a delay. Not just a quarantine. An end."*
 
 **Valerius:** "This is the most dangerous option. It gives the infection more time to spread while the team is inside. It risks the lives of the only people who have successfully navigated the ship. But if it works, it solves the problem completely — not just the second source in these mountains, but potentially the First Source in Aerun that has been contained for a thousand years by nothing more than sand and faith. The ship's technology may be the only thing in the known world capable of producing a true cure. And the Administrator's long-term plans for that technology make this option strategically irreplaceable."
 
 **Copper:** *"You're asking them to go back into the void. You're asking them to trust that there's a cure in there. There might not be. There might be nothing in there but more things that want to eat them. And while they're in there looking, the infection keeps spreading."* *(to the party)* *"I'm not saying don't go. I'm saying know what you're walking into."*
 
-**Harah:** *(a long look at the party)* *"This is the path Aerun never had. We did not know what was inside the ruins until it was too late to go in and come back out. By the time we understood what Rajaat was, the desert was already the only answer left."* *(pause)* *"You have already been inside. You already came back. That is not nothing. That is the only advantage Aerun never had."* *(leans forward)* *"And if you find a cure — a real cure, not a seal, not a fire — then what has been locked in the deep desert for a thousand years does not have to stay locked forever. My people have been the wardens of Rajaat for generations. A cure would free them too."*
+**Harah:** *(a long look at the party)* *"This is the path Aerun never had. We did not know what was inside the ruins until it was too late to go in and come back out. By the time we understood what we were facing, the desert was already the only answer left."* *(pause)* *"You have already been inside. You already came back. That is not nothing. That is the only advantage Aerun never had."* *(leans forward)* *"And if you find a cure — a real cure, not a seal, not a fire — then what has been locked in the deep desert for a thousand years does not have to stay locked forever. My people have been the wardens of the First Source for generations. A cure would free them too."*
 
 **McReady:** *(directly to the party)* *"I wouldn't ask you to go back in. But I'm not going to tell you not to, either."* *(pause)* *"You know what's in there better than anyone in this room. Including me."* *(glances at Harah)* *"And if she's right — if a cure fixes both sources — then this isn't just about the Scarlands anymore. This is about Aerun. This is about the whole world."*
 
@@ -140,7 +140,7 @@ The council erupts. Copper and McReady argue. Valerius watches, and does not int
 >
 > *"What is your counsel?"*
 
-**If asked, Harah's vote:** *"The cure. Because it is the only path that ends it rather than delays it or destroys everything around it. And because a cure does not just fix what is in your mountains. It fixes what is in mine. My people have been the wardens of Rajaat for a thousand years. We did not choose that. A cure would give us a choice for the first time."*
+**If asked, Harah's vote:** *"The cure. Because it is the only path that ends it rather than delays it or destroys everything around it. And because a cure does not just fix what is in your mountains. It fixes what is in mine. My people have been the wardens of the First Source for a thousand years. We did not choose that. A cure would give us a choice for the first time."*
 
 ## 11. Valerius's final word
 
@@ -159,7 +159,7 @@ The council erupts. Copper and McReady argue. Valerius watches, and does not int
 - **Triage, not a vote.** The paths are not mutually exclusive: seal now → pursue the cure; attempt the cure → fall back to the purge. The council asks for a *direction*. Whatever the party chooses, Valerius accepts it, reconnects, and reports to Jak in terms that protect the party's agency — never mentioning the severing. Full decision reference: [The Lighthouse Dilemma](../../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).
 - **[Valerius](../../NPCs/High-Sister-Valerius.md):** the severing is heresy, conviction, and a *test* — she watches how the party behaves unobserved. She does not know (or does she?) how neatly "seal the ship" matches Jak's sealed orders.
 - **[McReady](../../NPCs/McReady.md):** party's sponsor, the mountain folk's advocate, and Jak's quiet reporter — the only one advocating nothing. Both his signals are true; neither is the whole truth. Confronted about the dis-trans bat: *"Jak needed to know you arrived safely. That's all it was."*
-- **[Harah](../../NPCs/Harah-Tabr.md):** her rings of disclosure — the Rajaat story (told here) · the defiler method and the [Order of the Sere](../../World/Factions/The-Order-of-the-Sere.md) (only if pressed/private) · the worms (half-named in her purge response) · the Spice (**never**). Pressed past her limit: *"It is managed."* See [The First Source](../../Campaign/Plot-Threads/The-First-Source.md).
+- **[Harah](../../NPCs/Harah-Tabr.md):** her rings of disclosure — the story of the First Source (told here) · the defiler method and the [Order of the Sere](../../World/Factions/The-Order-of-the-Sere.md) (only if pressed/private) · the worms (half-named in her purge response) · the Spice (**never**). Pressed past her limit: *"It is managed."* See [The First Source](../../Campaign/Plot-Threads/The-First-Source.md).
 - **[Copper](../../NPCs/Copper-the-Surgeon.md):** his invisible-infection theory is the campaign's cosmic-horror thread — [leave it unresolved](../../Campaign/Plot-Threads/The-Invisible-Infection.md).
 - **The unspoken paths:** Jak's sealed orders ([Tomas Vel-Maret](../../NPCs/Tomas-Vel-Maret.md)) and the biological-containment long shot only Harah could propose — both in [The Lighthouse Dilemma](../../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md) DM secrets.
 - **Stat blocks** (Valerius CR 7, Fungal Peryton, Spore-Touched Griffon): [module appendix](../Return-to-Frostwatch.md).

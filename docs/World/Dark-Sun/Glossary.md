@@ -18,7 +18,7 @@ The balance: Jak's network moves *words* instantly but cannot move *goods*; the 
 
 ## The Champions (the former god-kings)
 
-The beings the old world worshiped as god-kings **kept their names and lost their thrones** — because on Aerun the role was never really *king*. It was **Champion**: each family's sovereign weapon, the single being who fights in the family's name. The title is a thousand years old and heavier than any crown: the first **Champions of Rajaat** were his own generals — who turned on him, sent him into the Hollow, and then led the great defiling that stopped what poured out of the hole his sending left ([First Source](../../Campaign/Plot-Threads/The-First-Source.md)). They saved the world by unmaking the continent's heart, and their successors have carried the name, the power, and the stain ever since.
+The beings the old world worshiped as god-kings **kept their names and lost their thrones** — because on Aerun the role was never really *king*. It was **Champion**: each family's sovereign weapon, the single being who fights in the family's name. The title is a thousand years old and heavier than any crown: the first **Champions** led the great defiling that stopped what poured out of the [First Source](../../Campaign/Plot-Threads/The-First-Source.md). They saved the world by unmaking the continent's heart, and their successors have carried the name, the power, and the stain ever since.
 
 ### The War of Champions
 
@@ -41,7 +41,7 @@ A champion who advances far enough in the defiler-psionic (or preserver-psionic,
 | **Avangion** | Preserver-psion metamorphosis | The luminous guardian — power grown, never taken |
 | **Avatar** | The [Way of the Unseen Mind](../../Campaign/Plot-Threads/Spicy-Jak.md) | The self as transparent instrument — power that takes nothing at all |
 
-**An ascended champion is not a duelist. It is a deterrent.** Ascended beings never take the sand against each other — the one time it happened, **Hamanu erased the city of Yaramuke**, poisoned its oasis black, and gave the continent its permanent lesson: the ruins sit on the Road of Kings out of Urik as the accord's memorial. Since Yaramuke, the ascended exist to make total war unthinkable, the way their originals once made Rajaat's return unthinkable. A house with an ascended champion cannot be conquered. A house without one negotiates accordingly.
+**An ascended champion is not a duelist. It is a deterrent.** Ascended beings never take the sand against each other — the one time it happened, **Hamanu erased the city of Yaramuke**, poisoned its oasis black, and gave the continent its permanent lesson: the ruins sit on the Road of Kings out of Urik as the accord's memorial. Since Yaramuke, the ascended exist to make total war unthinkable. A house with an ascended champion cannot be conquered. A house without one negotiates accordingly.
 
 ### The roster
 

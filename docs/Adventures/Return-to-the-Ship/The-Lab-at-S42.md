@@ -80,7 +80,7 @@ Full rules — cone, blasts, refills, what a wash does to fungus and to the Ligh
 
 ## What the party brings
 
-George has a month of ship news and none from outside. He will ask — about Frostwatch, the council, who came — but he asks quickly and moves on, because he has a bench to get back to and because he knows who really needs to hear it. *"Tell Erleena. All of it. She's had nothing but me for a month, and I am, I'm told, a limited diet."* If the party mentions Rajaat or the defilers here, he listens hard and says little; the surgery idea is Erleena's to have ([her Pivot](../../NPCs/Erleena-Riser.md)). If it comes up, his reaction: *"So the treatment is to murder a garden that happens to be me, and then replant. Oh my. — No, don't stop. I'm listening."*
+George has a month of ship news and none from outside. He will ask — about Frostwatch, the council, who came — but he asks quickly and moves on, because he has a bench to get back to and because he knows who really needs to hear it. *"Tell Erleena. All of it. She's had nothing but me for a month, and I am, I'm told, a limited diet."* If the party mentions the second source or the defilers here, he listens hard and says little; the surgery idea is Erleena's to have ([her Pivot](../../NPCs/Erleena-Riser.md)). If it comes up, his reaction: *"So the treatment is to murder a garden that happens to be me, and then replant. Oh my. — No, don't stop. I'm listening."*
 
 ## The morning after
 

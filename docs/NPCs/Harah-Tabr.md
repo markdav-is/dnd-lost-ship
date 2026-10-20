@@ -2,7 +2,7 @@
 
 # Harah Tabr
 
-Dune Strider of the [Sandwalkers](../World/Factions/The-Sandwalkers.md) — deep desert nomad and primal shaman of [Aerun](../World/Aerun.md), warden-born of Rajaat, sent south across the sea to find the source of the Defiling Silence. She has walked across the proof of what happens when a world chooses wrong. *"The desert does not lie. It shows you exactly what the world becomes when power is taken without giving anything back."*
+Dune Strider of the [Sandwalkers](../World/Factions/The-Sandwalkers.md) — deep desert nomad and primal shaman of [Aerun](../World/Aerun.md), warden-born of the First Source, sent south across the sea to find the source of the Defiling Silence. She has walked across the proof of what happens when a world chooses wrong. *"The desert does not lie. It shows you exactly what the world becomes when power is taken without giving anything back."*
 
 ![Harah Tabr](../.attachments/council_kaelen.jpg)
 
@@ -10,19 +10,19 @@ Full writeup: `assets/desert_continent_expansion.md`; deep desert context: `asse
 
 ## Where she is now
 
-**She did not go to the ship.** The party left Frostwatch for the Barrier Peaks without her ([Return to the Ship](../Adventures/Return-to-the-Ship.md)); she stayed behind with the council and the Sere problem. What she told the room about Rajaat and the desert travels with the party in their own words, and it is the party — not Harah — who carries it down to [Erleena](Erleena-Riser.md) beneath the Lighthouse. When the party comes back out with Erleena and a destination, Harah is the obvious first stop: the way to Aerun runs through the Sandwalkers, and so does the broken bridge to the Order of the Sere.
+**She did not go to the ship.** The party left Frostwatch for the Barrier Peaks without her ([Return to the Ship](../Adventures/Return-to-the-Ship.md)); she stayed behind with the council and the Sere problem. What she told the room about the First Source and the desert travels with the party in their own words, and it is the party — not Harah — who carries it down to [Erleena](Erleena-Riser.md) beneath the Lighthouse. When the party comes back out with Erleena and a destination, Harah is the obvious first stop: the way to Aerun runs through the Sandwalkers, and so does the broken bridge to the Order of the Sere.
 
 ## How she arrived
 
 Three months tracking the Silence across the sea and over the mountains on foot; found at Frostwatch's gate at dawn, sitting cross-legged in the snow, *waiting to be noticed* — which unsettled the Spásistren more than aggression would have. Carries no implant, no trackable technology: to the network she is a **ghost**. Valerius, at the council's end: *"Then you are invisible to the network. I may need that. Before this is over."*
 
-## Her testimony — "We call it Rajaat."
+## Her testimony — the second source
 
-At the council she placed one hand flat on the table and gave the room the true scale (full read-aloud in source): the **First Source** in Aerun's deep desert; the Green Age; walls that held eleven years before the bloom came through the groundwater; and the ancestors who **made a desert on purpose** — *"They killed the land to save the world"* — a quarantine that has held for **a thousand years**. Her verdict on the Barrier Peaks: *"a second Rajaat… sitting in a valley full of trees, animals, rivers, and people."*
+At the council she placed one hand flat on the table and gave the room the true scale (full read-aloud in source): the **First Source** in Aerun's deep desert; the Green Age; walls that held eleven years before the bloom came through the groundwater; and the ancestors who **made a desert on purpose** — *"They killed the land to save the world"* — a quarantine that has held for **a thousand years**. Her verdict on the Barrier Peaks: *"a second source… sitting in a valley full of trees, animals, rivers, and people."*
 
 **Her rings of disclosure (DM-critical):**
 
-1. **Public (told at council):** the Rajaat story; the desert-as-quarantine; even a half-naming of the worms — *"contained only by sand and worms and the prayers of people the coastal cities have never met."*
+1. **Public (told at council):** the story of the First Source; the desert-as-quarantine; even a half-naming of the worms — *"contained only by sand and worms and the prayers of people the coastal cities have never met."*
 2. **Under pressure / in private:** *how* the desert was made — **defiler magic** — and that the [Order of the Sere](../World/Factions/The-Order-of-the-Sere.md) keeps the failsafe. She states it as fact, not advocacy.
 3. **Never:** the full containment ecology and **the Spice's true nature** ([The First Source](../Campaign/Plot-Threads/The-First-Source.md)). Pressed past her limit, the desert's flat finality: *"It is managed."*
 
@@ -32,7 +32,7 @@ Economical with words, generous with action. States her position once, then does
 
 **Signature lines:** *"I've seen this before. Not this ship. This pattern."* · *"The network sees what it's pointed at. The desert sees everything."* · *"Your friend George is dying. But he's dying with his eyes open. That matters."* · *"It is managed."*
 
-**Her vote (only if asked):** *"The cure. Because it is the only path that ends it rather than delays it or destroys everything around it. And because a cure does not just fix what is in your mountains. It fixes what is in mine. My people have been the wardens of Rajaat for a thousand years. We did not choose that. A cure would give us a choice for the first time."*
+**Her vote (only if asked):** *"The cure. Because it is the only path that ends it rather than delays it or destroys everything around it. And because a cure does not just fix what is in your mountains. It fixes what is in mine. My people have been the wardens of the First Source for a thousand years. We did not choose that. A cure would give us a choice for the first time."*
 
 ## Stats — Athasian Druid 12, Circle of Preservation (Dune Strider)
 
@@ -51,7 +51,7 @@ Economical with words, generous with action. States her position once, then does
 ## Roleplay functions
 
 - **Ecological memory:** introduces the [Green Age](../Campaign/Plot-Threads/The-Green-Age.md) through observation, never exposition — she answers history, doesn't volunteer it.
-- **Warden of Rajaat:** the cure path is now *personal* — success frees her people from a thousand-year duty they never chose. She wants the party to succeed more than she will ever say.
+- **Warden of the First Source:** the cure path is now *personal* — success frees her people from a thousand-year duty they never chose. She wants the party to succeed more than she will ever say.
 - **Keeper of ringed secrets:** what she tells, what she yields under pressure, and what she never says — the gaps are where her best scenes live.
 - **Gateway to the Sere — with a broken bridge (as played):** the council wants the defilers' containment help, and reaching them runs through Harah. But *"the defilers won't talk to me… They wouldn't necessarily trust me. It's a long story. Meet me at the bar later."* Her past rift with the Order is real, unexplained, and now load-bearing: someone has to make that meeting happen — and hear the story. Erleena's second ask — a defiler wizard brought back to the ship — makes it unavoidable.
 - **Network blind spot:** the party's untrackable channel; the merchant houses covet her, and she would refuse every side.

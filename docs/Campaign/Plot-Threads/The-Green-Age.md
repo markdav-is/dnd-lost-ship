@@ -8,15 +8,15 @@ Aerun — the central desert continent — was not always a desert. A thousand y
 
 The cataclysm is anchored by three facts:
 
-1. **[The First Source](The-First-Source.md) opened on Aerun at the end of the Green Age — when Rajaat, the sorcerer, was sent into the Hollow and the sending tore a hole from the Black that never healed.** From it poured the original outbreak of the spore infection; the ship in the Barrier Peaks is a second hole. It spread *slowly, then all at once*: the animals changed, the trees changed, the people changed. Conventional containment failed — the walls held eleven years before the bloom came through the groundwater.
+1. **[The First Source](The-First-Source.md) opened on Aerun at the end of the Green Age — a hole from the Black into our world that never healed.** From it poured the original outbreak of the spore infection; the ship in the Barrier Peaks is a second hole. It spread *slowly, then all at once*: the animals changed, the trees changed, the people changed. Conventional containment failed — the walls held eleven years before the bloom came through the groundwater.
 2. **Defiler magic killed the spread — and the continent's green with it.** The spores are plant life; the defiling destroyed them directly, and every growing thing besides. The infected creatures survived the casting and starved. *"They made a desert. On purpose. They killed the land to save the world."* Defiling was shunned from Vermoon afterward, its knowledge preserved only by the secretive [Order of the Sere](../../World/Factions/The-Order-of-the-Sere.md) as a failsafe. The quarantine has held for a thousand years.
-3. **The Red Dragon brought about the apocalypse that buried the ancients' technology** ([Timeline](../../World/Timeline.md), [The Dragons](../../World/The-Dragons.md)) — the fall of the networks, teleporters, and Titan-driven cities. How the two catastrophes relate — one event or two, cause or consequence, and where the dragons' duty to protect the [Titans](../../World/The-Titans.md) fits — is deliberately open. (Was the Green Age's end *why* the Red Dragon buried the world's machines? Did the ancients' technology carry Rajaat here?)
+3. **The Red Dragon brought about the apocalypse that buried the ancients' technology** ([Timeline](../../World/Timeline.md), [The Dragons](../../World/The-Dragons.md)) — the fall of the networks, teleporters, and Titan-driven cities. How the two catastrophes relate — one event or two, cause or consequence, and where the dragons' duty to protect the [Titans](../../World/The-Titans.md) fits — is deliberately open. (Was the Green Age's end *why* the Red Dragon buried the world's machines? Did the ancients' technology carry the First Source here?)
 
-Rajaat was **never destroyed**. It remains contained in the Sea of Silt — by means the Sandwalkers guard.
+The First Source was **never destroyed**. It remains contained in the Sea of Silt — by means the Sandwalkers guard.
 
 ## What Harah's people know
 
-- The [Sandwalkers](../../World/Factions/The-Sandwalkers.md) preserve oral histories back to the Green Age. They are witnesses, not scholars — knowledge carried in song, scar, and the reading of ruins. For a thousand years they have been Rajaat's **wardens**.
+- The [Sandwalkers](../../World/Factions/The-Sandwalkers.md) preserve oral histories back to the Green Age. They are witnesses, not scholars — knowledge carried in song, scar, and the reading of ruins. For a thousand years they have been the First Source's **wardens**.
 - Their word ***vel-keth*** — "the hunger that eats the world" — names the infection in both its outbreaks.
 - Three months ago the primal spirits of the deep desert began to go **silent**. *"Dead things do not warn you. Silent things are waiting."* The Sandwalkers call this the **Defiling Silence** — a name that is not metaphor: they have heard this silence before, when the defilers worked.
 - The oldest ruins beneath Aerun's sand are **not human-built**.
@@ -28,13 +28,13 @@ Most of Vermoon does not know the truth; these contested versions circulate as f
 | Theory | Cause | Reality |
 | :--- | :--- | :--- |
 | **The Defiling Wars** | Sorcerer-kings' life-draining magic in a catastrophic war | Closest to true — there *was* mass defiling; the "war" was against the spores |
-| **The Fallen Star** | A crashed vessel impacted Aerun long ago | Possibly literally true — is Rajaat the wreck of an earlier ark? *(Not either Antari ship: the terraforming ark is the one in the Barrier Peaks, and the refugee ship landed safely — [The Ship's Purpose](The-Ships-Purpose.md).)* |
-| **The Titan's Fall** | The Titan ("the Work") caused the devastation — or died trying to stop it | Sandwalker tradition; how Aerun's Titan relates to Rajaat is open |
+| **The Fallen Star** | A crashed vessel impacted Aerun long ago | Possibly literally true — is the First Source the wreck of an earlier ark? *(Not either Antari ship: the terraforming ark is the one in the Barrier Peaks, and the refugee ship landed safely — [The Ship's Purpose](The-Ships-Purpose.md).)* |
+| **The Titan's Fall** | The Titan ("the Work") caused the devastation — or died trying to stop it | Sandwalker tradition; how Aerun's Titan relates to the First Source is open |
 | **The Sorcerer-King's Bargain** | One ruler traded the land's vitality for immortality | Cautionary myth that now reads as prophecy about Jak and the network |
 
 ## Mechanical hook — the Primal Rite of Remembrance
 
-Harah can perform a one-hour ritual using a piece of material from the ship, granting the party a **vision of Aerun during the Green Age**. The vision contains one specific fact about the ship's original purpose or the infection's nature that cannot be obtained any other way — and it is the cleanest way to eventually *show* the defilers at their terrible work, Rajaat's discovery, or the Red Dragon's fire, rather than tell it.
+Harah can perform a one-hour ritual using a piece of material from the ship, granting the party a **vision of Aerun during the Green Age**. The vision contains one specific fact about the ship's original purpose or the infection's nature that cannot be obtained any other way — and it is the cleanest way to eventually *show* the defilers at their terrible work, the First Source breaking through, or the Red Dragon's fire, rather than tell it.
 
 ## The stakes
 

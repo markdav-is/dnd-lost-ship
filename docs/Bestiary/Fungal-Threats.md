@@ -4,7 +4,7 @@
 
 ![Infected dire wolf](../.attachments/fungal_wolf.png)
 
-The russet mold's servants, symbionts, and victims. Common threads: cold/poison resistance, poison-condition immunity, spore bursts, and fire as the reliable answer. Infection rules: [Russet Mold & Infection](../Game-Mechanics/Russet-Mold-and-Infection.md). *DM only: these are the [Black Salient's](../Campaign/Plot-Threads/The-Ships-Purpose.md) manifestation in flesh — and the Salient is a protrusion of the Black, the Dark Sun realm Rajaat was sent to, which is why the Fungal Horror is an aberration rather than a plant.*
+The russet mold's servants, symbionts, and victims. Common threads: cold/poison resistance, poison-condition immunity, spore bursts, and fire as the reliable answer. Infection rules: [Russet Mold & Infection](../Game-Mechanics/Russet-Mold-and-Infection.md). *DM only: these are the [Black Salient's](../Campaign/Plot-Threads/The-Ships-Purpose.md) manifestation in flesh — and the Salient is a protrusion of the Black, which is why the Fungal Horror is an aberration rather than a plant.*
 
 Full stat blocks: `assets/Frostwatch_Horror.docx`, `assets/Think of the Children.docx`, `assets/Return_to_Frostwatch_Final.md`, `assets/S3_Level1_Complete_5e_Conversion.docx`.
 

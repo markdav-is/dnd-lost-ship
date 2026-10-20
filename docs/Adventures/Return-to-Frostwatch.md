@@ -50,7 +50,7 @@ Play-ready page: **[Arrival at Frostwatch](Return-to-Frostwatch/Arrival-at-Frost
 
 ## Act III — The Council of Frostwatch
 
-Play-ready page: **[The Council of Frostwatch](Return-to-Frostwatch/The-Council-of-Frostwatch.md)** — the full scene in play order: McReady in the corridor, the report, the Severing, "We call it Rajaat," the Three Paths with every scripted response, the question, and Valerius's final word. DM background and motivations sit at the bottom of that page; the decision-space reference is [The Lighthouse Dilemma](../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).
+Play-ready page: **[The Council of Frostwatch](Return-to-Frostwatch/The-Council-of-Frostwatch.md)** — the full scene in play order: McReady in the corridor, the report, the Severing, Harah's revelation of a second source, the Three Paths with every scripted response, the question, and Valerius's final word. DM background and motivations sit at the bottom of that page; the decision-space reference is [The Lighthouse Dilemma](../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).
 
 ## Appendix — Stat Blocks
 

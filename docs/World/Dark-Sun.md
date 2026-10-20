@@ -36,12 +36,11 @@ The reference shelf for everything [Aerun](Aerun.md) borrows — and it borrows 
 | Dark Sun / Dune | This campaign |
 | :--- | :--- |
 | Athas, the dying world | **Aerun** — one continent's worth of the same story, as Vermoon's warning |
-| Rajaat, the First Sorcerer (inventor of defiling) | **The same Rajaat.** His Champions sent him into the Hollow, inside the Black, and the sending tore a hole into our world that never healed — the [First Source](../Campaign/Plot-Threads/The-First-Source.md) pours from it, and the Sandwalkers gave the place his name. *"It started with Rajaat."* Kept as the sorcerer on purpose, so more Dark Sun lore can come in cleanly |
 | The Cleansing Wars' scoured wastes | **The Green Age defiling** — the working that unmade the interior into the Sea of Silt |
 | The Emperor (Dune) | **Jak** — the one king, far to the north; his **Spáhuses** (the Spásistren's watch-houses — outposts, not temples) are embassies |
 | The Landsraad / the merchant dynasties | **[The seven families](Factions/The-Merchant-Houses.md)** — Wavir, Tsalaxa, Inika, Shom, M'ke, Vordon, Stel — **ruling their cities outright** |
 | The Spacing Guild | **The Caravan Guild** — mekillot argosies and silt-crawlers; all transport, perfect neutrality |
-| The sorcerer-kings (the Champions of Rajaat) | **The house Champions** — names kept, thrones gone: each family's sovereign weapon; the greatest ascended to Dragon/Avangion states as pure deterrent |
+| The sorcerer-kings | **The house Champions** — names kept, thrones gone: each family's sovereign weapon; the greatest ascended to Dragon/Avangion states as pure deterrent |
 | The War of Assassins (kanly) | **The War of Champions** — house disputes settled by refereed champion-duels in the arenas; Guild-notarized stakes; armies too expensive to march |
 | The Veiled Alliance | **The Gleaners** — Vermoon's own Gleaners Guild, whose Aerun chapter *are* the preservers (Circle of Preservation). Played as **Dune's planetologists**, not as an underground: unhunted, teaching the Ring Road to farm, with an open vision of a new Green Age |
 | Universal psionics | **The Spice** — psionics as ecology, not birthright |

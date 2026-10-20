@@ -33,7 +33,7 @@ Repaired with new timber and pale stone — and transformed:
 
 ## The Council of Frostwatch
 
-Held the morning after the party's return: Valerius severed her implant ("We are alone"), revealed the true spread of the infection, [Harah](../NPCs/Harah-Tabr.md) **named Rajaat**, and the paths were laid out as planetary triage. Full scene-by-scene text: [Return to Frostwatch](../Adventures/Return-to-Frostwatch.md); decision reference: [The Lighthouse Dilemma](../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).
+Held the morning after the party's return: Valerius severed her implant ("We are alone"), revealed the true spread of the infection, [Harah](../NPCs/Harah-Tabr.md) **revealed a second source** — on Aerun, under a thousand-year quarantine — and the paths were laid out as planetary triage. Full scene-by-scene text: [Return to Frostwatch](../Adventures/Return-to-Frostwatch.md); decision reference: [The Lighthouse Dilemma](../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md).
 
 ![The Council](../.attachments/council_reference2.jpg)
 ![The council cast](../.attachments/council_cast_reference.jpg)

@@ -65,7 +65,7 @@ The 2026-08-05 export was blank in every narrative field. **Andy's refreshed exp
 
 ## DM hooks
 
-- **The thing in the woods, and the watcher.** Andy wrote a creature that swallows light, a moment *outside* — nowhere and everywhere — and something that *noticed* her there. That is the character's mystery and it is **Andy's to answer**, not the wiki's. Do not tie it to the Black Salient, the Lighthouse, or Rajaat without his say-so; a sorcerer's shadow origin doesn't need to be the campaign's villain. Keep it as texture — a candle that gutters near her, a hound that looks at her a beat too long — until he decides.
+- **The thing in the woods, and the watcher.** Andy wrote a creature that swallows light, a moment *outside* — nowhere and everywhere — and something that *noticed* her there. That is the character's mystery and it is **Andy's to answer**, not the wiki's. Do not tie it to the Black Salient, the Lighthouse, or the First Source without his say-so; a sorcerer's shadow origin doesn't need to be the campaign's villain. Keep it as texture — a candle that gutters near her, a hound that looks at her a beat too long — until he decides.
 - **The Hound of Ill Omen** is on her sheet as a subclass feature. Now it is also a *character*: play the look it gives her before it turns. Never explain it.
 - **Her rule and the party.** *Once she accepts responsibility for someone, she sees the job through.* She has, in effect, accepted responsibility for four companions, a professor, and a box of books. That is why she's here; it doesn't need saying out loud.
 - **Took heavy psychic damage and was briefly dominated** in the mind flayer theater fight — psychic scars available for callbacks.

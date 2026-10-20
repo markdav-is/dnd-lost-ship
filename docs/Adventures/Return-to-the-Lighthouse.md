@@ -156,7 +156,7 @@ Play it for comedy. Everyone gets soaked. The tabaxi hates it, the centaur barel
 
 ### What she knows
 
-Eddie and George have kept her up to date, so she already knows about Frostwatch, the council, the spread, Rajaat and the frog. She doesn't need the news. She wants the visions.
+Eddie and George have kept her up to date, so she already knows about Frostwatch, the council, the spread, the second source on Aerun, and the frog. She doesn't need the news. She wants the visions.
 
 - **The mold is a symptom.** A month of readings shows the same black spike, every day a little taller, pointing up at the tower. Something is pushing into the world through the Lighthouse, and the spores are what it looks like.
 - **Her cure works in a dish.** She has stopped the strain growing. To finish it she needs a second sample to compare against, and time.
@@ -172,13 +172,13 @@ If anyone saw the desert, this is the moment the scene turns on. She goes very s
 
 When they say yes, she knows exactly where that is: the Sea of Silt on Aerun, where her old dig was. If the light and the spores were coming *from* there, then the answer is there too. **She decides to leave with the party, now, and go to Aerun.**
 
-If nobody saw the desert, she gets there anyway from the connected-world vision ("everything is joined to something, so where is the other end?") and from Rajaat. It just takes longer.
+If nobody saw the desert, she gets there anyway from the connected-world vision ("everything is joined to something, so where is the other end?") and from what Harah said at the council about a second source on Aerun. It just takes longer.
 
-### What she says (d6)
+### What she says (d8)
 
 Roll or pick when the talk needs a push:
 
-| d6 | Erleena says |
+| d8 | Erleena says |
 | :-: | :--- |
 | 1 | *"Were there obsidian spires? Don't guess. Did you see them?"* |
 | 2 | *"I did my internship in the northern desert. Two seasons of sand in my teeth. I know that sky."* |
@@ -186,6 +186,8 @@ Roll or pick when the talk needs a push:
 | 4 | *"Everything joined together sounds lovely until you ask who's holding the other end."* |
 | 5 | *"I wrote the book on Aerun. Literally. Someone is carrying a box of them out of here, by the way."* |
 | 6 | *"George stays. Someone has to keep that thing busy, and he's better at it than either of us."* |
+| 7 | *"The spores are the effect of the black salient. But we can't close it here."* |
+| 8 | *"George and Eddie can contain the spread, if we get that door to stay closed."* |
 
 ![Erleena in her workroom, dropping the agent into the dish; a grey dead ring spreads through the russet mold](../.attachments/enc_erleena_at_work.jpg)
 

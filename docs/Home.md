@@ -2,7 +2,7 @@
 
 DM reference wiki for **The Lost Ship**, a D&D 5e campaign built on *S3: Expedition to the Barrier Peaks*, set in the homebrew world of **Vermoon**. This wiki contains **full DM secrets and spoilers** — do not share with players.
 
-> **Premise:** A year after the party's world-saving adventure, their old companion **Jak Bjornsson** rules the world as Administrator from the Temple of Nord in Grønnfjord. But a void in his all-seeing Aura network festers in the southern Barrier Peaks — a crashed alien starship whose russet mold contagion is spreading across the mountains. The party has surveyed the ship, found the source (the Lighthouse), and learned the truth: this is the world's **second Rajaat**. Seal it, burn it, or cure it?
+> **Premise:** A year after the party's world-saving adventure, their old companion **Jak Bjornsson** rules the world as Administrator from the Temple of Nord in Grønnfjord. But a void in his all-seeing Aura network festers in the southern Barrier Peaks — a crashed alien starship whose russet mold contagion is spreading across the mountains. The party has surveyed the ship, found the source (the Lighthouse), and learned the truth: this is the world's **second source**. Seal it, burn it, or cure it?
 
 ## Sections
 
@@ -27,7 +27,7 @@ DM reference wiki for **The Lost Ship**, a D&D 5e campaign built on *S3: Expedit
 | What happens if someone breathes spores? | [Russet Mold & Infection](Game-Mechanics/Russet-Mold-and-Infection.md) |
 | Which key card opens what? | [Key Card System](Game-Mechanics/Key-Card-System.md) |
 | What's the big decision looming? | [The Lighthouse Dilemma](Campaign/Plot-Threads/The-Lighthouse-Dilemma.md) |
-| What is Rajaat? | [The First Source](Campaign/Plot-Threads/The-First-Source.md) |
+| What is the First Source? | [The First Source](Campaign/Plot-Threads/The-First-Source.md) |
 | Who is the woman from the desert? | [Harah Tabr](NPCs/Harah-Tabr.md) |
 | What can I hand to players about Aerun? | [Aerun Players Guide](Aerun-Players-Guide.md) |
 | What can I hand to players about Vermoon's history? | [A Brief History of Vermoon](Aerun-Players-Guide/A-Brief-History-of-Vermoon.md) — Erleena's book, player-safe |

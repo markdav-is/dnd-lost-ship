@@ -72,7 +72,7 @@ One of Vermoon's buried elemental cities ([The Elemental Cities](The-Elemental-C
 
 **What is actually down there (Mark's canon, 2026-09-21):** a ruin — all is lost. The old molten core still burns, and the city of the legends is gone. What survives is the town on top of it, which mines old material and tech out of the depths and is known for **outfitting and trinkets**, new and ancient: "city of gold" really means *hidden treasures*, swap-meet style — with things out of the *Deck of Many Things* for those who know where to look. Detail on [The Elemental Cities](The-Elemental-Cities.md).
 
-**This has nothing to do with the infection.** The fire city is a backstory hook for [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md) — the reason the tabaxi wants to go to Aerun — and the wiki keeps it separate from Rajaat, the Lighthouse, and the cure. It is not the same place as the deep-desert Titan of Sandwalker tradition; the fire city is under the rim, not under the silt.
+**This has nothing to do with the infection.** The fire city is a backstory hook for [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md) — the reason the tabaxi wants to go to Aerun — and the wiki keeps it separate from the First Source, the Lighthouse, and the cure. It is not the same place as the deep-desert Titan of Sandwalker tradition; the fire city is under the rim, not under the silt.
 
 ## Magic: preservers and defilers
 
@@ -112,7 +112,7 @@ The Sea of Silt is the **scar of a cure**. During the Green Age the **[First Sou
 
 ## Why it matters now
 
-Three months ago Aerun's primal spirits began going **silent** — the Defiling Silence. [Harah Tabr](../NPCs/Harah-Tabr.md) followed it south to the Scarlands and recognized the Barrier Peaks infection at once: a **second source**, in a land with no worms and no silt to drown it. The party is unknowingly fighting the war Aerun has fought for millennia. And now [Erleena](../NPCs/Erleena-Riser.md) is coming to Aerun for the two things her cure needs — a baseline sample from Rajaat, and a defiler wizard — with the party carrying her there ([Return to the Ship](../Adventures/Return-to-the-Ship.md)).
+Three months ago Aerun's primal spirits began going **silent** — the Defiling Silence. [Harah Tabr](../NPCs/Harah-Tabr.md) followed it south to the Scarlands and recognized the Barrier Peaks infection at once: a **second source**, in a land with no worms and no silt to drown it. The party is unknowingly fighting the war Aerun has fought for millennia. And now [Erleena](../NPCs/Erleena-Riser.md) is coming to Aerun for the two things her cure needs — a baseline sample from the First Source, and a defiler wizard — with the party carrying her there ([Return to the Ship](../Adventures/Return-to-the-Ship.md)).
 
 ## Player-facing material
 

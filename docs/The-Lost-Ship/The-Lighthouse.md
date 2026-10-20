@@ -6,7 +6,7 @@
 
 The source. A white tower at the center of the garden island, consumed by russet mold mycelium, broadcasting spores through the ship and out into the Barrier Peaks. The campaign's central dilemma stands here.
 
-*DM only: the tower is the **anchor** of the Black Salient — a protrusion of the Black — the Dark Sun realm Rajaat was sent to — bleeding negative energy into our reality. The mold is that bleed made physical. See [The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md).*
+*DM only: the tower is the **anchor** of the Black Salient — a protrusion of the Black — bleeding negative energy into our reality. The mold is that bleed made physical. See [The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md).*
 
 > *The original white concrete is barely visible beneath a skin of interlocked mushroom caps and ropy cords of pale mycelium, infiltrating every seam and crack of the structure with a faint, steady bioluminescent glow… High above, a blinding halo of churning golden-white spores swirls in slow, deliberate orbit around the lantern room.*
 
