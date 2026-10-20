@@ -70,7 +70,7 @@ Beneath the lake: the **reactor core** (glass columns of arcing water-cooled mac
 
 **Erleena on the comm.** George put her on the line from his console: *"What's going on up there? I heard the play by play from Eddie. Is everybody all right?"* She's well and her lab is robust. She had two asks. **(1) The door they left by is still opening and closing**, and things from outside are trying to get in. Eddie says the manual override is on the console down there, *"the same console you used to open it."* **(2) The froghemoth.** The lake creatures are paying more attention to her lab, and she's afraid it will lose its mind completely and crush it. George: *that's what the backpacks are for*. The party's plan is to wash it, not kill it.
 
-**Where it stopped.** The party asked Eddie to send the dancing androids to check the next plant growth for ropers, then took a **long rest in George's med bay**. Everyone is at full strength, unpoisoned, with slots back. Next: down to Erleena (*"we have to kill the frogmoth that we were too afraid to kill last time,"* or wash it). *(Next: [Beneath the Lighthouse](../Adventures/The-Awakened-Ship/Beneath-the-Lighthouse.md). Session record: `assets/Session Review_ Roper Combat Encounter…_transcript.txt`.)*
+**Where it stopped.** The party asked Eddie to send the dancing androids to check the next plant growth for ropers, then took a **long rest in George's med bay**. Everyone is at full strength, unpoisoned, with slots back. Next: down to Erleena (*"we have to kill the frogmoth that we were too afraid to kill last time,"* or wash it). *(Next: [Return to the Lighthouse](../Adventures/Return-to-the-Lighthouse.md). Session record: `assets/Session Review_ Roper Combat Encounter…_transcript.txt`.)*
 
 ## The Awakened Ship — session 3 (played 2026-10-06): the garden, the fiend, the plant, and the frog
 
@@ -88,4 +88,4 @@ Beneath the lake: the **reactor core** (glass columns of arcing water-cooled mac
 
 **Loot from the body.** A **flail**, a **belt of flying**, and a packet of **beans** (*"Don't get these wet"*). Who took what wasn't said at the table.
 
-**Where it stopped.** Across the bridge, on the island, at the foot of the Lighthouse. *(Next: [Beneath the Lighthouse](../Adventures/The-Awakened-Ship/Beneath-the-Lighthouse.md), from [The tower in full](../Adventures/The-Awakened-Ship/Beneath-the-Lighthouse.md#the-tower-in-full) and the door. Session record: `assets/Party Expedition Log_ Navigating the Garden Layer, Neutralizing the Frogmoth_transcript.txt` and `…_summary.txt`.)*
+**Where it stopped.** Across the bridge, on the island, at the foot of the Lighthouse. *(Next: [Return to the Lighthouse](../Adventures/Return-to-the-Lighthouse.md), from [The tower in full](../Adventures/Return-to-the-Lighthouse.md#the-tower-in-full) and the door. Session record: `assets/Party Expedition Log_ Navigating the Garden Layer, Neutralizing the Frogmoth_transcript.txt` and `…_summary.txt`.)*

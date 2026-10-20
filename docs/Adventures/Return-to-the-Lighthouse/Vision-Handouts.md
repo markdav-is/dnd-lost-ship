@@ -1,4 +1,4 @@
-[Home](../../Home.md) / [Adventures](../../Adventures.md) / [The Awakened Ship](../The-Awakened-Ship.md) / Vision Handouts <!-- wikidown:breadcrumb -->
+[Home](../../Home.md) / [Adventures](../../Adventures.md) / [Return to the Lighthouse](../Return-to-the-Lighthouse.md) / Vision Handouts <!-- wikidown:breadcrumb -->
 
 # Vision Handouts
 

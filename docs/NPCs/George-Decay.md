@@ -49,7 +49,7 @@ Deep resonant baritone, refined diction, dramatic pauses, signature **"Oh my!"**
 
 ## Staying behind — the holding action
 
-When Erleena decides the cure is on Aerun and that she is going to get it ([Beneath the Lighthouse](../Adventures/The-Awakened-Ship/Beneath-the-Lighthouse.md)), George stays. Spore air is the one thing his treatment can't handle; a sea crossing and a desert would finish him. He has known this since before the party arrived, and he and Erleena settled it on the comm before she ever said it out loud to anyone else. *"Someone has to mind the shop. I am, regrettably, the only one of us the shop is currently eating."*
+When Erleena decides the cure is on Aerun and that she is going to get it ([Return to the Lighthouse](../Adventures/Return-to-the-Lighthouse.md)), George stays. Spore air is the one thing his treatment can't handle; a sea crossing and a desert would finish him. He has known this since before the party arrived, and he and Erleena settled it on the comm before she ever said it out loud to anyone else. *"Someone has to mind the shop. I am, regrettably, the only one of us the shop is currently eating."*
 
 What he does while they are gone — simple, and said plainly at S42 on the party's way out:
 

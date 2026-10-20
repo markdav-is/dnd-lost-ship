@@ -27,7 +27,11 @@ The campaign's **modules**, in play order. Each module page is the overview — 
 
 ## The Awakened Ship — encounters
 
-[Beneath the Lighthouse](Adventures/The-Awakened-Ship/Beneath-the-Lighthouse.md) · [The Jammed Override](Adventures/The-Awakened-Ship/The-Jammed-Override.md) · [The Antenna](Adventures/The-Awakened-Ship/The-Antenna.md) · [Flipbook](Adventures/The-Awakened-Ship/Flipbook.md)
+[The Jammed Override](Adventures/The-Awakened-Ship/The-Jammed-Override.md) · [The Antenna](Adventures/The-Awakened-Ship/The-Antenna.md) · [Flipbook](Adventures/The-Awakened-Ship/Flipbook.md)
+
+## Return to the Lighthouse — encounters
+
+[Return to the Lighthouse](Adventures/Return-to-the-Lighthouse.md) (the tower in full, the door and the visions, Erleena comes up, the airlock, her lab) · [Vision Handouts](Adventures/Return-to-the-Lighthouse/Vision-Handouts.md) · [Flipbook](Adventures/Return-to-the-Lighthouse/Flipbook.md)
 
 ## Building new modules
 

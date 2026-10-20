@@ -10,7 +10,7 @@
 
 ## Encounters
 
-1. **[Beneath the Lighthouse](The-Awakened-Ship/Beneath-the-Lighthouse.md)** (**the frog**): the island, the hatch, Erleena's lab fifty feet under the lake, the infected froghemoth at the glass (kill it or wash it before the lake comes in), and then the turn. The party tells her about Rajaat and the defilers, she makes her two asks, names Aerun, and says she's going. George stays to hold the ship. Printable player cards for the door's visions: **[Vision Handouts](The-Awakened-Ship/Vision-Handouts.md)**.
+1. **[Return to the Lighthouse](Return-to-the-Lighthouse.md)** (**the frog**): the island, the hatch, Erleena's lab fifty feet under the lake, the infected froghemoth at the glass (kill it or wash it before the lake comes in), and then the turn. The party tells her about Rajaat and the defilers, she makes her two asks, names Aerun, and says she's going. George stays to hold the ship. Printable player cards for the door's visions: **[Vision Handouts](Return-to-the-Lighthouse/Vision-Handouts.md)**.
 2. **[The Jammed Override](The-Awakened-Ship/The-Jammed-Override.md)** (**the big door**): the cargo door the party left by keeps opening and letting the siege in. Get to the cargo-bay booth on the lower deck and turn the dial to REMOTE. It puts the party a few doors from Nova.
 3. **[The Antenna](The-Awakened-Ship/The-Antenna.md)** (**Eddie's favor**): a 150-lb dish up the iced rocks to the crown of the hull, pointed at the Temple of Nord so Eddie can join the Aura network. Played for comedy.
 
@@ -38,7 +38,7 @@ None of the three gates the other two. They are in three different places, so th
 
 | Goal | Who wants it | Where | How they get there | Page |
 | :--- | :--- | :--- | :--- | :--- |
-| **The frog** | Erleena: it's testing her portholes | The garden lake, or the glass of her lab | Lift or tube to the garden, then the bridge or the swamp, the island, and the hatch. Or meet it at the lab's portholes | [Beneath the Lighthouse](The-Awakened-Ship/Beneath-the-Lighthouse.md) |
+| **The frog** | Erleena: it's testing her portholes | The garden lake, or the glass of her lab | Lift or tube to the garden, then the bridge or the swamp, the island, and the hatch. Or meet it at the lab's portholes | [Return to the Lighthouse](Return-to-the-Lighthouse.md) |
 | **The big door** | Erleena: the cargo door keeps opening and the siege gets in | The cargo-bay booth on the lower deck | Drop tube all the way down, or the stair under Erleena's lab | [The Jammed Override](The-Awakened-Ship/The-Jammed-Override.md) |
 | **The antenna** | Eddie | The crown, on top of the hull, outside | Up and out the upper airlock, into the siege's sky | [The Antenna](The-Awakened-Ship/The-Antenna.md) |
 

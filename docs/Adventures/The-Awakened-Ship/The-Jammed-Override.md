@@ -65,4 +65,4 @@ A short, practical errand in a bad place: the fun is the deck's encounter table 
 
 ---
 
-*Deeper knowledge:* [Beneath the Lighthouse](Beneath-the-Lighthouse.md) · [The Lower Deck](../../The-Lost-Ship/The-Lower-Deck.md) · [The Lighthouse](../../The-Lost-Ship/The-Lighthouse.md) · [Nova](../../NPCs/Nova.md) · [Erleena Riser](../../NPCs/Erleena-Riser.md) · module: [Return to the Ship](../Return-to-the-Ship.md)
+*Deeper knowledge:* [Return to the Lighthouse](../Return-to-the-Lighthouse.md) · [The Lower Deck](../../The-Lost-Ship/The-Lower-Deck.md) · [The Lighthouse](../../The-Lost-Ship/The-Lighthouse.md) · [Nova](../../NPCs/Nova.md) · [Erleena Riser](../../NPCs/Erleena-Riser.md) · module: [Return to the Ship](../Return-to-the-Ship.md)

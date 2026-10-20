@@ -1,18 +1,20 @@
-[Home](../../Home.md) / [Adventures](../../Adventures.md) / [The Awakened Ship](../The-Awakened-Ship.md) / Beneath the Lighthouse <!-- wikidown:breadcrumb -->
+[Home](../Home.md) / [Adventures](../Adventures.md) / Return to the Lighthouse <!-- wikidown:breadcrumb -->
 
-# Beneath the Lighthouse
+# Return to the Lighthouse
 
-*Return to the Ship, the turn — the island, the hatch, the lab fifty feet under the lake, the infected froghemoth at the glass, and the scientist who decides the cure is on Aerun and that she is going to get it.*
+**[Flipbook](Return-to-the-Lighthouse/Flipbook.md)**: just the images, in play order. **[Vision Handouts](Return-to-the-Lighthouse/Vision-Handouts.md)**: the printable player cards.
 
-![Erleena's lab under the lake: the spike on the trace, and the green murk beyond the viewports](../../.attachments/enc_beneath_the_lighthouse.jpg)
+*The party's return to the Lighthouse — the tower in full, the visions at the door, Erleena coming up to meet them, the airlock, the lab fifty feet under the lake, the infected froghemoth at the glass, and the scientist who decides the cure is on Aerun and that she is going to get it.*
+
+![Erleena's lab under the lake: the spike on the trace, and the green murk beyond the viewports](../.attachments/enc_beneath_the_lighthouse.jpg)
 
 ## The tower in full
 
 *The party comes off the bridge with the froghemoth behind them, into the inner garden on the island. It is the first time anyone has stood this close to the tower with nothing trying to eat them. Let the moment be quiet.*
 
-![The tower in full from the island floor: the spore galaxy, the glowing roots, and the rabbits all facing the tower](../../.attachments/lighthouse_island.jpg)
+![The tower in full from the island floor: the spore galaxy, the glowing roots, and the rabbits all facing the tower](../.attachments/lighthouse_island.jpg)
 
-**On the table:** play the [looping clip](../../.attachments/lighthouse_island.mp4) full-screen on repeat and say nothing for a few seconds. It's 8 seconds, wide, and seen from the island floor. The beam turns one full circle like a real lighthouse: out over the distance, a gold flare as it swings past the viewer, and dim behind the tower. A drone plays underneath. There's also a [tall version](../../.attachments/lighthouse_awe.mp4) without the beam.
+**On the table:** play the [looping clip](../.attachments/lighthouse_island.mp4) full-screen on repeat and say nothing for a few seconds. It's 8 seconds, wide, and seen from the island floor. The beam turns one full circle like a real lighthouse: out over the distance, a gold flare as it swings past the viewer, and dim behind the tower. A drone plays underneath. There's also a [tall version](../.attachments/lighthouse_awe.mp4) without the beam.
 
 > *The rabbits are the first thing. A dozen of them in the moss under the tower, fat and soft and the colour of rust, flecked gold where the spores have taken. They lift their heads when you come off the bridge. All of them at once. Then they go back to grazing, all of them at once.*
 >
@@ -28,9 +30,9 @@
 >
 > *Eddie has not stopped talking. "That's the Lighthouse," he says, helpfully, as though you might have taken it for something else. "I wouldn't stand in the beam."*
 
-**Don't let the beam touch you.** The halo goes to whatever the beam lights; a flyer caught in it is dragged down to the island and lands in the thick of it (exposure save, [Russet Mold & Infection](../../Game-Mechanics/Russet-Mold-and-Infection.md)). Walk it like a searchlight — move when it's away, hold when it's near.
+**Don't let the beam touch you.** The halo goes to whatever the beam lights; a flyer caught in it is dragged down to the island and lands in the thick of it (exposure save, [Russet Mold & Infection](../Game-Mechanics/Russet-Mold-and-Infection.md)). Walk it like a searchlight — move when it's away, hold when it's near.
 
-**The comms (DM note).** Nothing radio gets in or out of the hull — the ship's hyper-dimensional fields filter RF the same way they blind the Aura network and stop teleportation ([Ship-wide properties](../../The-Lost-Ship.md)). Every call the party made from Frostwatch died in that void: *"No signal. Your number cannot be completed."* Not spores, not the tower's output, not Eddie. Inside the hull the wiring reaches everywhere — Eddie has watched the whole crossing, and Erleena's lab below the garden sits on the same internal comm line as George's pocket at S42, which is why she and George have talked every day for a month and still can't reach each other: the garden is between them, not the wiring. So Erleena knows everything George knows — the half-cure, the rabbitoid, the packs, that the party reached S42 — and nothing at all from the outside world. **That gap is the party's cue.** They are carrying a month of news she has never heard, and the council's news above all.
+**The comms (DM note).** Nothing radio gets in or out of the hull — the ship's hyper-dimensional fields filter RF the same way they blind the Aura network and stop teleportation ([Ship-wide properties](../The-Lost-Ship.md)). Every call the party made from Frostwatch died in that void: *"No signal. Your number cannot be completed."* Not spores, not the tower's output, not Eddie. Inside the hull the wiring reaches everywhere — Eddie has watched the whole crossing, and Erleena's lab below the garden sits on the same internal comm line as George's pocket at S42, which is why she and George have talked every day for a month and still can't reach each other: the garden is between them, not the wiring. So Erleena knows everything George knows — the half-cure, the rabbitoid, the packs, that the party reached S42 — and nothing at all from the outside world. **That gap is the party's cue.** They are carrying a month of news she has never heard, and the council's news above all.
 
 **The last time they spoke.** The party's last words with Erleena were in these sealed levels on the first survey: she told them she would build her cure lab here, and she asked them to make sure the big cargo door could never open again. Then they left through that same door, on the purge and never got a call through again. She has not forgotten either thing.
 
@@ -38,12 +40,12 @@
 
 *The party crosses the island to the base of the tower and the open door, the doorway glowing orange and spores spilling out of it at ground level. This is where the trip begins.*
 
-![At the foot of the tower: the open door glowing orange, the roots spreading toward you](../../.attachments/lh_door.jpg)
+![At the foot of the tower: the open door glowing orange, the roots spreading toward you](../.attachments/lh_door.jpg)
 
 **On the table:** there are two clips, one for each vision. Both open and close on the same door, and both loop.
 
-- **The [connected clip](../../.attachments/lh_door_connected.mp4)** runs 45 seconds. The gold threads carry the view through the rabbits, the valley of animals moving as one, the harbour town where blue implants braid into the gold, and up to the whole world, then back down the roots to the door. The drone is warm and major-key.
-- **The [desert clip](../../.attachments/lh_door.mp4)** runs 34 seconds. The tower splits open on a scorching, sand-blasted desert of black glass spires, the view pushes through the rift, pulls back, and the rift closes. The drone builds into a harsh wind.
+- **The [connected clip](../.attachments/lh_door_connected.mp4)** runs 45 seconds. The gold threads carry the view through the rabbits, the valley of animals moving as one, the harbour town where blue implants braid into the gold, and up to the whole world, then back down the roots to the door. The drone is warm and major-key.
+- **The [desert clip](../.attachments/lh_door.mp4)** runs 34 seconds. The tower splits open on a scorching, sand-blasted desert of black glass spires, the view pushes through the rift, pulls back, and the rift closes. The drone builds into a harsh wind.
 
 Start the connected clip as the party reaches the door. Switch to the desert clip when you turn to anyone who rolled a 1.
 
@@ -61,7 +63,7 @@ Start the connected clip as the party reaches the door. Switch to the desert cli
 
 Any number of players can land on any result. With five at the door, someone sees the desert more often than not. If nobody does, play the connected clip only.
 
-**Handouts.** There's a short printable card for each result on [Vision Handouts](Vision-Handouts.md). Hand them out after the rolls.
+**Handouts.** There's a short printable card for each result on [Vision Handouts](Return-to-the-Lighthouse/Vision-Handouts.md). Hand them out after the rolls.
 
 **This is the tower reaching for them.** The visions and the backlash are both psionic attacks from the Lighthouse, not the spores. They deal no infection, and nobody makes an infection save for them. A shake, a slap or a spore-blast in the face brings anyone out of a vision early.
 
@@ -81,23 +83,23 @@ For about a minute they stand at the threshold, smiling. Eddie's voice reaches t
 
 **Show them.** After the read-aloud, show the picture that goes with each piece of their vision:
 
-![The rabbits: every one joined by gold threads, hearts glowing together](../../.attachments/vision_bunnies.jpg)
+![The rabbits: every one joined by gold threads, hearts glowing together](../.attachments/vision_bunnies.jpg)
 
-![The wild: a valley of animals moving as one, the gold web under the snow](../../.attachments/vision_wildlife.jpg)
+![The wild: a valley of animals moving as one, the gold web under the snow](../.attachments/vision_wildlife.jpg)
 
-![The glowing ears: a town at dusk, blue implants braided into the gold](../../.attachments/vision_glowing_ears.jpg)
+![The glowing ears: a town at dusk, blue implants braided into the gold](../.attachments/vision_glowing_ears.jpg)
 
-![The whole world: Vermoon from above, laced with gold and blue](../../.attachments/vision_world_web.jpg)
+![The whole world: Vermoon from above, laced with gold and blue](../.attachments/vision_world_web.jpg)
 
 **What it leaves behind: hope.** They come out of it sure of something, the way you're sure of a dream. The spores aren't the enemy. Let them spread and they'll join the whole world into one web: every person, every animal, all feeling what the others feel. With that much empathy, nobody would ever hurt anyone again. It would be a utopia. *Why would anyone want to stop that?* It's a feeling, not a compulsion. Let the player decide how hard it holds their character.
 
-*DM only: the glowing-ears and whole-world visions put the Aura network into the same web as the spores. That is the party's withheld theory ([The Invisible Infection](../../Campaign/Plot-Threads/The-Invisible-Infection.md)), and it feels wonderful from inside. The vision does not confirm the theory. Leave that thread open.*
+*DM only: the glowing-ears and whole-world visions put the Aura network into the same web as the spores. That is the party's withheld theory ([The Invisible Infection](../Campaign/Plot-Threads/The-Invisible-Infection.md)), and it feels wonderful from inside. The vision does not confirm the theory. Leave that thread open.*
 
 ### The desert (d6: 1)
 
 Read it to them alone, in the second person, and show them this when you're done:
 
-![Through the split: the Sea of Silt under a white sky, black glass spires, and wormsign in the sand](../../.attachments/lh_door_desert.jpg)
+![Through the split: the Sea of Silt under a white sky, black glass spires, and wormsign in the sand](../.attachments/lh_door_desert.jpg)
 
 > *The wall in front of you splits. Not breaks. Opens, the way a curtain opens, along a seam of white light that runs up from the door and out of sight. Behind it there is no tower. There is a desert: a grey sea of dust, flat to the end of the world, under a white sky that presses down like a hand. The wind comes through the split hot and full of grit, and it stings. Black glass grows out of the dust in huge splintered spires, all shards and spikes, taller than the tower, and gold spores stream off their broken tips, through the split and over you. The light comes from there, and so do the spores. It has always come from there. Out between the spires the sand heaves up in one long curving ridge and keeps moving, as if something underneath it is swimming. Then the seam closes and the door is just a door.*
 
@@ -105,7 +107,7 @@ Read it to them alone, in the second person, and show them this when you're done
 
 **The two visions disagree.** If both turn up, one player now feels the spores should be left alone to make a better world. The other feels they must be stopped, and only in the desert. Let them argue about it on the way down the stair.
 
-*DM only: the grey sea is the Sea of Silt on Aerun, the obsidian spires stand on it, and the ridge is wormsign. It is the other Salient's ground ([The First Source](../../Campaign/Plot-Threads/The-First-Source.md), [The Silt Sea](../../World/Dark-Sun/The-Silt-Sea.md)). This is foreshadowing for the long arc that ties the two together ([The Ship's Purpose](../../Campaign/Plot-Threads/The-Ships-Purpose.md)). Don't name any of it at the table, and don't confirm it when the players guess. When Erleena names Aerun later on this page, let anyone who saw the desert make the connection on their own.*
+*DM only: the grey sea is the Sea of Silt on Aerun, the obsidian spires stand on it, and the ridge is wormsign. It is the other Salient's ground ([The First Source](../Campaign/Plot-Threads/The-First-Source.md), [The Silt Sea](../World/Dark-Sun/The-Silt-Sea.md)). This is foreshadowing for the long arc that ties the two together ([The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md)). Don't name any of it at the table, and don't confirm it when the players guess. When Erleena names Aerun later on this page, let anyone who saw the desert make the connection on their own.*
 
 ### The backlash (d6: 4–5)
 
@@ -132,7 +134,7 @@ Nothing happens to them. They see the others go still, hear one of them laugh, a
 
 **She clears the tower.** She walks straight in and starts spraying. The mold peels off the stone in sheets, and the mushrooms wilt where the cone touches them. She works methodically, wall, stair, floor, the way somebody cleans a lab, and says nothing until the path to the hatch is clear. Let the party follow her in or watch from the door.
 
-![Erleena in her suit clearing the inside of the Lighthouse with George's sprayer, the hatch open behind her](../../.attachments/enc_erleena_spraying.jpg)
+![Erleena in her suit clearing the inside of the Lighthouse with George's sprayer, the hatch open behind her](../.attachments/enc_erleena_spraying.jpg)
 
 **The hatch.** It's the same heavy floor hatch where the party first found her a month ago. She came up through it, so this time it opens easily on her word: no Strength check, no key card. *"Mind the ladder. It's wet. Everything's wet. That's the point."* She goes down first.
 
@@ -142,7 +144,7 @@ At the bottom of the ladder is a small round airlock: riveted steel, amber lamps
 
 > *She unlatches the bubble helmet and pulls it off, and for once she's almost smiling. Then she unhooks a hose from the wall. "Arms up. All of you. Nothing comes into my lab with spores on it, and that includes the bird."*
 
-![The airlock under the Lighthouse: Erleena, helmet off, hosing down the soaked and indignant party](../../.attachments/enc_airlock_washdown.jpg)
+![The airlock under the Lighthouse: Erleena, helmet off, hosing down the soaked and indignant party](../.attachments/enc_airlock_washdown.jpg)
 
 Play it for comedy. Everyone gets soaked. The tabaxi hates it, the centaur barely fits, and Eustace will want to complain. She doesn't stop until she's satisfied. Then the inner door rolls open on white light.
 
@@ -158,17 +160,17 @@ Then a beat. Let her count heads (five, and one of them new: Robin) and sit down
 
 The room: a **30-foot circular chamber, fifty feet under the lake**, 10-foot ceiling — and nothing like the dark, stale place the party left her in. Eddie brought the sealed levels' power back for her, and what woke up was a **sickbay**: clean white light, warm filtered air, pale curved walls, a soft steady hum. Three **biobeds** stand along the curve with readout panels above them; a diagnostic table takes the middle of the room; the wall displays scroll her instrument traces; her sample dishes sit in a lit case under glass. **Through a sliding door, her workroom:** a smaller lab where the actual work happens. A long white bench under a hard work light holds the dish under its little glass dome, racks of sample tubes, stacked culture plates with russet colonies, a microscope, a centrifuge, a slide box, open notebooks and a mug of cold tea. A second wall display repeats the traces, and one riveted viewport looks out into the lake. The sickbay is where she talks to people. The workroom is where she is when they arrive. The wide riveted viewports are the one thing the lights can't fix — they look out into murky green lake water, and under the hum there is a soft, irregular thudding on the glass, pale shapes smearing against the dark outside and sliding away. Nothing grows here. The lake overhead is the reason — fifty feet of murky lake is a better spore filter than anything the ship's engineers built — and that is exactly why a scientist picked this room. One more stair goes down from it, to the lower deck. Through a hatch on the far side, **her quarters**: a proper crew cabin — a bunk, a working galley unit, a drawer of clean uniforms. She lives here, in the lake's clean air, and until the tower noticed her it was the best lab she had ever had.
 
-![Erleena in her workroom, dropping the agent into the dish; a grey dead ring spreads through the russet mold](../../.attachments/enc_erleena_at_work.jpg)
+![Erleena in her workroom, dropping the agent into the dish; a grey dead ring spreads through the russet mold](../.attachments/enc_erleena_at_work.jpg)
 
 ## The exchange
 
 **As played so far (2026-09-24):** Erleena already talked to the party over the comm from S42. She asked about the cargo door that keeps opening (Eddie: the override is on the console down there, the one they used before) and named the froghemoth as her worry, and George told them the packs are for it. In person she can skip re-asking and go straight to the traces and the outside news. The extra pack and the sixth dose are both coming down with the party.
 
-**Her first question is the door.** She picks up the last conversation exactly where it stopped, as if it were yesterday: *"The door. The big one you went out by. It's still doing it. Every few hours — open, shut, open — and things come in. I asked you to make it never open again."* It isn't an accusation. But **Eddie knows what it is**, and if anyone asks the ceiling, he tells them: the override on the cargo-bay booth console, the one they used to open it, is set to LOCAL and physically jammed there. He can see the fault on his board and can't clear it from his end. *"Somebody has to go and turn the actual dial."* Erleena has heard this explanation every day for a month and would like it to stop being true. That errand is its own page: **[The Jammed Override](The-Jammed-Override.md)**. It can be done now, on the way out, or never — it doesn't gate anything on this page.
+**Her first question is the door.** She picks up the last conversation exactly where it stopped, as if it were yesterday: *"The door. The big one you went out by. It's still doing it. Every few hours — open, shut, open — and things come in. I asked you to make it never open again."* It isn't an accusation. But **Eddie knows what it is**, and if anyone asks the ceiling, he tells them: the override on the cargo-bay booth console, the one they used to open it, is set to LOCAL and physically jammed there. He can see the fault on his board and can't clear it from his end. *"Somebody has to go and turn the actual dial."* Erleena has heard this explanation every day for a month and would like it to stop being true. That errand is its own page: **[The Jammed Override](The-Awakened-Ship/The-Jammed-Override.md)**. It can be done now, on the way out, or never — it doesn't gate anything on this page.
 
 **What she has — mostly good news:**
 
-- **She knows what it is.** Before the dish, before anything, she puts a month of instrument traces up on the wall display, side by side in date order. The same black spike on every one — every reading, every day, a little taller, and always pointing the same way: *up*, at the tower over their heads. Something is anchored to the Lighthouse, a protrusion from somewhere that isn't here, bleeding energy into the world with the wrong sign; the spores are what that bleed looks like when it touches living matter. She has a name for it, because her instruments kept drawing the same shape: *the black salient*. *"The mold isn't the disease. It's the symptom. I've spent a month treating the fever, and the fever has noticed."* It's why the infected think alike, why her dish worked — she starved the foothold, not the fungus — and why the tower is at her door and George's: his soap does the same thing at scale ([her Progress](../../NPCs/Erleena-Riser.md)).
+- **She knows what it is.** Before the dish, before anything, she puts a month of instrument traces up on the wall display, side by side in date order. The same black spike on every one — every reading, every day, a little taller, and always pointing the same way: *up*, at the tower over their heads. Something is anchored to the Lighthouse, a protrusion from somewhere that isn't here, bleeding energy into the world with the wrong sign; the spores are what that bleed looks like when it touches living matter. She has a name for it, because her instruments kept drawing the same shape: *the black salient*. *"The mold isn't the disease. It's the symptom. I've spent a month treating the fever, and the fever has noticed."* It's why the infected think alike, why her dish worked — she starved the foothold, not the fungus — and why the tower is at her door and George's: his soap does the same thing at scale ([her Progress](../NPCs/Erleena-Riser.md)).
 - **It works in a dish.** She stopped the drifted strain replicating — a real result, not theory. What's missing is the two things it always was: a **baseline** to check it against, and **time**.
 - **The Lighthouse is fighting back.** That thudding under everything is the lake's small infected things — leechoids, poison-spined scintillating fish, quipper swarms — throwing themselves at the portholes in relays, day and night, for days now. The glass holds; nothing that size can break it — narrate smears on the panes and dents in the frames, never damage. But a lake does not organize itself, and it is how she knows the tower has noticed her. The one thing in the water that *could* break the glass is the froghemoth, and she has seen its eyes. She knows the siege at the hull is aimed at her, too — George did that arithmetic out loud for her over the comm, more than once. *"It's turned around. A month ago everything in this tower was pointed out at the valley. Now it's pointed at George and me. I'd be flattered if I weren't fifty feet under its lake."*
 - **The suit only goes so far.** Her old pressure suit gets her up the ladder and through the tower, but it was never meant for a garden crossing, let alone a desert, and she knows it. To really leave, she needs what the party needed to reach her: a dose and a pack. She knows George has both with her name on them.
@@ -186,7 +188,7 @@ George has told her all of it, daily and at length: the doses, the half-cure, th
 
 **As played (2026-10-06): the party killed it at the bridge.** Nothing comes to the glass, so skip this section. When they reach her, Erleena already knows from Eddie's play-by-play, and the thudding on the portholes is only the small things now.
 
-*If the party already un-hijacked the froghemoth on the crossing (the third option at [The Lab at S42](../Return-to-the-Ship/The-Lab-at-S42.md)), the eyes never come — skip this section and go straight to the turn.*
+*If the party already un-hijacked the froghemoth on the crossing (the third option at [The Lab at S42](Return-to-the-Ship/The-Lab-at-S42.md)), the eyes never come — skip this section and go straight to the turn.*
 
 **Erleena names the danger.** Before the party can answer her question, she stops mid-sentence and points at a porthole without looking at it. The three eyes are there — they have been there, on and off, for days. She has watched the beast come and go and she has stopped believing it is curious. The fish and the leeches are noise — the glass will outlast every small thing in the lake — but this is the one thing out there that can finish what they started. It has been *testing* the glass, one pane at a time, the way a thing does when it is following instructions rather than appetite: it was an animal once, and now it is a hand on the end of a very long arm that runs back through the lake to the tower. If the tower decides to, the lab breaches and the lake comes in — the dish, the slides, the month.
 
@@ -203,10 +205,10 @@ George has told her all of it, daily and at length: the doses, the half-cure, th
 
 | Way | How it plays | Notes |
 | :--- | :--- | :--- |
-| **Kill it.** | Full [Froghemoth](../../Bestiary/Ship-Creatures.md) block: CR 10, AC 16/14/12 (tentacles/body/tongue), **HP 184**. Four 20-ft tentacles (DC 18 grapple), 30-ft tongue drag, swallow whole (3d6 acid/turn; 20+ damage from inside forces a regurgitation save). A real fight for five level-11s — the tentacles grab, the tongue drags, the swallow is the scare. Erleena fights from the doorway with the needler and *lightning bolt* — she has no intention of watching. | **Immune to fire and lightning.** Say it plainly at the table: lightning bolts and fireballs do nothing to it — Erleena's capacitor included; she finds that out the loud way. Lasers are radiant and land fine. Periscope eyes read as floating vegetation until they don't. |
-| **Wash it.** | Huge: **three blasts within one minute** ([The Counteragent](../../Game-Mechanics/The-Counteragent.md)). Three wielders with it in their cones do it in **one round**; one wielder needs three consecutive rounds within 15 ft of a thing that dives. It has to be **surfaced and inside the 15-ft cone** — and its own attacks put it there. A tentacle grab or tongue drag pulls the wielder to the beast; that is the opportunity, not the disaster. With her own pack on, Erleena is a third wielder. | Washed, the bond breaks for 24 hours: no direction, no interest in the glass. It is a very large, very hungry animal again — most likely it dives and is gone. DM's call if it stays hungry and has someone in reach. It is still infected; this is a leash cut, not a cure. |
+| **Kill it.** | Full [Froghemoth](../Bestiary/Ship-Creatures.md) block: CR 10, AC 16/14/12 (tentacles/body/tongue), **HP 184**. Four 20-ft tentacles (DC 18 grapple), 30-ft tongue drag, swallow whole (3d6 acid/turn; 20+ damage from inside forces a regurgitation save). A real fight for five level-11s — the tentacles grab, the tongue drags, the swallow is the scare. Erleena fights from the doorway with the needler and *lightning bolt* — she has no intention of watching. | **Immune to fire and lightning.** Say it plainly at the table: lightning bolts and fireballs do nothing to it — Erleena's capacitor included; she finds that out the loud way. Lasers are radiant and land fine. Periscope eyes read as floating vegetation until they don't. |
+| **Wash it.** | Huge: **three blasts within one minute** ([The Counteragent](../Game-Mechanics/The-Counteragent.md)). Three wielders with it in their cones do it in **one round**; one wielder needs three consecutive rounds within 15 ft of a thing that dives. It has to be **surfaced and inside the 15-ft cone** — and its own attacks put it there. A tentacle grab or tongue drag pulls the wielder to the beast; that is the opportunity, not the disaster. With her own pack on, Erleena is a third wielder. | Washed, the bond breaks for 24 hours: no direction, no interest in the glass. It is a very large, very hungry animal again — most likely it dives and is gone. DM's call if it stays hungry and has someone in reach. It is still infected; this is a leash cut, not a cure. |
 
-![Kill it or wash it — three packs on the froghemoth at the bridge](../../.attachments/enc_froghemoth_wash.jpg)
+![Kill it or wash it — three packs on the froghemoth at the bridge](../.attachments/enc_froghemoth_wash.jpg)
 
 **Where it happens.**
 
@@ -223,11 +225,11 @@ She asks again, and this time she sits down for it. Let the players tell it in t
 - **Rajaat.** A second source, older, in the deep desert of Aerun — under a thousand years of quarantine. The party heard it from a Sandwalker at the council. Erleena has never heard the name. This is the sentence that stops her.
 - **How the desert was made.** If the party heard it — Harah told the council the land was killed on purpose, and told anyone who pressed her that it was **defiler magic**, and that an Order still keeps that art — they can hand it over. If they only have the public version (*"they killed the land to save the world"*), Erleena works the rest out from the word *killed*: something that kills plant life on command, in a world where the spores are plant life. She asks the party for the name of the people who can do it. They may or may not have it. Either way, the next page is the same.
 
-**Her first reaction is the scientist's check.** She taps the black spike on the nearest trace and asks the room whether the thing in the desert is *the same kind of thing* — is there something behind Rajaat, or is it only a very old mold? Nobody in the room can answer that. She writes the question down. *(DM: the answer is yes — there are two Salients, and Aerun's is contained somehow; see [The Ship's Purpose](../../Campaign/Plot-Threads/The-Ships-Purpose.md). She finds that out with her instruments, on Aerun, not here.)*
+**Her first reaction is the scientist's check.** She taps the black spike on the nearest trace and asks the room whether the thing in the desert is *the same kind of thing* — is there something behind Rajaat, or is it only a very old mold? Nobody in the room can answer that. She writes the question down. *(DM: the answer is yes — there are two Salients, and Aerun's is contained somehow; see [The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md). She finds that out with her instruments, on Aerun, not here.)*
 
 Then she goes to the bench, and the party watches the experiment change in her head. She turns around with two asks.
 
-**(1) Samples from the other source.** A month against one strain with nothing to hold it against. Rajaat is a **second source** — not the original of this one, and not a copy of it: another outbreak of the same kind of thing, a thousand years older, on another continent. Put the two side by side and what they *share* is the thing itself; what differs is local. The shared part is the target for a cure that works everywhere, and one the mold can't mutate around ([Why the cure needs Aerun](../../Game-Mechanics/Russet-Mold-and-Infection.md)).
+**(1) Samples from the other source.** A month against one strain with nothing to hold it against. Rajaat is a **second source** — not the original of this one, and not a copy of it: another outbreak of the same kind of thing, a thousand years older, on another continent. Put the two side by side and what they *share* is the thing itself; what differs is local. The shared part is the target for a cure that works everywhere, and one the mold can't mutate around ([Why the cure needs Aerun](../Game-Mechanics/Russet-Mold-and-Infection.md)).
 
 > *"A thousand years under glass. Do you understand what you've just handed me? A second one. Everything I've done down here is one sample of one outbreak — I can't tell what's the disease and what's just this ship. Put another one next to it and whatever they have in common is the thing itself. That's the thing to kill. There's a second data point on another continent, and somebody's been keeping it."*
 
@@ -241,11 +243,11 @@ Then her point, plainly — and she is the one who says the word:
 
 ## The archaeologist
 
-Erleena knows the old cities. Before Jak's service she was an **archaeologist** — the ancients' technology was her field, and the mission where the party first met her, two years ago, was a dig, not a rescue: a hunt for what the old world had left buried, that ended with the planet-wide comm network switched back on and dragons in the sky ([her History](../../NPCs/Erleena-Riser.md)). She knows the buried elemental cities, each with a Titan at its heart ([The Elemental Cities](../../World/The-Elemental-Cities.md)) — she has **seen every one of them from its gate**, the single room the portal puts you in — and she knows which one lies under the rim town of Eldorado: the **fire city**. **She has never dug there.** She assumes it is more of the same loot as the others, only hotter, and more dangerous the farther down you go. *(She is wrong about that — it is a ruin — but it is an honest, expert guess, and she says it as a guess.)*
+Erleena knows the old cities. Before Jak's service she was an **archaeologist** — the ancients' technology was her field, and the mission where the party first met her, two years ago, was a dig, not a rescue: a hunt for what the old world had left buried, that ended with the planet-wide comm network switched back on and dragons in the sky ([her History](../NPCs/Erleena-Riser.md)). She knows the buried elemental cities, each with a Titan at its heart ([The Elemental Cities](../World/The-Elemental-Cities.md)) — she has **seen every one of them from its gate**, the single room the portal puts you in — and she knows which one lies under the rim town of Eldorado: the **fire city**. **She has never dug there.** She assumes it is more of the same loot as the others, only hotter, and more dangerous the farther down you go. *(She is wrong about that — it is a ruin — but it is an honest, expert guess, and she says it as a guess.)*
 
 > *"I've stood in all of them, you know. The old cities." She says it the way other people say they've been to a wedding. "The gates put you in one room of each, and in one of them that's all I've ever seen. There's a town on the rim above Tyr — Eldorado — where the prospectors have been bringing salvage down out of the high country for five hundred years and nobody asks where it comes from. I know where it comes from. The fire city is under that pass. One of the old elemental cities — a Titan at the heart of it, like all of them. Its gate room is an oven with every door locked, and that's as far as I've got." She shrugs. "I'd guess it's more of the same. Same loot as the others, only hotter, and worse the deeper you go. It's got nothing to do with any of this. But if we're going to Aerun — it's the one I've never put a spade in."*
 
-**This is Shhhmeowmeow's hook, not the cure's.** The fire city under Eldorado plays into the tabaxi's backstory — a thread the player brought to the table ([Shhhmeowmeow](../../Campaign/The-Party/Shhhmeowmeow.md)). It has no connection to the infection, to Rajaat, or to the Salient, and this page does not make one. What it gives the arc is a second reason to go, from inside the party: when Erleena says *Eldorado*, let Shhhmeowmeow's player react, and let Erleena be pleased to have a guide who wants to go for their own reasons.
+**This is Shhhmeowmeow's hook, not the cure's.** The fire city under Eldorado plays into the tabaxi's backstory — a thread the player brought to the table ([Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md)). It has no connection to the infection, to Rajaat, or to the Salient, and this page does not make one. What it gives the arc is a second reason to go, from inside the party: when Erleena says *Eldorado*, let Shhhmeowmeow's player react, and let Erleena be pleased to have a guide who wants to go for their own reasons.
 
 **And then the part the whole arc has been walking toward: she is going.**
 
@@ -268,12 +270,12 @@ She and George settle it on the comm, right there, with the party listening — 
 
 There is no decision on this page about whether she stays. She comes up. What the party decides is *how*:
 
-- **She packs light and fast — and then there is the box.** The slides, the traces, the dish under its glass, the notebooks, the sixth dose in her pocket, a spore-blaster on her back over the cream uniform: two minutes. Then she puts her hand on **a box of books** and it becomes clear that the box is coming. Copies of *[A Brief History of Vermoon](../../Aerun-Players-Guide/A-Brief-History-of-Vermoon.md)*, which Eddie had printed and bound in the ship's **robotic workshops** — about **fifty pounds** of them. **She demands it; it is not a negotiation.** She cannot carry it and a spore-blaster both, so somebody else is carrying it — through the garden, up the tubes, out the breach, and onto a sled. *"I spent years on that book. It has only just been printed. I am not leaving it under a lake."* Let the party argue; let her win. (Whoever ends up with it: that is 50 lb against their carrying capacity from here to Aerun, where [every pound is water](../../Game-Mechanics/Heat-and-Survival.md).)
+- **She packs light and fast — and then there is the box.** The slides, the traces, the dish under its glass, the notebooks, the sixth dose in her pocket, a spore-blaster on her back over the cream uniform: two minutes. Then she puts her hand on **a box of books** and it becomes clear that the box is coming. Copies of *[A Brief History of Vermoon](../Aerun-Players-Guide/A-Brief-History-of-Vermoon.md)*, which Eddie had printed and bound in the ship's **robotic workshops** — about **fifty pounds** of them. **She demands it; it is not a negotiation.** She cannot carry it and a spore-blaster both, so somebody else is carrying it — through the garden, up the tubes, out the breach, and onto a sled. *"I spent years on that book. It has only just been printed. I am not leaving it under a lake."* Let the party argue; let her win. (Whoever ends up with it: that is 50 lb against their carrying capacity from here to Aerun, where [every pound is water](../Game-Mechanics/Heat-and-Survival.md).)
 - **The crossing.** The suit stays on its hook: she crosses the garden the way the party did — dosed, in washed air, making the same exposure saves — the same crossing they just made, with one more person, no more packs, and a box of books. At the door she turns the sickbay's lights off herself, which Eddie finds unnecessary and says so.
-- **Back to S42 first.** George and Erleena in one room for the first time in a month — the reunion, the plan said out loud with all three of them present, the last refills on the tanks, and George's *"ensure she doesn't make the same mistake I did"* answered to his face. The arc's closing scene happens here: **[The Send-Off](../Return-to-the-Ship/The-Send-Off.md)** — the player handouts and the round-robin about Aerun.
-- **Then out through the breach, and the long way home.** The spore-blasters wash a lane through the horde and Korrin waits over the ridge — *Getting out* on [The Send-Off](../Return-to-the-Ship/The-Send-Off.md). The voyage to Aerun — how, on what, and with whom — is the next module's problem. This arc ends with Erleena on the sled behind Korrin's, and the party knowing where the cure is: **not here.**
+- **Back to S42 first.** George and Erleena in one room for the first time in a month — the reunion, the plan said out loud with all three of them present, the last refills on the tanks, and George's *"ensure she doesn't make the same mistake I did"* answered to his face. The arc's closing scene happens here: **[The Send-Off](Return-to-the-Ship/The-Send-Off.md)** — the player handouts and the round-robin about Aerun.
+- **Then out through the breach, and the long way home.** The spore-blasters wash a lane through the horde and Korrin waits over the ridge — *Getting out* on [The Send-Off](Return-to-the-Ship/The-Send-Off.md). The voyage to Aerun — how, on what, and with whom — is the next module's problem. This arc ends with Erleena on the sled behind Korrin's, and the party knowing where the cure is: **not here.**
 
-The **cargo door** is still cycling when she goes, unless the party has been down to the booth and turned the dial ([The Jammed Override](The-Jammed-Override.md)). She asks Eddie about it once on the way out. If it's sealed, she says *"Thank you"* and nothing else; if it isn't, she says nothing at all.
+The **cargo door** is still cycling when she goes, unless the party has been down to the booth and turned the dial ([The Jammed Override](The-Awakened-Ship/The-Jammed-Override.md)). She asks Eddie about it once on the way out. If it's sealed, she says *"Thank you"* and nothing else; if it isn't, she says nothing at all.
 
 ## Running it
 
@@ -281,4 +283,4 @@ The froghemoth is the action beat and it's real — let the flooding room or the
 
 ---
 
-*Deeper knowledge:* [Erleena Riser](../../NPCs/Erleena-Riser.md) · [George Decay](../../NPCs/George-Decay.md) · [Shhhmeowmeow](../../Campaign/The-Party/Shhhmeowmeow.md) · [The Jammed Override](The-Jammed-Override.md) · [The Lighthouse](../../The-Lost-Ship/The-Lighthouse.md) · [The Garden Level](../../The-Lost-Ship/The-Garden-Level.md) · [Froghemoth](../../Bestiary/Ship-Creatures.md) · [The Counteragent](../../Game-Mechanics/The-Counteragent.md) · [The Elemental Cities](../../World/The-Elemental-Cities.md) · [Aerun](../../World/Aerun.md) · [The Lighthouse Dilemma](../../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md) · module: [Return to the Ship](../Return-to-the-Ship.md)
+*Deeper knowledge:* [Erleena Riser](../NPCs/Erleena-Riser.md) · [George Decay](../NPCs/George-Decay.md) · [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md) · [The Jammed Override](The-Awakened-Ship/The-Jammed-Override.md) · [The Lighthouse](../The-Lost-Ship/The-Lighthouse.md) · [The Garden Level](../The-Lost-Ship/The-Garden-Level.md) · [Froghemoth](../Bestiary/Ship-Creatures.md) · [The Counteragent](../Game-Mechanics/The-Counteragent.md) · [The Elemental Cities](../World/The-Elemental-Cities.md) · [Aerun](../World/Aerun.md) · [The Lighthouse Dilemma](../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md) · module: [Return to the Ship](Return-to-the-Ship.md)
