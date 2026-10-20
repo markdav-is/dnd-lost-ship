@@ -14,7 +14,7 @@
 2. **[The Jammed Override](The-Awakened-Ship/The-Jammed-Override.md)** (**the big door**): the cargo door the party left by keeps opening and letting the siege in. Get to the cargo-bay booth on the lower deck and turn the dial to REMOTE. It puts the party a few doors from Nova.
 3. **[The Antenna](The-Awakened-Ship/The-Antenna.md)** (**Eddie's favor**): a 150-lb dish up the iced rocks to the crown of the hull, pointed at the Temple of Nord so Eddie can join the Aura network. Played for comedy.
 
-**After all three:** back to S42 for **[The Send-Off](Return-to-the-Ship/The-Send-Off.md)**, the last scene of the arc.
+**The ending:** **[The Send-Off](Return-to-the-Ship/The-Send-Off.md)** happens in Erleena's lab with George on the comm, and the party leaves by the big door once it's set to REMOTE. Nobody goes back to S42.
 
 ## The opening: Eddie's list
 

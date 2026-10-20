@@ -193,7 +193,7 @@ Pick a few when the talk needs a push:
 ### Leaving
 
 - **She packs in two minutes**: notes, slides, the dish under glass, the sixth dose, her sprayer. Then a **box of her books, about 50 lb**, which someone else carries. Not negotiable.
-- **Back to S42** for George, and then out through the breach to Korrin's sleds: **[The Send-Off](Return-to-the-Ship/The-Send-Off.md)**.
+- **The Send-Off happens here**, in her lab, with George on the comm: **[The Send-Off](Return-to-the-Ship/The-Send-Off.md)**. Then down the stair under the lab, turn the cargo door to REMOTE, and Eddie lets them out and seals it behind them.
 
 ---
 

@@ -18,7 +18,7 @@ The crossing and arrival, in table order. **Five in the party**: Shhhmeowmeow, E
 2. **[The Breach](Return-to-the-Ship/The-Breach.md)** — the ship under real siege from the feral frontier band, robots and turrets fighting a running battle at the hull. The party spots the open airlock door, runs the gap under Eddie's over-eager covering fire, and inside meets **Eddie** — who lights the way to **George**, waiting on the next floor.
 3. **[The Lab at S42](Return-to-the-Ship/The-Lab-at-S42.md)** — the rest of the ring from the south tube, the plant growths, and the reunion with George: six stopgap doses (five for the party, one for Erleena), a spore-blaster for each of them plus one for Erleena, Erleena's status, Eddie's bargain — the party's long rest, and Erleena on the comm.
 4. **[The Awakened Ship](The-Awakened-Ship.md)** *(its own module from session 3)*: Eddie's list and three goals in any order. [Return to the Lighthouse](Return-to-the-Lighthouse.md) (the frog, then Erleena and the turn), [The Jammed Override](The-Awakened-Ship/The-Jammed-Override.md) (the big door), and [The Antenna](The-Awakened-Ship/The-Antenna.md) (Eddie's favor).
-5. **[The Send-Off](Return-to-the-Ship/The-Send-Off.md)** — **the last scene of the arc.** Back at S42 with Erleena, tanks refilling: she unrolls a chart of Aerun and asks the party what they think it's like. Five player handouts (*what you know about Aerun*), a round-robin, and the goodbye.
+5. **[The Send-Off](Return-to-the-Ship/The-Send-Off.md)** — **the last scene of the arc.** In Erleena's lab, with George on the comm: she unrolls a chart of Aerun and asks the party what they think it's like. Five player handouts (*what you know about Aerun*), a round-robin, and the goodbye.
 
 ## What's really behind Eddie
 

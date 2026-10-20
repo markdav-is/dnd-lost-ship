@@ -2,15 +2,15 @@
 
 # The Send-Off
 
-*Return to the Ship, the button — the last table at S42. Erleena asks the party what they think Aerun is like, each player reads a handout, and they go round the table. **This is the last scene of the arc; run it when the party is back at S42 with Erleena, tanks refilled, about to leave.***
+*Return to the Ship, the button — the last table, in Erleena's lab. Erleena asks the party what they think Aerun is like, each player reads a handout, and they go round the table, with George on the comm. **This is the last scene of the arc; run it once she has decided to go, just before they leave her lab.***
 
 ## When to run it
 
-After [Return to the Lighthouse](../Return-to-the-Lighthouse.md) and the garden crossing back, during the goodbye at [S42](The-Lab-at-S42.md) (*On the way back — George stays*). George and Erleena are in one room for the first time in a month; the plan has been said out loud. This is the quiet beat before the breach and the sleds. No checks, no fight, about twenty minutes.
+In Erleena's lab, right after she decides to leave with the party ([Return to the Lighthouse](../Return-to-the-Lighthouse.md)). Nobody goes back to S42: George can't cross the garden, and the party is heading straight for the way out. **George is on the wall speaker** instead, with Eddie patching him through. This is the quiet beat before the big door and the sleds. No checks, no fight, about twenty minutes.
 
 ## Read-aloud
 
-> *George is doing the last refills, one tank at a time, and will not be hurried. Erleena clears a corner of his bench with her forearm — "Those were in order." "They're in a different order now." — and unrolls a chart across it, weighted at the corners with sample jars. A continent shaped like a wheel: cities around the rim, a wall behind them, and a great gray nothing in the middle.*
+> *The wall speaker crackles: George, from S42, very pleased to be included. Erleena clears a corner of her bench with her forearm, sending a rack of slides skidding ("Those were in order," says George, who cannot see them), and unrolls a chart across it, weighted at the corners with sample jars. A continent shaped like a wheel: cities around the rim, a wall behind them, and a great gray nothing in the middle.*
 >
 > *"Aerun," she says. "I've dug there. George has read about it, which he will tell you is the same thing." She looks round at the five of you. "You all grew up on this world. You've all heard something. Before I tell you what it's like, tell me what you think it's like. I'd rather know what I'm correcting."*
 
@@ -18,8 +18,8 @@ After [Return to the Lighthouse](../Return-to-the-Lighthouse.md) and the garden 
 
 1. **Hand out the five paragraphs below**, one per player. Give them a minute to read.
 2. **Go round the table.** Each player says, in character, what they know and how they feel about going. They choose what to say out loud — each handout ends with a line that is **theirs to share or keep**. Don't prompt for it.
-3. **Erleena reacts** to each — confirms, corrects, or winces — and **George adds one line** from across the room. Their lines are in the DM notes at the bottom.
-4. **End it** when the last tank is full. George hands the last pack over. *"Bring her back. And yourselves, if convenient."* Then out through the breach — see *Getting out*, below — and Erleena on the sled behind Korrin's.
+3. **Erleena reacts** to each — confirms, corrects, or winces — and **George adds one line** over the comm. Their lines are in the DM notes at the bottom.
+4. **End it** when Erleena rolls the chart back up. George's goodbye comes over the speaker: *"Bring her back. And yourselves, if convenient."* Then down the stair under the lab and out by the big door — see *Getting out*, below — and Erleena on the sled behind Korrin's.
 
 Everything on the handouts is common knowledge from [Aerun — A Primer](../../Aerun-Players-Guide/Aerun-A-Primer.md). Erleena knows the coast and the dig sites; she does not know the desert's secrets, and neither do the handouts.
 
@@ -67,7 +67,7 @@ Use what fits; skip what the player didn't raise.
 | **Eustace** | *"You know the harbors. You don't know what's behind them. Past the customs house it stops being a port and starts being somebody's property."* | *"They hold your valuables and return them at the far end. Oh my. I would like a receipt system like that for this ship."* |
 | **Musty-Jo** | She sorts his list out loud (key below), then: *"Nobody on Aerun will lie to you. They'll state a price. Don't agree to one. And don't sign anything — especially at noon, which is when they sign things."* | *"When in doubt, nod at nothing."* |
 | **Beyond-Ce** | *"You're the one I need to be careful. I need a defiler found, and you're the only one of us who'll know a real one from a fraud. Do that with your mouth, not your hands."* | *"Speaking as a fellow practitioner: they've built a continent around disliking us. One almost admires the consistency."* |
-| **Robin** | *"You'll hate it. Good. Hate it quietly until we're off the dock."* Then, nodding at her pack: *"And whatever you do, don't call that a spice pouch at the gate."* | Hands over a med crate and asks for a receipt ([the S42 beat](The-Lab-at-S42.md)). |
+| **Robin** | *"You'll hate it. Good. Hate it quietly until we're off the dock."* Then, nodding at her pack: *"And whatever you do, don't call that a spice pouch at the gate."* | Has Eddie send a med crate down to her, and asks for a receipt ([the S42 beat](The-Lab-at-S42.md)). |
 
 **Musty-Jo's list, sorted.** True: the heat, metal for water at the gate, the Ring Road and its two months, no kings, champions instead of armies, bone and ceramic coin, slaves, beasts pulling the argosies. *The sand eats horses* — false, though Erleena allows that some of the things **in** the sand would. *Everybody can read your mind* — no; nearly everyone has one small trick of the mind, which is not the same thing. *The world ends at the wall* — no, but the coastal Aerunites believe it too, so he'll fit right in.
 
@@ -75,11 +75,11 @@ Use what fits; skip what the player didn't raise.
 
 ## Getting out
 
-[The Breach](The-Breach.md) in reverse — with the packs. The siege is still on at the hull; the way out is the same airlock, and **Korrin is waiting back over the last ridge**, upwind of the orange haze, sleds turned and ready. He lost his own dogs to the infection once; he was never going to bring a team down into the spores. The run is door to ridge.
+Not back through the breach. The stair under Erleena's lab goes down to the **lower deck**, a few doors from the cargo bay and the big door the party left by last time. That door is both the way out and the job: at the cargo booth, turn the dial from LOCAL to **REMOTE** ([The Jammed Override](../The-Awakened-Ship/The-Jammed-Override.md)). Eddie opens the door for them, they walk out into the snow, and **Eddie seals it behind them**. With the door closed for good, George and Eddie can hold the spread inside the ship. **Korrin is waiting over the last ridge**, upwind of the orange haze, sleds turned and ready; he was never going to bring a team down into the spores. The run is door to ridge.
 
 - **The packs open the lane.** One wash breaks the Lighthouse's hold on anything Large or smaller and clears the fog in the cone for a minute ([The Counteragent](../../Game-Mechanics/The-Counteragent.md)). A washed wolf stops being a soldier and becomes a sick, frightened animal that bolts — George's rabbitoid, at scale. **One pack each plus Erleena's, six blasts each: 36 cones for a party of five**, Erleena wearing hers.
-- **The wash does nothing to the party.** It only acts on infected creatures and fungus. Nobody in the party is infected, so they can fire cones straight through each other and need no gear beyond the packs. Erleena is in the same position — no suit, the sixth dose, her own pack.
-- **Eddie covers them** the same way he did coming in: turrets and robots open the door-side gap, **DEX save DC 13** each leg to stay on his line, 2d6 radiant and an immediate apology on a failure.
+- **The wash does nothing to the party.** It only acts on infected creatures and fungus. Nobody in the party is infected, so they can fire cones straight through each other and need no gear beyond the packs. Erleena is in the same position — her suit left on its hook, the sixth dose, her own pack.
+- **Eddie covers them** from the hull: turrets and robots open a gap outside the big door, **DEX save DC 13** each leg to stay on his line, 2d6 radiant and an immediate apology on a failure.
 - **The box of books comes too.** Erleena's fifty pounds of *A Brief History of Vermoon* ([Return to the Lighthouse](../Return-to-the-Lighthouse.md)) makes the run from door to ridge in somebody's arms. Whoever has it is carrying a box, not a weapon, and makes the DEX save at disadvantage. She will not let it be left, and she will notice if it is dropped. It rides to Frostwatch on the sled, under her feet.
 - **Easier out than in.** The horde is pointed at the hull, and the party is running away from what it wants. Anything that does turn on them gets washed or gets past — a loose infected creature gets one attack, not a fight.
 - **The blasts are the budget.** Every cone spent at the door is one they don't have on the glacier, and the refills are all back inside the ship.
