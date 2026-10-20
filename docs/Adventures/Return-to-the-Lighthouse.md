@@ -4,7 +4,7 @@
 
 **[Flipbook](Return-to-the-Lighthouse/Flipbook.md)**: just the images, in play order. **[Vision Handouts](Return-to-the-Lighthouse/Vision-Handouts.md)**: the printable player cards.
 
-*The party's return to the Lighthouse — the tower in full, the visions at the door, Erleena coming up to meet them, the airlock, the lab fifty feet under the lake, the infected froghemoth at the glass, and the scientist who decides the cure is on Aerun and that she is going to get it.*
+*The party's return to the Lighthouse — the tower in full, the visions at the door, Erleena coming up to meet them, the airlock, the lab fifty feet under the lake, and the scientist who decides the cure is on Aerun and that she is going to get it.*
 
 ![The Lighthouse, wrapped in glowing mycelium, the spore galaxy turning around the lamp](../.attachments/lighthouse_tower.jpg)
 
