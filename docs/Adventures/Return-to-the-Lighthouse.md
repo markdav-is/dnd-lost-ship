@@ -180,12 +180,12 @@ Pick a few when the talk needs a push:
 - *"I did my internship in the northern desert. Two seasons of sand in my teeth. I know that sky."*
 - *"The mold isn't the disease. It's the symptom. I've spent a month treating the fever."*
 - *"Everything joined together sounds lovely until you ask who's holding the other end."*
-- *"I wrote a book about Aerun, as part of my doctoral thesis. I have it here somewhere, in my library of holding."*
+- *"In my spare time, Eddie and I have written a book!* A Brief History of Vermoon*!"*
 - *"George stays. Someone has to keep that thing busy, and he's better at it than either of us."*
 - *"The Lighthouse is a protrusion into our reality from another, darker one. Where it touches the garden, we get the spores."*
 - *"The spores are the effect of the black salient. But we can't close it here."*
 - *"George and Eddie can contain the spread, if we get that door to stay closed."*
-- *"Eddie. Print me a box of* A Brief History of Aerun*. A full box. We're taking them with us."*
+- *"Eddie. Print me a box of* A Brief History of Vermoon*. A full box. We're taking them with us."*
 
 ![Erleena in her workroom, dropping the agent into the dish; a grey dead ring spreads through the russet mold](../.attachments/enc_erleena_at_work.jpg)
 
