@@ -24,11 +24,7 @@
 
 **No roll yet.** Let them stare. The trip starts at the door ([below](#the-door)).
 
-## Read-aloud — the island
-
-> *However you crossed, you are across. The island gives under your boots — this is not ground, it is the mold, skinned over old concrete — and the tower stands over you: white once, now wrapped seam and root in pale cords that glow where they knot. High up, the halo turns around the lantern room, gold-white, slow, deliberate. The beam swings out over the black water and every spore in the air leans after it.*
->
-> *Eddie has not stopped talking. "That's the Lighthouse," he says, helpfully, as though you might have taken it for something else. "I wouldn't stand in the beam."*
+## On the island (DM notes)
 
 **Don't let the beam touch you.** The halo goes to whatever the beam lights; a flyer caught in it is dragged down to the island and lands in the thick of it (exposure save, [Russet Mold & Infection](../Game-Mechanics/Russet-Mold-and-Infection.md)). Walk it like a searchlight — move when it's away, hold when it's near.
 
