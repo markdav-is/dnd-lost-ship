@@ -6,7 +6,7 @@
 
 *The party's return to the Lighthouse — the tower in full, the visions at the door, Erleena coming up to meet them, the airlock, the lab fifty feet under the lake, the infected froghemoth at the glass, and the scientist who decides the cure is on Aerun and that she is going to get it.*
 
-![Erleena's lab under the lake: the spike on the trace, and the green murk beyond the viewports](../.attachments/enc_beneath_the_lighthouse.jpg)
+![The Lighthouse, wrapped in glowing mycelium, the spore galaxy turning around the lamp](../.attachments/lighthouse_tower.jpg)
 
 ## The tower in full
 
@@ -149,6 +149,8 @@ At the bottom of the ladder is a small round airlock: riveted steel, amber lamps
 Play it for comedy. Everyone gets soaked. The tabaxi hates it, the centaur barely fits, and Eustace will want to complain. She doesn't stop until she's satisfied. Then the inner door rolls open on white light.
 
 ## Read-aloud — Erleena's lab
+
+![Erleena's lab under the lake: the spike on the trace, and the green murk beyond the viewports](../.attachments/enc_beneath_the_lighthouse.jpg)
 
 > *The room behind the door is bright and white and humming. She steps out of the suit right there on the grating, and underneath it is a cream one-piece with an orange stripe down the sleeve, the uniform the ship's medical androids wear, cut for a person. She hangs the suit on a hook by the door, drips on the floor, and looks at each of you in turn.*
 >
