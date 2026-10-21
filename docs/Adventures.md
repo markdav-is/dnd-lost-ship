@@ -23,7 +23,7 @@ The campaign's **modules**, in play order. Each module page is the overview — 
 
 ## Return to the Ship — encounters
 
-[The Whiteout](Adventures/Return-to-the-Ship/The-Whiteout.md) · [The Breach](Adventures/Return-to-the-Ship/The-Breach.md) · [The Lab at S42](Adventures/Return-to-the-Ship/The-Lab-at-S42.md) · [The Send-Off](Adventures/Return-to-the-Ship/The-Send-Off.md) · [Flipbook](Adventures/Return-to-the-Ship/Flipbook.md)
+[The Whiteout](Adventures/Return-to-the-Ship/The-Whiteout.md) · [The Breach](Adventures/Return-to-the-Ship/The-Breach.md) · [The Lab at S42](Adventures/Return-to-the-Ship/The-Lab-at-S42.md) · [The Send-Off](Adventures/Return-to-the-Ship/The-Send-Off.md) · [Nova](Adventures/Return-to-the-Ship/Nova.md) · [Flipbook](Adventures/Return-to-the-Ship/Flipbook.md)
 
 ## The Awakened Ship — encounters
 

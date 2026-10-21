@@ -21,3 +21,7 @@
 ![George washes the caged rabbitoid, which shrieks as its eyes clear](../../.attachments/enc_s42_demonstration.jpg)
 
 ![George fits a spray pack on Musty-Jo, saddlebag-style: "ungainly but correct"](../../.attachments/enc_s42_fitting.jpg)
+
+![The stasis pods: nineteen skeletons and one survivor](../../.attachments/stasis_pods.png)
+
+![Nova wakes: the pod door swings open on a frosted hinge, cryo vapour pours across the floor, and she steps out into the light](../../.attachments/enc_nova_wakes.jpg)
