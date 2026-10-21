@@ -24,8 +24,8 @@ Arc by arc on **[The Red Dragon Campaign](../Campaign/The-Red-Dragon-Campaign.md
 
 - The **Prophecy of the Red Dragon** gathers the heroes with a shared dream on the eve of Yorrem's harvest festival; each is in time paired with a dragon ([The Dragons](The-Dragons.md)) and the party collects the dragon orbs.
 - In the dig called **the Void** on Caria, the **[Aura network](The-Aura-Network.md)** comes back on after 721 years and registers Jak as its administrator. On Taldea the party passes buried **Dirtroit** and the sleeping Earth Titan, meets the Black Dragon, and re-seats the power orbs at **Lost Rock** — the grid, the phones, and the **teleport network** come back online.
-- Restoring power also wakes **the Administrator** on the orbital station, who locks Jak and Erleena out and turns the cities' controls on the world: wrong tides, racing storms, heat from the Amber Valley.
-- The party ranges worldwide — Drytide and its race, the underwater city **Oceana** (where the Green Dragon Undaloth is restored and Erleena shuts down the currents), and the falling flying city **[Airlantis](The-Elemental-Cities.md)**, which they save and keep.
+- Restoring power also wakes **the Administrator** on the orbital station, who locks Jak and Erlina out and turns the cities' controls on the world: wrong tides, racing storms, heat from the Amber Valley.
+- The party ranges worldwide — Drytide and its race, the underwater city **Oceana** (where the Green Dragon Undaloth is restored and Erlina shuts down the currents), and the falling flying city **[Airlantis](The-Elemental-Cities.md)**, which they save and keep.
 - The arc resolves aboard the **orbital space station** (Eros Station): the **First Administrator** perishes; the **Blue Dragon** — Dildro, the party's string-pulling "Burl" — declares it was never meant to be kept on this world and stays aboard, bound outward. The chaos is quelled; the prophecy fulfilled; the dragons return to hibernation.
 - **Jak Bjornsson**, the party's companion, a monk from Grønnfjord, is chosen as the new Administrator — and chooses to rule *openly*, from the ground.
 
@@ -36,7 +36,7 @@ Arc by arc on **[The Red Dragon Campaign](../Campaign/The-Red-Dragon-Campaign.md
 | ~2 years ago | Jak establishes his seat at the **Temple of Nord**; Grønnfjord becomes the world capital; the Spásistren are founded; "Jak's Peace" ends the raids. Airlantis rests at Eustace's homeland |
 | ~2 years ago | A tremor unearths part of the ship. Creatures begin emerging; the Barrier Peaks grow dangerous; expeditions vanish. Ships begin supplying **Nordkrist's Hold** |
 | Months ago | Jak's scouts return from the peaks *changed*; his best dis-trans bat finds **the void**. Vegepygmies appear near settlements |
-| ~1–2 months ago | Jak sends **George Decay and Erleena Riser** into the ship. Both are exposed; George chooses chemistry, Erleena the containment suit |
+| ~1–2 months ago | Jak sends **George Decay and Erlina Riser** into the ship. Both are exposed; George chooses chemistry, Erlina the containment suit |
 | 3 months ago | Aerun's primal spirits begin going silent; **Harah Tabr** is sent south to the Scarlands |
 
 ## The campaign so far

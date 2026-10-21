@@ -16,7 +16,7 @@
 >
 > *Somewhere up that hillside, where the dell meets the hull, is the way you came in the first time — lost for now in the spore haze.*
 
-The [Lighthouse](../../The-Lost-Ship/The-Lighthouse.md) is throwing everything mold-touched it can reach at the hull because [Erleena's](../../NPCs/Erleena-Riser.md) cure research beneath it is working — and so are [George's](../../NPCs/George-Decay.md) anti-fungals, up on the decks. What's actually angry is the thing anchored to the Lighthouse, not the tower itself (DM only; see [The Ship's Purpose](../../Campaign/Plot-Threads/The-Ships-Purpose.md)). The ship is defending itself, and the party is arriving in the middle of that.
+The [Lighthouse](../../The-Lost-Ship/The-Lighthouse.md) is throwing everything mold-touched it can reach at the hull because [Erlina's](../../NPCs/Erlina-Riser.md) cure research beneath it is working — and so are [George's](../../NPCs/George-Decay.md) anti-fungals, up on the decks. What's actually angry is the thing anchored to the Lighthouse, not the tower itself (DM only; see [The Ship's Purpose](../../Campaign/Plot-Threads/The-Ships-Purpose.md)). The ship is defending itself, and the party is arriving in the middle of that.
 
 ## Forces on the field
 
@@ -82,4 +82,4 @@ Keep it short. Eddie is warm, bumbling, and genuinely trying to help. Eddie advi
 
 ---
 
-*Deeper knowledge:* [Return to the Ship](../Return-to-the-Ship.md) · [Bestiary — Ship Constructs](../../Bestiary/Ship-Constructs.md) · [Bestiary — Fungal Threats](../../Bestiary/Fungal-Threats.md) · [Russet Mold & Infection](../../Game-Mechanics/Russet-Mold-and-Infection.md) · [Erleena Riser](../../NPCs/Erleena-Riser.md) · [George Decay](../../NPCs/George-Decay.md)
+*Deeper knowledge:* [Return to the Ship](../Return-to-the-Ship.md) · [Bestiary — Ship Constructs](../../Bestiary/Ship-Constructs.md) · [Bestiary — Fungal Threats](../../Bestiary/Fungal-Threats.md) · [Russet Mold & Infection](../../Game-Mechanics/Russet-Mold-and-Infection.md) · [Erlina Riser](../../NPCs/Erlina-Riser.md) · [George Decay](../../NPCs/George-Decay.md)

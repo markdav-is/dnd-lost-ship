@@ -8,7 +8,7 @@
 
 ## When it happens
 
-On the way out ([The Send-Off](The-Send-Off.md), *Getting out*). The stair under Erleena's lab comes down on the lower deck, and the party walks past S64b, the stasis chamber, on the way to the cargo booth. Don't point at it. Eddie lights the corridor ahead of them and says, of that one dark door, *"I don't go down that way much. It's just machinery."* His map says so. It's wrong.
+On the way out ([The Send-Off](The-Send-Off.md), *Getting out*). The stair under Erlina's lab comes down on the lower deck, and the party walks past S64b, the stasis chamber, on the way to the cargo booth. Don't point at it. Eddie lights the corridor ahead of them and says, of that one dark door, *"I don't go down that way much. It's just machinery."* His map says so. It's wrong.
 
 If nobody opens the door, she stays asleep and the arc ends without her. That's fine.
 
@@ -16,7 +16,7 @@ If nobody opens the door, she stays asleep and the arc ends without her. That's 
 
 > *The door grinds open on cold. Frost on the floor, frost on the walls, and twenty tall glass pods in two rows, humming. Nineteen of them hold skeletons in green jumpsuits, slumped against the glass. The twentieth holds a woman. Shaved head, green jumpsuit, eyes closed, and a slow line of breath fogging the inside of the glass.*
 
-**Opening the pod:** DC 12 Intelligence (Investigation). Erleena can help: the panel is in the old script she spent two years deciphering, and she reads it out loud, very slowly, getting more excited with every word.
+**Opening the pod:** DC 12 Intelligence (Investigation). Erlina can help: the panel is in the old script she spent two years deciphering, and she reads it out loud, very slowly, getting more excited with every word.
 
 ![Nova wakes: the pod door swings open on a frosted hinge, cryo vapour pours across the floor, and she steps out into the light](../../.attachments/enc_nova_wakes.jpg)
 
@@ -24,7 +24,7 @@ If nobody opens the door, she stays asleep and the arc ends without her. That's 
 >
 > *"The ship is awake," she says. "Who woke it?"*
 
-How much Common she has is your call. If she has none, Erleena can work it out in writing, slowly, and is thrilled to.
+How much Common she has is your call. If she has none, Erlina can work it out in writing, slowly, and is thrilled to.
 
 ## What she knows
 
@@ -36,7 +36,7 @@ How much Common she has is your call. If she has none, Erleena can work it out i
 
 ## Eddie
 
-The moment Eddie hears her voice, he is delighted: *"Oh! Hello! You're not on my map at all!"* She is not delighted. The mind she shut down was not friendly, and she will want to know what this one is. Let George or Erleena vouch for him, and let Eddie be his bumbling, cheerful self. He has no memory of her, because she wiped the old mind's core on her way into the pod, so he can't remember what she's afraid of. Play it as a cautious first meeting, not a fight.
+The moment Eddie hears her voice, he is delighted: *"Oh! Hello! You're not on my map at all!"* She is not delighted. The mind she shut down was not friendly, and she will want to know what this one is. Let George or Erlina vouch for him, and let Eddie be his bumbling, cheerful self. He has no memory of her, because she wiped the old mind's core on her way into the pod, so he can't remember what she's afraid of. Play it as a cautious first meeting, not a fight.
 
 ## What she says
 
@@ -45,13 +45,13 @@ Pick a few:
 - *"The ship is awake. Who woke it?"*
 - *"How long was I under? No. Don't tell me yet."*
 - *"Nineteen. There were twenty of us."*
-- *"That's not our script. It's close. It's a child of it."* (looking at Erleena's notes)
+- *"That's not our script. It's close. It's a child of it."* (looking at Erlina's notes)
 - *"Don't touch that. I mean it. Don't touch anything in here until I've looked at it."*
 - *"I'm staying. Someone has to find out what this ship has turned into."*
 
 ## What happens next
 
-**She stays aboard.** She won't leave the ship until she understands what woke up and what the mold has done to it. That gives George and Eddie a third pair of hands, and the one person alive who knows how the ship was built. The party leaves with Erleena as planned.
+**She stays aboard.** She won't leave the ship until she understands what woke up and what the mold has done to it. That gives George and Eddie a third pair of hands, and the one person alive who knows how the ship was built. The party leaves with Erlina as planned.
 
 *DM only: what the ship was sent to do, and where the mold came from, are in her foggy memory, one revelation per session, your timing ([Nova](../../NPCs/Nova.md), [The Ship's Purpose](../../Campaign/Plot-Threads/The-Ships-Purpose.md)).*
 

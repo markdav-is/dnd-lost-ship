@@ -6,7 +6,7 @@
 
 ## What Eddie wants, and why
 
-George and Erleena woke Eddie for two things: cure research, and **getting a message out**. The second has beaten him for a month. The ship's fields filter radio at the hull ([The Lost Ship](../../The-Lost-Ship.md)) — nothing transmitted inside gets out.
+George and Erlina woke Eddie for two things: cure research, and **getting a message out**. The second has beaten him for a month. The ship's fields filter radio at the hull ([The Lost Ship](../../The-Lost-Ship.md)) — nothing transmitted inside gets out.
 
 The fields stop at the hull. **A wire doesn't care.** A dish mounted *outside*, on the bare top of the ship, cabled in through a service port, gives Eddie a voice the fields can't swallow. Point it at the strongest Aura node on the continent — the **Temple of Nord** in Grønnfjord — and he is on the network.
 
@@ -162,13 +162,13 @@ What has actually changed:
 
 - **Eddie is on the Aura network,** as a **user**. Aura is a network, not a mind ([The Aura Network](../../World/The-Aura-Network.md)) — towers, permissions, and a voice you ask things of. Jak holds the top keys, so Eddie's first real conversation with the outside world is, within the hour, with the Administrator.
 - **The void has a voice.** Teleportation and scrying are still blocked and the network still can't *see inside* the ship. But someone inside can **talk out**, and Jak can talk in. This is what Jak sent the party south for ([Jak Bjornsson](../../NPCs/Jak-Bjornsson.md)).
-- **The ship can make and take calls — through Eddie.** The Aura link terminates in the ship's own systems, so a call is placed *by Eddie* and heard on the intercom: [Erleena](../../NPCs/Erleena-Riser.md) stops being unreachable, George can ring Frostwatch, and anyone outside with a working phone can ring the ship. **It is not a phone tower.** Handsets still don't work aboard or near the hull; nobody walks the decks with a phone to their ear. (Every call runs through Aura, which means through Jak's permissions.)
-- **This is how the book gets out.** Erleena's *[A Brief History of Vermoon](../../Aerun-Players-Guide/A-Brief-History-of-Vermoon.md)* — typeset and date-checked by "E." — goes out to the world over this link.
-- **A tell, for a table that's listening:** Eddie needs no translator. *"It's like hearing your grandchildren's slang. I don't know the words, but I know the grammar."* ([The Ship's Purpose](../../Campaign/Plot-Threads/The-Ships-Purpose.md)). Don't explain it; Erleena will, if asked.
+- **The ship can make and take calls — through Eddie.** The Aura link terminates in the ship's own systems, so a call is placed *by Eddie* and heard on the intercom: [Erlina](../../NPCs/Erlina-Riser.md) stops being unreachable, George can ring Frostwatch, and anyone outside with a working phone can ring the ship. **It is not a phone tower.** Handsets still don't work aboard or near the hull; nobody walks the decks with a phone to their ear. (Every call runs through Aura, which means through Jak's permissions.)
+- **This is how the book gets out.** Erlina's *[A Brief History of Vermoon](../../Aerun-Players-Guide/A-Brief-History-of-Vermoon.md)* — typeset and date-checked by "E." — goes out to the world over this link.
+- **A tell, for a table that's listening:** Eddie needs no translator. *"It's like hearing your grandchildren's slang. I don't know the words, but I know the grammar."* ([The Ship's Purpose](../../Campaign/Plot-Threads/The-Ships-Purpose.md)). Don't explain it; Erlina will, if asked.
 
 ## The serious bit (for the DM, not the scene)
 
-Don't let any of this slow the comedy down — but plugging the ship into Aura touches three live threads, and the party may see that before they pick up the dish. Let them argue at the airlock, not on the mountain. George and Erleena are **for** it: outside contact was half the reason they woke Eddie.
+Don't let any of this slow the comedy down — but plugging the ship into Aura touches three live threads, and the party may see that before they pick up the dish. Let them argue at the airlock, not on the mountain. George and Erlina are **for** it: outside contact was half the reason they woke Eddie.
 
 - **The withheld theory.** The party has been keeping the network-corruption theory from "anyone with a glowing ear" ([The Invisible Infection](../../Campaign/Plot-Threads/The-Invisible-Infection.md)). If something rides the network, the ship's mind is now on it too. Mark's call; doesn't need making today.
 - **Jak's sealed orders** ([Tomas Vel-Maret](../../NPCs/Tomas-Vel-Maret.md) has the copy). A ship that can simply be *asked* changes what those orders are for.

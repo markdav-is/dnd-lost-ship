@@ -2,7 +2,7 @@
 
 # The Elemental Cities & the Teleport Network
 
-The great cities of Vermoon each carry an elemental theme — legacies of the age when the [Titans](The-Titans.md) powered civilization — and are linked by an ancient teleportation network the party reactivated in the previous campaign. Most of them are **buried**: the Red Dragon's apocalypse put the old world underground, and each buried city still has its **Titan at its heart**. Vermoon is a planet with a lot of technology under the soil, and the previous campaign was a dig into it — the mission on which the party first met [Erleena Riser](../NPCs/Erleena-Riser.md), then an archaeologist of the ancients' technology, and which ended with the planet-wide comm network switched back on with the dragons' help.
+The great cities of Vermoon each carry an elemental theme — legacies of the age when the [Titans](The-Titans.md) powered civilization — and are linked by an ancient teleportation network the party reactivated in the previous campaign. Most of them are **buried**: the Red Dragon's apocalypse put the old world underground, and each buried city still has its **Titan at its heart**. Vermoon is a planet with a lot of technology under the soil, and the previous campaign was a dig into it — the mission on which the party first met [Erlina Riser](../NPCs/Erlina-Riser.md), then an archaeologist of the ancients' technology, and which ended with the planet-wide comm network switched back on with the dragons' help.
 
 Source: Andy's world-building interview, `assets/Vermoon World-Building Session_...transcript.txt`; the fire city's location from the table (2026-09-12).
 
@@ -14,7 +14,7 @@ Built by **[the Antari](The-Antari.md)**, each on the stolen power of one Primor
 | :--- | :--- | :--- |
 | **Airlantis** | Air · Ermir · Claire (Silver) | Flying city the size of a sports stadium — see below |
 | **Oceana** | Water · Dwyn · Dildro (Blue) | Underwater research city 5,000 ft down off the far coast of [Caria](Caria.md), near the Triple Isles — see below |
-| **Eldorado** | Fire · Savita · Thimva (Red) | The fire city, on [Aerun](Aerun.md), **buried under the rim town of Eldorado** — the high pass behind Tyr. The salvage the prospectors have been bringing down out of the high country for centuries comes from it; nobody in Eldorado asks where. Erleena has seen it only from its gate room and has never dug there; she assumes it is "more of the same," only hotter and more dangerous the deeper you go. **This is a backstory hook for [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md), not part of the infection story** — it has nothing to do with the First Source or the Lighthouse. See below |
+| **Eldorado** | Fire · Savita · Thimva (Red) | The fire city, on [Aerun](Aerun.md), **buried under the rim town of Eldorado** — the high pass behind Tyr. The salvage the prospectors have been bringing down out of the high country for centuries comes from it; nobody in Eldorado asks where. Erlina has seen it only from its gate room and has never dug there; she assumes it is "more of the same," only hotter and more dangerous the deeper you go. **This is a backstory hook for [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md), not part of the infection story** — it has nothing to do with the First Source or the Lighthouse. See below |
 | **Dirtroit** | Earth · Kaia · Essos (Black) | Buried under the Bolt Mountains of [Taldea](Taldea.md); site of the party's encounter with the Earth Titan. *(Name confirmed from Andy's Trello notes.)* |
 | **Eros Station** | — | The orbital station; not a Titan city, but on the same portal ring. *(The name comes from Aura's system list — "Eros Station operations" — and is taken here to be the space station; the board otherwise just says "the space station.")* **Gone:** the last dragon aboard, in human form, took the station and left to adventure the cosmos ([The Dragons](The-Dragons.md)). Nothing is in orbit now. |
 
@@ -34,7 +34,7 @@ Legend in the Second Age had them as the four **mythical lost cities** — Eusta
 | 5 | Communications — intelligence storage, power and operations for the city | Pink (red + white) | Lit, several floors |
 
   *(An earlier prep note listed the labs as Horticultural, Incorporeal Research, Bio-Mechanical, Aero Space, Alchemical; the list above is the one that reached the table.)*
-- **What it was doing to the world:** Oceana commands smaller stations laid across the ocean floor that can **redirect natural currents**. Someone had set them to *manual* — hence the wrong-way tides, failing fisheries, and maddened sea creatures of the previous campaign. Erleena shut them down from here. She inferred the same kind of controls at the other cities explained the heat out of the Amber Valley (Eldorado) and the fast dark storm clouds (Airlantis) — and that Dirtroit's were destroyed with the city.
+- **What it was doing to the world:** Oceana commands smaller stations laid across the ocean floor that can **redirect natural currents**. Someone had set them to *manual* — hence the wrong-way tides, failing fisheries, and maddened sea creatures of the previous campaign. Erlina shut them down from here. She inferred the same kind of controls at the other cities explained the heat out of the Amber Valley (Eldorado) and the fast dark storm clouds (Airlantis) — and that Dirtroit's were destroyed with the city.
 - **Who's there now:** the rebuilt Green Dragon **Undaloth**, in rehabilitation ([The Dragons](The-Dragons.md)). Constructs still work the halls; most ignore visitors. **Deep Scions** in the Antari's service were noted operating out of Oceana.
 
 ## Dirtroit
@@ -80,7 +80,7 @@ Reached only by portal. **South:** habitation — room after room with belonging
 - **The electrical room:** a tall round chamber, three raised walkways to a central charger holding five color-coded batteries (white 10, blue 15, red 15, green 20, yellow 25) and a bank of six receptacles; total charge decides which doors open, and overloading dumps the lot. Behind the last doors: the **Silver Dragon Ball**, 200 platinum, and serpent, dragon, and adamantine armor — and a switch to stop the power discharge.
 - **The research decks:** climate research and weather tracking — walls of instruments, global weather maps updating live, dates circled in colored ink. Upstairs, a hole torn in the hull and **Claire's** nest ([The Dragons](The-Dragons.md)).
 - **The engines** are close cousins of the one [Rico](../NPCs/Rico.md) built with Burl's prompting. Rico's fuel is a magical feed for the **elementals** that do the actual work; it needs **fossilarium** from Shimmerhill, lasts a long time, and needs only small top-ups.
-- Andy's plan for it if kept aloft: slow travel around the world, improvable as a base, room to **house the dragons**, and a place for Erleena and others to join. Landed, it would still be a portal destination.
+- Andy's plan for it if kept aloft: slow travel around the world, improvable as a base, room to **house the dragons**, and a place for Erlina and others to join. Landed, it would still be a portal destination.
 
 ## The teleport network
 

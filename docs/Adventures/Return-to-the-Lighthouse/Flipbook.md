@@ -16,12 +16,12 @@
 
 ![Through the split: the Sea of Silt under a white sky, black glass spires, and wormsign in the sand](../../.attachments/lh_door_desert.jpg)
 
-![Erleena steps out of the Lighthouse door in her suit, grinning and waving](../../.attachments/enc_erleena_emerges.jpg)
+![Erlina steps out of the Lighthouse door in her suit, grinning and waving](../../.attachments/enc_erleena_emerges.jpg)
 
-![Erleena in her suit clearing the inside of the Lighthouse with George's sprayer, the hatch open behind her](../../.attachments/enc_erleena_spraying.jpg)
+![Erlina in her suit clearing the inside of the Lighthouse with George's sprayer, the hatch open behind her](../../.attachments/enc_erleena_spraying.jpg)
 
-![The airlock under the Lighthouse: Erleena, helmet off, hosing down the soaked and indignant party](../../.attachments/enc_airlock_washdown.jpg)
+![The airlock under the Lighthouse: Erlina, helmet off, hosing down the soaked and indignant party](../../.attachments/enc_airlock_washdown.jpg)
 
-![Erleena's lab under the lake: the spike on the trace, and the green murk beyond the viewports](../../.attachments/enc_beneath_the_lighthouse.jpg)
+![Erlina's lab under the lake: the spike on the trace, and the green murk beyond the viewports](../../.attachments/enc_beneath_the_lighthouse.jpg)
 
-![Erleena in her workroom, dropping the agent into the dish; a grey dead ring spreads through the russet mold](../../.attachments/enc_erleena_at_work.jpg)
+![Erlina in her workroom, dropping the agent into the dish; a grey dead ring spreads through the russet mold](../../.attachments/enc_erleena_at_work.jpg)

@@ -1,3 +1,5 @@
+[Home](Home.md) / NPCs <!-- wikidown:breadcrumb -->
+
 # NPCs
 
 Dossiers for every named character. Statuses reflect the current campaign state.
@@ -8,7 +10,7 @@ Dossiers for every named character. Statuses reflect the current campaign state.
 | :--- | :--- | :--- |
 | [Jak Bjornsson](NPCs/Jak-Bjornsson.md) | The Administrator — patron, friend, world-ruler | ◈ Ally / patron |
 | [George Decay](NPCs/George-Decay.md) | Infected scientist, party companion & guide | ⚠ Infected / stable |
-| [Erleena Riser](NPCs/Erleena-Riser.md) | Scientist; cure lab beneath the Lighthouse | ◈ Found / active |
+| [Erlina Riser](NPCs/Erlina-Riser.md) | Scientist; cure lab beneath the Lighthouse | ◈ Found / active |
 | [Harah Tabr](NPCs/Harah-Tabr.md) | Sandwalker emissary from Aerun | ◈ New companion |
 | [High Sister Valerius](NPCs/High-Sister-Valerius.md) | Spásistren commander at Frostwatch | ◈ Neutral / secret ally? |
 | [Robin Wood](Campaign/The-Party/Robin-Wood.md) | Infirmary healer-cleric recruited at Frostwatch — now a **PC** (new player); page moved to [The Party](Campaign/The-Party.md) | ◈ Party member |

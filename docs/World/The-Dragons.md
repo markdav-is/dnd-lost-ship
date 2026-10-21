@@ -16,7 +16,7 @@ Afterward, with the Titans "fully asleep and dead to the world," the dragons sta
 
 ## The Prophecy of the Red Dragon
 
-The dragons activated in response to a world-threatening danger. The Prophecy of the Red Dragon brought the heroes together; each was paired with a dragon, the party gathered the **dragon orbs** ("dragon balls"), and the arc resolved aboard the orbital space station with the fall of the [First Administrator](Timeline.md). Along the way the heroes — with [Erleena Riser](../NPCs/Erleena-Riser.md), then an archaeologist of the ancients' technology — restored the planet-wide comm network, with the dragons' help. The prophecy is now **fulfilled** — and with no world-scale threat, the dragons have gone dormant.
+The dragons activated in response to a world-threatening danger. The Prophecy of the Red Dragon brought the heroes together; each was paired with a dragon, the party gathered the **dragon orbs** ("dragon balls"), and the arc resolved aboard the orbital space station with the fall of the [First Administrator](Timeline.md). Along the way the heroes — with [Erlina Riser](../NPCs/Erlina-Riser.md), then an archaeologist of the ancients' technology — restored the planet-wide comm network, with the dragons' help. The prophecy is now **fulfilled** — and with no world-scale threat, the dragons have gone dormant.
 
 **How it began (2023 board).** Before the Fire Titan was completely taken, her Red Dragon was **tasked with finding those who would be able to free the Titans**. Seven centuries later that search arrived as a **shared dream**: on the same night, each hero dreamed of standing in a red dragon's lair beside companions of many years — people they had never met — and woke in Yorrem on festival day. Eustace, who joined later, never had the dream; Essos's comment on that was *"there is always one more added."*
 
@@ -30,7 +30,7 @@ Four **Prime Dragons**, each bound to a Titan, and one who is not.
 | **Black** | **Essos** *(first written "Ovess")* | Kaia · Dirtroit | **[Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md)** | Kaia's sworn protector; lairs under Taldea's Bolt Mountains beside buried Dirtroit. **The dragon that destroyed Shhhmeowmeow's village** — see below |
 | **Silver** | **Claire** *(one card says "White Dragon Claire")* | Ermir · Airlantis | *Unconfirmed — [Musty-Jo](../Campaign/The-Party/Musty-Jo-Mustang.md) carries the Silver Dragon Ball* | Tore a nest into the hull of **[Airlantis](The-Elemental-Cities.md)**' weather-research decks. Knew the party as the heroes of the Red Dragon, made them prove it in a fight, and came over to their side |
 | **Blue** | **Dildro** — alias **Burl Ives / Burl Grives** | Dwyn · Oceana | **[Gobbledegook](../Campaign/The-Party/Gobbledegook.md)** *(offered his orb — see the note on "Tarn" below)* | The one who left his post. **Took the station** — in human form, the last dragon aboard — **and is off adventuring the cosmos** (confirmed by Mark: Dildro, the Blue). |
-| **Green** | **Undaloth** | none — *not* a Prime Dragon | **[Eustace](../Campaign/The-Party/Eustace-Thunderbeak.md)** *(found the Green Ball; dreamed of him)* | Died in the war, rebuilt by the Antari, soul restored by Erleena in Oceana |
+| **Green** | **Undaloth** | none — *not* a Prime Dragon | **[Eustace](../Campaign/The-Party/Eustace-Thunderbeak.md)** *(found the Green Ball; dreamed of him)* | Died in the war, rebuilt by the Antari, soul restored by Erlina in Oceana |
 
 The pairings mix past and present, and blanks are left to confirm at the table.
 
@@ -62,8 +62,8 @@ The pairings mix past and present, and blanks are left to confirm at the table.
 
 - One of the dragons who finally stopped the humans. Sent to his assigned place, he was **ambushed**; he set off his orb where it needed to go and **died doing it**. Nobody knew what became of the body. The humans kept his orb hidden away.
 - [Eustace](../Campaign/The-Party/Eustace-Thunderbeak.md) ended up with the **Green Ball** and the dreams that came with it: a nameless voice asking questions; then the dragon overwhelmed by machines and men, the orb lifted out by human hands, the body on a table in a bright room with the sea outside the windows, and eyes opening **red**.
-- The Antari had rebuilt him in **Oceana's** bio-mechanical lab. The party fought the body while **[Erleena](../NPCs/Erleena-Riser.md) uploaded his soul back into it**. He lived — with a mechanized body that no longer makes its own energy and must be **charged**, limbs he had to relearn, and **Aura talking in his head** (first in Antari, then, once he answered, in Common). He can be reached by phone.
-- He and Erleena stayed in Oceana to work on his rehabilitation. The *"2,500 in gems"* on Eustace's sheet is still unexplained.
+- The Antari had rebuilt him in **Oceana's** bio-mechanical lab. The party fought the body while **[Erlina](../NPCs/Erlina-Riser.md) uploaded his soul back into it**. He lived — with a mechanized body that no longer makes its own energy and must be **charged**, limbs he had to relearn, and **Aura talking in his head** (first in Antari, then, once he answered, in Common). He can be reached by phone.
+- He and Erlina stayed in Oceana to work on his rehabilitation. The *"2,500 in gems"* on Eustace's sheet is still unexplained.
 
 ## Will they help now?
 

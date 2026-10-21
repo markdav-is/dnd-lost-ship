@@ -17,7 +17,7 @@ py tools/gen_image.py --prompt-file tools/prompts/enc_lab_at_s42.txt --style alp
 py tools/gen_image.py --prompt-file tools/prompts/enc_beneath_the_lighthouse.txt --style sickbay --ref docs/.attachments/erleena_portrait.jpg --out docs/.attachments/enc_beneath_the_lighthouse.jpg
 ```
 
-- `--style <name>` prepends `tools/styles/<name>.txt` — the house-style blocks (`alpha` = lit ship, *Space: 1999* look; `dark` = the mold side; `sickbay` = Erleena's lab; `erleena` = her face and uniform). Edit these rather than repeating the look in every prompt.
+- `--style <name>` prepends `tools/styles/<name>.txt` — the house-style blocks (`alpha` = lit ship, *Space: 1999* look; `dark` = the mold side; `sickbay` = Erlina's lab; `erleena` = her face and uniform). Edit these rather than repeating the look in every prompt.
 - `alpha_still` is the photographic take on `alpha`: a 35mm production still from a 1975 TV set rather than a painting. Used for the 2026-09-22 S42 set (`george_portrait_s42`, `enc_s42_reveal`, `enc_s42_demonstration`, `enc_s42_fitting`), with the portrait passed as `--ref` to hold George's face.
 - `--ref <image>` (repeatable, up to 8 on Flux) attaches reference images: a previous render to keep the layout, a portrait to keep a face, `medical_android.png` for the uniform.
 - `--aspect` defaults to `3:2` to match the existing encounter art; `--size` defaults to `2K` (about 3.5 MP on Flux, which costs a little more than the 1 MP base).

@@ -23,5 +23,5 @@ The powers moving through the campaign, each with a legitimate grievance and a d
 | Merchant houses | The network monopoly broken; ship tech distributed (to them) | Jak seeing them coalesce | The Spice, the Ring Road, the sealed orders |
 | Sandwalkers | The world not to die twice | The Defiling Silence — and their secrets spent | Memory; the containment; invisibility to the network |
 | Order of the Sere | To be ready — and perhaps, at last, to be *needed* | Being hunted for what they preserve | The only proven counter to the spores |
-| The scientists (George, Erleena, Nova) | A cure; knowledge preserved | The purge | The only working understanding of the ship |
+| The scientists (George, Erlina, Nova) | A cure; knowledge preserved | The purge | The only working understanding of the ship |
 | The mold (yes, it's a faction) | To spread; possibly to *communicate* | Fire — and defiling | Everything it has already touched |

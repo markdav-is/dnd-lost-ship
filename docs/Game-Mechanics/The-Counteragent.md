@@ -2,13 +2,13 @@
 
 # The Counteragent
 
-The cure as combat kit: how the party arms up with Erleena's serum and fights to *heal*. Core design rule: **the cure is loud** — the mold is a network, every inoculation screams through the spore-link, and healing generates the counterattack. Mercy and combat are the same activity.
+The cure as combat kit: how the party arms up with Erlina's serum and fights to *heal*. Core design rule: **the cure is loud** — the mold is a network, every inoculation screams through the spore-link, and healing generates the counterattack. Mercy and combat are the same activity.
 
 The spore-blasters are used in [Return to the Ship](../Adventures/Return-to-the-Ship.md); the serum kit below is for after the cure.
 
 ## Available now: George's spore-blasters
 
-*This is [George's](../NPCs/George-Decay.md) field kit, not the eventual counteragent. It kills mold and breaks the Lighthouse's grip; it does not cure anyone. George made **one rig per party member plus one for Erleena** (six for the party of five), handed out at the reunion at [S42](../Adventures/Return-to-the-Ship/The-Lab-at-S42.md).*
+*This is [George's](../NPCs/George-Decay.md) field kit, not the eventual counteragent. It kills mold and breaks the Lighthouse's grip; it does not cure anyone. George made **one rig per party member plus one for Erlina** (six for the party of five), handed out at the reunion at [S42](../Adventures/Return-to-the-Ship/The-Lab-at-S42.md).*
 
 **Spore-blaster.** Backpack tank (a repurposed ship fire extinguisher) + hose and wand, charged with George's alkaline mold-killer under pressure. **Heavy:** disadvantage on Stealth while worn. **Tank: 6 blasts**; refill in 10 minutes from George's alkaline stock or at any ship fire-suppression station (Eddie can point them out).
 
@@ -22,7 +22,7 @@ The eventual counteragent's aerosol sprayers (below) are this rig with a cure in
 
 ## The serum
 
-Brewed by [Erleena](../NPCs/Erleena-Riser.md) after Aerun, from the comparison of the two sources ([Why the cure needs Aerun](Russet-Mold-and-Infection.md)), on Eddie's pharmacopeia, in **limited batches — every mission has a dose budget**. The first dose ever administered goes to [George](../NPCs/George-Decay.md). It works.
+Brewed by [Erlina](../NPCs/Erlina-Riser.md) after Aerun, from the comparison of the two sources ([Why the cure needs Aerun](Russet-Mold-and-Infection.md)), on Eddie's pharmacopeia, in **limited batches — every mission has a dose budget**. The first dose ever administered goes to [George](../NPCs/George-Decay.md). It works.
 
 ## Delivery kit (the cure arsenal)
 

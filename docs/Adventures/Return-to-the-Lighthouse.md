@@ -4,7 +4,7 @@
 
 **[Flipbook](Return-to-the-Lighthouse/Flipbook.md)**: just the images, in play order. **[Vision Handouts](Return-to-the-Lighthouse/Vision-Handouts.md)**: the printable player cards.
 
-*The party's return to the Lighthouse — the tower in full, the visions at the door, Erleena coming up to meet them, the airlock, the lab fifty feet under the lake, and the scientist who decides the cure is on Aerun and that she is going to get it.*
+*The party's return to the Lighthouse — the tower in full, the visions at the door, Erlina coming up to meet them, the airlock, the lab fifty feet under the lake, and the scientist who decides the cure is on Aerun and that she is going to get it.*
 
 ## The tower in full
 
@@ -26,9 +26,9 @@
 
 **Don't let the beam touch you.** The halo goes to whatever the beam lights; a flyer caught in it is dragged down to the island and lands in the thick of it (exposure save, [Russet Mold & Infection](../Game-Mechanics/Russet-Mold-and-Infection.md)). Walk it like a searchlight — move when it's away, hold when it's near.
 
-**The comms (DM note).** Nothing radio gets in or out of the hull — the ship's hyper-dimensional fields filter RF the same way they blind the Aura network and stop teleportation ([Ship-wide properties](../The-Lost-Ship.md)). Every call the party made from Frostwatch died in that void: *"No signal. Your number cannot be completed."* Not spores, not the tower's output, not Eddie. Inside the hull the wiring reaches everywhere — Eddie has watched the whole crossing, and Erleena's lab below the garden sits on the same internal comm line as George's pocket at S42, which is why she and George have talked every day for a month and still can't reach each other: the garden is between them, not the wiring. So Erleena knows everything George knows — the half-cure, the rabbitoid, the packs, that the party reached S42 — and nothing at all from the outside world. **That gap is the party's cue.** They are carrying a month of news she has never heard, and the council's news above all.
+**The comms (DM note).** Nothing radio gets in or out of the hull — the ship's hyper-dimensional fields filter RF the same way they blind the Aura network and stop teleportation ([Ship-wide properties](../The-Lost-Ship.md)). Every call the party made from Frostwatch died in that void: *"No signal. Your number cannot be completed."* Not spores, not the tower's output, not Eddie. Inside the hull the wiring reaches everywhere — Eddie has watched the whole crossing, and Erlina's lab below the garden sits on the same internal comm line as George's pocket at S42, which is why she and George have talked every day for a month and still can't reach each other: the garden is between them, not the wiring. So Erlina knows everything George knows — the half-cure, the rabbitoid, the packs, that the party reached S42 — and nothing at all from the outside world. **That gap is the party's cue.** They are carrying a month of news she has never heard, and the council's news above all.
 
-**The last time they spoke.** The party's last words with Erleena were in these sealed levels on the first survey: she told them she would build her cure lab here, and she asked them to make sure the big cargo door could never open again. Then they left through that same door, on the purge and never got a call through again. She has not forgotten either thing.
+**The last time they spoke.** The party's last words with Erlina were in these sealed levels on the first survey: she told them she would build her cure lab here, and she asked them to make sure the big cargo door could never open again. Then they left through that same door, on the purge and never got a call through again. She has not forgotten either thing.
 
 ## The door
 
@@ -101,7 +101,7 @@ Read it to them alone, in the second person, and show them this when you're done
 
 **The two visions disagree.** If both turn up, one player now feels the spores should be left alone to make a better world. The other feels they must be stopped, and only in the desert. Let them argue about it on the way down the stair.
 
-*DM only: the grey sea is the Sea of Silt on Aerun, the obsidian spires stand on it, and the ridge is wormsign. It is the other Salient's ground ([The First Source](../Campaign/Plot-Threads/The-First-Source.md), [The Silt Sea](../World/Dark-Sun/The-Silt-Sea.md)). This is foreshadowing for the long arc that ties the two together ([The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md)). Don't name any of it at the table, and don't confirm it when the players guess. When Erleena names Aerun later on this page, let anyone who saw the desert make the connection on their own.*
+*DM only: the grey sea is the Sea of Silt on Aerun, the obsidian spires stand on it, and the ridge is wormsign. It is the other Salient's ground ([The First Source](../Campaign/Plot-Threads/The-First-Source.md), [The Silt Sea](../World/Dark-Sun/The-Silt-Sea.md)). This is foreshadowing for the long arc that ties the two together ([The Ship's Purpose](../Campaign/Plot-Threads/The-Ships-Purpose.md)). Don't name any of it at the table, and don't confirm it when the players guess. When Erlina names Aerun later on this page, let anyone who saw the desert make the connection on their own.*
 
 ### The backlash (d6: 4–5)
 
@@ -114,23 +114,23 @@ They never see anything. The tower pushes into their minds, finds nothing it can
 
 Nothing happens to them. They see the others go still, hear one of them laugh, and watch another drop to the moss. Eddie's voice in their ear is perfectly clear: *"Is everyone all right? Some of your readings are doing something very interesting."*
 
-**Afterward.** Nothing in the visions has a face, a voice or a name. Each conviction arrives as a feeling. Erleena will want to hear about all of it, flatly and in detail, and she'll write it down. **Telling it sideways:** nothing here says what the tower is. The rabbits moving in unison and the threads running into *everyone* are the network seen from the inside, and that is all the players get.
+**Afterward.** Nothing in the visions has a face, a voice or a name. Each conviction arrives as a feeling. Erlina will want to hear about all of it, flatly and in detail, and she'll write it down. **Telling it sideways:** nothing here says what the tower is. The rabbits moving in unison and the threads running into *everyone* are the network seen from the inside, and that is all the players get.
 
-## Erleena comes up
+## Erlina comes up
 
 *The party may not want to walk through that door, and after the visions, that's fair. They don't have to. Eddie has been calling the whole crossing to her like a regatta, and she has heard enough.*
 
-> *The orange light in the doorway goes dark for a moment, because someone is standing in it. A pressure suit, battered orange and tan, with a clear bubble helmet. Inside the helmet, a tired face you know, and it is grinning. Erleena raises a gloved hand and waves, then looks at whoever is still on the moss, and at the rabbits. Her voice comes out of a little speaker on her chest.*
+> *The orange light in the doorway goes dark for a moment, because someone is standing in it. A pressure suit, battered orange and tan, with a clear bubble helmet. Inside the helmet, a tired face you know, and it is grinning. Erlina raises a gloved hand and waves, then looks at whoever is still on the moss, and at the rabbits. Her voice comes out of a little speaker on her chest.*
 >
 > *"You came back. You're late, but you came back. I heard about the frog." She holds out a gloved hand. "Sprayer. George made one with my name on it. Give it here."*
 
-![Erleena steps out of the Lighthouse door in her suit, grinning and waving](../.attachments/enc_erleena_emerges.jpg)
+![Erlina steps out of the Lighthouse door in her suit, grinning and waving](../.attachments/enc_erleena_emerges.jpg)
 
 **The sixth pack.** If the party brought the spare spore-blaster George made for her, she takes it, shoulders it over the suit and cinches the straps without being shown. If they didn't, she takes someone's: *"He made one for each of you and one for me. At no point did anyone do the subtraction."* If anyone is still out cold from the door, she nudges them awake with her boot first.
 
 **She clears the tower.** She walks straight in and starts spraying. The mold peels off the stone in sheets, and the mushrooms wilt where the cone touches them. She works methodically, wall, stair, floor, the way somebody cleans a lab, and says nothing until the path to the hatch is clear. Let the party follow her in or watch from the door.
 
-![Erleena in her suit clearing the inside of the Lighthouse with George's sprayer, the hatch open behind her](../.attachments/enc_erleena_spraying.jpg)
+![Erlina in her suit clearing the inside of the Lighthouse with George's sprayer, the hatch open behind her](../.attachments/enc_erleena_spraying.jpg)
 
 **The hatch.** It's the same heavy floor hatch where the party first found her a month ago. She came up through it, so this time it opens easily on her word: no Strength check, no key card. *"Mind the ladder. It's wet. Everything's wet. That's the point."* She goes down first.
 
@@ -140,13 +140,13 @@ At the bottom of the ladder is a small round airlock: riveted steel, amber lamps
 
 > *She unlatches the bubble helmet and pulls it off, and for once she's almost smiling. Then she unhooks a hose from the wall. "Arms up. All of you. Nothing comes into my lab with spores on it, and that includes the bird."*
 
-![The airlock under the Lighthouse: Erleena, helmet off, hosing down the soaked and indignant party](../.attachments/enc_airlock_washdown.jpg)
+![The airlock under the Lighthouse: Erlina, helmet off, hosing down the soaked and indignant party](../.attachments/enc_airlock_washdown.jpg)
 
 Play it for comedy. Everyone gets soaked. The tabaxi hates it, the centaur barely fits, and Eustace will want to complain. She doesn't stop until she's satisfied. Then the inner door rolls open on white light.
 
-## Erleena's lab
+## Erlina's lab
 
-![Erleena's lab under the lake: the spike on the trace, and the green murk beyond the viewports](../.attachments/enc_beneath_the_lighthouse.jpg)
+![Erlina's lab under the lake: the spike on the trace, and the green murk beyond the viewports](../.attachments/enc_beneath_the_lighthouse.jpg)
 
 > *The room behind the door is bright and white and humming: biobeds, wall screens, green lake water behind round windows. She steps out of the suit, and underneath is a cream uniform with an orange stripe down the sleeve. She hangs the suit by the door and looks at each of you.*
 >
@@ -188,7 +188,7 @@ Pick a few when the talk needs a push:
 - *"George and Eddie can contain the spread, if we get that door to stay closed."*
 - *"Eddie. Print me a box of* A Brief History of Vermoon*. A full box. We're taking them with us."*
 
-![Erleena in her workroom, dropping the agent into the dish; a grey dead ring spreads through the russet mold](../.attachments/enc_erleena_at_work.jpg)
+![Erlina in her workroom, dropping the agent into the dish; a grey dead ring spreads through the russet mold](../.attachments/enc_erleena_at_work.jpg)
 
 ### Leaving
 
@@ -197,4 +197,4 @@ Pick a few when the talk needs a push:
 
 ---
 
-*Deeper knowledge:* [Erleena Riser](../NPCs/Erleena-Riser.md) · [George Decay](../NPCs/George-Decay.md) · [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md) · [The Jammed Override](The-Awakened-Ship/The-Jammed-Override.md) · [The Lighthouse](../The-Lost-Ship/The-Lighthouse.md) · [The Garden Level](../The-Lost-Ship/The-Garden-Level.md) · [Froghemoth](../Bestiary/Ship-Creatures.md) · [The Counteragent](../Game-Mechanics/The-Counteragent.md) · [The Elemental Cities](../World/The-Elemental-Cities.md) · [Aerun](../World/Aerun.md) · [The Lighthouse Dilemma](../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md) · module: [Return to the Ship](Return-to-the-Ship.md)
+*Deeper knowledge:* [Erlina Riser](../NPCs/Erlina-Riser.md) · [George Decay](../NPCs/George-Decay.md) · [Shhhmeowmeow](../Campaign/The-Party/Shhhmeowmeow.md) · [The Jammed Override](The-Awakened-Ship/The-Jammed-Override.md) · [The Lighthouse](../The-Lost-Ship/The-Lighthouse.md) · [The Garden Level](../The-Lost-Ship/The-Garden-Level.md) · [Froghemoth](../Bestiary/Ship-Creatures.md) · [The Counteragent](../Game-Mechanics/The-Counteragent.md) · [The Elemental Cities](../World/The-Elemental-Cities.md) · [Aerun](../World/Aerun.md) · [The Lighthouse Dilemma](../Campaign/Plot-Threads/The-Lighthouse-Dilemma.md) · module: [Return to the Ship](Return-to-the-Ship.md)

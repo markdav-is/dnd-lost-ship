@@ -8,7 +8,7 @@
 
 ## What's actually wrong
 
-**The door is the big one: the 40 × 60-ft cargo door on the lower deck** ([The Lower Deck](../../The-Lost-Ship/The-Lower-Deck.md)), the one the party was flushed out through at the end of the first survey. Erleena asked them back then to make it never open again. It still opens. Every few hours the door grinds open for about a minute and shuts again, and while it's open, **things from outside get in**. The siege at the hull has a way inside the ship.
+**The door is the big one: the 40 × 60-ft cargo door on the lower deck** ([The Lower Deck](../../The-Lost-Ship/The-Lower-Deck.md)), the one the party was flushed out through at the end of the first survey. Erlina asked them back then to make it never open again. It still opens. Every few hours the door grinds open for about a minute and shuts again, and while it's open, **things from outside get in**. The siege at the hull has a way inside the ship.
 
 It is not the tower and it is not a mind. It is a **jammed override**. The door's control station is the cargo bay's control-booth console, *"the same console you used to open it"* (Eddie, 2026-09-24). Its override is set to LOCAL and physically stuck there, with mold grown into the mechanism and a corroded relay behind it. The station keeps re-issuing the last command it was given, the manual purge cycle the party started, so the door keeps executing it. Eddie's board shows the fault, and he can't clear it from upstairs.
 
@@ -23,7 +23,7 @@ The **cargo bay's control booth** on the lower deck: the same booth where the pa
 ## Getting to the station
 
 1. **Down the drop tubes.** Eddie: the tubes go all the way down to the lower deck. From the tube it's the party's old route through the reactor core (S61) and the decon corridors (S63) to the cargo bay. The wheely sleds are still in S63.
-2. **Down the stair from Erleena's lab.** The spiral stair below her sickbay comes out on the lower deck. Eddie opens that door for them.
+2. **Down the stair from Erlina's lab.** The spiral stair below her sickbay comes out on the lower deck. Eddie opens that door for them.
 
 Either way, roll the lower deck's random encounters as written, **plus whatever came in on the door's last cycle**: infected wolves, birds, or deer from the siege outside, loose in the cargo bay and the corridors near it. The bay is spore-thick around the door, and a spore-blaster buys a minute of clean air where it's pointed. If the party wants it, the door cycles while they're in the booth. Show them the snow, the orange haze, and what's waiting in it.
 
@@ -41,7 +41,7 @@ The override is a small square flip-up cover on the left end of the booth consol
 
 ![Step two: the cover forced open, the dial stuck on LOCAL](../../.attachments/enc_jammed_override_closeup.jpg)
 
-The moment control passes, Eddie **seals the cargo door**. Erleena's month-old ask is finally done, and the siege has lost its way in. He holds it shut, and he can also open it on request whenever the party wants.
+The moment control passes, Eddie **seals the cargo door**. Erlina's month-old ask is finally done, and the siege has lost its way in. He holds it shut, and he can also open it on request whenever the party wants.
 
 ## What it opens
 
@@ -51,11 +51,11 @@ This is the quiet payoff. The errand puts the party on the **lower deck**, and t
 
 ![Nova wakes: the pod door swings open on a frosted hinge, cryo vapour pours across the floor, and she steps out into the light for the first time in an age](../../.attachments/enc_nova_wakes.jpg)
 
-**A second way out.** With the cargo door under Eddie's control, it is a door to the outside he can open on request. It's a choice for the party when they leave with Erleena: the airlock and the breach, or the cargo door on the lower deck.
+**A second way out.** With the cargo door under Eddie's control, it is a door to the outside he can open on request. It's a choice for the party when they leave with Erlina: the airlock and the breach, or the cargo door on the lower deck.
 
 ## Rewards
 
-- Erleena's request from the first survey, closed, and the siege can no longer get in through the cargo door. If she's still on the ship when it happens, Eddie tells her before anyone else can.
+- Erlina's request from the first survey, closed, and the siege can no longer get in through the cargo door. If she's still on the ship when it happens, Eddie tells her before anyone else can.
 - Eddie's **favor** ([The Lab at S42](../Return-to-the-Ship/The-Lab-at-S42.md)) — clearing the froghemoth or restoring power to a dark section were his two asks; unjamming a door he's been unable to close for a month counts, and he says so.
 - A door to the outside that Eddie controls. Whether the party uses it now or later, it's theirs.
 
@@ -65,4 +65,4 @@ A short, practical errand in a bad place: the fun is the deck's encounter table 
 
 ---
 
-*Deeper knowledge:* [Return to the Lighthouse](../Return-to-the-Lighthouse.md) · [The Lower Deck](../../The-Lost-Ship/The-Lower-Deck.md) · [The Lighthouse](../../The-Lost-Ship/The-Lighthouse.md) · [Nova](../../NPCs/Nova.md) · [Erleena Riser](../../NPCs/Erleena-Riser.md) · module: [Return to the Ship](../Return-to-the-Ship.md)
+*Deeper knowledge:* [Return to the Lighthouse](../Return-to-the-Lighthouse.md) · [The Lower Deck](../../The-Lost-Ship/The-Lower-Deck.md) · [The Lighthouse](../../The-Lost-Ship/The-Lighthouse.md) · [Nova](../../NPCs/Nova.md) · [Erlina Riser](../../NPCs/Erlina-Riser.md) · module: [Return to the Ship](../Return-to-the-Ship.md)

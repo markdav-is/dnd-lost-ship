@@ -2,7 +2,7 @@
 
 # A Brief History of Vermoon
 
-*By Professor Erleena Riser, Academy of the Fettered Mind (on extended leave). A short book for people who have walked past the old ruins their whole lives and never been told what they are.*
+*By Professor Erlina Riser, Academy of the Fettered Mind (on extended leave). A short book for people who have walked past the old ruins their whole lives and never been told what they are.*
 
 **Player-facing and spoiler-free**, like everything in this section. This page is the book's highlights: the chapters in brief, the timeline from the inside cover, and a few of the lines people quote. Your character can have read it. Most of Vermoon is about to.
 

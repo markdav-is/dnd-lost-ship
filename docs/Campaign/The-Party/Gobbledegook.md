@@ -86,4 +86,4 @@ At cleric 10, Gobbledegook has **5th-level slots** — which means **[Rejuvenate
 - **He's carrying a Deck of Many Things.** It's sitting in his equipment list with no in-fiction explanation yet — where it came from and whether he knows what it is are both open. One of the most dangerous artifacts in the game, currently just riding around in a goblin cleric's backpack — wherever that backpack is now.
 - The party's face (Persuasion +8) despite being a goblin in a Nordic port — lean into reactions in Grønnfjord.
 - Urchin background fits the "children return from temple ceremonies changed" thread; Gobbledegook has reason to care about Grønnfjord's street kids.
-- If he returns, the healer of record alongside [Robin](Robin-Wood.md): George, Erleena, and infected NPCs will orbit toward the clerics.
+- If he returns, the healer of record alongside [Robin](Robin-Wood.md): George, Erlina, and infected NPCs will orbit toward the clerics.
