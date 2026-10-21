@@ -159,7 +159,7 @@ Eddie and George have kept her up to date, so she already knows about Frostwatch
 - **The mold is a symptom.** A month of readings shows the same black spike, every day a little taller, pointing up at the tower. Something is pushing into the world through the Lighthouse, and the spores are what it looks like.
 - **Her cure works in a dish.** She has stopped the strain growing. To finish it she needs a second sample to compare against, and time.
 - **The tower has noticed her.** Small infected things from the lake throw themselves at her windows day and night.
-- **Aerun is her subject.** She wrote the book: *[A Brief History of Vermoon](../Aerun-Players-Guide/A-Brief-History-of-Vermoon.md)*, the hottest history book on Aerun. She did her internship at a dig in the northern desert.
+- **Aerun is her subject.** She wrote the book: *[A Brief History of Vermoon](../Aerun-Players-Guide/A-Brief-History-of-Vermoon.md)*, the hottest history book on Aerun. She did her internship at a dig in the Silt Sea.
 - **Getting out is easy now.** With the spore-blasters, the party can close the big door ([The Jammed Override](The-Awakened-Ship/The-Jammed-Override.md)) and walk out of the ship. George and Eddie stay to hold it.
 
 ### The desert vision
@@ -177,9 +177,9 @@ If nobody saw the desert, she gets there anyway from the connected-world vision 
 Pick a few when the talk needs a push:
 
 - *"Were there obsidian spires? Can you describe them?"*
-- *"What color was the sand? And the sky?"*
-- *"I did my internship in the northern desert. Two seasons of sand in my teeth. I know that sky."*
-- *"The mold isn't the disease. It's the symptom. I've spent a month treating the fever."*
+- *"What color was the sand? And the sky?" (Then, quietly:) "The Silt Sea. Aerun."*
+- *"I did my internship in the Silt Sea. Two seasons of dust in my teeth. I know that sky."*
+- *"The mold isn't the disease. It's the symptom. I've spent a month treating the rash, not the cause."*
 - *"Everything joined together sounds lovely until you ask who's holding the threads."*
 - *"In my spare time, Eddie and I have written a book!* A Brief History of Vermoon*!"*
 - *"George stays. Someone has to keep that thing busy, and he's better at it than either of us."*
