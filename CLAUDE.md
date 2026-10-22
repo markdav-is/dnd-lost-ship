@@ -12,20 +12,25 @@ before doing any work.
 ## Documentation lives in `/docs` (Wikidown wiki)
 
 - The `/docs` folder is a Wikidown wiki — structured markdown with `.order`
-  navigation files. Wiki tools address pages in title form (`/Getting-Started/Format`),
+  navigation files. CLI commands address pages in title form (`/Getting-Started/Format`),
   but markdown links *inside* pages must be relative with `.md` extensions so GitHub
   renders them: `[Format](../Getting-Started/Format.md)`, images `![x](../.attachments/pic.png)`.
-- A `wikidown-editor` subagent and a `wikidown` skill are configured for this
-  repo. Prefer them for reading and writing `/docs/*.md`.
-- **Use the `wiki_*` MCP tools for anything structural** — creating, moving,
-  renaming, deleting, or reordering pages — so `.order` files, breadcrumbs,
-  and inbound links stay consistent.
+- **Use the `wikidown` CLI, never an MCP server.** There is no wikidown MCP
+  in this repo. Run title-path commands from PowerShell: Git Bash rewrites
+  `/Some/Page` arguments into Windows paths.
+- A `wikidown-editor` subagent and a `wikidown` skill (both CLI-based) are
+  configured for this repo. Prefer them for reading and writing `/docs/*.md`.
+- **Use the CLI for anything structural** (`wikidown new`, `move`, `delete`,
+  `reorder`) so `.order` files, breadcrumbs, and inbound links stay
+  consistent.
 - **The tools are a convenience, not a rule.** When they get in the way — a
   bulk rename, a mechanical substitution across many pages, anything where
   running the tools costs more tokens than editing the files — edit
   `/docs/*.md` directly. Keep UTF-8 and line endings, and never hand-edit a
   page's `<!-- wikidown:breadcrumb -->` first line or a `.order` file.
-- **Either way, finish by running the tools to check the result:**
+- **Either way, finish by running the CLI to check the result:**
   `wikidown check-links` (and fix what it finds) before calling the work done.
+  Its "outside the wiki; run check-links --fix" findings for `../../assets`
+  sourcebook links are known; don't run `--fix` without asking.
 - When you ship a feature that changes user-visible behavior, ask whether the
   wiki should be updated, and (if yes) delegate to `wikidown-editor`.
