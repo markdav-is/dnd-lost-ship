@@ -38,7 +38,7 @@ Source text is the [Gazetteer](../Aerun-Players-Guide/Gazetteer.md), rewritten i
 - **Region pages reuse the same SVG with a cropped `viewBox`.** Places outside the region still show, dimmed, and still link.
 - **Locked regions are greyed out** on the continent map. Unlocking a region changes one CSS class.
 - **No JavaScript, no map libraries, no custom build scripts.**
-- **Authoring rule: no blank lines inside an `<svg>`.** A blank line ends the HTML block in Markdig and breaks the map.
+- **Links in the SVG are ordinary relative `.md` links.** Wikidown 0.12 rewrites and checks them (see below).
 
 ## Images and downloads
 
@@ -52,16 +52,16 @@ Source text is the [Gazetteer](../Aerun-Players-Guide/Gazetteer.md), rewritten i
 - **No Jekyll.** `export-html` is Wikidown's own renderer.
 - **Unlocking is publishing.** Swap a region's teaser for its full chapter and push, and the Action redeploys.
 
-## Waiting on Wikidown 0.12
+## Wikidown support (0.12.0 and later)
 
-Tested on Wikidown.Cli 0.8.0: inline SVG passes through `export-html` and renders. Mark has filed a feature request for the gaps, due in 0.12:
+Tested on Wikidown.Cli 0.12.0 on 2026-10-21. Inline SVG maps are fully supported, so **write ordinary relative `.md` links in the SVG**, the same as in markdown:
 
-- `.md` links inside raw HTML and SVG are not rewritten to `.html`, so map clicks hit dead links.
-- `check-links` doesn't validate those links, and `move` doesn't update them.
+- `export-html` rewrites `.md` to `.html` in SVG and HTML `<a href>`, including `xlink:href`. It keeps `#fragments` and leaves external URLs alone.
+- `check-links` reports broken `.md` links and missing `<image href>` files inside an SVG.
+- `move` rewrites SVG links when a page is renamed.
+- A blank line inside an `<svg>` no longer breaks it. The no-blank-lines rule is now just tidiness.
 
-Until then, write `.html` links in the SVG. To update:
-
-    dotnet tool update -g Wikidown.Cli
+Pin the GitHub Action to Wikidown.Cli 0.12.0 or later.
 
 ## Open questions
 
@@ -74,7 +74,7 @@ Until then, write `.html` links in the SVG. To update:
 
 ## Next steps
 
-1. Update Wikidown to 0.12 and rerun the SVG test (links rewritten, `check-links` sees them).
+1. ~~Update Wikidown to 0.12 and rerun the SVG test.~~ Done 2026-10-21; all fixes confirmed.
 2. Settle open questions 1, 2 and 4.
 3. Create the guide folder: Home with the continent map and contents, the full Balic chapter, and teaser pages for the other regions.
 4. Make the phone-sized images.
