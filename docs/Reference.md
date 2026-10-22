@@ -6,6 +6,7 @@ Source materials, published inspiration, and the asset index.
 - [Asset Index](Reference/Asset-Index.md) — what every file in `/assets` is.
 - [Aerun Map Prompts](Reference/Aerun-Map-Prompts.md) — image-generation prompts for the new Aerun map set (continent + regional drill-ins).
 - [Aerun City Map Roster](Reference/Aerun-City-Map-Roster.md) — the seven city-map deliverables, with extracted reference maps for every city.
+- [Aerun Visitor's Guide (plan)](Reference/Aerun-Visitors-Guide.md) — the plan for the in-world visitor's guide website: decisions, open questions, next steps.
 
 ## External
 
