@@ -34,3 +34,20 @@ before doing any work.
   sourcebook links are known; don't run `--fix` without asking.
 - When you ship a feature that changes user-visible behavior, ask whether the
   wiki should be updated, and (if yes) delegate to `wikidown-editor`.
+
+## The Visitor's Guide lives in `/guide` (a second, PUBLIC wiki)
+
+- `/guide` is a separate Wikidown wiki: the in-world *Aerun Visitor's Guide*
+  from "the Aerun Travel Council", published to
+  <https://markdav-is.github.io/dnd-lost-ship/> by
+  `.github/workflows/visitors-guide.yml` (`wikidown export-html`, no Jekyll).
+  Every push to `guide/**` on `main` republishes it.
+- **Players read it.** Write in-world only: no DCs, rolls, classes, "DM" or
+  "player-facing" notes, and nothing from the DM wiki that players haven't
+  earned. Never mention what Tyr's Ziggurat holds.
+- Every wikidown command for it needs `--root guide`.
+- Its theme (`guide/assets/wikidown.css`, `_layouts/`, `index.html`) is
+  customized; never run `wikidown pages --root guide --force`.
+- Chapters unlock as the party travels. The how-to (CSS lock list, map pin
+  links, the signal pill) is on the DM page
+  [Aerun Visitor's Guide (plan)](docs/Reference/Aerun-Visitors-Guide.md).

@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  {% if site.description %}<meta name="description" content="{{ site.description | escape }}">{% endif %}
+  {% if site.favicon %}<link rel="icon" href="{{ site.favicon | relative_url }}">{% endif %}
+  <meta name="theme-color" content="#123a42">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  {% if site.description %}<meta property="og:description" content="{{ site.description | escape }}">{% endif %}
+  {% if site.url %}<meta property="og:url" content="{{ site.url }}{{ page.url | relative_url }}">{% endif %}
+  {% if site.url and site.image %}<meta property="og:image" content="{{ site.url }}{{ site.image | relative_url }}">
+  <meta name="twitter:card" content="summary">{% endif %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;600&family=Alegreya:ital,wght@0,400;0,700;1,400&family=Cinzel:wght@600;700&display=swap">
+  <link rel="stylesheet" href="{{ '/assets/wikidown.css' | relative_url }}">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-row">
+      <button class="nav-toggle" type="button" aria-controls="sidebar" aria-expanded="false" aria-label="Open the chapters">☰</button>
+      <a class="brand" href="{{ '/Home.html' | relative_url }}">
+        <span class="brand-council">Aerun Travel Council</span>
+        <span class="brand-title">Visitor's Guide</span>
+      </a>
+      <!-- The relay the party's phones last heard. Change it when they move. -->
+      <span class="signal" title="Aura network signal">Wavir relay<span class="signal-where"> · Balic</span></span>
+    </div>
+  </header>
+
+  <div class="shell">
+    <aside class="sidebar" id="sidebar">
+      {% if site.data.navigation %}
+        {% include nav-tree.html items=site.data.navigation %}
+      {% else %}
+        {% assign wiki_pages = site.pages | sort: "url" %}
+        <ul class="nav-tree">
+          {% for p in wiki_pages %}{% if p.path contains '.md' %}
+          <li class="nav-item{% if page.url == p.url %} is-active{% endif %}"><a href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a></li>
+          {% endif %}{% endfor %}
+        </ul>
+      {% endif %}
+    </aside>
+
+    <main class="content" id="content">
+      {{ content }}
+    </main>
+  </div>
+
+  <footer>
+    <div class="footer-row">
+      <span>Issued by the Aerun Travel Council over the Aura network. Water is counted, not poured.</span>
+      <span>Built with <a href="https://wikidown.org/" target="_blank" rel="noopener">Wikidown</a></span>
+    </div>
+  </footer>
+
+  <script>
+    (function () {
+      var toggle = document.querySelector('.nav-toggle');
+      var sidebar = document.getElementById('sidebar');
+      toggle.addEventListener('click', function () {
+        var open = sidebar.classList.toggle('is-open');
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+      var first = document.querySelector('#content > p:first-child');
+      if (first && first.innerHTML.indexOf('wikidown:breadcrumb') !== -1) first.classList.add('breadcrumb');
+      var active = document.querySelector('.sidebar .is-active');
+      if (active) active.scrollIntoView({ block: 'center' });
+    })();
+  </script>
+</body>
+</html>

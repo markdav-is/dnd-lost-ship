@@ -1,0 +1,91 @@
+[Home](Home.md) / House Wavir <!-- wikidown:breadcrumb -->
+
+# House Wavir: Balic and the South
+
+*Chapter received from the House Wavir relay, Balic.*
+
+<svg class="map focus-wavir" viewBox="880 860 1296 772" xmlns="http://www.w3.org/2000/svg" aria-label="Map of House Wavir's region">
+<defs><clipPath id="coast-clip"><path clip-rule="evenodd" d="M333,100 L500,75 L667,67 L800,50 L933,42 L1167,67 L1333,83 L1467,67 L1600,100 L1667,200 L1640,330 L1590,400 L1650,467 L1833,483 L1950,567 L2017,700 L2050,867 L2067,1033 L2083,1200 L2067,1333 L2033,1433 L1917,1467 L1750,1450 L1583,1467 L1417,1450 L1300,1467 L1167,1483 L1000,1467 L833,1483 L667,1450 L533,1467 L417,1450 L300,1367 L200,1300 L100,1200 L33,1067 L67,933 L83,767 L117,633 L100,533 L133,417 L183,300 L250,183 Z M717,158 L1450,167 L1433,333 L1383,550 L1450,700 L1500,800 L1467,933 L1317,1067 L1233,1167 L1217,1333 L1167,1333 L1100,1133 L1000,1000 L783,900 L700,783 L660,600 L650,400 L680,200 Z"/></clipPath><pattern id="silt-hatch" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="18" class="hatch"/></pattern></defs>
+<image href=".attachments/aerun-atlas.jpg" width="2176" height="1632"/>
+<a href="The-Sea-of-Silt.md" class="region r-silt"><title>The Sea of Silt: no signal</title><path d="M717,158 L1450,167 L1433,333 L1383,550 L1450,700 L1500,800 L1467,933 L1317,1067 L1233,1167 L1217,1333 L1167,1333 L1100,1133 L1000,1000 L783,900 L700,783 L660,600 L650,400 L680,200 Z"/></a>
+<g clip-path="url(#coast-clip)">
+<a href="House-Vordon.md" class="region r-vordon"><title>House Vordon: Tyr and the Ringing Mountains</title><path d="M0,0 L650,0 L650,190 L720,190 L720,800 L450,800 L300,900 L0,1000 Z"/></a>
+<a href="House-Tsalaxa.md" class="region r-tsalaxa"><title>House Tsalaxa: Draj and the north coast</title><path d="M650,0 L1250,0 L1250,200 L720,190 L650,190 Z"/></a>
+<a href="House-Mke.md" class="region r-mke"><title>House M'ke: Raam and Blackguard</title><path d="M1250,0 L2176,0 L2176,400 L1700,430 L1440,430 L1430,200 L1250,200 Z"/></a>
+<a href="House-Shom.md" class="region r-shom"><title>House Shom: Nibenay and the Badlands</title><path d="M1440,430 L1700,430 L2176,400 L2176,560 L1760,600 L1600,850 L1480,850 L1430,700 Z"/></a>
+<a href="House-Inika.md" class="region r-inika"><title>House Inika: Gulg and the Crescent Forest</title><path d="M1760,600 L2176,560 L2176,1180 L1700,1180 L1550,1000 L1600,850 Z"/></a>
+<a href="House-Wavir.md" class="region r-wavir"><title>House Wavir: Balic and the south</title><path d="M1480,850 L1600,850 L1550,1000 L1700,1180 L2176,1180 L2176,1632 L950,1632 L950,1250 L1150,1100 L1450,950 Z"/></a>
+<a href="House-Stel.md" class="region r-stel"><title>House Stel: Urik and the Black Crown</title><path d="M0,1000 L300,900 L450,800 L720,800 L900,950 L1150,1100 L950,1250 L950,1632 L0,1632 Z"/></a>
+</g>
+<a href="The-Caravan-Guild/The-Ring-Road.md" class="guild"><title>The Ring Road (Caravan Guild)</title><path class="road" d="M930,110 L870,125 L775,100 L660,135 L620,160 L600,200 L590,240 L580,290 L540,330 L505,390 L515,455 L545,500 L545,560 L540,620 L525,690 L500,760 L470,800 L440,817 L480,972 L495,1112 L530,1167 L600,1252 L610,1282 L580,1310 L560,1340 L660,1342 L780,1372 L900,1402 L1000,1412 L1166,1405 L1276,1392 L1406,1382 L1506,1377 L1596,1372 L1686,1357 L1736,1322 L1796,1242 L1846,1132 L1851,1042 L1826,932 L1811,882 L1796,782 L1776,720 L1736,680 L1716,580 L1676,520 L1636,440 L1616,380 L1586,282 L1576,170 L1506,110 L1276,130 L1176,140 L1076,150 Z"/></a>
+<a href="The-Caravan-Guild/The-Long-Reach.md" class="guild"><title>The Long Reach (Caravan Guild)</title><path class="reach" d="M1406,300 L1326,400 L1224,488 L1146,600 L1121,722 L1160,800 L1194,922 L1215,1050 L1220,1200 L1190,1330 L1166,1400"/></a>
+<g class="here" aria-hidden="true"><circle cx="1150" cy="1430" r="24"/><circle class="pulse" cx="1150" cy="1430" r="24"/></g>
+<g class="pins">
+<a href="House-Wavir/Balic.md" class="pin city r-wavir"><title>Balic (you are here)</title><circle cx="1150" cy="1430" r="15"/></a>
+<a href="House-Wavir/Altaruk.md" class="pin shared r-wavir"><title>Altaruk: held jointly, Wavir chief among them</title><circle cx="1420" cy="1370" r="11"/></a>
+<a href="House-Wavir/Amber-Valley.md" class="pin shared r-wavir"><title>Amber Valley: neutral ground</title><circle cx="1705" cy="1395" r="11"/></a>
+<a href="House-Wavir/Salt-View.md" class="pin r-wavir"><title>Salt View</title><circle cx="1640" cy="1260" r="11"/></a>
+<a href="House-Wavir/The-Mekillot-Mountains.md" class="pin r-wavir"><title>The Mekillot Mountains</title><circle cx="1545" cy="1265" r="11"/></a>
+<a href="House-Wavir/The-Balic-Saddle.md" class="pin r-wavir"><title>The Balic Saddle</title><circle cx="1250" cy="1240" r="11"/></a>
+<a href="The-Caravan-Guild/The-Waystations.md" class="pin guildpin"><title>First Mark (Guild waystation)</title><circle cx="1224" cy="488" r="11"/></a>
+<a href="The-Caravan-Guild/The-Waystations.md" class="pin guildpin"><title>Midreach (Guild waystation)</title><circle cx="1121" cy="722" r="11"/></a>
+<a href="The-Caravan-Guild/The-Waystations.md" class="pin guildpin"><title>Saltbone (Guild waystation)</title><circle cx="1194" cy="922" r="11"/></a>
+<a href="House-Stel.md" class="pin city r-stel"><title>Urik</title><circle cx="545" cy="1355" r="15"/></a>
+<a href="House-Vordon.md" class="pin city r-vordon"><title>Tyr</title><circle cx="510" cy="450" r="15"/></a>
+<a href="House-Tsalaxa.md" class="pin city r-tsalaxa"><title>Draj</title><circle cx="930" cy="95" r="15"/></a>
+<a href="House-Mke.md" class="pin city r-mke"><title>Raam</title><circle cx="1586" cy="282" r="15"/></a>
+<a href="House-Shom.md" class="pin city r-shom"><title>Nibenay</title><circle cx="1690" cy="495" r="15"/></a>
+<a href="House-Inika.md" class="pin city r-inika"><title>Gulg</title><circle cx="1776" cy="720" r="15"/></a>
+<a href="House-Inika.md" class="pin r-inika"><title>Ogo</title><circle cx="1898" cy="867" r="11"/></a>
+<a href="House-Inika.md" class="pin r-inika"><title>The Crescent Forest</title><circle cx="1880" cy="690" r="11"/></a>
+<a href="House-Shom.md" class="pin r-shom"><title>The Rust-Red Badlands</title><circle cx="1580" cy="600" r="11"/></a>
+<a href="House-Mke.md" class="pin r-mke"><title>Blackguard</title><circle cx="1510" cy="115" r="11"/></a>
+<a href="House-Vordon.md" class="pin r-vordon"><title>Eldorado</title><circle cx="470" cy="345" r="11"/></a>
+<a href="House-Vordon.md" class="pin r-vordon"><title>Walis</title><circle cx="360" cy="95" r="11"/></a>
+<a href="House-Vordon.md" class="pin shared r-vordon"><title>Osgaker</title><circle cx="175" cy="550" r="11"/></a>
+<a href="House-Vordon.md" class="pin r-vordon"><title>The Ringing Mountains</title><circle cx="340" cy="640" r="11"/></a>
+<a href="House-Vordon.md" class="pin r-vordon"><title>Bitter Well</title><circle cx="258" cy="868" r="11"/></a>
+<a href="House-Stel.md" class="pin shared r-stel"><title>Hollowstorm</title><circle cx="85" cy="1090" r="11"/></a>
+<a href="House-Stel.md" class="pin r-stel"><title>Mountain of the Black Crown</title><circle cx="405" cy="1130" r="11"/></a>
+<a href="House-Stel.md" class="pin r-stel"><title>The Dragon's Bowl</title><circle cx="575" cy="850" r="11"/></a>
+<a href="House-Stel.md" class="pin r-stel"><title>Lake Pit</title><circle cx="578" cy="928" r="11"/></a>
+<a href="House-Stel.md" class="pin r-stel"><title>Yaramuke and the Black Oasis</title><circle cx="705" cy="1125" r="11"/></a>
+</g>
+<g class="labels" aria-hidden="true"><text x="585" y="600">VORDON</text><text x="1000" y="150">TSALAXA</text><text x="1470" y="240">M'KE</text><text x="1455" y="520">SHOM</text><text x="1960" y="1110">INIKA</text><text x="1880" y="1290">WAVIR</text><text x="770" y="1270">STEL</text></g>
+</svg>
+
+<p class="map-caption">House Wavir's country runs along the south coast, from the dam at Balic east past the Mekillot Mountains to Amber Valley. Tap a pin for the place.</p>
+
+**Look for the banner:** a silver jozhal on a field of blue.
+
+House Wavir rules **Balic**, the richest city on Aerun, and rules it in its own peculiar way. Balic **pays wages**. Its porters, its dockhands, and its soldiers are free people on a payroll, which makes Wavir the best-loved family on the continent among the people who do the work, and the most loathed among the other six families. Balic's laws are written by a **Chamber of Patricians**, its **praetors** stand for election every ten years, and its guilds vote. Wavir referees.
+
+Everything the south trades crosses here, because Balic sits in the one gap where the highland comes down low enough to cross. The tolls are the real crop.
+
+## In this chapter
+
+- **[Arriving in Balic](House-Wavir/Arriving-in-Balic.md):** the gate, the scale, your coin, and the rules of the road. Read this first.
+- **[Balic](House-Wavir/Balic.md):** the two-seas city, climbing its own dam.
+- **[The Balic Saddle](House-Wavir/The-Balic-Saddle.md):** the gap in the wall, and why the silt stops where it does.
+- **[Altaruk](House-Wavir/Altaruk.md):** the walled caravan fort, 35 miles east. Five hundred spears and no questions.
+- **[The Mekillot Mountains](House-Wavir/The-Mekillot-Mountains.md):** a small range with a large reputation.
+- **[Salt View](House-Wavir/Salt-View.md):** the ex-slave village with the finest theater on Aerun.
+- **[Amber Valley](House-Wavir/Amber-Valley.md):** the caravanserai town, and the best place in the south to join a caravan.
+
+## Shared ground
+
+Not every place in Wavir's country belongs to Wavir alone, and the locals will correct you if you forget it.
+
+- **Altaruk** is held jointly by three houses, Wavir chief among them, so that no single family can close its gates against the others.
+- **Amber Valley** is neutral ground by long habit. Rival house factors drink in the same room there and behave.
+- **The Ring Road and the Long Reach** belong to the Caravan Guild, here as everywhere. See [The Caravan Guild](The-Caravan-Guild.md).
+
+## Leaving the region
+
+| Going | Road | Miles from Balic |
+| :--- | :--- | :-: |
+| East to Gulg (House Inika) | The Ring Road, by Altaruk and Amber Valley | 140 |
+| West to Urik (House Stel) | The Ring Road, the southern run | 150 |
+| North to Raam (House M'ke) | The Long Reach across the silt, from the quays at the crest | ~350, in five or six days |
+
+Your guide will download each region's chapter from its own relay when you arrive.

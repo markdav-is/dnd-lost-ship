@@ -1,0 +1,60 @@
+# Publishes the in-world Aerun Visitor's Guide (the second Wikidown wiki in
+# /guide) to GitHub Pages, the same way wikidown.org publishes itself:
+# `wikidown export-html`, no Jekyll. The DM wiki in /docs is never published.
+name: visitors-guide
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'guide/**'
+      - '.github/workflows/visitors-guide.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: Install Wikidown
+        run: |
+          dotnet tool install -g Wikidown.Cli --version 0.12.0
+          echo "$HOME/.dotnet/tools" >> "$GITHUB_PATH"
+
+      - name: Check links
+        run: wikidown check-links --root guide
+
+      - name: Render the site
+        run: |
+          wikidown export-html --root guide --output site --base-url /dnd-lost-ship --clean
+          touch site/.nojekyll
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,108 @@
+---
+layout: none
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>{{ site.title }}</title>
+  <meta name="theme-color" content="#0c2328">
+  <link rel="canonical" href="{{ '/Home.html' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;600&family=Alegreya:ital@0;1&family=Cinzel:wght@600;700&display=swap">
+  <style>
+    :root { --ink: #f3e9d6; --muted: #cbbd9f; --gold: #e0b45a; --sea: #0c2328; --go: #6fd08c; }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; height: 100%; }
+    body {
+      min-height: 100%;
+      display: grid;
+      place-items: center;
+      padding: max(1.25rem, env(safe-area-inset-top)) max(1rem, env(safe-area-inset-right)) max(1.25rem, env(safe-area-inset-bottom)) max(1rem, env(safe-area-inset-left));
+      color: var(--ink);
+      background:
+        linear-gradient(180deg, rgba(8, 26, 30, 0.55), rgba(8, 26, 30, 0.92) 70%),
+        url("{{ '/.attachments/aerun-atlas.jpg' | relative_url }}") center / cover no-repeat,
+        var(--sea);
+      font-family: 'Alegreya', Georgia, serif;
+    }
+    .card {
+      width: min(34rem, 100%);
+      text-align: center;
+      padding: 2rem 1.5rem 1.75rem;
+      border: 1px solid rgba(224, 180, 90, 0.45);
+      border-radius: 1rem;
+      background: rgba(10, 30, 34, 0.72);
+      backdrop-filter: blur(4px);
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
+      animation: arrive 0.9s ease-out both;
+    }
+    @keyframes arrive { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    .council {
+      font: 600 0.78rem 'Cinzel', Georgia, serif;
+      letter-spacing: 0.24em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin: 0 0 0.9rem;
+    }
+    h1 {
+      font: 700 clamp(2rem, 8vw, 2.9rem) / 1.1 'Cinzel', Georgia, serif;
+      letter-spacing: 0.04em;
+      margin: 0 0 0.6rem;
+      text-wrap: balance;
+    }
+    .signal {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      font: 600 0.9rem 'Alegreya Sans', 'Segoe UI', sans-serif;
+      border: 1px solid rgba(111, 208, 140, 0.45);
+      border-radius: 999px;
+      padding: 0.3rem 0.85rem;
+      margin: 0.4rem 0 1.2rem;
+    }
+    .signal::before {
+      content: '';
+      width: 0.55rem;
+      height: 0.55rem;
+      border-radius: 50%;
+      background: var(--go);
+      animation: ping 2.4s infinite;
+    }
+    @keyframes ping {
+      0% { box-shadow: 0 0 0 0 rgba(111, 208, 140, 0.6); }
+      70% { box-shadow: 0 0 0 0.5rem rgba(111, 208, 140, 0); }
+      100% { box-shadow: 0 0 0 0 rgba(111, 208, 140, 0); }
+    }
+    p { color: var(--muted); font-size: 1.08rem; line-height: 1.55; margin: 0 auto 1.4rem; max-width: 28rem; }
+    .actions { display: flex; flex-direction: column; gap: 0.6rem; }
+    .actions a {
+      display: block;
+      font: 600 1.05rem 'Alegreya Sans', 'Segoe UI', sans-serif;
+      text-decoration: none;
+      padding: 0.8rem 1rem;
+      border-radius: 0.6rem;
+    }
+    .primary { background: var(--gold); color: #1d1408; }
+    .secondary { border: 1px solid rgba(243, 233, 214, 0.4); color: var(--ink); }
+    .actions a:focus-visible { outline: 3px solid var(--go); outline-offset: 2px; }
+    .proverb { font-style: italic; font-size: 0.95rem; margin: 1.4rem auto 0; color: var(--muted); }
+    @media (prefers-reduced-motion: reduce) { .card, .signal::before { animation: none; } }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <div class="council">Aerun Travel Council</div>
+    <h1>Welcome to Aerun</h1>
+    <div class="signal">Signal received · House Wavir relay · Balic</div>
+    <p>Your Visitor's Guide has downloaded. You are standing in Balic, on the south coast. More chapters will arrive from each region's relay tower as you travel.</p>
+    <div class="actions">
+      <a class="primary" href="{{ '/Home.html' | relative_url }}">Open your guide</a>
+      <a class="secondary" href="{{ '/House-Wavir/Arriving-in-Balic.html' | relative_url }}">Read this before the gate</a>
+    </div>
+    <p class="proverb">Water is counted, not poured.</p>
+  </main>
+</body>
+</html>

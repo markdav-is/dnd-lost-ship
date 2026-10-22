@@ -1,0 +1,369 @@
+/* The Aerun Travel Council — Visitor's Guide theme.
+   Started from the Wikidown starter theme (`wikidown pages`); restyled for
+   the guide. Palette is taken from the atlas: sand, sea, Guild gold. */
+
+:root {
+    --c-bg: #efe5d1;
+    --c-surface: #fbf6ec;
+    --c-ink: #2b2118;
+    --c-muted: #6b5a45;
+    --c-accent: #1d5f6b;
+    --c-accent-ink: #fbf6ec;
+    --c-gold: #c99a3a;
+    --c-border: #dccdb1;
+    --c-bar: #123a42;
+    --c-bar-ink: #f3e9d6;
+    --c-note: #e6d8bc;
+    --shadow: 0 1px 2px rgba(60, 40, 20, 0.06), 0 6px 20px rgba(60, 40, 20, 0.10);
+    --f-display: 'Cinzel', 'Trajan Pro', Georgia, serif;
+    --f-body: 'Alegreya', Georgia, 'Times New Roman', serif;
+    --f-ui: 'Alegreya Sans', 'Segoe UI', Helvetica, Arial, sans-serif;
+    --sidebar-w: 17rem;
+    --topbar-h: 3.6rem;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --c-bg: #151a1b;
+        --c-surface: #1d2425;
+        --c-ink: #ece1cb;
+        --c-muted: #ab9a7e;
+        --c-accent: #7cc0c9;
+        --c-accent-ink: #10181a;
+        --c-gold: #e0b45a;
+        --c-border: #34403f;
+        --c-bar: #0c2328;
+        --c-bar-ink: #f3e9d6;
+        --c-note: #26302f;
+        --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 6px 20px rgba(0, 0, 0, 0.35);
+        color-scheme: dark;
+    }
+}
+
+* { box-sizing: border-box; }
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: var(--f-body);
+    font-size: 1.06rem;
+    color: var(--c-ink);
+    background: var(--c-bg);
+    line-height: 1.6;
+}
+
+a { color: var(--c-accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ── top bar ─────────────────────────────────────────────────────────── */
+.topbar {
+    background: var(--c-bar);
+    color: var(--c-bar-ink);
+    height: var(--topbar-h);
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    box-shadow: var(--shadow);
+    border-bottom: 2px solid var(--c-gold);
+}
+.topbar a { color: var(--c-bar-ink); }
+.topbar-row {
+    height: 100%;
+    padding: 0 max(1rem, env(safe-area-inset-left)) 0 max(1rem, env(safe-area-inset-left));
+    display: flex;
+    align-items: center;
+    gap: 0.9rem;
+}
+.brand { flex: 1; display: flex; flex-direction: column; line-height: 1.1; min-width: 0; }
+.brand:hover { text-decoration: none; }
+.brand-council {
+    font-family: var(--f-display);
+    font-size: 0.72rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    opacity: 0.8;
+}
+.brand-title { font-family: var(--f-display); font-weight: 700; font-size: 1.15rem; letter-spacing: 0.04em; }
+.signal {
+    font-family: var(--f-ui);
+    font-size: 0.8rem;
+    white-space: nowrap;
+    border: 1px solid rgba(243, 233, 214, 0.35);
+    border-radius: 999px;
+    padding: 0.2rem 0.65rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+.signal::before {
+    content: '';
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    background: #6fd08c;
+    box-shadow: 0 0 0 0 rgba(111, 208, 140, 0.6);
+    animation: signal 2.4s infinite;
+}
+@keyframes signal {
+    0% { box-shadow: 0 0 0 0 rgba(111, 208, 140, 0.6); }
+    70% { box-shadow: 0 0 0 0.45rem rgba(111, 208, 140, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(111, 208, 140, 0); }
+}
+.nav-toggle {
+    display: none;
+    background: transparent;
+    border: 1px solid rgba(243, 233, 214, 0.4);
+    color: var(--c-bar-ink);
+    border-radius: 0.4rem;
+    font-size: 1.1rem;
+    line-height: 1;
+    padding: 0.4rem 0.6rem;
+    cursor: pointer;
+}
+
+/* ── shell: sidebar + content ────────────────────────────────────────── */
+.shell {
+    display: grid;
+    grid-template-columns: var(--sidebar-w) minmax(0, 1fr);
+    min-height: calc(100vh - var(--topbar-h));
+}
+.sidebar {
+    background: var(--c-surface);
+    border-right: 1px solid var(--c-border);
+    padding: 1.25rem 0.75rem 2rem;
+    position: sticky;
+    top: var(--topbar-h);
+    height: calc(100vh - var(--topbar-h));
+    overflow-y: auto;
+    font-family: var(--f-ui);
+    font-size: 0.98rem;
+}
+.content {
+    padding: 2rem 3rem 4rem;
+    max-width: 54rem;
+    min-width: 0;
+}
+
+/* ── navigation tree ─────────────────────────────────────────────────── */
+.nav-tree { list-style: none; margin: 0; padding: 0; }
+.nav-tree .nav-tree { padding-left: 0.9rem; border-left: 1px solid var(--c-border); margin-left: 0.55rem; }
+.nav-item { margin: 0.1rem 0; }
+.nav-item > a,
+.nav-item > details > summary,
+.nav-item > .nav-folder {
+    display: block;
+    padding: 0.32rem 0.6rem;
+    border-radius: 0.4rem;
+    color: var(--c-ink);
+}
+.nav-item > a:hover,
+.nav-item > details > summary:hover { background: rgba(29, 95, 107, 0.10); text-decoration: none; }
+.nav-item.is-active > a,
+.nav-item.is-active > details > summary {
+    background: var(--c-accent);
+    color: var(--c-accent-ink);
+    font-weight: 600;
+}
+.nav-item.is-active > details > summary a { color: inherit; }
+.nav-folder { color: var(--c-muted); }
+.nav-item > details > summary { cursor: pointer; list-style: none; position: relative; padding-left: 1.35rem; }
+.nav-item > details > summary::-webkit-details-marker { display: none; }
+.nav-item > details > summary::before {
+    content: '';
+    position: absolute;
+    left: 0.45rem;
+    top: 0.8rem;
+    border: solid currentColor;
+    border-width: 0 1.5px 1.5px 0;
+    width: 0.4rem;
+    height: 0.4rem;
+    transform: rotate(-45deg);
+    opacity: 0.7;
+    transition: transform 0.15s;
+}
+.nav-item > details[open] > summary::before { transform: rotate(45deg); top: 0.67rem; }
+.nav-item > details > summary a { color: inherit; }
+
+/* ── page content ────────────────────────────────────────────────────── */
+.content .breadcrumb {
+    font-family: var(--f-ui);
+    font-size: 0.88rem;
+    color: var(--c-muted);
+    margin: 0 0 1rem;
+}
+.content .breadcrumb a { color: var(--c-muted); }
+.content h1, .content h2, .content h3 { font-family: var(--f-display); text-wrap: balance; scroll-margin-top: calc(var(--topbar-h) + 0.75rem); }
+.content h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 0.75rem; letter-spacing: 0.02em; }
+.content h2 {
+    font-size: 1.3rem;
+    margin: 2.2rem 0 0.75rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid var(--c-border);
+    letter-spacing: 0.03em;
+}
+.content h3 { font-size: 1.08rem; margin: 1.5rem 0 0.5rem; letter-spacing: 0.03em; }
+.content h1 + p > em:only-child { color: var(--c-muted); font-size: 1.1rem; }
+.content img { max-width: 100%; height: auto; border-radius: 0.5rem; box-shadow: var(--shadow); }
+.content p > img:only-child { display: block; margin: 0 auto; max-height: 55vh; width: auto; }
+.content table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-family: var(--f-ui); font-size: 0.97rem; display: block; overflow-x: auto; }
+.content th, .content td { border: 1px solid var(--c-border); padding: 0.45rem 0.65rem; text-align: left; vertical-align: top; }
+.content th { background: var(--c-surface); font-weight: 600; }
+.content td { font-variant-numeric: tabular-nums; }
+.content blockquote {
+    margin: 1.2rem 0;
+    padding: 0.7rem 1rem;
+    border-left: 4px solid var(--c-gold);
+    background: var(--c-note);
+    border-radius: 0 0.5rem 0.5rem 0;
+    color: var(--c-ink);
+    font-family: var(--f-ui);
+}
+.content blockquote p { margin: 0.25rem 0; }
+.content hr { border: 0; border-top: 1px solid var(--c-border); margin: 2rem 0; }
+.content li { margin: 0.25rem 0; }
+.content strong { font-weight: 700; }
+
+/* Download buttons: <a class="download" ...> in page bodies */
+.content a.download {
+    display: inline-block;
+    font-family: var(--f-ui);
+    font-weight: 600;
+    background: var(--c-accent);
+    color: var(--c-accent-ink);
+    padding: 0.45rem 0.9rem;
+    border-radius: 0.45rem;
+    margin: 0.2rem 0;
+}
+.content a.download:hover { text-decoration: none; filter: brightness(1.1); }
+
+/* ── clickable maps (inline SVG in page bodies) ──────────────────────── */
+.content svg.map {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 0.6rem;
+    box-shadow: var(--shadow);
+    background: #24414a;
+    margin: 0.5rem 0 0.4rem;
+}
+.map .region path { fill-opacity: 0.26; stroke: #fff; stroke-opacity: 0.35; stroke-width: 3; transition: fill-opacity 0.15s, opacity 0.15s; }
+.map .region:hover path, .map .region:focus path { fill-opacity: 0.5; stroke-opacity: 0.95; }
+.map .r-wavir path { fill: #2f6db5; }
+.map .r-inika path { fill: #e0b020; }
+.map .r-stel path { fill: #e8e8f0; }
+.map .r-shom path { fill: #b3201f; }
+.map .r-mke path { fill: #c23b6b; }
+.map .r-tsalaxa path { fill: #1d1d1d; fill-opacity: 0.5; }
+.map .r-vordon path { fill: #9b4a22; }
+.map .r-silt path { fill: url(#silt-hatch); fill-opacity: 1; stroke: none; }
+.map .r-silt:hover path { fill: #6d6a63; fill-opacity: 0.18; }
+.map .hatch { stroke: #6d6a63; stroke-width: 2; stroke-opacity: 0.35; }
+.map .road { fill: none; stroke: var(--c-gold); stroke-width: 9; stroke-linejoin: round; stroke-opacity: 0.9; }
+.map .reach { fill: none; stroke: var(--c-gold); stroke-width: 7; stroke-dasharray: 22 14; stroke-opacity: 0.95; }
+.map .guild:hover .road, .map .guild:hover .reach, .map .guild:focus .road, .map .guild:focus .reach { stroke: #fff3c4; }
+.map .pin circle { fill: #fff; stroke: #222; stroke-width: 4; transition: fill 0.15s; }
+.map .pin.city circle { stroke-width: 6; }
+.map .pin.shared circle { fill: #e2dccd; stroke-dasharray: 6 4; }
+.map .pin.guildpin circle { fill: var(--c-gold); }
+.map .pin:hover circle, .map .pin:focus circle { fill: #ffe9a8; }
+.map .labels text {
+    font: 700 38px var(--f-display);
+    letter-spacing: 6px;
+    fill: #fff;
+    fill-opacity: 0.9;
+    stroke: #000;
+    stroke-width: 5;
+    stroke-opacity: 0.55;
+    paint-order: stroke;
+    pointer-events: none;
+}
+.map .here circle { fill: none; stroke: #6fd08c; stroke-width: 6; }
+.map .here .pulse { transform-box: fill-box; transform-origin: center; animation: here 2.4s ease-out infinite; }
+@keyframes here {
+    0% { transform: scale(1); opacity: 0.9; }
+    100% { transform: scale(3.2); opacity: 0; }
+}
+
+/* ── CHAPTER LOCKS ──────────────────────────────────────────────────────
+   Regions whose chapter the party has NOT received yet. They show grey on
+   every map. When the party enters a region, delete it from BOTH lists.  */
+.map :is(.r-inika, .r-stel, .r-shom, .r-mke, .r-tsalaxa, .r-vordon).region path {
+    fill: #3c3c3c;
+    fill-opacity: 0.42;
+}
+.map :is(.r-inika, .r-stel, .r-shom, .r-mke, .r-tsalaxa, .r-vordon).pin circle {
+    fill: #bdb6a6;
+    stroke: #555;
+}
+
+/* Region pages zoom the same map with a viewBox and fade the rest. */
+.map.focus-wavir .region:not(.r-wavir) path,
+.map.focus-inika .region:not(.r-inika) path,
+.map.focus-stel .region:not(.r-stel) path,
+.map.focus-shom .region:not(.r-shom) path,
+.map.focus-mke .region:not(.r-mke) path,
+.map.focus-tsalaxa .region:not(.r-tsalaxa) path,
+.map.focus-vordon .region:not(.r-vordon) path,
+.map.focus-silt .region:not(.r-silt) path,
+.map.focus-guild .region path { opacity: 0.35; }
+.map.focus-wavir .pin:not(.r-wavir):not(.guildpin),
+.map.focus-inika .pin:not(.r-inika),
+.map.focus-stel .pin:not(.r-stel),
+.map.focus-shom .pin:not(.r-shom),
+.map.focus-mke .pin:not(.r-mke),
+.map.focus-tsalaxa .pin:not(.r-tsalaxa),
+.map.focus-vordon .pin:not(.r-vordon) { opacity: 0.55; }
+.map.focus-guild .road, .map.focus-guild .reach { stroke-width: 13; }
+.map.focus-wavir .r-wavir.region path,
+.map.focus-inika .r-inika.region path,
+.map.focus-stel .r-stel.region path,
+.map.focus-shom .r-shom.region path,
+.map.focus-mke .r-mke.region path,
+.map.focus-tsalaxa .r-tsalaxa.region path,
+.map.focus-vordon .r-vordon.region path { stroke-opacity: 0.95; stroke-width: 6; stroke-dasharray: 18 10; }
+
+.map-caption { font-family: var(--f-ui); font-size: 0.92rem; color: var(--c-muted); margin: 0 0 1.2rem; }
+
+/* Print-only copies of a map (markdown image with {.print-only}). */
+.print-only { display: none; }
+@media print {
+    .print-only { display: block; }
+    svg.map, .topbar, .sidebar, footer { display: none; }
+}
+
+/* ── footer ──────────────────────────────────────────────────────────── */
+footer {
+    border-top: 2px solid var(--c-gold);
+    background: var(--c-surface);
+    padding: 1.25rem max(1.25rem, env(safe-area-inset-left));
+    color: var(--c-muted);
+    font-family: var(--f-ui);
+    font-size: 0.9rem;
+}
+.footer-row { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+footer a { color: var(--c-muted); text-decoration: underline; }
+
+/* ── responsive ──────────────────────────────────────────────────────── */
+@media (max-width: 60rem) {
+    .nav-toggle { display: inline-block; }
+    .shell { grid-template-columns: minmax(0, 1fr); }
+    .sidebar {
+        position: fixed;
+        left: 0;
+        width: min(var(--sidebar-w), 85vw);
+        transform: translateX(-100%);
+        transition: transform 0.2s;
+        z-index: 15;
+        box-shadow: var(--shadow);
+    }
+    .sidebar.is-open { transform: none; }
+    .content { padding: 1.25rem max(1rem, env(safe-area-inset-left)) 3rem; }
+    .content h1 { font-size: 1.6rem; }
+}
+@media (max-width: 30rem) {
+    .signal-where, .brand-council { display: none; }
+    .brand-title { font-size: 1.02rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+    .signal::before, .map .here .pulse { animation: none; }
+    .sidebar { transition: none; }
+}
